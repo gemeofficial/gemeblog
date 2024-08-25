@@ -82,15 +82,18 @@ const config = {
             items: [
               {
                 label: 'GEME Home Composter',
-                href: 'https://www.geme.bio/product/geme',
+                to: 'https://www.geme.bio/product/geme',
+                target: '_self',
               },
               {
                 label: 'GEME Kobold',
-                href: 'https://www.geme.bio/geme-kobold',
+                to: 'https://www.geme.bio/geme-kobold',
+                target: '_self',
               },
               {
-                label: 'GEME Industrial Composters',
-                href: 'https://www.geme.bio/industrial-equipments',
+                label: 'GEME Commercial Composters',
+                to: 'https://www.geme.bio/industrial-equipments',
+                target: '_self',
               },
             ],
           },
@@ -100,11 +103,13 @@ const config = {
             items: [
               {
                 label: 'GK Resource Recycling',
-                href: 'https://www.geme.bio/gk',
+                to: 'https://www.geme.bio/gk',
+                target: '_self',
               },
               {
                 label: 'Green City Network',
-                href: 'https://www.geme.bio/green-city-networks',
+                to: 'https://www.geme.bio/green-city-networks',
+                target: '_self',
               },
             ],
           },
@@ -117,26 +122,32 @@ const config = {
               {
                 label: 'Tutorial',
                 to: 'https://www.geme.bio/help-center/docs/get-started',
+                target: '_self',
               },
               {
                 label: 'FAQ',
                 to: 'https://www.geme.bio/help-center/docs/category/faq',
+                target: '_self',
               },
               {
                 label: 'Shipping & Order',
                 to: 'https://www.geme.bio/help-center/docs/orders-and-shipping',
+                target: '_self',
               },
               {
                 label: 'Warranty & Return',
                 to: 'https://www.geme.bio/help-center/docs/warranty-and-return',
+                target: '_self',
               },
               {
                 label: 'Repair & Replace',
                 to: 'https://www.geme.bio/help-center/docs/category/repair--replace',
+                target: '_self',
               },
               {
                 label: 'Customer Support',
                 to: 'https://www.geme.bio/help-center/docs/customer-support',
+                target: '_self',
               },
 
             ],
@@ -150,10 +161,12 @@ const config = {
               {
                 label: 'Contact',
                 to: 'https://www.geme.bio/contact',
+                target: '_self',
               },
               {
                 label: 'About',
                 to: 'https://www.geme.bio/about',
+                target: '_self',
               },
               {
                 label: 'Blog',
@@ -162,10 +175,12 @@ const config = {
               {
                 label: 'Community',
                 to: 'https://www.geme.bio/community',
+                target: '_self',
               },
               {
                 label: 'Feedback',
                 to: 'https://www.geme.bio/feedback',
+                target: '_self',
               },
             ],
           },
@@ -180,9 +195,10 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://www.geme.bio/signup',
+            to: 'https://www.geme.bio/signup',
             label: 'Signup',
             position: 'right',
+            target: '_self',
           },
         ],
       },
