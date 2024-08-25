@@ -8,6 +8,8 @@ build
 .docusaurus
 .cache-loader
 
+docusaurus.config.mjs
+
 # Misc
 .DS_Store
 .env.local

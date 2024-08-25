@@ -141,27 +141,7 @@ const config = {
 
             ],
           },
-          // {
-          //   type: 'docSidebar',
-          //   sidebarId: 'tutorialSidebar',
-          //   position: 'left',
-          //   label: 'Help Center',
-          // },
-          // {
-          //   type: 'localeDropdown',
-          //   position: 'right',
-          //   dropdownItemsAfter: [
-          //     {
-          //       to: 'https://github.com/gemeofficial/geme-build-public',
-          //       label: 'Help us translate',
-          //     },
-          //   ],
-          // },
-          // {
-          //   to: '/blog',
-          //   label: 'Blog',
-          //   position: 'left',
-          // },
+
 
           {
             position: 'left',
