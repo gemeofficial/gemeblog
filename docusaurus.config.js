@@ -10,8 +10,8 @@ import tailwindPlugin from "./plugins/tailwind-config.cjs"; // add this
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "GEME Composter - Help Center & Knowledge Base",
-  tagline: 'Get Started Tutorial, Manual, FAQ, Troubleshooting and Customer Support',
+  title: "GEME Blog - News & Stories",
+  tagline: 'Introducing latest news in GEME, including products updates, industrial news, progress on microbiology technology. Newsletter for users and discount info for customers',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
