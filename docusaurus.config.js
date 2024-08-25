@@ -190,8 +190,14 @@ const config = {
             position: 'right',
           },
           {
-            href: '#',
-            label: 'Discord Community',
+            to: 'https://www.geme.bio/how-it-works',
+            label: 'How it works',
+            position: 'right',
+            target: '_self',
+          },
+          {
+            to: 'https://www.facebook.com/groups/505437601497667',
+            label: 'User Group',
             position: 'right',
           },
           {
