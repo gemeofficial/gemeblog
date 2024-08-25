@@ -190,6 +190,12 @@ const config = {
             position: 'right',
           },
           {
+            to: 'https://www.geme.bio/product/geme',
+            label: 'Buy GEME',
+            position: 'right',
+            target: '_self',
+          },
+          {
             to: 'https://www.geme.bio/how-it-works',
             label: 'How it works',
             position: 'right',
