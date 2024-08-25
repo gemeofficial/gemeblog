@@ -23,7 +23,7 @@ People are seeking ticks to grow plants easily and spend less cost in fertilizer
 Soil is the basis for the growth of flowers and trees, which is not only a support for the growth and development of fixed plant roots, 
 but also provides the necessary nutrients, water, and air for plant growth.
 
-![How to make good compost soil](./images/img.png)
+![How to make good compost soil](img/img.png)
 
 
 Whether you are planting in the garden or in pots, you will need to improve the soil before planting.
@@ -49,7 +49,7 @@ It is worth noting that scorched garbage produced by high temperature and grindi
 which will not allow your seeds to germinate and temperatures toxins that will make your soil toxic.
 （The dangers of scorched garbage. plus links）
 
-![Compost with seeds](./images/img_2.png)
+![Compost with seeds](img/img_2.png)
 
 ## Tip3: Protect from heat and cold
 Look around your house, there must be something available. With discovery and eyes, 
@@ -57,11 +57,11 @@ you will find something that can shield your lovely plants.
 
 For example:
 
-![Compost heat](./images/img_3.png)
+![Compost heat](img/img_3.png)
 
 Use the big-size water container to cover your little plant.
 
-![Water your plant](./images/img_4.png)
+![Water your plant](img/img_4.png)
 
 
 ## Tip4: Fertilization
@@ -74,11 +74,11 @@ How to make home-made organic fertilizer?（plus links）
 1. Composting of yard waste by using the shaded corners of the yard.（plus links）
 2. Fast composting of food waste with GEME（plus links）
 
-![GEME Composter](./images/img_6.png)
+![GEME Composter](img/img_6.png)
 
 ## Tip5: Save your fall leaves in the garden
 Putting fall leaves on your growing plant can help to warm up during the winter.
-![Save leaves](./images/img_5.png)
+![Save leaves](img/img_5.png)
 
 ## Tip6: Turn your food waste into fertilizer
 
@@ -87,7 +87,7 @@ But...Every human eats, and food waste is the common garbage in almost every fam
 Stop buying expensive dirt and soil, use the GEME composter to free your time and kitchen space.
 Food waste in, fertilizer out.
 
-![use GEME Composter to turn food waste into organic compost](./images/img_1.png)
+![use GEME Composter to turn food waste into organic compost](img/img_1.png)
 
 Try it out
 https://www.geme.bio/product/geme

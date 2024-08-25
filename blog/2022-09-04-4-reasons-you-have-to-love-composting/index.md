@@ -110,4 +110,4 @@ With GEME, you can easily harvest organic compost within 6-8Hr, no need to turn 
 
 Come on, start composting!
 
-![GEME home composting](./images/img.png)
+![GEME home composting](img/img.png)
