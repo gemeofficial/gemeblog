@@ -18,7 +18,8 @@ const config = {
   url: 'https://www.geme.bio',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/help-center',
+  baseUrl: '/',
+  staticDirectories: ['public', 'static'],
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -53,20 +54,20 @@ const config = {
           trackingID: 'G-0SPG79H0VL',
           anonymizeIP: true,
         },
-        docs: {
-          sidebarPath: './sidebars.js',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/gemeofficial/gemedocs/tree/main/docs',
-        },
-        // blog: {
-        //   showReadingTime: true,
+        // docs: {
+        //   sidebarPath: './sidebars.js',
         //   // Please change this to your repo.
         //   // Remove this to remove the "edit this page" links.
         //   editUrl:
-        //     'https://github.com/gemeofficial/gemedocs/tree/main/blog',
+        //     'https://github.com/gemeofficial/gemedocs/tree/main/docs',
         // },
+        blog: {
+          showReadingTime: true,
+          // Please change this to your repo.
+          // Remove this to remove the "edit this page" links.
+          editUrl:
+            'https://github.com/gemeofficial/gemedocs/tree/main/blog',
+        },
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -83,7 +84,7 @@ const config = {
         // title: 'GEME',
         logo: {
           alt: 'GEME Logo',
-          src: 'img/logo-text.png',
+          src: '/img/logo-text.png',
           href: 'https://www.geme.bio',
           target: '_self',
         },
@@ -128,27 +129,27 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: 'docs/get-started',
+                to: 'https://www.geme.bio/help-center/docs/get-started',
               },
               {
                 label: 'FAQ',
-                to: 'docs/category/faq',
+                to: 'https://www.geme.bio/help-center/docs/category/faq',
               },
               {
                 label: 'Shipping & Order',
-                to: 'docs/orders-and-shipping',
+                to: 'https://www.geme.bio/help-center/docs/orders-and-shipping',
               },
               {
                 label: 'Warranty & Return',
-                to: 'docs/warranty-and-return',
+                to: 'https://www.geme.bio/help-center/docs/warranty-and-return',
               },
               {
                 label: 'Repair & Replace',
-                to: 'docs/category/repair--replace',
+                to: 'https://www.geme.bio/help-center/docs/category/repair--replace',
               },
               {
                 label: 'Customer Support',
-                to: 'docs/customer-support',
+                to: 'https://www.geme.bio/help-center/docs/customer-support',
               },
 
             ],
@@ -181,15 +182,23 @@ const config = {
             items: [
               {
                 label: 'Contact',
-                href: 'https://www.geme.bio/contact',
+                to: 'https://www.geme.bio/contact',
               },
               {
                 label: 'About',
-                href: 'https://www.geme.bio/about',
+                to: 'https://www.geme.bio/about',
+              },
+              {
+                label: 'Blog',
+                to: '/blog',
               },
               {
                 label: 'Community',
-                href: 'https://www.geme.bio/community',
+                to: 'https://www.geme.bio/community',
+              },
+              {
+                label: 'Feedback',
+                to: 'https://www.geme.bio/feedback',
               },
             ],
           },
@@ -244,11 +253,11 @@ const config = {
             items: [
               {
                 label: 'Get Started',
-                to: '/help-center/docs/get-started',
+                to: 'https://www.geme.bio/help-center/docs/get-started',
               },
               {
                 label: 'FAQ',
-                to: '/help-center/docs/category/faq',
+                to: 'https://www.geme.bio/help-center/docs/category/faq',
               },
               {
                 label: 'Manual',
@@ -256,7 +265,7 @@ const config = {
               },
               {
                 label: 'Customer Support',
-                to: '/help-center/docs/customer-support',
+                to: 'https://www.geme.bio/help-center/docs/customer-support',
               },
             ],
           },
