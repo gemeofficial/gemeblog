@@ -1,0 +1,9 @@
+gardening:
+  label: 'Gardening'
+  description: 'How to gardening smartly'
+  permalink: /gardening
+
+composting:
+  label: 'Composting'
+  description: 'Composting life style'
+  permalink: /composting

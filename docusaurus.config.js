@@ -327,9 +327,35 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
+      tableOfContents: {
+        minHeadingLevel: 2,
+        maxHeadingLevel: 5,
+      },
     }),
 
   plugins: [
+    // [
+    //   '@docusaurus/plugin-content-blog',
+    //   {
+    //     id: 'blog',
+    //     routeBasePath: 'blog',
+    //     path: './blog',
+    //     // Add or modify the following TOC settings
+    //     blogSidebarCount: 'ALL',
+    //     blogSidebarTitle: 'All posts',
+    //     // postsPerPage: 10,
+    //     showReadingTime: true,
+    //     tableOfContents: {
+    //       minHeadingLevel: 2,
+    //       maxHeadingLevel: 5,
+    //     },
+    //     // // TOC settings
+    //     // toc: {
+    //     //   minHeadingLevel: 2,
+    //     //   maxHeadingLevel: 5,
+    //     // },
+    //   },
+    // ],
     async function myPlugin(context, options) {
       return {
         name: "docusaurus-tailwindcss",

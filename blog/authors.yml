@@ -14,4 +14,25 @@ slorber:
   name: Sébastien Lorber
   title: Docusaurus maintainer
   url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+  image_url: https://github.com/yangshun.png
+
+lukas:
+  name: Lukas
+  title: Editor
+
+matthias:
+  name: Matthias
+  title: Creator
+
+jules:
+  name: Jules
+  title: Tech Writer
+
+emma:
+  name: Emma
+  title: Writer, Plant Lover, 3 kids Mother
+  image_url: /img/authors/emma.png
+
+marie:
+  name: Marie
+  title: Tech Writer
