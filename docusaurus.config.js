@@ -49,6 +49,8 @@ const config = {
         //     'https://github.com/gemeofficial/gemedocs/tree/main/docs',
         // },
         blog: {
+          blogSidebarTitle: 'All posts',
+          blogSidebarCount: 'ALL',
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.

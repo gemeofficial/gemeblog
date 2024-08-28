@@ -7,3 +7,23 @@ composting:
   label: 'Composting'
   description: 'Composting life style'
   permalink: /composting
+
+compost:
+  label: 'Compost'
+  description: 'Compost and how to make it and use it'
+  permalink: /compost
+
+composter:
+  label: 'Composter'
+  description: 'Compost bin or compost machine convert waste into organic compost'
+  permalink: /composter
+
+plant:
+  label: 'Plant Growth'
+  description: 'Discover the fun and secret to grow plant'
+  permalink: /plants
+
+fertilizer:
+  label: 'Fertilizer'
+  description: 'Discover the secret of fertilizer'
+  permalink: /fertilizer
