@@ -18,6 +18,11 @@ composter:
   description: 'Compost bin or compost machine convert waste into organic compost'
   permalink: /composter
 
+foodwaste:
+  label: 'Food Waste'
+  description: 'Food waste management'
+  permalink: /foodwaste
+
 plant:
   label: 'Plant Growth'
   description: 'Discover the fun and secret to grow plant'
