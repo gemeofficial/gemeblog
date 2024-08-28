@@ -16,7 +16,7 @@ tags: [composting]
 
 n 2020, only the EU produced a total of 225.7 million tons of municipal waste, of which up to 50% of municipal solid
 waste is biological waste.
-
+<!-- truncate -->
 In the European Union as a whole, about 118 to 138 million tons of biological waste are produced each year (2020). 
 Therefore, biological waste plays an important role in recycling and a new circular economy.
 

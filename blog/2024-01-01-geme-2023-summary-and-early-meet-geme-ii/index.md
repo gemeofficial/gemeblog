@@ -19,11 +19,14 @@ import ReactPlayer from 'react-player'
 
 ## Previously On GEME
 
-In July 2022, We launched the first generation of GEME on kickstarter. It is the first time we did the kickstarter project.
+In July 2022, We launched the first generation of GEME on kickstarter. It is the first time we did the 
+[kickstarter](https://www.kickstarter.com/projects/geme/geme-harvest-ready-to-use-organic-compost-easily) project.
 We funded €30k+ in the 28 days, from 80+ backers' kindly support all over the world.
 
 It's much lower than we expect, because the concept of turn food waste into compost, is not really new at that time.
 There are some other brands that already use it, but bring products that not really did the job well.
+
+<!-- truncate -->
 
 Even though we are the first one really did it. There are several teams making dehydrate based "composter" and launched
 multiple times on kickstarter and indiegogo, making people feeling tire of the concept. When we launch on it,

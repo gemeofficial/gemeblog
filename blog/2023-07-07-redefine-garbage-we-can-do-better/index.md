@@ -21,6 +21,8 @@ and landfill them. Inspired by modern software architecture called distributed s
 in the distributed system design thinking model? Eliminate them in place! When more and more people join the movement, 
 it can significantly reduce the carbon footprint in the earth.
 
+<!-- truncate -->
+
 Recycle them in the place it is generated. One of the ways is composting! Some people practice this by composting in their yard. 
 However, not everyone is a composting guru, not everyone gets patient to wait such a long time, 
 not everyone bear the smelly from the composting pile.

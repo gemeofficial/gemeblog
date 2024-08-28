@@ -18,6 +18,7 @@ but they are also perishable, easy to produce, and mix a lot of pathogenic bacte
 and other harmful substances. This leads to the negative consequences that most of the biological waste you see will be 
 foul smell and sewage flow.
 
+<!-- truncate -->
 ![Composter](./img/img.png)
 
 GEME provides the right temperature, humidity, and plenty of air for the change, GEME-Kobold multiplies and decompose, 

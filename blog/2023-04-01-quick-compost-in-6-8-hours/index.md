@@ -14,14 +14,14 @@ import ReactPlayer from 'react-player'
 # Quick Compost in 6-8 hours?
 
 
-
-
 It's not magic, it's science.
 
 The essence of composting is a dynamic process achieved by the interaction of multiple microbial communities with very 
 rapid community structure succession.
 
 ![Food waste compost pile](./img/img.png)
+
+<!-- truncate -->
 
 The initial heating and high-temperature stage can play a role in killing harmful substances such as pathogenic pathogens, 
 insect eggs, weed seeds, etc., but the main role of microorganisms in this process also includes metabolism and reproduction, 

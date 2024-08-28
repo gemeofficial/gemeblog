@@ -15,7 +15,7 @@ tags: [composting]
 
 Green broad bean pods are rich in nitrogen, phosphorus, and potassium nutrients, easy to collect in the city, clean, 
 and sanitary.
-
+<!-- truncate -->
 When preparing, the pods can be dried, grinded and stored in reserve, in the production of potting soil, can be mixed 
 into use, but also in the potted flower potting, planting as a base fertilizer application.
 

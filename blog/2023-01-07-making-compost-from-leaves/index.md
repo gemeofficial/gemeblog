@@ -17,6 +17,8 @@ tags: [composting]
 
 If you have broad-leaved trees in your garden and have enough space, you should make compost from leaves in autumn.
 
+<!-- truncate -->
+
 Lay out a leaf pile of about 6 cubic meters in the style of a triangular pile, 4-5 meters long at the bottom and 2 meters
 wide. Lay it in layers, each layer 20 cm high, with the highest point in the middle at a height of 1.5 m.
 

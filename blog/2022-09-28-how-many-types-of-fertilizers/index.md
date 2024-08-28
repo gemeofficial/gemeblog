@@ -18,7 +18,7 @@ tags: [gardening, fertilizer]
 
 In today's world where everyone is a gourmet, people are constantly researching new cooking rules and new gourmets, 
 while focusing more on the safety of the ingredients themselves.
-
+<!-- truncate -->
 However, modern agriculture with chemical fertilizers and pesticides has not only lowered the safety factor of 
 agricultural products, but also reduced the taste of ingredients: the leaves are less full of freshness, melons and 
 fruits have lost a touch of natural sweetness, and even tomatoes do not have the original taste.

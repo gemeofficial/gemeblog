@@ -20,7 +20,7 @@ First, mix approximately the same weight of green garden waste (i.e., cut grass)
 Once the material is well mixed, chop it up as much as possible to speed up the composting process. You can use a 
 machete or sharp shovel, or a lawn mower to press over the mixture. Or you can put the mixture in a metal bin and chop 
 it up with a weed whacker. The smaller the material, the faster it will break down.
-
+<!-- truncate -->
 Then, add some water to the mixture. At this point, squeezing the mixture should feel like squeezing a sponge. You can 
 grab a handful and try it out.
 

@@ -17,7 +17,7 @@ tags: [composting]
 Composting is a biological process. In order to initiate and accelerate the process of composting, it is necessary to 
 improve the living environment of the microorganisms involved in the process of composting, and therefore it is necessary 
 to take into account the specific needs of these microorganisms. The following factors are particularly important.
-
+<!-- truncate -->
 ## Water 
 
 All microbial activity requires water. When water is lacking, many microorganisms go dormant, which slows down the 
@@ -68,7 +68,7 @@ It is the basis for ensuring the final nutrient content of the compost.
 
 ## Misc 
 
-The easiest and most efficient way to compost - the [GEME home composter](/product/geme)
+The easiest and most efficient way to compost - the [GEME home composter](https://www.geme.bio/product/geme)
 
 
 

@@ -25,7 +25,7 @@ out of direct sunlight to allow the seeds to germinate.
 
 - If the seeds germinate after about a week and the seedlings grow rapidly without brown or yellow discoloration, 
 the compost is mature and compatible with the plants.
-
+<!-- truncate -->
 - If seedling growth is sluggish or the leaflets are discolored, the compost is still not mature enough and should not be
 used as potting soil, but only as a soil cover or for soil amendment.
 

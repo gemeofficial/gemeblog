@@ -16,7 +16,7 @@ tags: [composting]
 1. Place the compost pile on bare ground in a location that is shady and protected from the wind. Do not place the 
 compost pile on rocks, concrete or asphalt, or in a pit. The compost pile needs to be based on soil that is accessible 
 to worms and other microorganisms.
-
+<!-- truncate -->
 2. Loosen the soil for the chosen area and spread a layer of coarse-grained material about 10-20 cm thick, followed by 
 a layer of well-mixed small granular material such as leaves, food waste, etc. Only a thin layer of grass clippings 
 or a mixture of grass clippings and other materials should be spread; in addition, dry or wilted grass clippings 

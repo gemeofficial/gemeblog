@@ -20,7 +20,7 @@ You can use cola bottles, oil blending bottles, and other small-mouth waste plas
 injecting fish scales, fish guts, eels, shrimp shells, and other animal offal, fermentation, maturation made of 
 high-quality liquid quick-acting fertilizer. You can also use bad soybean-soaking compost. Bottle system organic 
 fertilizer in the preparation should pay attention to.
-
+<!-- truncate -->
 ① fish feet injection amount for the bottle capacity of about 1/2 a 2 / 3. And add water close to the mouth of the 
 bottle (need to leave a certain gap).
 

@@ -20,6 +20,8 @@ areas of land are involved, as there is no need to reuse the finished compost. T
 is tilled beneath the soil, while the material used for mulching remains on the soil surface. For densely cultivated gardens,
 mulching with organic material is easier than with surface composting, which is recommended prior to the placement of a new garden.
 
+<!-- truncate -->
+
 Many organic wastes can be used for surface composting, such as leaves, pruning debris from perennials, grass clippings,
 vegetable residues, wild herbs without seeds, and straw. The greater the variety of materials, the more nutrient-rich
 the compost layer will be.

@@ -18,6 +18,8 @@ people with mold allergies and those with weakened immune systems should be care
 This means that such people should promptly throw organic waste from the kitchen into the organic waste bin and should 
 not make their own compost at home. For healthy people, it is safe to make compost in their own gardens.
 
+<!-- truncate -->
+
 Scientific studies have shown that the use of compost can suppress soil-borne plant diseases (phytosanitary effects), 
 but conversely, human and plant pathogens and weed seeds can be introduced into the soil by compost. 
 Therefore, ensuring that pathogens as well as weed seeds are eliminated during the composting process is critical to human 
@@ -41,7 +43,7 @@ but they are also perishable, easy to produce, and mix a lot of pathogenic bacte
 and other harmful substances, so most of the biological waste you see will be foul smell and sewage flow.
 
 In the circulation system under the operating condition of GEME, bio-waste is fermented and dried under the action of 
-[GEME-Kobold](/geme-kobold) under the condition of rapid heating to 75 ℃. As bio-waste is exposed to aerobic high temperatures, 
+[GEME-Kobold](https://www.geme.bio/geme-kobold) under the condition of rapid heating to 75 ℃. As bio-waste is exposed to aerobic high temperatures, 
 various pathogens that may exist in this environment are killed, and the harmfulness of its fermentation products has been removed.
 
 However, under high temperatures, most microorganisms are killed like any other bacteria.

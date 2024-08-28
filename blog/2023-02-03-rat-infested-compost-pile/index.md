@@ -17,10 +17,11 @@ tags: [composting]
 Non-vegetable food waste (meat, sausages, fish scraps, bones) is not suitable for homemade composting in the yard, 
 because the homemade composting process usually does not guarantee the required temperature for a certain period of time 
 to ensure good composting hygiene (sanitary control of epidemics). 
+<!-- truncate -->
 
 Besides, for hygienic reasons, all cooked food waste should be discarded (in food waste bins) to avoid attracting rodents and vermin.
 
-[GEME](/product/geme) can solve your above problems.
+[GEME](https://www.geme.bio/product/geme) can solve your above problems.
 
 GEME is made for food waste, the intelligent control system creates the best composting conditions, 
 GEME Kobold is able to break down most of the biological waste, so you don't have to worry about your food waste becoming 

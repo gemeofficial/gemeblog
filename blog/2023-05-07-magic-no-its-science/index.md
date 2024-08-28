@@ -20,6 +20,7 @@ GEME and GEME-Kobold are a combination of AI devices and natural microflora, a c
 
 There is no other home fast composting device on the market that is smarter than GEME.
 
+<!-- truncate -->
 Add garbage at any time;
 Dispose of it at any time;
 No waiting for the garbage to put stink and then dispose of it at once;

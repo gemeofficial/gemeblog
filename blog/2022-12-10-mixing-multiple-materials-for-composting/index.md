@@ -18,7 +18,7 @@ The more diverse the mixture of organic waste, the better the decomposition proc
 final compost pile. It is possible to either build up the compost pile layer by layer or gradually mix together the 
 available materials on hand. The only important thing is to avoid adding large amounts of the same material to the 
 compost pile at once, for example, adding only leaves or grass clippings.
-
+<!-- truncate -->
 The structure of the compost pile is determined by the amount of waste that is generated more or less continuously 
 throughout the year. Almost everything biodegradable produced in the garden and indoors can be used to make compost, 
 and in the case of insufficient quantities of different types of waste, the structure of the compost pile can be improved 

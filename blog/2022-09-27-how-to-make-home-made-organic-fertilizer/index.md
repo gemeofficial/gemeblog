@@ -19,7 +19,7 @@ tags: [gardening, fertilizer]
 Fertilizer is the source of nutrients needed for plant growth and directly affects the growth and development of plants. 
 For different plants, the required nutrients should be applied at the right time and in the right amount at different 
 growth stages in order to make the plants grow with lush leaves and flowers.
-
+<!-- truncate -->
 ![home fertilizer](./img/img_1.png)
 
 The 16 nutrients needed for plant growth

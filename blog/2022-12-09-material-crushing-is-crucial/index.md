@@ -15,7 +15,7 @@ tags: [composting]
 
 
 In order to accelerate the decomposition of the starting material, we have to shred particularly hard and bulky organic waste.
-
+<!-- truncate -->
 The shredded woody material can be used as structural material to improve the permeability of the compost pile.
 
 Shredded woody material combined with soft plant material can make the compost pile loose and airy.

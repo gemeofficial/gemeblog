@@ -18,7 +18,7 @@ Whether in the garden or indoors, plants should not be used for composting in yo
 a disease or suffered an insect infestation.
 
 Pests such as lice, thrips, European red mites or maggots will only die when the compost reaches very high temperatures.
-
+<!-- truncate -->
 Likewise, diseases like powdery mildew on cucumbers and squash, downy mildew on lettuce or spinach, rust on geraniums, 
 or black spot on roses, and their spores will not be sufficiently inactivated during the homemade composting process.
 
@@ -49,7 +49,7 @@ soil become better, which promotes the growth of crops.
 In addition, while absorbing nutrients, the root hairs will excrete root acid. Because root acid is eaten by GEME-Kobold, 
 it prevents root rot and crop aging.
 
-And then, [GEME Kobold](/geme-kobold) uses the carbon dioxide and organic acids produced by fermentation to dissolve the mineral components 
+And then, [GEME Kobold](https://www.geme.bio/geme-kobold) uses the carbon dioxide and organic acids produced by fermentation to dissolve the mineral components 
 in the soil, which plays a role in conferring mineral components on crops. Crops grown in such a soil environment, 
 in order to restore their original functions, kill diseases and pests in order to protect themselves, emit aromatic substances 
 that cannot be approached, and realize production that does not rely on pesticides. So you no longer need to use herbicides 

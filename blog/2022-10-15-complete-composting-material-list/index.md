@@ -17,7 +17,7 @@ Any substance that contains biodegradable carbon can be used to make compost. Ho
 for making your own compost in your home garden. The following is a list of materials that are suitable as well as 
 unsuitable for home composting.
 
-
+<!-- truncate -->
 ## Suitable materials
 
 ### Grass clippings

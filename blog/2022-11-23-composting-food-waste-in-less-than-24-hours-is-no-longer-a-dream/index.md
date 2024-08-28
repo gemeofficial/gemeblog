@@ -18,7 +18,7 @@ We all know that when making compost, kitchen waste should be separated from gar
 waste can attract rats and other city pests! Therefore, we need to use a safer or "protected" system for this type of 
 composting.
 
-
+<!-- truncate -->
 
 ## Burial composting method
 
@@ -56,4 +56,4 @@ decomposing food waste into 5% highly active organic compost and 95% clean air i
 
 Unlike other equipment in the market, it does not turn the bio-waste into dehydrated scorched waste by grinding and high temperature, but claims to be an organic composter; it is a bio-waste composter that really adopts bio-composting technology and decomposes the bio-waste into organic fertilizer by microbial decomposition. Its whole technical process and microbial strains have been proven for many years, and it is a reliable and effective biological fast composting technology.
 
-So with [GEME](/product/geme), making food waste into compost within 24 hours is no longer a dream, but a reality.
+So with [GEME](https://www.geme.bio/product/geme), making food waste into compost within 24 hours is no longer a dream, but a reality.

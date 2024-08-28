@@ -16,7 +16,7 @@ tags: [composting, compost]
 So, your plant paradise gets a dose of GEME magic, and voila – white mold makes an entrance! 
 Is it the plant party we've all been waiting for, or should we sound the alarm? Let's dive into the mystery.
 
-
+<!-- truncate -->
 
 ## 🌱 Detective Scene: The Moldy Pot Saga
 

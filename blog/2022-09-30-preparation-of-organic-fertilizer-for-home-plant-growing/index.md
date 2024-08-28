@@ -20,7 +20,7 @@ tags: [gardening, fertilizer]
 When you think of making organic fertilizer at home, you must think of composting.
 
 Yes, compost is the most commonly used way of making organic fertilizer at home.
-
+<!-- truncate -->
 Besides, we will introduce you to two other easy-to-use ways to make organic fertilizer at home.
 
 - [Compost: Complete Composting Guide](/blog/organic-compost-the-complete-composting-guide)

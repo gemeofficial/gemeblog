@@ -17,6 +17,8 @@ If the composting material is a mixture of food waste and garden waste, there is
 The success of composting depends on the richness and diversity of the materials used, i.e., the materials should be 
 coarse and fine, soft and hard.
 
+<!-- truncate -->
+
 To allow optimal decomposition to begin within a few days and to maintain it until the compost is mature, add a few 
 shovels of finished compost, sieved material or garden soil to the compost material. The small organisms and microorganisms 
 contained in the finished compost or garden soil can be used as an "inoculant" for the new compost so that we do not need

@@ -22,6 +22,8 @@ The dripping sewage, the disgusting stench, the pouncing fruit flies, the wriggl
 
 You need GEME!
 
+<!-- truncate -->
+
 GEME will quickly reduce your garbage by 95%. The 5% left over is the best ready-to-use organic fertilizer. You may only need to remove the organic fertilizer once every six months, or even once a year.
 
 Now, simply enjoy your life!

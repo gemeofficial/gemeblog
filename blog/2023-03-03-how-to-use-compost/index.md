@@ -21,6 +21,8 @@ I'm sure at this point you are full of joy getting this amazing dark brown dirt 
 So, do you know how to use compost?
 Do you have any of the following questions about how to use compost?
 
+<!-- truncate -->
+
 ## Where can compost be used?
 
 Compost can be used in almost all plant beds and green spaces in the garden. Because of its lime content,

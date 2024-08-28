@@ -19,7 +19,7 @@ tags: [composting]
 Fresh compost (= immature compost) can be made in about 3-4 months. The finished product can be used as a soil cover to 
 improve the soil. It contains mainly some large granular material and some humus and many small organisms that can 
 rejuvenate poor garden soils.
-
+<!-- truncate -->
 - Mature compost (= humus fertilizer) takes about 4-6 months if made during the warmer half of the year, otherwise it can 
 take up to 6 to 12 months to complete after starting the composting process.
 

@@ -17,7 +17,7 @@ It is easy for newcomers who do not know much about composting to misunderstand 
 to put the composting materials together and let them "fend for themselves", but do not realize that composting is also 
 a technical activity. If you want to produce organic compost that is conducive to plant growth, there are three necessary 
 principles you need to master.
-
+<!-- truncate -->
 ## 1. Microbial bacteria
 
 

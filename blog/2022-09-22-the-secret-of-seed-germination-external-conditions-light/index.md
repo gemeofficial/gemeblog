@@ -18,7 +18,7 @@ tags: [gardening, plant]
 
 The effect of light on the germination of vegetable seeds varies from species to species, but most vegetable seeds do 
 not respond to light when germinating.
-
+<!-- truncate -->
 According to the sensitivity of seed germination to light, vegetable seeds can be divided into three categories.
 
 The first category is light-demanding seeds, that is, seed germination requires a certain amount of light, and in dark 

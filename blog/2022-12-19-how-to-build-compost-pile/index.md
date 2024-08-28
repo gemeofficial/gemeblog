@@ -23,6 +23,8 @@ shady part of the garden to prevent the compost pile from dehydrating.
 Extreme weather conditions can discourage composting, so the location where the compost pile is located should be surrounded
 by a hedge, bean stand or wall planting to prevent it from being damaged by strong winds.
 
+<!-- truncate -->
+
 The location must be easily accessible and require sufficient room to move for turning the pile, etc.
 
 Compost piles should not be erected on impervious surfaces.
@@ -81,7 +83,7 @@ machines are insulated and have precise ventilation. The insulation prevents the
 being released too quickly to the outside area. These composers provide higher composting temperatures, ensuring continuous
 decomposition even in winter, and speeding up compost production.
 
-The [GEME](/product/geme) is such a fast bio-waste home composting bin. It is simple to use and allows your bio-waste to 
+The [GEME](https://www.geme.bio/product/geme) is such a fast bio-waste home composting bin. It is simple to use and allows your bio-waste to 
 degrade quickly by providing an optimal environment for microbiota to multiply and decompose. No matter how the 
 environment changes, the flowers and vegetables in your garden and the potted plants in your home can always enjoy the 
 highly active organic compost.

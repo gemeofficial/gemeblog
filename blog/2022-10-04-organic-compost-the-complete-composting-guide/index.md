@@ -18,7 +18,7 @@ tags: [composting]
 
 Falling red is not heartless, turned into spring mud to protect flowers-creatures on earth-- including us, are returning 
 the energy and nutrients they get from nature to nature in this way.
-
+<!-- truncate -->
 Composting is to simulate this natural law, people collect the organic matter around, and provide appropriate temperature,
 humidity, and other conditions . Let this organic matter through microbial decomposition into humus, the nutrients will 
 be recovered and provided for plant growth and reproduction.

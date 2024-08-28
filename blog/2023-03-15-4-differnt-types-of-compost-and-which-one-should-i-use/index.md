@@ -14,10 +14,11 @@ tags: [composting, compost]
 
 ![compost](./img/img.png)
 
-
 Compost can be confusing because different types provide different benefits.  
 Here are the different types of compost available on the market (or fermented by you， for example, 
 organic compost generated using the GEME rapid composter) and on which greenery they work best.
+
+<!-- truncate -->
 
 ## Four Primary Compost Types
 

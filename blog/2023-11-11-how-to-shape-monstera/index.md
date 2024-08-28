@@ -16,6 +16,7 @@ import Column from '@site/src/components/Column'
 When you see monstera in other people's photos, are you envious? Don't worry, you can also have a beautiful monstera 
 and post it on your INS to get crowds and likes.
 
+<!-- truncate -->
 
 We all know that monstera has huge leaves, and if it is planted vigorously but lacks pruning, it will only get bigger and bigger.
 This is not only a messy plant but also a lot of fertilizer.

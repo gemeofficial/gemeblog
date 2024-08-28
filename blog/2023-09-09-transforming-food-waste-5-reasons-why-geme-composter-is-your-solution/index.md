@@ -16,9 +16,10 @@ tags: [composting, foodwaste]
 
 Food waste is a global problem that demands our attention. Did you know that nearly one-third of all food produced for 
 human consumption goes to waste? This staggering statistic highlights the urgency of finding sustainable solutions to 
-combat this issue. In this article, we will explore the transformative power of the [GEME Composter](/product/geme) 
+combat this issue. In this article, we will explore the transformative power of the [GEME Composter](https://www.geme.bio/product/geme) 
 and why it is the ultimate solution for tackling food waste head-on.
 
+<!-- truncate -->
 
 ## Environmental Impact
 

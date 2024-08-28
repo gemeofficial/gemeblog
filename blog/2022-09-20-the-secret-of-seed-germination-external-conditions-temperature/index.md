@@ -22,7 +22,7 @@ Temperature is important.
 Seeds require the right temperature for germination.
 
 Different vegetable species of seed germination minimum, maximum and optimum temperature is different.
-
+<!-- truncate -->
 Temperature-loving vegetables (melon, eggplant, and some beans) require a higher temperature, the appropriate temperature 
 of 20 to 30 ℃, the maximum temperature of 35 to 40 ℃, and the minimum temperature of 10 ℃.
 

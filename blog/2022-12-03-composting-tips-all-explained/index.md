@@ -17,7 +17,7 @@ tags: [composting]
 The key to making compost is to create excellent living conditions for aerobic microorganisms to create excellent living 
 conditions. Only with the help of these microorganisms is it possible for organic waste to be decomposed without 
 producing odor.
-
+<!-- truncate -->
 It has been proven that, although it is not necessary to follow a formula, it is important to follow a certain number of 
 rules.
 
