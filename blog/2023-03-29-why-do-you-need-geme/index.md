@@ -8,7 +8,7 @@ keywords:
 
 slug: why-do-you-need-geme
 authors: [lukas]
-tags: [composter]
+tags: [composter, geme]
 ---
 
 # Why do you need GEME?

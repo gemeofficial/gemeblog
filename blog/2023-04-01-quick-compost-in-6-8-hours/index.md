@@ -7,7 +7,7 @@ keywords:
 
 slug: quick-compost-in-6-8-hours
 authors: [lukas]
-tags: [composter, composting]
+tags: [composter, geme]
 ---
 import ReactPlayer from 'react-player'
 

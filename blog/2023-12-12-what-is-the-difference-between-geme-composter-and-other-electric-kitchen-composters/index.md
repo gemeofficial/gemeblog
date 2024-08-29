@@ -7,7 +7,7 @@ keywords:
 
 slug: what-is-the-difference-between-geme-composter-and-other-electric-kitchen-composters
 authors: [emma]
-tags: [composting, composter]
+tags: [geme, composter]
 ---
 import Columns from '@site/src/components/Columns'
 import Column from '@site/src/components/Column'

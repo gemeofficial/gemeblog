@@ -8,7 +8,7 @@ keywords:
 
 slug: geme-2023-summary-and-early-meet-geme-ii
 authors: [lukas]
-tags: [composting, composter]
+tags: [geme, composter]
 ---
 import Columns from '@site/src/components/Columns'
 import Column from '@site/src/components/Column'

@@ -1,3 +1,8 @@
+geme:
+  label: 'GEME'
+  description: 'GEME Composter product news, activities or other information'
+  permalink: /geme
+
 gardening:
   label: 'Gardening'
   description: 'How to gardening smartly'
