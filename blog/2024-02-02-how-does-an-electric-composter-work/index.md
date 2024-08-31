@@ -65,7 +65,7 @@ Those big guys works well for municipal scenario, but not for home. For one of t
 solve before you want to put it in your home. That is the odor.
 
 For real home composters, very little on the world. Only 2 brands. Reencle and [GEME](/).
-While Reencle's microbe are far less efficiency than [GEME Kobold](/geme-kobold), but the working principle are very similar.
+While Reencle's microbe are far less efficiency than [GEME Kobold](https://www.geme.bio/geme-kobold), but the working principle are very similar.
 
 
 ## How home composter works?
@@ -76,8 +76,8 @@ Simulate compost pile in a box
 :::
 
 GEME composting solution offer 2 major parts: 
-- The machine: [GEME Composter](/product/geme) 
-- The microbes: [GEME Kobold](/geme-kobold)
+- The machine: [GEME Composter](https://www.geme.bio/product/geme) 
+- The microbes: [GEME Kobold](https://www.geme.bio/geme-kobold)
 
 ### The machine
 The machine is providing the best environment to let the microbes regenerate in an amazing speed. Then they eats food waste
