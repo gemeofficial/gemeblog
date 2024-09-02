@@ -130,4 +130,12 @@ And not mention how easy to use it, just like a trash can, not a bread maker to 
 
 
 ![How to choose the best kitchen composter](./img/img_2.png)
- 
+
+
+     <div className="video__wrapper">
+        <ReactPlayer 
+            className="video__player" 
+            controls height="100%" 
+            url="https://youtu.be/-qkjLB3GcKo" width="100%" 
+        />
+    </div>
