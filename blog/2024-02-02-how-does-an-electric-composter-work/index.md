@@ -1,6 +1,8 @@
 ---
 title: How Does a Real Electric Composter Work?
-description: How electric 
+description: More and more people are seeking for some kitchen composters to solve their daily food waste problem. 
+  The marketing shows up a lot of devices named "composters", like Lomi, Moreborn by Neakasa, Mill and Soilkind. 
+  But they are actually dehydrators. Do you really know how to tell a real electric composter or not? 
 keywords:
   - Composter
   - Electric composter
@@ -13,6 +15,8 @@ tags: [geme, composter]
 import Columns from '@site/src/components/Columns'
 import Column from '@site/src/components/Column'
 import ReactPlayer from 'react-player'
+
+![GEME Electric Home Composter](./img/geme-social-card.jpg)
 
 # How Does a Real Electric Composter Work?
 
