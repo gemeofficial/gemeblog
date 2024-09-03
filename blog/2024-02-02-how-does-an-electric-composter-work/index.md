@@ -16,7 +16,7 @@ import Columns from '@site/src/components/Columns'
 import Column from '@site/src/components/Column'
 import ReactPlayer from 'react-player'
 
-![GEME Electric Home Composter](./img/geme-social-card.jpg)
+![GEME Electric Home Composter](./img/geme-social-card.png)
 
 # How Does a Real Electric Composter Work?
 
