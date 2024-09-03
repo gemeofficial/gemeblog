@@ -7,6 +7,7 @@ keywords:
   - Composter
   - Electric composter
   - GEME
+
 slug: how-does-a-real-electric-composter-work
 authors: [lukas]
 tags: [geme, composter]
