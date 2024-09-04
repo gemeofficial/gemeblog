@@ -180,6 +180,10 @@ const config = {
                 target: '_self',
               },
               {
+                label: 'Affiliate ',
+                to: 'http://www.shareasale.com/join/geme',
+              },
+              {
                 label: 'Feedback',
                 to: 'https://www.geme.bio/feedback',
                 target: '_self',
@@ -277,10 +281,10 @@ const config = {
                 label: 'Business Cooperation',
                 to: 'https://www.geme.bio/cooperation',
               },
-              // {
-              //   label: 'Affiliate Plan',
-              //   to: 'https://www.geme.bio/coming-soon',
-              // },
+              {
+                label: 'Affiliate ',
+                to: 'http://www.shareasale.com/join/geme',
+              },
               {
                 label: 'Suggestion & Feedback',
                 to: 'https://www.geme.bio/feedback',
@@ -301,6 +305,10 @@ const config = {
               {
                 label: 'Community',
                 to: 'https://www.geme.bio/community',
+              },
+              {
+                label: 'Media Kit',
+                to: 'https://www.geme.bio/media-kit',
               },
             ],
           },
