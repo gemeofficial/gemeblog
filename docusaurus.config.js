@@ -171,6 +171,10 @@ const config = {
                 target: '_self',
               },
               {
+                label: 'Media Kit',
+                to: 'https://www.geme.bio/media-kit',
+              },
+              {
                 label: 'Blog',
                 to: '/blog',
               },
