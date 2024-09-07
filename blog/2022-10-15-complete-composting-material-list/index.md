@@ -7,6 +7,7 @@ keywords:
 slug: complete-composting-material-list
 authors: [emma]
 tags: [composting]
+image: ./img/img.png
 ---
 
 # Complete composting material list
