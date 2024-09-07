@@ -9,6 +9,7 @@ keywords:
 slug: how-long-does-a-real-composter-take-to-turn-food-waste-into-compost
 authors: [lukas]
 tags: [geme, composter]
+image: /img/geme-social-card.png
 ---
 import Columns from '@site/src/components/Columns'
 import Column from '@site/src/components/Column'
