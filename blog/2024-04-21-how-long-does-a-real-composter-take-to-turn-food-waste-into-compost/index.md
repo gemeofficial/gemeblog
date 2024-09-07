@@ -27,6 +27,8 @@ Check this uncut 7 hours video.(BTW, none of our competitors dare share such liv
         />
     </div>
 
+<!-- truncate -->
+
 However, for some food waste like orange peels, it will take slightly longer. Because the fibers are hard to breakdown. 
 Small bones take even longer.
 
