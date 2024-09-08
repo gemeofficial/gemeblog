@@ -391,6 +391,10 @@ const config = {
     //     // },
     //   },
     // ],
+    [
+      "@gracefullight/docusaurus-plugin-microsoft-clarity",
+      { projectId: "kse470k3uv" },
+    ],
     async function myPlugin(context, options) {
       return {
         name: "docusaurus-tailwindcss",
