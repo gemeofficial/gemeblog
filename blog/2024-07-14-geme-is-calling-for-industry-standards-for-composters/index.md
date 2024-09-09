@@ -1,15 +1,16 @@
 ---
 title: GEME is calling for Industry Standards for Composters
-description: Explain what anaerobic composting is and how it different from aerobic composting. The pros and cons and shall 
-    we worry it's environmental impacts since it emmit greenhouse gas? Is home composter the anaerobic way or aerobic way?
+description: As environmental awareness grows, home electric composters are becoming popular for managing kitchen waste, 
+  especially driven by new regulations in California and New York. While these devices promise convenience, experts note 
+  that their outputs often differ significantly from true compost, leading to issues like mold, odors, and negative effects
+  on plants, raising concerns about their effectiveness.
 keywords:
-  - Composting
-  - Bokashi
-  - Anaerobic Composting
-  - Aerobic Composting
-slug: what-is-anaerobic-composting-and-what-are-the-pros-and-cons
+  - Electric Composters
+  - GEME Composter
+  - Food Waste
+slug: geme-is-calling-for-industry-standards-for-composters
 authors: [joey]
-tags: [composting]
+tags: [geme]
 ---
 import Columns from '@site/src/components/Columns'
 import Column from '@site/src/components/Column'
