@@ -37,3 +37,8 @@ emma:
 marie:
   name: Marie
   title: Tech Writer
+
+joey:
+  name: Joey
+  title: Publicist, Plants Lover, Stray Dog Keeper
+  image_url: /img/authors/joey.png
