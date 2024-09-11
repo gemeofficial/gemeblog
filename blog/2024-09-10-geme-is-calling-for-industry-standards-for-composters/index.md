@@ -16,7 +16,7 @@ import Columns from '@site/src/components/Columns'
 import Column from '@site/src/components/Column'
 import ReactPlayer from 'react-player'
 
-
+![Home electric composter market trend](./img/img_5.png)
 
 ## I. The Rise of Home Electric Composters Driven by Composting Market Trends
 In recent years, increased environmental awareness has driven many individuals to adopt sustainable lifestyles. 
@@ -25,6 +25,8 @@ According to the 2023 BioCycle Nationwide Survey on Residential Food Waste Colle
 households now have access to food waste collection through 400 programs across 710 communities. Since 2021, there has 
 been substantial growth in these programs, with options for curbside collection including opt-in, standard, or mandatory 
 participation. 
+
+<!-- truncate -->
 
 California's S.B. 1383 regulation and New York City's new law mandating residential food waste collection provide strong 
 policy support for the development of home composters. These regulations align with the government's environmental goals 
