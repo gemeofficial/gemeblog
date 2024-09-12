@@ -96,6 +96,8 @@ the composting industry as a more advanced Garbage collection algorithm.
 He views the goal of sustainable lifestyles and food health as the industry's ultimate objective, with convenient 
 kitchen waste management being a means to that end. GEME's microbial agents were developed with long-term goals in mind.
 
+![GEME Compost Trading Network](./img/geme-network.png)
+
 Home composters often produce more fertilizer than a household needs. According to the BioCycle Nationwide Survey, 
 as environmental awareness increases, so does home composting, creating a surplus of fertilizer for trading platforms. 
 This platform allows producers to sell excess fertilizer at more affordable prices.
