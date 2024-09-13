@@ -20,7 +20,7 @@ import ReactPlayer from 'react-player'
 ## What is anaerobic composting?
 
 Anaerobic composting is a method of breaking down organic materials in an environment without oxygen. Unlike aerobic 
-composting(aka [host composting](https://en.wikipedia.org/wiki/Compost#Hot_and_cold_composting_%E2%80%93_impact_on_timing)),
+composting(aka [hot composting](https://en.wikipedia.org/wiki/Compost#Hot_and_cold_composting_%E2%80%93_impact_on_timing)),
 which relies on oxygen, anaerobic composting uses special microorganisms that work in oxygen-free conditions to decompose organic waste.
 
 <!-- truncate -->
