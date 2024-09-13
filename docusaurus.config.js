@@ -358,14 +358,14 @@ const config = {
         minHeadingLevel: 2,
         maxHeadingLevel: 5,
       },
-      announcementBar: {
-        id: 'support_us',
-        content:
-          'IFA Berlin 2024 Sale, <a rel="noopener noreferrer" href="https://www.geme.bio/product/geme?discount-code=IFABerlin">$150</a> OFF',
-        backgroundColor: '#3B7F6F',
-        textColor: '#FFFFFF',
-        isCloseable: false,
-      },
+      // announcementBar: {
+      //   id: 'support_us',
+      //   content:
+      //     'IFA Berlin 2024 Sale, <a rel="noopener noreferrer" href="https://www.geme.bio/product/geme?discount-code=IFABerlin">$150</a> OFF',
+      //   backgroundColor: '#3B7F6F',
+      //   textColor: '#FFFFFF',
+      //   isCloseable: false,
+      // },
     }),
 
   plugins: [
