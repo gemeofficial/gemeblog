@@ -20,6 +20,8 @@ import ReactPlayer from 'react-player'
 Composting without attracting rats requires some specific strategies, as rats are often drawn to food waste and warm, 
 sheltered spots. Here are several ways to reduce the risk of attracting rats to your compost pile.
 
+<!-- truncate -->
+
 ## Avoid composting with rat attracting foods
 
 - No Meat or Dairy: Avoid adding meat, fish, dairy, or fatty foods, as these are highly attractive to rats.
