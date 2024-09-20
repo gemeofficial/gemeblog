@@ -42,3 +42,8 @@ joey:
   name: Joey
   title: Publicist, Plants Lover, Stray Dog Keeper
   image_url: /img/authors/joey.png
+
+michael:
+  name: Michael Cox
+  title: Microbiologist, Tech Writer
+  image_url: /img/authors/micheal.png

@@ -37,3 +37,8 @@ fertilizer:
   label: 'Fertilizer'
   description: 'Discover the secret of fertilizer'
   permalink: /fertilizer
+
+microorganisms:
+  label: 'Microorganisms'
+  description: 'Discover the secret of microbes'
+  permalink: /microorganisms
