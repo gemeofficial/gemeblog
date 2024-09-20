@@ -1,7 +1,7 @@
 ---
 title: The Shocking Truth About Lignin, How Nature’s Toughest Material Breaks Down
-description: Composting without attracting rats requires some specific strategies, as rats are often drawn to food waste and warm, 
-  sheltered spots. Here are several ways to reduce the risk of attracting rats to your compost pile.
+description: How fast composting possible, lignin is one of the hard material to breakdown, 
+  hat's the best composting method to breakdown lignin material?
 keywords:
   - Microorganisms
   - Lignin
