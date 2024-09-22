@@ -28,6 +28,7 @@ In terms of sustainability, composting plays a key role by reducing the amount o
 cuts down on methane emissions—a potent greenhouse gas. It also helps enrich the soil, making it better at retaining water 
 and nutrients, which is essential for farming and gardening. Composting is an easy, eco-friendly way to recycle organic waste
 and contribute to a greener planet.
+<!-- truncate -->
 
 ## Composting process
 
