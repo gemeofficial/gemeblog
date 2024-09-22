@@ -129,7 +129,7 @@ It's a good way and probalbly the best way to solve food waste management proble
 In this article, kindly follow the 5 steps, you might be bale to learn how to start a compost pile in your yard, or in your garden.
 However, if you live in a apartment. You can try [bokashi](/blog/geme-vs-bokashi). 
 Or you can give [GEME Composter](/) a try, it is the world's easiest way to practice hot composting. 
-Worth a look of [how it works](/how-it-works).
+Worth a look of [how it works](https://www.geme.bio/how-it-works).
 
 
 ## Can I compost without compost pile?
