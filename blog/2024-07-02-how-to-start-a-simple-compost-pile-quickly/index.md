@@ -165,6 +165,7 @@ Makes the [composting at home](https://www.epa.gov/recycle/composting-home) the 
 
 It requires minimal effort, operates indoors, and can handle various types of food scraps, 
 including items that traditional composters might struggle with, like meat and dairy. 
+More detail check this article [what are the difference between GEME Composter and composting pile](/blog/traditional-composting-vs-geme-composter).
 
 
 ![GEME Composter](./img/img_8.png 'GEME Composter')
