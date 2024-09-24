@@ -29,15 +29,17 @@ compost with minimal effort.
 
 ## Common and difference between GEME composter and compost pile 
 
-| Feature                  | [GEME Electric Composter](/)                                 | Traditional Composting                  |
-|:-------------------------|:-------------------------------------------------------------|:----------------------------------------|
-| **Breakdown Time**       | 24-48 hours                                                  | Several months                          |
-| **Location**             | Suitable for indoor use                                      | Requires outdoor space                  |
-| **Maintenance**          | Minimal effort, fully automated                              | Needs regular turning and monitoring    |
-| **Handling Meat/Dairy**  | Can process meat and dairy                                   | Not recommended                         |
-| **Manure Waste**         | Support and well prevent pollution design                    | Not recommended                         |
-| **Apartment Composting** | Yes                                                          | No                                      |
-| **Energy Use**           | Requires electricity                                         | No energy required                      |
-| **Odor Control**         | Minimal odor due to sealed, filter, and deodorization system | Requires management to avoid odor       |
-| **Waste Capacity**       | Ideal for small to medium households                         | Large-scale, suitable for big gardens   |
-| **Cost**                 | Higher initial cost, low running costs                       | Low setup cost, almost free to maintain |
+| Feature                        | [GEME Electric Composter](/)                                 | Traditional Composting                  |
+|:-------------------------------|:-------------------------------------------------------------|:----------------------------------------|
+| **Breakdown Time**             | 6-8 hours for most leftover                                  | Weeks to months                         | 
+| **Finished Compost**           | Weeks                                                        | Months                                  |
+| **Location**                   | Suitable for indoor use                                      | Requires outdoor space                  |
+| **Maintenance**                | Minimal effort, fully automated                              | Needs regular turning and monitoring    |
+| **Handling Meat/Dairy**        | Can process meat and dairy                                   | Not recommended                         |
+| **Manure Waste**               | Support and well prevent pollution design                    | Not recommended                         |
+| **Apartment Composting**       | Yes                                                          | No                                      |
+| **Winter is Coming**           | Come on, no problem!                                         | Oh no!                                  |
+| **Energy Use**                 | Requires electricity                                         | No energy required                      |
+| **Odor Control**               | Minimal odor due to sealed, filter, and deodorization system | Requires management to avoid odor       |
+| **Waste Capacity**             | Ideal for small to medium households                         | Large-scale, suitable for big gardens   |
+| **Cost**                       | Higher initial cost, low running costs                       | Low setup cost, almost free to maintain |
