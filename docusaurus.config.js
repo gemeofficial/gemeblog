@@ -397,6 +397,10 @@ const config = {
                 to: 'https://www.geme.bio/product/geme',
               },
               {
+                label: 'GEME Terra 2',
+                to: 'https://www.geme.bio/geme-terra-2',
+              },
+              {
                 label: 'GEME Kobold',
                 to: 'https://www.geme.bio/geme-kobold',
               },
