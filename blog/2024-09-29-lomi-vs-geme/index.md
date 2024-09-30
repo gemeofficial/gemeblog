@@ -10,6 +10,15 @@ slug: lomi-vs-geme-composter
 authors: [lukas]
 tags: [composter]
 ---
+<head>
+    <meta charSet="utf-8" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta data-rh="true" property="og:image" content="https://www.geme.bio/assets/images/geme-vs-lomi-0665d40117eb11460690b102cffde728.png">
+    <meta data-rh="true" name="twitter:image" content="https://www.geme.bio/assets/images/geme-vs-lomi-0665d40117eb11460690b102cffde728.png">
+    <meta data-rh="true" property="og:url" content="https://www.geme.bio/blog/lomi-vs-geme-composter">
+    <meta data-rh="true" property="og:locale" content="en">
+</head>
+
 import Columns from '@site/src/components/Columns'
 import Column from '@site/src/components/Column'
 import ReactPlayer from 'react-player'
