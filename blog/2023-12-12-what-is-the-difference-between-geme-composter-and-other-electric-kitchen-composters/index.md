@@ -198,7 +198,7 @@ GEME is designed to be easy to use. If you know how to use a trash can, you know
         <ReactPlayer 
             className="video__player" 
             controls height="100%" 
-            url="https://youtu.be/_tt5gnNpVsw" width="100%" 
+            url="https://youtu.be/r3VmzQaxtzw" width="100%" 
         />
     </div>
     **No Cleaning Required**
