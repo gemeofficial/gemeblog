@@ -84,7 +84,8 @@ it's only 6.5L volume. That might be a bit disappointed for people who are looki
 </Columns>
 
 Worse part is when people believe they get a unit large enough, but when they buy it home, it turns out the volume is similar to
-some countertop "composter" units. It reminds me the old time when we having dinners in asian restaurant.
+some countertop "composter" units. It reminds me the old time when we having [sumeshi](https://ja.wikipedia.org/wiki/%E9%85%A2%E9%A3%AF) 
+in asian restaurant.
 
 <Columns>
   <Column className='text--left'>
