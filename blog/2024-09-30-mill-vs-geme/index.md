@@ -1,5 +1,5 @@
 ---
-title: Mill Food Recycler vs GEME Composter
+title: Mill vs GEME Composter
 description: Compare Mill and GEME electric composters to find the best option for effective and sustainable food waste management.
 keywords:
   - Mill Food Recycler
