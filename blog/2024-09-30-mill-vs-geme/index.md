@@ -64,16 +64,44 @@ outlining their key differences in detail.
 | **Price**                   | $899.99                                                                                                                                               | $999 (plus possible subscription for pickup service)                                                                                                            |
 | **Reviews**                 | [Amazon reviews](https://www.amazon.com/dp/B0BV31KTCN?th=1#customerReviews) and Trustpilot                                                            | No third party site reviews available, a lot of influencers voices                                                                                              |
 
-## Summary
 
-Both the Mill Food Recycler and the GEME Composter provide excellent solutions for reducing food waste, but they target different user needs. 
+## Mill's product design
 
-The **GEME Composter** excels with its larger capacity, ability to handle tougher waste materials like meat and dairy, 
-and continuous operation without needing to wait for cycles to finish. This makes it ideal for larger families or small businesses. 
-In contrast, the **Mill Food Recycler** is better suited for smaller households, offering a compact design and ease of use, 
-though it produces dehydrated food waste that still requires further composting to create usable soil. 
+It's decent, and looks comfortable in your kitchen.
+However, there is a bit tricky for it's volume.Mill looks so big at the first glance, but when you actually use it,
+it's only 6.5L volume. That might be a bit disappointed for people who are looking for big volume solution.
 
-## Marketing Strategy
+<Columns>
+  <Column className='text--left'>
+    **Looking**
+    ![Mill looks big before using](./img/img_9.png)
+  </Column>
+
+  <Column className='text--center text--left'>
+    **Using**
+    ![Mill actually get limited volume after using](./img/img_5.png)
+  </Column>
+</Columns>
+
+Worse part is when people believe they get a unit large enough, but when they buy it home, it turns out the volume is similar to
+some countertop "composter" units. It reminds me the old time when we having dinners in asian restaurant.
+
+<Columns>
+  <Column className='text--left'>
+    **Looking**
+    ![Mill looks big before using](./img/img_8.png)
+  </Column>
+
+  <Column className='text--center text--left'>
+    **Eating**
+    ![Mill actually get limited volume after using](./img/img_7.png)
+  </Column>
+</Columns>
+
+
+
+
+## Mill's marketing strategy 
 
 Mill is an advanced dehydrator, similar to [Lomi we compared before](/blog/lomi-vs-geme-composter). 
 While it does not claim itself as composter in it's website, they call it's output "**Food Grounds**".
@@ -90,6 +118,15 @@ However, it is still running a lot of "composter" ad words for marketing.
 
 Which is very confusing. 
 
+
+## Summary
+
+Both the Mill Food Recycler and the GEME Composter provide excellent solutions for reducing food waste, but they target different user needs.
+
+The **GEME Composter** excels with its larger capacity, ability to handle tougher waste materials like meat and dairy,
+and continuous operation without needing to wait for cycles to finish. This makes it ideal for larger families or small businesses.
+In contrast, the **Mill Food Recycler** is better suited for smaller households, offering a compact design and ease of use,
+though it produces dehydrated food waste that still requires further composting to create usable soil.
 
 
 I hope this comparison helps you make an informed decision about which composter best fits your lifestyle!
