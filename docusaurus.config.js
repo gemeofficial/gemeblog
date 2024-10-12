@@ -4,7 +4,7 @@
 // There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
-import {themes as prismThemes} from 'prism-react-renderer'
+import { themes as prismThemes } from 'prism-react-renderer'
 import tailwindPlugin from "./plugins/tailwind-config.cjs"; // add this
 import remarkMath from 'remark-math'
 import rehypeKatex from 'rehype-katex'
@@ -229,6 +229,8 @@ const config = {
           src: '/img/logo-text.png',
           href: 'https://www.geme.bio',
           target: '_self',
+          width: 155,
+          height: 32
         },
         items: [
           {
