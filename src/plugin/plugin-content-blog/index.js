@@ -2,6 +2,8 @@
 const blogPluginExports = require('@docusaurus/plugin-content-blog')
 const { default: blogPlugin } = blogPluginExports
 
+// 覆写@docusaurus/plugin-content-blog的contentLoaded方法，实现全局获取blog数据
+// Ref https://github.com/kuizuo/blog/blob/main/src/plugin/plugin-content-blog/index.js
 async function blogPluginEnhanced(context, options) {
   const blogPluginInstance = await blogPlugin(context, options)
   const { postsPerPage } = options
@@ -30,9 +32,9 @@ async function blogPluginEnhanced(context, options) {
       const { setGlobalData } = actions
 
       setGlobalData({
-        posts: content.blogPosts.slice(0, 10), // Only store 10 posts
-        postNum: content.blogPosts.length,
-        tagNum: Object.keys(blogTags).length,
+        blogs: content.blogPosts,
+        total: content.blogPosts.length,
+        blogTags: blogTags,
       })
     },
   }

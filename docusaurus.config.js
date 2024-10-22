@@ -189,13 +189,6 @@ const config = {
           trackingID: 'GTM-KB63TRW',
           anonymizeIP: true,
         },
-        // docs: {
-        //   sidebarPath: './sidebars.js',
-        //   // Please change this to your repo.
-        //   // Remove this to remove the "edit this page" links.
-        //   editUrl:
-        //     'https://github.com/gemeofficial/gemedocs/tree/main/docs',
-        // },
         // blog: {
         //   blogSidebarTitle: 'All posts',
         //   blogSidebarCount: 'ALL',
@@ -315,8 +308,6 @@ const config = {
 
             ],
           },
-
-
           {
             position: 'left',
             label: 'More',
@@ -334,6 +325,10 @@ const config = {
               {
                 label: 'Media Kit',
                 to: 'https://www.geme.bio/media-kit',
+              },
+              {
+                label: 'News',
+                to: '/news',
               },
               {
                 label: 'Blog',
@@ -527,48 +522,24 @@ const config = {
     }),
 
   plugins: [
-    // [
-    //   '@docusaurus/plugin-content-blog',
-    //   {
-    //     id: 'blog',
-    //     routeBasePath: 'blog',
-    //     path: './blog',
-    //     // Add or modify the following TOC settings
-    //     blogSidebarCount: 'ALL',
-    //     blogSidebarTitle: 'All posts',
-    //     // postsPerPage: 10,
-    //     showReadingTime: true,
-    //     tableOfContents: {
-    //       minHeadingLevel: 2,
-    //       maxHeadingLevel: 5,
-    //     },
-    //     // // TOC settings
-    //     // toc: {
-    //     //   minHeadingLevel: 2,
-    //     //   maxHeadingLevel: 5,
-    //     // },
-    //   },
-    // ],
     [
       './src/plugin/plugin-content-blog', // 为了实现全局 blog 数据，必须改写 plugin-content-blog 插件
       {
         path: 'blog',
-        editUrl: ({ locale, blogDirPath, blogPath, permalink }) =>
-          `https://github.com/kuizuo/blog/edit/main/${blogDirPath}/${blogPath}`,
-        editLocalizedFiles: false,
-        blogDescription: '代码人生：编织技术与生活的博客之旅',
-        blogSidebarCount: 10,
-        blogSidebarTitle: '博文',
-        postsPerPage: 12,
+        blogSidebarTitle: 'All posts',
+        blogSidebarCount: 'ALL',
         showReadingTime: true,
+
+        // math rendering plugins
+        remarkPlugins: [remarkMath],
+        rehypePlugins: [rehypeKatex],
+
+        // Please change this to your repo.
+        // Remove this to remove the "edit this page" links.
+        editUrl:
+          'https://github.com/gemeofficial/gemedocs/tree/main/blog',
         readingTime: ({ content, frontMatter, defaultReadingTime }) =>
           defaultReadingTime({ content, options: { wordsPerMinute: 300 } }),
-        // feedOptions: {
-        //   type: 'all',
-        //   title: '愧怍',
-        //   description: 'feedId:41215011978385457+userId:41840354283324416',
-        //   copyright: `Copyright © ${new Date().getFullYear()} 愧怍 Built with Docusaurus.<p><a href="http://beian.miit.gov.cn/" class="footer_lin">${beian}</a></p>`,
-        // },
       },
     ],
     [
