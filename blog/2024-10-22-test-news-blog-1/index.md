@@ -5,9 +5,10 @@ keywords:
   - Mill Food Recycler
   - GEME Composter
   - Electric Composter
-slug: mill-vs-geme-composter
+slug: 2024-10-22-test-news-blog-1
 authors: [lukas]
-tags: [composter, recycling]
+tags: [composter, recycling, news]
+picture: /geme-vs-mill.png
 ---
 
 <head>
@@ -15,7 +16,7 @@ tags: [composter, recycling]
     <meta name="twitter:card" content="summary_large_image" />
     <meta data-rh="true" property="og:image" content="https://www.geme.bio/assets/images/geme-vs-mill-69dea0c402948f36a29bdf55e7ec0d37.png" />
     <meta data-rh="true" name="twitter:image" content="https://www.geme.bio/assets/images/geme-vs-mill-69dea0c402948f36a29bdf55e7ec0d37.png"/>
-    <meta data-rh="true" property="og:url" content="https://www.geme.bio/blog/mill-vs-geme-composter"/>
+    <meta data-rh="true" property="og:url" content="https://www.geme.bio/blog/2024-10-22-test-news-blog-1"/>
     <meta data-rh="true" property="og:locale" content="en"/>
 </head>
 

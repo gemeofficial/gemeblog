@@ -1,44 +1,54 @@
 geme:
-  label: 'GEME'
-  description: 'GEME Composter product news, activities or other information'
+  label: "GEME"
+  description: "GEME Composter product news, activities or other information"
   permalink: /geme
 
 gardening:
-  label: 'Gardening'
-  description: 'How to gardening smartly'
+  label: "Gardening"
+  description: "How to gardening smartly"
   permalink: /gardening
 
 composting:
-  label: 'Composting'
-  description: 'Composting life style'
+  label: "Composting"
+  description: "Composting life style"
   permalink: /composting
 
 compost:
-  label: 'Compost'
-  description: 'Compost and how to make it and use it'
+  label: "Compost"
+  description: "Compost and how to make it and use it"
   permalink: /compost
 
 composter:
-  label: 'Composter'
-  description: 'Compost bin or compost machine convert waste into organic compost'
+  label: "Composter"
+  description: "Compost bin or compost machine convert waste into organic compost"
   permalink: /composter
 
 foodwaste:
-  label: 'Food Waste'
-  description: 'Food waste management'
+  label: "Food Waste"
+  description: "Food waste management"
   permalink: /foodwaste
 
 plant:
-  label: 'Plant Growth'
-  description: 'Discover the fun and secret to grow plant'
+  label: "Plant Growth"
+  description: "Discover the fun and secret to grow plant"
   permalink: /plants
 
 fertilizer:
-  label: 'Fertilizer'
-  description: 'Discover the secret of fertilizer'
+  label: "Fertilizer"
+  description: "Discover the secret of fertilizer"
   permalink: /fertilizer
 
 microorganisms:
-  label: 'Microorganisms'
-  description: 'Discover the secret of microbes'
+  label: "Microorganisms"
+  description: "Discover the secret of microbes"
   permalink: /microorganisms
+
+recycling:
+  label: "Recycling"
+  description: "Recycling waste into resources"
+  permalink: /recycling
+
+news:
+  label: "News"
+  description: "Geme latest news"
+  permalink: /news
