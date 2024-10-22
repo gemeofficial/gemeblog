@@ -49,10 +49,9 @@ export default function News() {
                   to={blog.metadata.permalink}
                 >
                   <div className="w-full md:w-72 h-48 md:h-52 overflow-hidden rounded-md">
-                    {/* <img className='w-full h-full object-cover hover:scale-105 duration-500' src={blog.metadata.frontMatter.picture} alt={blog.metadata.title} /> */}
                     <img
                       className="w-full h-full object-cover hover:scale-105 duration-500"
-                      src="https://www.geme.bio/assets/images/geme-vs-mill-69dea0c402948f36a29bdf55e7ec0d37.png"
+                      src={blog.metadata.frontMatter.picture}
                       alt={blog.metadata.title}
                     />
                   </div>
