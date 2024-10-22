@@ -7,7 +7,7 @@ keywords:
   - Electric Composter
 slug: mill-vs-geme-composter
 authors: [lukas]
-tags: [composter, recycling]
+tags: [composter]
 ---
 <head>
     <meta charSet="utf-8" />
