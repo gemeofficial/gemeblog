@@ -196,20 +196,21 @@ const config = {
         //   editUrl:
         //     'https://github.com/gemeofficial/gemedocs/tree/main/docs',
         // },
-        blog: {
-          blogSidebarTitle: 'All posts',
-          blogSidebarCount: 'ALL',
-          showReadingTime: true,
+        // blog: {
+        //   blogSidebarTitle: 'All posts',
+        //   blogSidebarCount: 'ALL',
+        //   showReadingTime: true,
 
-          // math rendering plugins
-          remarkPlugins: [remarkMath],
-          rehypePlugins: [rehypeKatex],
+        //   // math rendering plugins
+        //   remarkPlugins: [remarkMath],
+        //   rehypePlugins: [rehypeKatex],
 
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/gemeofficial/gemedocs/tree/main/blog',
-        },
+        //   // Please change this to your repo.
+        //   // Remove this to remove the "edit this page" links.
+        //   editUrl:
+        //     'https://github.com/gemeofficial/gemedocs/tree/main/blog',
+        // },
+        blog: false,
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -548,6 +549,28 @@ const config = {
     //     // },
     //   },
     // ],
+    [
+      './src/plugin/plugin-content-blog', // 为了实现全局 blog 数据，必须改写 plugin-content-blog 插件
+      {
+        path: 'blog',
+        editUrl: ({ locale, blogDirPath, blogPath, permalink }) =>
+          `https://github.com/kuizuo/blog/edit/main/${blogDirPath}/${blogPath}`,
+        editLocalizedFiles: false,
+        blogDescription: '代码人生：编织技术与生活的博客之旅',
+        blogSidebarCount: 10,
+        blogSidebarTitle: '博文',
+        postsPerPage: 12,
+        showReadingTime: true,
+        readingTime: ({ content, frontMatter, defaultReadingTime }) =>
+          defaultReadingTime({ content, options: { wordsPerMinute: 300 } }),
+        // feedOptions: {
+        //   type: 'all',
+        //   title: '愧怍',
+        //   description: 'feedId:41215011978385457+userId:41840354283324416',
+        //   copyright: `Copyright © ${new Date().getFullYear()} 愧怍 Built with Docusaurus.<p><a href="http://beian.miit.gov.cn/" class="footer_lin">${beian}</a></p>`,
+        // },
+      },
+    ],
     [
       "@gracefullight/docusaurus-plugin-microsoft-clarity",
       { projectId: "kse470k3uv" },
