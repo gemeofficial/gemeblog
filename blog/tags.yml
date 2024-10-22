@@ -49,6 +49,6 @@ recycling:
   permalink: /recycling
 
 news:
-  label: "News"
-  description: "Geme latest news"
+  label: 'GEME News'
+  description: "Follow GEME's activities and updates"
   permalink: /news
