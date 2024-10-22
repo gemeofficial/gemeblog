@@ -10,7 +10,8 @@ keywords:
   - Food Waste
 slug: geme-is-calling-for-industry-standards-for-composters
 authors: [joey]
-tags: [geme]
+tags: [geme, news]
+picture: 'https://www.geme.bio/assets/images/img_5-8973658010dff289deb863c5293a1e08.png'
 ---
 import Columns from '@site/src/components/Columns'
 import Column from '@site/src/components/Column'
