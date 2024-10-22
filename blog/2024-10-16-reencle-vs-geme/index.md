@@ -8,13 +8,14 @@ keywords:
 slug: reencle-vs-geme-composter
 authors: [lukas]
 tags: [composter]
+picture: https://www.geme.bio/assets/images/geme-vs-reencle-63804f34b568a2a8f9335bd94054e0a1.png
 ---
 <head>
     <meta charSet="utf-8" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta data-rh="true" property="og:image" content="https://www.geme.bio/assets/images/geme-vs-reencle.png" />
-    <meta data-rh="true" name="twitter:image" content="https://www.geme.bio/assets/images/geme-vs-reencle.png"/>
-    <meta data-rh="true" property="og:url" content="https://www.geme.bio/blog/reencle-vs-geme-composter"/>
+    <meta data-rh="true" property="og:image" content="https://www.geme.bio/assets/images/geme-vs-reencle-63804f34b568a2a8f9335bd94054e0a1.png" />
+    <meta data-rh="true" name="twitter:image" content="https://www.geme.bio/assets/images/geme-vs-reencle-63804f34b568a2a8f9335bd94054e0a1.png"/>
+    <meta data-rh="true" property="og:url" content="https://www.geme.bio"/>
     <meta data-rh="true" property="og:locale" content="en"/>
 </head>
 
