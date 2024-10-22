@@ -189,27 +189,21 @@ const config = {
           trackingID: 'GTM-KB63TRW',
           anonymizeIP: true,
         },
-        // docs: {
-        //   sidebarPath: './sidebars.js',
+        // blog: {
+        //   blogSidebarTitle: 'All posts',
+        //   blogSidebarCount: 'ALL',
+        //   showReadingTime: true,
+
+        //   // math rendering plugins
+        //   remarkPlugins: [remarkMath],
+        //   rehypePlugins: [rehypeKatex],
+
         //   // Please change this to your repo.
         //   // Remove this to remove the "edit this page" links.
         //   editUrl:
-        //     'https://github.com/gemeofficial/gemedocs/tree/main/docs',
+        //     'https://github.com/gemeofficial/gemedocs/tree/main/blog',
         // },
-        blog: {
-          blogSidebarTitle: 'All posts',
-          blogSidebarCount: 'ALL',
-          showReadingTime: true,
-
-          // math rendering plugins
-          remarkPlugins: [remarkMath],
-          rehypePlugins: [rehypeKatex],
-
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/gemeofficial/gemedocs/tree/main/blog',
-        },
+        blog: false,
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -314,8 +308,6 @@ const config = {
 
             ],
           },
-
-
           {
             position: 'left',
             label: 'More',
@@ -333,6 +325,10 @@ const config = {
               {
                 label: 'Media Kit',
                 to: 'https://www.geme.bio/media-kit',
+              },
+              {
+                label: 'News',
+                to: '/news',
               },
               {
                 label: 'Blog',
@@ -530,28 +526,26 @@ const config = {
     }),
 
   plugins: [
-    // [
-    //   '@docusaurus/plugin-content-blog',
-    //   {
-    //     id: 'blog',
-    //     routeBasePath: 'blog',
-    //     path: './blog',
-    //     // Add or modify the following TOC settings
-    //     blogSidebarCount: 'ALL',
-    //     blogSidebarTitle: 'All posts',
-    //     // postsPerPage: 10,
-    //     showReadingTime: true,
-    //     tableOfContents: {
-    //       minHeadingLevel: 2,
-    //       maxHeadingLevel: 5,
-    //     },
-    //     // // TOC settings
-    //     // toc: {
-    //     //   minHeadingLevel: 2,
-    //     //   maxHeadingLevel: 5,
-    //     // },
-    //   },
-    // ],
+    [
+      './src/plugin/plugin-content-blog', // 为了实现全局 blog 数据，必须改写 plugin-content-blog 插件
+      {
+        path: 'blog',
+        blogSidebarTitle: 'All posts',
+        blogSidebarCount: 'ALL',
+        showReadingTime: true,
+
+        // math rendering plugins
+        remarkPlugins: [remarkMath],
+        rehypePlugins: [rehypeKatex],
+
+        // Please change this to your repo.
+        // Remove this to remove the "edit this page" links.
+        editUrl:
+          'https://github.com/gemeofficial/gemedocs/tree/main/blog',
+        readingTime: ({ content, frontMatter, defaultReadingTime }) =>
+          defaultReadingTime({ content, options: { wordsPerMinute: 300 } }),
+      },
+    ],
     [
       "@gracefullight/docusaurus-plugin-microsoft-clarity",
       { projectId: "kse470k3uv" },

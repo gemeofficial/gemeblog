@@ -9,6 +9,7 @@ slug: mill-vs-geme-composter
 authors: [lukas]
 tags: [composter]
 ---
+
 <head>
     <meta charSet="utf-8" />
     <meta name="twitter:card" content="summary_large_image" />
@@ -24,10 +25,10 @@ import ReactPlayer from 'react-player'
 
 ![Mill vs GEME Composter](./img/geme-vs-mill.png)
 
-Many people ask us, “What’s the difference between the GEME and Mill food recyclers? At first glance, they seem quite 
+Many people ask us, “What’s the difference between the GEME and Mill food recyclers? At first glance, they seem quite
 similar—both resemble trash bins with electric plugs designed for recycling food waste.” However, when you take a closer look,
-the Mill and GEME composters use different technologies, offer distinct functionalities, and provide unique user experiences. 
-This article will be one of the most comprehensive and definitive comparisons available online, 
+the Mill and GEME composters use different technologies, offer distinct functionalities, and provide unique user experiences.
+This article will be one of the most comprehensive and definitive comparisons available online,
 outlining their key differences in detail.
 
 <!-- truncate -->
@@ -35,7 +36,7 @@ outlining their key differences in detail.
 ## Commonalities and Differences between Mill and GEME Composter
 
 | Feature                     | GEME Composter                                                                                                                                        | Mill Food Recycler                                                                                                                                              |
-|:----------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| :-------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Overview**                | <div className="video__wrapper"><ReactPlayer className="video__player" controls height="100%" url="https://youtu.be/KTn9HMf1DBc" width="100%"/></div> | <div className="video__wrapper"><ReactPlayer className="video__player" controls height="100%" url="https://youtube.com/shorts/-T0841TDHMM" width="100%"/></div> |
 | **Design**                  | Trash bin shape, bigger volume                                                                                                                        | Trash bin shape, but shallower                                                                                                                                  |
 | **Working Mode**            | Continuous operation, simulating a compost pile in a box                                                                                              | Operates primarily through dehydration and grinding                                                                                                             |
@@ -64,7 +65,6 @@ outlining their key differences in detail.
 | **Price**                   | $899.99                                                                                                                                               | $999 (plus possible subscription for pickup service)                                                                                                            |
 | **Reviews**                 | [Amazon reviews](https://www.amazon.com/dp/B0BV31KTCN?th=1#customerReviews) and Trustpilot                                                            | No third party site reviews available, a lot of influencers voices                                                                                              |
 
-
 ## Mill's product design
 
 It's decent, and looks comfortable in your kitchen.
@@ -84,7 +84,7 @@ it's only 6.5L volume. That might be a bit disappointed for people who are looki
 </Columns>
 
 Worse part is when people believe they get a unit large enough, but when they buy it home, it turns out the volume is similar to
-some countertop "composter" units. It reminds me the old time when we having [sumeshi](https://ja.wikipedia.org/wiki/%E9%85%A2%E9%A3%AF) 
+some countertop "composter" units. It reminds me the old time when we having [sumeshi](https://ja.wikipedia.org/wiki/%E9%85%A2%E9%A3%AF)
 in asian restaurant.
 
 <Columns>
@@ -99,12 +99,9 @@ in asian restaurant.
   </Column>
 </Columns>
 
+## Mill's marketing strategy
 
-
-
-## Mill's marketing strategy 
-
-Mill is an advanced dehydrator, similar to [Lomi we compared before](/blog/lomi-vs-geme-composter). 
+Mill is an advanced dehydrator, similar to [Lomi we compared before](/blog/lomi-vs-geme-composter).
 While it does not claim itself as composter in it's website, they call it's output "**Food Grounds**".
 
 ![Mill claim they are not composters](./img/img.png)
@@ -117,8 +114,7 @@ However, it is still running a lot of "composter" ad words for marketing.
 
 ![Mill use Composter as ad words](./img/img_3.png)
 
-Which is very confusing. 
-
+Which is very confusing.
 
 ## Summary
 
@@ -128,6 +124,5 @@ The **GEME Composter** excels with its larger capacity, ability to handle toughe
 and continuous operation without needing to wait for cycles to finish. This makes it ideal for larger families or small businesses.
 In contrast, the **Mill Food Recycler** is better suited for smaller households, offering a compact design and ease of use,
 though it produces dehydrated food waste that still requires further composting to create usable soil.
-
 
 I hope this comparison helps you make an informed decision about which composter best fits your lifestyle!
