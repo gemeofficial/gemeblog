@@ -118,34 +118,3 @@ In addition, GEME's composting solution is of great significance in alleviating 
 
 GEME aspires to be a significant contributor in food waste management and the construction of a sustainable food system. By adhering to the principles of sustainable waste management and circular economy, GEME hopes to achieve remarkable results in promoting sustainable food production, guiding consumer behavior changes, and coordinating the relationship between food production and the resource environment. In the future, GEME will continue to uphold the spirit of innovation, continuously optimize its products and services, and collaborate with partners from all sectors to contribute more to the sustainable development of the global food system.
 
-## I. Appearance Design
-
-### 1. Trash Can Shape and Convenient Use
-
-GEME terra 2 ingeniously adopts the shape of a trash can, integrating into daily life scenarios, allowing users to naturally and conveniently throw kitchen waste into it, greatly enhancing the usability. This design fully takes into account user habits, making the composting process seamlessly integrated into daily household chores.
-
-### 2. Appearance Optimization and Material Properties
-
-The main body of the machine is in simple white. The outer shell is 精心 designed with a three-dimensional cutting process. It not only effectively reduces the overall volume visually, making the equipment more lightweight and beautiful, but also optimizes the space occupation. Its white outer shell is made of high-quality ABS material, which has excellent high and low temperature resistance and can remain stable under various extreme environmental conditions. It effectively resists the erosion of acids, alkalis, and salts, ensuring long-term stable use and prolonging the service life of the equipment.
-
-### 3. Lid and Observation Window Design
-
-The top of the composter is equipped with a lid, and a transparent observation window is embedded in the middle. This design provides users with an intuitive and convenient way to monitor the composting process. Users can check the internal condition of the compost at any time without opening the lid, and timely understand the composting progress to ensure that the whole process is under control. Below the observation window is a display screen, integrating functions such as time reminder, water shortage reminder, and overweight reminder. Even novice users who are new to composting can easily complete the composting operation according to the clear and definite prompt information, avoiding problems caused by improper operation, and thus achieving perfect composting work.
-
-## II. Usage Method
-
-GEME terra 2 further innovates in terms of convenience. It is specially designed with a foot-touch opening function. Users only need to gently touch the bottom of the machine with their feet, and the lid can open automatically. This considerate design allows users to easily complete the garbage dumping operation even when their hands are holding kitchen waste containers (such as plates), effectively avoiding the possible stain contamination caused by touching the lid with hands, maintaining the cleanliness of the kitchen environment, and greatly improving the user experience.
-
-## III. Deodorization System
-
-### 1. Core Deodorization Technology
-
-This composter is equipped with an advanced industrial-grade deodorization system, which is the key factor for realizing the indoor use of the composter. Adopting a triple deodorization technology, it can not only efficiently remove odors but also has a sterilization function, eliminating the odor generation from the source and ensuring that the indoor air remains fresh and clean during the composting process.
-
-### 2. Air Purification Effect and Environmental Impact
-
-Through this powerful deodorization system, various odor molecules generated during the composting process are effectively decomposed and adsorbed. The discharged air, after purification treatment, reaches the standards of being odorless and sterile, allowing users to carry out composting operations at ease in the indoor environment without worrying about the impact of odors on the living space. It truly realizes the harmonious coexistence of kitchen waste disposal and a comfortable living environment.
-
-
-
-[GEME Terra 2](https://www.geme.bio/geme-terra-2), with its innovative design, convenient operation method, and excellent performance characteristics, has become a powerful assistant in the field of household environmental protection, making positive contributions to promoting green living and realizing resource recycling.
