@@ -1,6 +1,6 @@
 ---
 title: 'Innovative Solutions in Food Waste Management New York x Brussels'
-description: A detailed comparison between Reencle and GEME composters to help you choose the best option for sustainable food waste management.
+description: GEME attend Economic Mission on Food Waste conference on Oct 22 to 23, 2024, for innovative food waste management. Join hub.brussels’ economic mission to New York.
 keywords:
   - GEME
   - GEME Composter
@@ -8,13 +8,13 @@ keywords:
 slug: economic-mission-on-food-waste-newyork-2024
 authors: [joey]
 tags: [geme, news]
-picture: https://www.geme.bio/assets/images/geme-vs-reencle-63804f34b568a2a8f9335bd94054e0a1.png
+picture: https://www.geme.bio/assets/images/head-db4818b05ab30cc4d72793c86fe4ba5e.png
 ---
 <head>
     <meta charSet="utf-8" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta data-rh="true" property="og:image" content="https://www.geme.bio/assets/images/geme-vs-reencle-63804f34b568a2a8f9335bd94054e0a1.png" />
-    <meta data-rh="true" name="twitter:image" content="https://www.geme.bio/assets/images/geme-vs-reencle-63804f34b568a2a8f9335bd94054e0a1.png"/>
+    <meta data-rh="true" property="og:image" content="https://www.geme.bio/assets/images/head-db4818b05ab30cc4d72793c86fe4ba5e.png" />
+    <meta data-rh="true" name="twitter:image" content="https://www.geme.bio/assets/images/head-db4818b05ab30cc4d72793c86fe4ba5e.png"/>
     <meta data-rh="true" property="og:url" content="https://www.geme.bio"/>
     <meta data-rh="true" property="og:locale" content="en"/>
 </head>
