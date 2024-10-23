@@ -103,12 +103,10 @@ and focus on resource recycling adopted by this farm are what GEME has been cont
 <Columns>
   <Column className='text--left'>
     ![GEME Kobold in Compost Pile](./img/img_1.png)
-    **GEME Kobold in Compost Pile**
   </Column>
 
   <Column className='text--center text--left'>
     ![GEME Kobold in Compost Pile](./img/img_2.png)
-    **After**
   </Column>
 </Columns>
 
