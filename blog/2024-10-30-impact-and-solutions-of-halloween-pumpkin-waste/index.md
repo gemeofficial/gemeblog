@@ -27,6 +27,8 @@ import ReactPlayer from 'react-player'
 
 Halloween is a widely celebrated festival in many countries, and pumpkins play a significant role during this time. However, the issue of pumpkin waste after Halloween has become a matter of concern, involving both economic and environmental aspects.
 
+<!-- truncate -->
+
 ## The Extent of Pumpkin Waste and Associated Costs
 
 ### Waste Statistics
