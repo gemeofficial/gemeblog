@@ -8,14 +8,14 @@ keywords:
 slug: the-phenomenon-impact-and-solutions-of-halloween-pumpkin-waste
 authors: [joey]
 tags: [foodwaste]
-picture: https://www.geme.bio/assets/images/head-db4818b05ab30cc4d72793c86fe4ba5e.png
+picture: https://www.geme.bio/assets/images/img-ebbc76a64033f0a420d391471bff77ab.png
 ---
 <head>
     <meta charSet="utf-8" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta data-rh="true" property="og:image" content="https://www.geme.bio/assets/images/head-db4818b05ab30cc4d72793c86fe4ba5e.png" />
-    <meta data-rh="true" name="twitter:image" content="https://www.geme.bio/assets/images/head-db4818b05ab30cc4d72793c86fe4ba5e.png"/>
-    <meta data-rh="true" property="og:url" content="https://www.geme.bio"/>
+    <meta data-rh="true" property="og:image" content="https://www.geme.bio/assets/images/img_4-4c9665d447f4249cb562e0c00e817fb0.png" />
+    <meta data-rh="true" name="twitter:image" content="https://www.geme.bio/assets/images/img-ebbc76a64033f0a420d391471bff77ab.png"/>
+    <meta data-rh="true" property="og:url" content="https://www.geme.bio/blog/the-phenomenon-impact-and-solutions-of-halloween-pumpkin-waste"/>
     <meta data-rh="true" property="og:locale" content="en"/>
 </head>
 
