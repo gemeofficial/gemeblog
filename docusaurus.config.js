@@ -189,6 +189,9 @@ const config = {
           trackingID: 'GTM-KB63TRW',
           anonymizeIP: true,
         },
+        googleTagManager: {
+          containerId: 'GTM-KB63TRW',
+        },
         // blog: {
         //   blogSidebarTitle: 'All posts',
         //   blogSidebarCount: 'ALL',
