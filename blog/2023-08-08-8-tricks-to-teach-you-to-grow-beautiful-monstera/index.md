@@ -1,6 +1,7 @@
 ---
 title: 8 tricks to teach you to grow beautiful Monstera
-description: Redefine garbage collection, the real world one. 
+description: Monstera is a beautiful plant which is very popular for indoor planting lovers. It's enjoyable to own a green monstera 
+  plant in your house. However, sometimes people might encounter some problems when the mostera is growing.
 keywords:
   - Monstera
   - Plant Growth
