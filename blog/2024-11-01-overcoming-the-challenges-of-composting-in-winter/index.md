@@ -8,14 +8,14 @@ keywords:
 slug: overcoming-the-challenges-of-composting-in-winter
 authors: [joey]
 tags: [composting]
-picture: https://www.geme.bio/assets/images/img-ebbc76a64033f0a420d391471bff77ab.png
+picture: https://www.geme.bio/assets/images/img-f44f46e270e1baa7aeda18f248c0a649.png
 ---
 <head>
     <meta charSet="utf-8" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta data-rh="true" property="og:image" content="https://www.geme.bio/assets/images/img_4-4c9665d447f4249cb562e0c00e817fb0.png" />
-    <meta data-rh="true" name="twitter:image" content="https://www.geme.bio/assets/images/img-ebbc76a64033f0a420d391471bff77ab.png"/>
-    <meta data-rh="true" property="og:url" content="https://www.geme.bio/blog/the-phenomenon-impact-and-solutions-of-halloween-pumpkin-waste"/>
+    <meta data-rh="true" property="og:image" content="https://www.geme.bio/assets/images/img-f44f46e270e1baa7aeda18f248c0a649.png" />
+    <meta data-rh="true" name="twitter:image" content="https://www.geme.bio/assets/images/img-f44f46e270e1baa7aeda18f248c0a649.png"/>
+    <meta data-rh="true" property="og:url" content="https://www.geme.bio/blog/overcoming-the-challenges-of-composting-in-winter"/>
     <meta data-rh="true" property="og:locale" content="en"/>
 </head>
 
