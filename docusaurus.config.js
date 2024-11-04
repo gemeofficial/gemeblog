@@ -518,6 +518,11 @@ const config = {
         minHeadingLevel: 2,
         maxHeadingLevel: 5,
       },
+      colorMode: {
+        defaultMode: 'light',
+        disableSwitch: false,
+        respectPrefersColorScheme: false,
+      },
       // announcementBar: {
       //   id: 'support_us',
       //   content:
