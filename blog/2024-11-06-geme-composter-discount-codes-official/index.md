@@ -9,14 +9,14 @@ keywords:
 slug: geme-composter-discount-code
 authors: [matthias]
 tags: [geme, composter]
-picture: https://www.geme.bio/assets/images/img-f44f46e270e1baa7aeda18f248c0a649.png
+picture: https://www.geme.bio/assets/images/img-66d84b59ef3429a9d4f5df3cfc1375f8.png
 ---
 <head>
     <meta charSet="utf-8" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta data-rh="true" property="og:image" content="https://www.geme.bio/assets/images/img-f44f46e270e1baa7aeda18f248c0a649.png" />
-    <meta data-rh="true" name="twitter:image" content="https://www.geme.bio/assets/images/img-f44f46e270e1baa7aeda18f248c0a649.png"/>
-    <meta data-rh="true" property="og:url" content="https://www.geme.bio/blog/overcoming-the-challenges-of-composting-in-winter"/>
+    <meta data-rh="true" property="og:image" content="https://www.geme.bio/assets/images/img-66d84b59ef3429a9d4f5df3cfc1375f8.png" />
+    <meta data-rh="true" name="twitter:image" content="https://www.geme.bio/assets/images/img-66d84b59ef3429a9d4f5df3cfc1375f8.png"/>
+    <meta data-rh="true" property="og:url" content="https://www.geme.bio/blog/geme-composter-discount-code"/>
     <meta data-rh="true" property="og:locale" content="en"/>
 </head>
 
