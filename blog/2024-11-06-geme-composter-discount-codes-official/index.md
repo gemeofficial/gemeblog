@@ -34,17 +34,18 @@ Dont' forget to singup to get notified  https://www.geme.bio/signup
 ## GEME Composter Discount Codes 
 
 
-| Code               | Status  | Note                                             | Time      |
-|:-------------------|:--------|--------------------------------------------------|-----------|
-| **\*\*\*\*\*\*\*** | Active  | [signup](https://www.geme.bio/signup) to receive | November  |
-| **Halloween**      | Expired | Halloween 2024                                   | October   |
-| **TCD2024**        | Expired | TechCrunch Activity 2024                         | October   |
-| **IFA2024**        | Expired | IFA Activity 2024                                | September |
-| **LabourDay2024**  | Expired | US Labour Day 2024                               | September |
-| **Dad**            | Expired | Father's Day 2024                                | Jun       |
-| **ThankYouMom**    | Expired | Mother's Day 2024                                | May       |
-| **Vesak**          | Expired | Vesak's Day 2024                                 | May       |
-| **GEMEEarthDay**   | Expired | Mother's Day 2024                                | Apirl     |
+| Code               | Status  | Note                                              | Time      |
+|:-------------------|:--------|---------------------------------------------------|-----------|
+| **\*\*\*\*\*\*\*** | Active  | [signup](https://www.geme.bio/signup) to receive  | November  |
+| **Veteran**        | Active  | Veteran's Day                                     | November  |
+| **Halloween**      | Expired | Halloween 2024                                    | October   |
+| **TCD2024**        | Expired | TechCrunch Activity 2024                          | October   |
+| **IFA2024**        | Expired | IFA Activity 2024                                 | September |
+| **LabourDay2024**  | Expired | US Labour Day 2024                                | September |
+| **Dad**            | Expired | Father's Day 2024                                 | Jun       |
+| **ThankYouMom**    | Expired | Mother's Day 2024                                 | May       |
+| **Vesak**          | Expired | Vesak's Day 2024                                  | May       |
+| **GEMEEarthDay**   | Expired | Mother's Day 2024                                 | Apirl     |
 
 
 
