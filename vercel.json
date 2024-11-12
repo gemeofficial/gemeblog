@@ -1,3 +1,14 @@
 {
-  "framework": "nextjs"
+  "framework": "nextjs",
+  "headers": [
+    {
+      "source": "/blog/page/:number",
+      "headers": [
+        {
+          "key": "X-Robots-Tags",
+          "value": "noindex"
+        }
+      ]
+    }
+  ]
 }
