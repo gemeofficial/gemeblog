@@ -9,6 +9,15 @@
           "value": "noindex"
         }
       ]
+    },
+    {
+      "source": "/blog/tags/:tag/page/:page",
+      "headers": [
+        {
+          "key": "X-Robots-Tags",
+          "value": "noindex"
+        }
+      ]
     }
   ]
 }
