@@ -1,6 +1,6 @@
 ---
 title: 'The Secret of Seed Germination Part 3, External Conditions: Light'
-description: External conditions like air, water, oxygen are very important for seed germination as external conditions
+description: Learn how light influences seed germination and discover optimal conditions to boost germination rates for different vegetable seeds.
 keywords:
   - composting
   - plant growth
