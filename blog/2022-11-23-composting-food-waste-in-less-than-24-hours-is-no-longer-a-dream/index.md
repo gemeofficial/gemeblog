@@ -1,6 +1,6 @@
 ---
 title: Composting food waste in less than 24 hours is no longer a dream
-description: in Europe, the level of classified collection and treatment of biological waste varies greatly. Many countries are far from being able to make full use of biological waste. The implementation of an independent biological waste collection and treatment system is sometimes a long and complex process that requires a fully coordinated policy framework and significant financial support.
+description: Discover efficient composting methods for food waste, from traditional techniques to advanced solutions like the GEME bio-composter, which transforms waste into organic fertilizer in under 24 hours.
 keywords:
   - composting
   - food waste

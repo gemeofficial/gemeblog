@@ -1,6 +1,6 @@
 ---
 title: How to avoid stinky compost pile
-description: Discuss a few important tips about composting
+description: Discover simple steps to keep your compost pile odor-free and learn how GEME’s advanced composting system can help eliminate bad smells and accelerate decomposition.
 keywords:
   - composting
 

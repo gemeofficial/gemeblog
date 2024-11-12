@@ -1,6 +1,7 @@
 ---
 title: Compost piles that make plants sick
-description: Discuss a few important tips about composting
+description: Learn which types of diseased plants should be avoided in compost to prevent plant sickness and promote 
+  healthier growth with GEME-Kobold’s bio-enriched composting solutions.
 keywords:
   - composting
 

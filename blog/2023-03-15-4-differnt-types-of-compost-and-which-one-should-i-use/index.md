@@ -1,6 +1,6 @@
 ---
 title: 4 Different Types of Compost and Which One Should I Use?
-description: It is easy for newcomers who do not know much about composting to misunderstand this work, thinking that they just need to put the composting materials together and let them "fend for themselves", but do not realize that composting is also a technical activity. If you want to produce organic compost that is conducive to plant growth, there are three necessary principles you need to master.
+description: Learn about four main types of compost — compost, farmyard manure, green manure, and vermicompost — and discover which one best suits your garden’s needs.
 keywords:
   - composting
   - compost

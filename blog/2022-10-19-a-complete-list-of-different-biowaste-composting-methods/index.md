@@ -1,6 +1,6 @@
 ---
 title: You have garbage? I have the method! A complete list of different bio-waste composting methods
-description: in Europe, the level of classified collection and treatment of biological waste varies greatly. Many countries are far from being able to make full use of biological waste. The implementation of an independent biological waste collection and treatment system is sometimes a long and complex process that requires a fully coordinated policy framework and significant financial support.
+description: Explore effective composting methods for managing bio-waste and contributing to a sustainable environment with this comprehensive guide to home composting practices.
 keywords:
   - composting
   - plant growth
@@ -14,7 +14,7 @@ tags: [composting]
 ![composting material](./img/img.png)
 
 
-n 2020, only the EU produced a total of 225.7 million tons of municipal waste, of which up to 50% of municipal solid
+In 2020, only the EU produced a total of 225.7 million tons of municipal waste, of which up to 50% of municipal solid
 waste is biological waste.
 <!-- truncate -->
 In the European Union as a whole, about 118 to 138 million tons of biological waste are produced each year (2020). 

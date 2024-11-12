@@ -1,6 +1,6 @@
 ---
 title: 3 principles for successful composting
-description: It is easy for newcomers who do not know much about composting to misunderstand this work, thinking that they just need to put the composting materials together and let them "fend for themselves", but do not realize that composting is also a technical activity. If you want to produce organic compost that is conducive to plant growth, there are three necessary principles you need to master.
+description: Discover three essential principles for effective composting to create nutrient-rich organic matter that supports healthy plant growth, with guidance on microbial bacteria, balanced nutrition, and ideal environmental
 keywords:
   - composting
   - plant growth
