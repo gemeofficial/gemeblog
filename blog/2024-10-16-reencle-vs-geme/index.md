@@ -1,6 +1,6 @@
 ---
 title: Reencle vs GEME Composter
-description: A detailed comparison between Reencle and GEME composters to help you choose the best option for sustainable food waste management.
+description: Lomi vs Reencle? A detailed comparison between Reencle and GEME composters to help you choose the best option for sustainable food waste management.
 keywords:
   - Reencle
   - GEME Composter

@@ -5,6 +5,7 @@ keywords:
   - Mill Food Recycler
   - GEME Composter
   - Electric Composter
+  - Lomi vs Mill
 slug: mill-vs-geme-composter
 authors: [lukas]
 tags: [composter]
