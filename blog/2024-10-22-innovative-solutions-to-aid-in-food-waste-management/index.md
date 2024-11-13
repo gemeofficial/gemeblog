@@ -43,7 +43,8 @@ governments, social organizations, and enterprises from all over the world have 
 construct sustainable food circular systems.
 
 
-The forthcoming symposium, "[**Innovative Circular Solutions to Reduce Food Loss and Waste - New York and Brussels, Leading Cities**](https://hub.brussels/en/events/economic-mission-on-food-waste/)" in New York, 
+[//]: # (The forthcoming symposium, "[**Innovative Circular Solutions to Reduce Food Loss and Waste - New York and Brussels, Leading Cities**]&#40;https://hub.brussels/en/events/economic-mission-on-food-waste/&#41;" in New York,)
+The forthcoming symposium, "[**Innovative Circular Solutions to Reduce Food Loss and Waste - New York and Brussels, Leading Cities**](https://lu.ma/xs7trj54)" in New York,
 is an event that has attracted wide attention. 
 It will bring together experts, scholars, entrepreneurs, and policymakers from around the world who are dedicated to solving the 
 food waste problem. At the symposium, GEME will share its successful experiences, innovative technologies, and practical 

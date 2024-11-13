@@ -63,7 +63,7 @@ We will have a detailed commonalities and differences breakdown to compare and c
 At the moment of 26th September, all info of soilkind are from [kicksterter](https://www.kickstarter.com/projects/mykalea/kalea-turns-kitchen-waste-into-real-compost-in-only-48h/comments) and it's official website.
 
 Soilkind was the original called mykalea, somehow it rebrand as Soilkind and under [Karcher](https://www.karcher.com/ph/inside-kaercher/kaercher-stories/make-compost-not-waste.html).
-The origin website mykalea.de(https://www.mykalea.de) is now not accessible.
+The origin website `www.mykalea.de` is now not accessible.
 
 It's always not easy for innovation, and we hope soilkind and make a success and the Kickstarter backers can get satisfied eventually.
 
