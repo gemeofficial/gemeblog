@@ -331,7 +331,7 @@ const config = {
               },
               {
                 label: 'News',
-                to: '/news',
+                to: '/news/',
               },
               {
                 label: 'Blog',
