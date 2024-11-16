@@ -1,12 +1,13 @@
 ---
 title: Lomi vs GEME Composter
 description: Does lomi actually work? Lomi vs Reencle? Compare Lomi and the GEME electric composters to find the best solution for managing organic waste quickly, 
-  efficiently, and sustainably.  
+  efficiently, and sustainably. 
 keywords:
   - Lomi
   - GEME Composter
   - Electric Composter
   - Lomi vs Reencle
+  - Fylecen 4L Electric Composter
 slug: lomi-vs-geme-composter
 authors: [lukas]
 tags: [composter]
