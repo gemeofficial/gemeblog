@@ -210,6 +210,14 @@ const config = {
         theme: {
           customCss: './src/css/custom.css',
         },
+        sitemap: {
+          ignorePatterns: [
+            '/markdown-page',
+            '/search',
+            '/blog/page/**',
+            '/blog/tags/**/page/**',
+          ],
+        },
       }),
     ],
   ],
