@@ -579,7 +579,7 @@ const config = {
       ({
         websiteID: "0b1b665a-0dd2-44f0-a4ac-e033cf76cc97", // Required
         analyticsDomain: "www.geme.bio", // Required
-        scriptName: "assets/thidparties/umami.js", // Optional
+        scriptName: "assets/thirdparties/umami.js", // Optional
         // dataHostURL: "", // Optional
         dataAutoTrack: true, // Optional
         // dataDoNotTrack: true, // Optional
