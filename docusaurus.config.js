@@ -573,6 +573,20 @@ const config = {
       "@gracefullight/docusaurus-plugin-microsoft-clarity",
       { projectId: "kse470k3uv" },
     ],
+    [
+      "@dipakparmar/docusaurus-plugin-umami",
+      /** @type {import('@dipakparmar/docusaurus-plugin-umami').Options} */
+      ({
+        websiteID: "0b1b665a-0dd2-44f0-a4ac-e033cf76cc97", // Required
+        analyticsDomain: "www.geme.bio", // Required
+        // scriptName: "script.js", // Optional
+        // dataHostURL: "", // Optional
+        dataAutoTrack: true, // Optional
+        // dataDoNotTrack: true, // Optional
+        dataCache: true, // Optional
+        // dataDomains: "", // comma separated list of domains, *Recommended*
+      }),
+    ],
     async function myPlugin(context, options) {
       return {
         name: "docusaurus-tailwindcss",
