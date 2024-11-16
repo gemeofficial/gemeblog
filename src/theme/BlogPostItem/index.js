@@ -3,8 +3,8 @@ import { useBlogPost } from "@docusaurus/plugin-content-blog/client";
 import BlogPostItem from '@theme-original/BlogPostItem';
 import GiscusComponent from '@site/src/components/GiscusComponent';
 
-// 给博客文章添加评论 
-// 参考链接：https://rikublock.dev/docs/tutorials/giscus-integration/ 
+// 给博客文章添加评论
+// 参考链接：https://rikublock.dev/docs/tutorials/giscus-integration/
 export default function BlogPostItemWrapper(props) {
   const { metadata, isBlogPostPage } = useBlogPost()
 

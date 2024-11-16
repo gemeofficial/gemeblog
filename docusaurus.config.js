@@ -33,6 +33,13 @@ const config = {
   // SEO scrip tags
   headTags: [
     {
+      tagName: 'meta',
+      attributes: {
+        name: 'description',
+        content: 'GEME is a brand that aims to solve the world class food waste problem, and provide a better agricultural output',
+      },
+    },
+    {
       tagName: 'script',
       attributes: {
         type: 'application/ld+json',
@@ -45,7 +52,7 @@ const config = {
         "legalName": "ROKH",
         "url": "https://www.geme.bio",
         "logo": "https://www.geme.bio/full-logo.png",
-        "description": "GEME is a brand that aims to solve the world class food waste problem, and provide a better argicultural output.",
+        "description": "GEME is a brand that aims to solve the world class food waste problem, and provide a better agricultural output.",
         "sameAs": [
           "https://twitter.com/geme_hi",
           "https://x.com/geme_hi",
