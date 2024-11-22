@@ -269,6 +269,11 @@ const config = {
                 to: 'https://www.geme.bio/industrial-equipments',
                 target: '_self',
               },
+              {
+                label: 'GEME Dots',
+                to: 'https://www.geme.bio/geme-dots',
+                target: '_self',
+              },
             ],
           },
           {
@@ -353,6 +358,16 @@ const config = {
                 to: '/blog',
               },
               {
+                label: 'Creative Hub',
+                to: 'https://www.geme.bio/creative-hub',
+                target: '_self',
+              },
+              {
+                label: 'GEME Referral',
+                to: 'https://www.geme.bio/geme-referral',
+                target: '_self',
+              },
+              {
                 label: 'Community',
                 to: 'https://www.geme.bio/community',
                 target: '_self',
@@ -429,6 +444,10 @@ const config = {
                 label: 'GEME Commercial Composters',
                 to: 'https://www.geme.bio/industrial-equipments',
               },
+              {
+                label: 'GEME Dots',
+                to: 'https://www.geme.bio/geme-dots',
+              },
             ],
           },
           {
@@ -460,8 +479,12 @@ const config = {
                 to: 'https://www.geme.bio/contact',
               },
               {
-                label: 'Business Cooperation',
-                to: 'https://www.geme.bio/cooperation',
+                label: 'Refer a friend',
+                to: 'https://www.geme.bio/geme-referral',
+              },
+              {
+                label: 'Creative Hub',
+                to: 'https://www.geme.bio/creative-hub',
               },
               {
                 label: 'Affiliate ',
@@ -482,7 +505,11 @@ const config = {
               },
               {
                 label: 'Blog',
-                to: 'https://www.geme.bio/blog',
+                to: '/blog',
+              },
+              {
+                label: 'News',
+                to: '/news',
               },
               {
                 label: 'Community',
@@ -491,6 +518,10 @@ const config = {
               {
                 label: 'Media Kit',
                 to: 'https://www.geme.bio/media-kit',
+              },
+              {
+                label: 'Business Cooperation',
+                to: 'https://www.geme.bio/cooperation',
               },
             ],
           },
