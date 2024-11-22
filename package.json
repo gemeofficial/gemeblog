@@ -16,12 +16,12 @@
   },
   "dependencies": {
     "@dipakparmar/docusaurus-plugin-umami": "^2.1.7",
-    "@docusaurus/core": "3.6.1",
-    "@docusaurus/faster": "^3.6.1",
-    "@docusaurus/plugin-content-blog": "^3.6.1",
-    "@docusaurus/plugin-google-tag-manager": "^3.6.1",
-    "@docusaurus/preset-classic": "3.6.1",
-    "@docusaurus/theme-common": "^3.6.1",
+    "@docusaurus/core": "3.6.2",
+    "@docusaurus/faster": "^3.6.2",
+    "@docusaurus/plugin-content-blog": "^3.6.2",
+    "@docusaurus/plugin-google-tag-manager": "^3.6.2",
+    "@docusaurus/preset-classic": "3.6.2",
+    "@docusaurus/theme-common": "^3.6.2",
     "@easyops-cn/docusaurus-search-local": "^0.44.6",
     "@giscus/react": "^3.0.0",
     "@gracefullight/docusaurus-plugin-microsoft-clarity": "^1.0.0",
@@ -58,5 +58,6 @@
   },
   "engines": {
     "node": ">=20.0"
-  }
+  },
+  "packageManager": "pnpm@8.15.5+sha1.a58c038faac410c947dbdb93eb30994037d0fce2"
 }
