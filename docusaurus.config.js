@@ -266,7 +266,16 @@ const config = {
               },
               {
                 label: 'GEME Commercial Composters',
+                // <p class="text-base font-medium text-gray-900">GEME Titans</p><p class="mt-1 text-sm text-gray-500">Commercial Composters</p>
+                // html: '<p class="text-base font-medium text-gray-900">GEME Titans</p><p className="text-sm text-gray-500">Commercial Composters</p>',
                 to: 'https://www.geme.bio/industrial-equipments',
+                target: '_self',
+              },
+              {
+                label: 'GEME Dots',
+                // <p class="text-base font-medium text-gray-900">GEME Titans</p><p class="mt-1 text-sm text-gray-500">Commercial Composters</p>
+                // html: '<p class="text-base font-medium text-gray-900">GEME Titans</p><p className="text-sm text-gray-500">Commercial Composters</p>',
+                to: 'https://www.geme.bio/geme-dots',
                 target: '_self',
               },
             ],
@@ -295,37 +304,53 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: 'https://www.geme.bio/help-center/docs/get-started',
-                target: '_self',
+                to: 'docs/get-started',
               },
               {
                 label: 'FAQ',
-                to: 'https://www.geme.bio/help-center/docs/category/faq',
-                target: '_self',
+                to: 'docs/category/faq',
               },
               {
                 label: 'Shipping & Order',
-                to: 'https://www.geme.bio/help-center/docs/orders-and-shipping',
-                target: '_self',
+                to: 'docs/orders-and-shipping',
               },
               {
                 label: 'Warranty & Return',
-                to: 'https://www.geme.bio/help-center/docs/warranty-and-return',
-                target: '_self',
+                to: 'docs/warranty-and-return',
               },
               {
                 label: 'Repair & Replace',
-                to: 'https://www.geme.bio/help-center/docs/category/repair--replace',
-                target: '_self',
+                to: 'docs/category/repair--replace',
               },
               {
                 label: 'Customer Support',
-                to: 'https://www.geme.bio/help-center/docs/customer-support',
-                target: '_self',
+                to: 'docs/customer-support',
               },
 
             ],
           },
+          // {
+          //   type: 'docSidebar',
+          //   sidebarId: 'tutorialSidebar',
+          //   position: 'left',
+          //   label: 'Help Center',
+          // },
+          // {
+          //   type: 'localeDropdown',
+          //   position: 'right',
+          //   dropdownItemsAfter: [
+          //     {
+          //       to: 'https://github.com/gemeofficial/geme-build-public',
+          //       label: 'Help us translate',
+          //     },
+          //   ],
+          // },
+          // {
+          //   to: '/blog',
+          //   label: 'Blog',
+          //   position: 'left',
+          // },
+
           {
             position: 'left',
             label: 'More',
@@ -346,11 +371,23 @@ const config = {
               },
               {
                 label: 'News',
-                to: '/news/',
+                to: 'https://www.geme.bio/news/',
+                target: '_self',
               },
               {
                 label: 'Blog',
-                to: '/blog',
+                to: 'https://www.geme.bio/blog',
+                target: '_self',
+              },
+              {
+                label: 'Creative Hub',
+                to: 'https://www.geme.bio/creative-hub',
+                target: '_self',
+              },
+              {
+                label: 'GEME Referral',
+                to: 'https://www.geme.bio/geme-referral',
+                target: '_self',
               },
               {
                 label: 'Community',
@@ -429,6 +466,10 @@ const config = {
                 label: 'GEME Commercial Composters',
                 to: 'https://www.geme.bio/industrial-equipments',
               },
+              {
+                label: 'GEME Dots',
+                to: 'https://www.geme.bio/geme-dots',
+              },
             ],
           },
           {
@@ -436,11 +477,11 @@ const config = {
             items: [
               {
                 label: 'Get Started',
-                to: 'https://www.geme.bio/help-center/docs/get-started',
+                to: '/help-center/docs/get-started',
               },
               {
                 label: 'FAQ',
-                to: 'https://www.geme.bio/help-center/docs/category/faq',
+                to: '/help-center/docs/category/faq',
               },
               {
                 label: 'Manual',
@@ -448,7 +489,7 @@ const config = {
               },
               {
                 label: 'Customer Support',
-                to: 'https://www.geme.bio/help-center/docs/customer-support',
+                to: '/help-center/docs/customer-support',
               },
             ],
           },
@@ -460,8 +501,12 @@ const config = {
                 to: 'https://www.geme.bio/contact',
               },
               {
-                label: 'Business Cooperation',
-                to: 'https://www.geme.bio/cooperation',
+                label: 'Refer a friend',
+                to: 'https://www.geme.bio/geme-referral',
+              },
+              {
+                label: 'Creative Hub',
+                to: 'https://www.geme.bio/creative-hub',
               },
               {
                 label: 'Affiliate ',
@@ -485,12 +530,20 @@ const config = {
                 to: 'https://www.geme.bio/blog',
               },
               {
+                label: 'News',
+                to: 'https://www.geme.bio/news',
+              },
+              {
                 label: 'Community',
                 to: 'https://www.geme.bio/community',
               },
               {
                 label: 'Media Kit',
                 to: 'https://www.geme.bio/media-kit',
+              },
+              {
+                label: 'Business Cooperation',
+                to: 'https://www.geme.bio/cooperation',
               },
             ],
           },
@@ -499,28 +552,25 @@ const config = {
             items: [
               {
                 label: 'GEME vs Lomi',
-                to: '/blog/lomi-vs-geme-composter',
+                to: 'https://www.geme.bio/blog/lomi-vs-geme-composter',
                 target: '_self',
               },
               {
                 label: 'GEME vs Mill',
-                to: '/blog/mill-vs-geme-composter',
+                to: 'https://www.geme.bio/blog/mill-vs-geme-composter',
                 target: '_self',
               },
               {
                 label: 'GEME vs Reencle',
-                to: '/blog/reencle-vs-geme-composter',
+                to: 'https://www.geme.bio/blog/reencle-vs-geme-composter',
                 target: '_self',
               },
               {
                 label: 'GEME vs Composting Pile',
-                to: '/blog/traditional-composting-vs-geme-composter',
+                to: 'https://www.geme.bio/blog/traditional-composting-vs-geme-composter',
                 target: '_self',
               },
-              // {
-              //   label: 'GEME Kobold vs EM Starter',
-              //   to: '#',
-              // },
+
             ],
           },
         ],
