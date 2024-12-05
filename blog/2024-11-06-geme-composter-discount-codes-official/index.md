@@ -37,7 +37,7 @@ Dont' forget to singup to get notified  https://www.geme.bio/signup
 | Code                | Status  | Note                                                                      | Time            |
 |:--------------------|:--------|---------------------------------------------------------------------------|-----------------|
 | **\*\*\*\*\*\*\***  | Active  | [signup](https://www.geme.bio/signup) to receive                          | Coming          |
-| **BlackFriday2024** | Active  | [Get It](https://www.geme.bio/product/geme?discount-code=BlackFriday2024) | Nov 29 - Dec 02 |
+| **BlackFriday2024** | Expired  | [Get It](https://www.geme.bio/product/geme?discount-code=BlackFriday2024) | Nov 29 - Dec 02 |
 | **BrownFriday2024** | Expired | [Get It](https://www.geme.bio/product/geme?discount-code=BrownFriday2024) | Nov 21 - Nov 22 |
 | **Veteran**         | Expired | Veteran's Day                                                             | November        |
 | **Halloween**       | Expired | Halloween 2024                                                            | October         |
