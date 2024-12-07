@@ -34,17 +34,17 @@ Dont' forget to singup to get notified  https://www.geme.bio/signup
 ## GEME Composter Discount Codes 
 
 
-| Code                | Status  | Note                                                                      | Time            |
-|:--------------------|:--------|---------------------------------------------------------------------------|-----------------|
-| **\*\*\*\*\*\*\***  | Active  | [signup](https://www.geme.bio/signup) to receive                          | Coming          |
-| **BlackFriday2024** | Expired  | [Get It](https://www.geme.bio/product/geme?discount-code=BlackFriday2024) | Nov 29 - Dec 02 |
-| **BrownFriday2024** | Expired | [Get It](https://www.geme.bio/product/geme?discount-code=BrownFriday2024) | Nov 21 - Nov 22 |
-| **Veteran**         | Expired | Veteran's Day                                                             | November        |
-| **Halloween**       | Expired | Halloween 2024                                                            | October         |
-| **TCD2024**         | Expired | TechCrunch Activity 2024                                                  | October         |
-| **IFA2024**         | Expired | IFA Activity 2024                                                         | September       |
-| **LabourDay2024**   | Expired | US Labour Day 2024                                                        | September       |
-| **Dad**             | Expired | Father's Day 2024                                                         | Jun             |
-| **ThankYouMom**     | Expired | Mother's Day 2024                                                         | May             |
-| **Vesak**           | Expired | Vesak's Day 2024                                                          | May             |
-| **GEMEEarthDay**    | Expired | Mother's Day 2024                                                         | Apirl           |
+| Code                | Status  | Note                                             | Time            |
+|:--------------------|:--------|--------------------------------------------------|-----------------|
+| **\*\*\*\*\*\*\***  | Active  | [signup](https://www.geme.bio/signup) to receive | Coming          |
+| **BlackFriday2024** | Expired  | BlackFriday Sale                                 | Nov 29 - Dec 02 |
+| **BrownFriday2024** | Expired | GEME's Brown Friday Sale                         | Nov 21 - Nov 22 |
+| **Veteran**         | Expired | Veteran's Day                                    | November        |
+| **Halloween**       | Expired | Halloween 2024                                   | October         |
+| **TCD2024**         | Expired | TechCrunch Activity 2024                         | October         |
+| **IFA2024**         | Expired | IFA Activity 2024                                | September       |
+| **LabourDay2024**   | Expired | US Labour Day 2024                               | September       |
+| **Dad**             | Expired | Father's Day 2024                                | Jun             |
+| **ThankYouMom**     | Expired | Mother's Day 2024                                | May             |
+| **Vesak**           | Expired | Vesak's Day 2024                                 | May             |
+| **GEMEEarthDay**    | Expired | Mother's Day 2024                                | Apirl           |
