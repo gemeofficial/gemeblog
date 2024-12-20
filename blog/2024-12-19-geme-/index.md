@@ -10,15 +10,15 @@ keywords:
 slug: geme-ces-2025-las-vegas
 authors: [matthias]
 tags: [geme, ces, news, sustainability, foodwaste]
-picture: https://www.geme.bio/assets/images/ces2025-announcement.png
+picture: http://localhost:3002/assets/images/memento-acb303cbcd194fd9b39b4d611a14cb8e.png
 ---
 
 <head>
     <meta charSet="utf-8" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta data-rh="true" property="og:image" content="https://www.geme.bio/assets/images/ces2025-announcement.png" />
-    <meta data-rh="true" name="twitter:image" content="https://www.geme.bio/assets/images/ces2025-announcement.png"/>
-    <meta data-rh="true" property="og:url" content="https://www.geme.bio/blog/geme-ces-2025-las-vegas"/>
+    <meta data-rh="true" property="og:image" content="http://localhost:3002/assets/images/memento-acb303cbcd194fd9b39b4d611a14cb8e.png" />
+    <meta data-rh="true" name="twitter:image" content="http://localhost:3002/assets/images/memento-acb303cbcd194fd9b39b4d611a14cb8e.png"/>
+    <meta data-rh="true" property="og:url" content="http://localhost:3002/assets/images/memento-acb303cbcd194fd9b39b4d611a14cb8e.png"/>
     <meta data-rh="true" property="og:locale" content="en"/>
 </head>
 
