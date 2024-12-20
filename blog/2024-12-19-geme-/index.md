@@ -101,12 +101,12 @@ commitment to sustainable living and demonstrate how technology can be harnessed
 
 <Columns>
   <Column className='text--left'>
-    ![GEME in Guadeloupe](./img/gdlp2.jpg)
+    ![GEME in Guadeloupe](./img/gdlp2.png)
     **GEME in France**
   </Column>
 
    <Column className='text--left'>
-    ![GEME in Guadeloupe](./img/gdlp.jpg)
+    ![GEME in Guadeloupe](./img/gdlp.png)
     **GEME in Guadeloupe**
   </Column>
 </Columns>
