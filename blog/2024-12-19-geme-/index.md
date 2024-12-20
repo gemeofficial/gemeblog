@@ -118,7 +118,14 @@ GEME invites everyone attending CES 2025 to visit their booth to explore their i
 and discover how composting can contribute to a healthier planet. For more information about GEME’s products and sustainability efforts, 
 visit www.geme.bio or sign up for updates here.
 
+:::info
+Venetian Campus, Venetian Expo, Level 1, Hall G, Eureka Park, 61713
+:::
+
+
 Stay tuned for more updates as GEME prepares for CES 2025. GEME is excited to be part of this groundbreaking event and 
 looks forward to engaging with visitors who share a passion for creating a more sustainable future.
+
+![GEME CES 2025, Venetian Campus, Venetian Expo, Level 1, Hall G, Eureka Park, 61713](./img/img_3.png)
 
 Let me know if you need any adjustments or additional details for this blog!
