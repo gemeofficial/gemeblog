@@ -1,5 +1,5 @@
 ---
-title: 'GEME Composter Discount Code (Official Release)'
+title: 'GEME Composter Discount Code (Official Release, Update Continuously)'
 description: Official announce for GEME Composter discount codes
 keywords:
   - Discount Code
