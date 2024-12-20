@@ -49,3 +49,7 @@ Dont' forget to singup to get notified  https://www.geme.bio/signup
 | **ThankYouMom**     | Expired | Mother's Day 2024                                | May            |
 | **Vesak**           | Expired | Vesak's Day 2024                                 | May            |
 | **GEMEEarthDay**    | Expired | Mother's Day 2024                                | Apirl          |
+
+## Another way to get discount
+
+Ask a friend for a[GEME referral code](https://www.geme.bio/geme-referral), if he/she owns a GEME.
