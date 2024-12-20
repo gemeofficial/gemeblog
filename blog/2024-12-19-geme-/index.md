@@ -38,6 +38,9 @@ The CES event will feature GEME’s latest composting systems that are revolutio
 With a focus on ease of use, efficiency, and sustainability, GEME’s solutions enable individuals and families to 
 reduce their carbon footprint and transform organic waste into nutrient-rich compost.
 
+<!-- truncate -->
+
+
 ![GEME at Las Vegas](./img/lasvegas.png)
 
 “As the world grapples with the mounting challenges of food waste, GEME is committed to providing solutions that not only 
@@ -45,9 +48,6 @@ help reduce waste but also contribute to a more sustainable future,” said GEME
 present our latest innovations at CES 2025, where we can connect with industry leaders, environmental advocates, and consumers 
 who share our vision for a cleaner planet.”
 
-
-
-<!-- truncate -->
 
 ## What GEME Will Showcase at CES 2025
 
