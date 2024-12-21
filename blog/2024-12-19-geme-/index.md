@@ -84,14 +84,9 @@ and responsible waste management.
 commitment to sustainable living and demonstrate how technology can be harnessed to create a more sustainable and circular economy.”
 
 <Columns>
-  <Column className='text--left'>
-    ![GEME for restaurant](./img/man.png)
-    **GEME for restaurant in German**
-  </Column>
-
    <Column className='text--left'>
     ![GEME for farm](./img/woman.png)
-    **GEME for farm in Netherlands**
+    **GEME for restaurant in Netherlands**
   </Column>
 </Columns>
 
@@ -99,6 +94,11 @@ commitment to sustainable living and demonstrate how technology can be harnessed
   <Column className='text--left'>
     ![GEME in Guadeloupe](./img/gdlp2.png)
     **GEME in France**
+  </Column>
+
+  <Column className='text--left'>
+    ![GEME for restaurant](./img/img_4.png)
+    **[GEME Titans](https://www.geme.bio/industrial-equipments) for retail in Belgium**
   </Column>
 
    <Column className='text--left'>
