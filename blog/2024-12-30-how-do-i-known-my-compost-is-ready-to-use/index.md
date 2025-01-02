@@ -10,15 +10,15 @@ keywords:
 slug: how-to-know-compost-ready
 authors: [michael]
 tags: [gardening, composting, soil health, organic gardening, sustainability]
-picture: https://www.geme.bio/assets/images/memento-acb303cbcd194fd9b39b4d611a14cb8e.png
+picture: https://www.geme.bio/assets/images/1-e9a4d07b7def7cd5b62ebd2a06b68f36.png
 ---
 
 <head>
     <meta charSet="utf-8" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta data-rh="true" property="og:image" content="https://www.geme.bio/assets/images/memento-acb303cbcd194fd9b39b4d611a14cb8e.png" />
-    <meta data-rh="true" name="twitter:image" content="https://www.geme.bio/assets/images/memento-acb303cbcd194fd9b39b4d611a14cb8e.png"/>
-    <meta data-rh="true" property="og:url" content="https://www.geme.bio/assets/images/memento-acb303cbcd194fd9b39b4d611a14cb8e.png"/>
+    <meta data-rh="true" property="og:image" content="https://www.geme.bio/assets/images/1-e9a4d07b7def7cd5b62ebd2a06b68f36.png" />
+    <meta data-rh="true" name="twitter:image" content="https://www.geme.bio/assets/images/1-e9a4d07b7def7cd5b62ebd2a06b68f36.png"/>
+    <meta data-rh="true" property="og:url" content="https://www.geme.bio/assets/images/1-e9a4d07b7def7cd5b62ebd2a06b68f36.png"/>
     <meta data-rh="true" property="og:locale" content="en"/>
 </head>
 
