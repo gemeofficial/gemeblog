@@ -34,21 +34,22 @@ Dont' forget to singup to get notified  https://www.geme.bio/signup
 ## GEME Composter Discount Codes 
 
 
-| Code                | Status  | Note                                            | Time           |
-|:--------------------|:--------|-------------------------------------------------|----------------|
-| **\*\*\*\*\*\*\***  | Maybe   | [signup](https://www.geme.bio/signup) to receive | Coming         |
-| **MerryChristmas**  | Expired  | Christmas Sale                                  | Dec 10 - Dec 25 |
-| **BlackFriday2024** | Expired | BlackFriday Sale                                | Nov 29 - Dec 02 |
-| **BrownFriday2024** | Expired | GEME's Brown Friday Sale                        | Nov 21 - Nov 22 |
-| **Veteran**         | Expired | Veteran's Day                                   | November       |
-| **Halloween**       | Expired | Halloween 2024                                  | October        |
-| **TCD2024**         | Expired | TechCrunch Activity 2024                        | October        |
-| **IFA2024**         | Expired | IFA Activity 2024                               | September      |
-| **LabourDay2024**   | Expired | US Labour Day 2024                              | September      |
-| **Dad**             | Expired | Father's Day 2024                               | Jun            |
-| **ThankYouMom**     | Expired | Mother's Day 2024                               | May            |
-| **Vesak**           | Expired | Vesak's Day 2024                                | May            |
-| **GEMEEarthDay**    | Expired | Mother's Day 2024                               | Apirl          |
+| Code                | Status  | Note                                             | Time            |
+|:--------------------|:--------|--------------------------------------------------|-----------------|
+| **\*\*\*\*\*\*\***  | Maybe   | [signup](https://www.geme.bio/signup) to receive | Coming          |
+| **CES**             | Active  | Las Vegas CES Flash Sale                         | Jan 07 - Jan 08 |
+| **MerryChristmas**  | Expired | Christmas Sale                                   | Dec 10 - Dec 25 |
+| **BlackFriday2024** | Expired | BlackFriday Sale                                 | Nov 29 - Dec 02 |
+| **BrownFriday2024** | Expired | GEME's Brown Friday Sale                         | Nov 21 - Nov 22 |
+| **Veteran**         | Expired | Veteran's Day                                    | November        |
+| **Halloween**       | Expired | Halloween 2024                                   | October         |
+| **TCD2024**         | Expired | TechCrunch Activity 2024                         | October         |
+| **IFA2024**         | Expired | IFA Activity 2024                                | September       |
+| **LabourDay2024**   | Expired | US Labour Day 2024                               | September       |
+| **Dad**             | Expired | Father's Day 2024                                | Jun             |
+| **ThankYouMom**     | Expired | Mother's Day 2024                                | May             |
+| **Vesak**           | Expired | Vesak's Day 2024                                 | May             |
+| **GEMEEarthDay**    | Expired | Mother's Day 2024                                | Apirl           |
 
 ## Another way to get discount
 
