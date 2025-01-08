@@ -37,7 +37,8 @@ Dont' forget to singup to get notified  https://www.geme.bio/signup
 | Code                | Status  | Note                                             | Time            |
 |:--------------------|:--------|--------------------------------------------------|-----------------|
 | **\*\*\*\*\*\*\***  | Maybe   | [signup](https://www.geme.bio/signup) to receive | Coming          |
-| **CES**             | Active  | Las Vegas CES Flash Sale                         | Jan 07 - Jan 08 |
+| **CES**             | Active  | Las Vegas CES Sale                               | Jan 08 - Jan 11 |
+| **CES**             | Expired | Las Vegas CES Day One Flash Sale                 | Jan 07 - Jan 08 |
 | **MerryChristmas**  | Expired | Christmas Sale                                   | Dec 10 - Dec 25 |
 | **BlackFriday2024** | Expired | BlackFriday Sale                                 | Nov 29 - Dec 02 |
 | **BrownFriday2024** | Expired | GEME's Brown Friday Sale                         | Nov 21 - Nov 22 |
