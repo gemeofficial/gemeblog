@@ -1,5 +1,5 @@
 ---
-title: "GEME Composter: Revolutionizing Restaurant Food Waste Management on Horecava"
+title: "GEME Composter: Revolutionizing Restaurant Waste Management on Horecava, 6-8 Hours Breakdown Food Scraps"
 description: A revolutionary solution for restaurants to convert food waste into usable compost within 6-8 hours, showcased at Horecava
 keywords:
   - Composting
