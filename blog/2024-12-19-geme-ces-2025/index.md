@@ -10,15 +10,15 @@ keywords:
 slug: geme-ces-2025-las-vegas
 authors: [joey]
 tags: [geme, ces, news, sustainability, foodwaste]
-picture: https://www.geme.bio/assets/images/memento-acb303cbcd194fd9b39b4d611a14cb8e.png
+picture: https://www.geme.bio/assets/images/ces-6b5e9dc266516bb1cc17e19869a3b9af.png
 ---
 
 <head>
     <meta charSet="utf-8" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta data-rh="true" property="og:image" content="https://www.geme.bio/assets/images/memento-acb303cbcd194fd9b39b4d611a14cb8e.png" />
-    <meta data-rh="true" name="twitter:image" content="https://www.geme.bio/assets/images/memento-acb303cbcd194fd9b39b4d611a14cb8e.png"/>
-    <meta data-rh="true" property="og:url" content="https://www.geme.bio/assets/images/memento-acb303cbcd194fd9b39b4d611a14cb8e.png"/>
+    <meta data-rh="true" property="og:image" content="https://www.geme.bio/assets/images/ces-6b5e9dc266516bb1cc17e19869a3b9af.png" />
+    <meta data-rh="true" name="twitter:image" content="https://www.geme.bio/assets/images/ces-6b5e9dc266516bb1cc17e19869a3b9af.png"/>
+    <meta data-rh="true" property="og:url" content="https://www.geme.bio/assets/images/ces-6b5e9dc266516bb1cc17e19869a3b9af.png"/>
     <meta data-rh="true" property="og:locale" content="en"/>
 </head>
 
