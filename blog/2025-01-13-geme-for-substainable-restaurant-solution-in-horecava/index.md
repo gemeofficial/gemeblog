@@ -46,7 +46,7 @@ Moreover, GEME provides a perfect solution to the odor problems associated with 
 <Columns>
   <Column className='text--left'>
     ![GEME's Specialist Viktor Speak](./img/horecava-vik-speach.png)
-    **GEME's Specialist Viktor Speak**
+    **Specialist Viktor Speak**
   </Column>
 
   <Column className='text--center text--left'>
