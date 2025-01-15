@@ -9,15 +9,15 @@ keywords:
 slug: geme-for-restaurant-food-waste-solution-in-horecava
 authors: [joey]
 tags: [geme, composting, news, foodwaste, horecava, sustainability]
-picture: https://www.geme.bio/assets/images/1-e9a4d07b7def7cd5b62ebd2a06b68f36.png
+picture: https://www.geme.bio/assets/images/1-380f5b6038f37bde26045310cef8f4cc.png
 ---
 
 <head>
     <meta charSet="utf-8" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta data-rh="true" property="og:image" content="https://www.geme.bio/assets/images/1-e9a4d07b7def7cd5b62ebd2a06b68f36.png" />
-    <meta data-rh="true" name="twitter:image" content="https://www.geme.bio/assets/images/1-e9a4d07b7def7cd5b62ebd2a06b68f36.png"/>
-    <meta data-rh="true" property="og:url" content="https://www.geme.bio/assets/images/1-e9a4d07b7def7cd5b62ebd2a06b68f36.png"/>
+    <meta data-rh="true" property="og:image" content="https://www.geme.bio/assets/images/1-380f5b6038f37bde26045310cef8f4cc.png" />
+    <meta data-rh="true" name="twitter:image" content="https://www.geme.bio/assets/images/1-380f5b6038f37bde26045310cef8f4cc.png"/>
+    <meta data-rh="true" property="og:url" content="https://www.geme.bio/assets/images/1-380f5b6038f37bde26045310cef8f4cc.png"/>
     <meta data-rh="true" property="og:locale" content="en"/>
 </head>
 

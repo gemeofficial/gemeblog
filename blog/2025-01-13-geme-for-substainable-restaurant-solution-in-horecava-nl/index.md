@@ -18,7 +18,7 @@ picture: https://www.geme.bio/assets/images/1-6276763e3c70801ebf45f764f5daaf9b.p
     <meta data-rh="true" property="og:image" content="https://www.geme.bio/assets/images/1-6276763e3c70801ebf45f764f5daaf9b.png" />
     <meta data-rh="true" name="twitter:image" content="https://www.geme.bio/assets/images/1-6276763e3c70801ebf45f764f5daaf9b.png"/>
     <meta data-rh="true" property="og:url" content="https://www.geme.bio/assets/images/1-6276763e3c70801ebf45f764f5daaf9b.png"/>
-    <meta data-rh="true" property="og:locale" content="en"/>
+    <meta data-rh="true" property="og:locale" content="nl"/>
 </head>
 
 import Columns from '@site/src/components/Columns'
@@ -37,7 +37,6 @@ Voor restaurants biedt de komst van de [GEME voedselafvalcomposteerder](https://
 
 ![GEME RS-BIO-10 for restaurant industrial](./img/img.png)
 
-
 ## Perfecte Oplossing voor Geurproblemen
 
 Bovendien biedt [GEME](https://www.geme.bio/) een perfecte oplossing voor de geurproblemen die gepaard gaan met voedselafval. Uitgerust met een industrieel ontgeuringssysteem werkt de machine zonder onaangename geuren te verspreiden, zelfs in een keukenomgeving. Dit betekent dat restaurants zich geen zorgen meer hoeven te maken over mogelijke geurproblemen door indoor compostering, waardoor een comfortabelere werkomgeving voor het personeel wordt gecreëerd.
@@ -48,7 +47,6 @@ Neem bijvoorbeeld het commerciële model [RS-BIO-10](https://www.geme.bio/indust
 
 ![GEME RS-BIO-10 for restaurant industrial](./img/img_1.png)
 
-
 ## Duurzame Organische Cyclus Biedt Meer Mogelijkheden voor Restaurants(De Kas)
 
 Vanuit het perspectief van de klant zijn de eetgewoonten aanzienlijk veranderd. Gasten zijn niet langer alleen gericht op heerlijk eten; gezonde en traceerbare voedselketens genieten steeds meer de voorkeur. GEME biedt een uitstekende duurzame organische cyclusoplossing voor restaurants met een eigen groente- en fruittuin.
@@ -58,5 +56,3 @@ De eindbeoordeling op praktische inzetbaarheid en compostering waren naar grote 
 ![GEME Composter in restaurant DE Kas](./img/img_2.png)
 
 Bovendien trekken duurzaamheidslabels meer milieubewuste partners aan voor restaurants, zoals samenwerking met voedselleveranciers om organische meststoffen te leveren in ruil voor kortingen op ingrediënten. De duurzame organische cyclus biedt verhoogd potentieel vanuit zowel het perspectief van de klant als de restaurantexploitatie.
-
-
