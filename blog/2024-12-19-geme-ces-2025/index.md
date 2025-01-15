@@ -8,7 +8,7 @@ keywords:
   - Composting
   - Food Waste Management
 slug: geme-ces-2025-las-vegas
-authors: [matthias]
+authors: [joey]
 tags: [geme, ces, news, sustainability, foodwaste]
 picture: https://www.geme.bio/assets/images/memento-acb303cbcd194fd9b39b4d611a14cb8e.png
 ---
