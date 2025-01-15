@@ -26,7 +26,7 @@ import Columns from '@site/src/components/Columns'
 import Column from '@site/src/components/Column'
 import ReactPlayer from 'react-player'
 
-![GEME on CES](./img/memento.png)
+![GEME on CES](./img/ces.png)
 
 ## GEME to Unveil Groundbreaking Food Waste Solutions at CES 2025
 
