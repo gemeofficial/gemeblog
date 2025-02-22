@@ -582,9 +582,9 @@ const config = {
         appId: '7UN4KF34XB',
   
         // Public API key: it is safe to commit it
-        apiKey: '97d66da5199a5d82e40a6be218d57830',
+        apiKey: '34de1f1b5d45846846f58c27b5aa96fd',
   
-        indexName: 'blog-en',
+        indexName: 'www_geme_bio_7un4kf34xb_pages',
   
         // Optional: see doc section below
         contextualSearch: true,
