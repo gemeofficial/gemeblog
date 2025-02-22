@@ -8,7 +8,7 @@ keywords:
   - GEME
 slug: geme-duurzame-restaurant-oplossing-horecava
 authors: [joey]
-tags: [geme, composteren, nieuws, voedselafval, horecava, duurzaamheid]
+tags: [geme, horecava, news]
 picture: https://www.geme.bio/assets/images/1-6276763e3c70801ebf45f764f5daaf9b.png
 ---
 

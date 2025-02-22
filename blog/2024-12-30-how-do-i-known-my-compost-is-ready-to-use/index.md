@@ -9,7 +9,7 @@ keywords:
   - Decomposition
 slug: how-to-know-compost-ready
 authors: [michael]
-tags: [gardening, composting, soil health, organic gardening, sustainability]
+tags: [gardening, composting, sustainability]
 picture: https://www.geme.bio/assets/images/1-e9a4d07b7def7cd5b62ebd2a06b68f36.png
 ---
 

@@ -54,11 +54,16 @@ recycling:
   permalink: /recycling
 
 news:
-  label: 'GEME News'
+  label: "GEME News"
   description: "Follow GEME's activities and updates"
   permalink: /news/
 
 ces:
-  label: 'CES'
+  label: "CES"
   description: "International Consumer Electronics Show"
   permalink: /ces
+
+horecava:
+  label: "Horecava"
+  description: "Dutch annual hospitality trade fair"
+  permalink: /horecava
