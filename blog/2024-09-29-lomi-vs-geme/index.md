@@ -41,7 +41,7 @@ Lomi labeled itself as composter, but it behaves more like a dehydrator, event i
 It heats the food waste to be softer and then uses blade to cut. After hours of repeated work. The food scrap become smaller
 pieces and dry, sometime looks like soil. In their early branding age, they called it compost, but now renamed as dirt or Lomi Earth.
 
-### How dies GEME Composter work?
+### How does GEME Composter work?
 GEME use super efficiency species of [microbes to accessarte the composting process](https://www.geme.bio/how-it-works). Producing real compost.
 
 
