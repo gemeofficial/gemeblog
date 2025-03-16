@@ -67,3 +67,8 @@ horecava:
   label: "Horecava"
   description: "Dutch annual hospitality trade fair"
   permalink: /horecava
+
+seasonal:
+  label: "Seasonal"
+  description: "Seasonal gardening tips and activities throughout the year"
+  permalink: /seasonal
