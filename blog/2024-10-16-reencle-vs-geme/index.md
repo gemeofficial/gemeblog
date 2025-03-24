@@ -71,6 +71,27 @@ GEME is big and design for Europe people with big house, can hold food waste up 
 Reencle is from Korea and most of the Korea families get smaller apartment, hence, its design is much smaller, and cheaper price.
 
 
+## Using after a while(2 weeks)
+
+Both of these too composters do an amazing job for composting most of the food waste. However, when testing with eggshells. 
+It is very different. Reencle shows up with some smoke, which causes testing person serious cough, be careful!
+
+<Columns>
+  <Column className='text--left'>
+    <div className="video__wrapper">
+      <ReactPlayer className="video__player" controls height="100%" url="https://youtu.be/gD-kO5KGkm4" width="100%"/>
+    </div>
+    **GEME**
+  </Column>
+
+  <Column className='text--center text--left'>
+    <div className="video__wrapper">
+      <ReactPlayer className="video__player" controls height="100%" url="https://youtu.be/QJhsOhZgi7A" width="100%"/>
+    </div>
+    **Reencle**
+  </Column>
+</Columns>
+
 ## Microorganism Technology
 
 Both devices rely on microorganism-based technology to break down food waste, 
