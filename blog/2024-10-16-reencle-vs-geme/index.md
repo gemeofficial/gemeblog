@@ -76,6 +76,11 @@ Reencle is from Korea and most of the Korea families get smaller apartment, henc
 Both of these too composters do an amazing job for composting most of the food waste. However, when testing with eggshells. 
 It is very different.
 
+
+  <div className="video__wrapper">
+      <ReactPlayer className="video__player" controls height="100%" url="https://youtu.be/a5Wi8Rkx7ps" width="100%"/>
+  </div>
+
 <Columns>
   <Column className='text--left'>
     <div className="video__wrapper">
