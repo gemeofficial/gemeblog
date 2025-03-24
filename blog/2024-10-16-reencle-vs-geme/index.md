@@ -124,7 +124,7 @@ It's as natrual as using a regular trash bin.
 
 Reencle is modern design and fashion looking, it involves some simple mechanical automation to make it more intelligent.
 It's good, but somehow it violates [Occam's razor](https://en.wikipedia.org/wiki/Occam%27s_razor) principle. 
-It will create some funny moments though.
+It will create some funny moments though(from [Amazon reviews](https://www.amazon.com/gp/customer-reviews/R20WQRDSH2WUZJ/ref=cm_cr_arp_d_rvw_ttl)).
 
 <div className="video__wrapper"><ReactPlayer className="video__player" controls height="100%" url="https://youtu.be/eHi8qMaVw2I" width="100%"/></div>
 
