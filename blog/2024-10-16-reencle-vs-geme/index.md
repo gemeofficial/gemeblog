@@ -74,7 +74,7 @@ Reencle is from Korea and most of the Korea families get smaller apartment, henc
 ## Using after a while(2 weeks)
 
 Both of these too composters do an amazing job for composting most of the food waste. However, when testing with eggshells. 
-It is very different. Reencle shows up with some smoke, which causes testing person serious cough, be careful!
+It is very different.
 
 <Columns>
   <Column className='text--left'>
