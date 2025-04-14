@@ -9,15 +9,15 @@ keywords:
 slug: geme-duurzame-restaurant-oplossing-horecava
 authors: [joey]
 tags: [geme, horecava, news]
-picture: https://www.geme.bio/assets/images/1-6276763e3c70801ebf45f764f5daaf9b.png
+picture: https://www.geme.bio/assets/images/1-380f5b6038f37bde26045310cef8f4cc.png
 ---
 
 <head>
     <meta charSet="utf-8" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta data-rh="true" property="og:image" content="https://www.geme.bio/assets/images/1-6276763e3c70801ebf45f764f5daaf9b.png" />
-    <meta data-rh="true" name="twitter:image" content="https://www.geme.bio/assets/images/1-6276763e3c70801ebf45f764f5daaf9b.png"/>
-    <meta data-rh="true" property="og:url" content="https://www.geme.bio/assets/images/1-6276763e3c70801ebf45f764f5daaf9b.png"/>
+    <meta data-rh="true" property="og:image" content="https://www.geme.bio/assets/images/1-380f5b6038f37bde26045310cef8f4cc.png" />
+    <meta data-rh="true" name="twitter:image" content="https://www.geme.bio/assets/images/1-380f5b6038f37bde26045310cef8f4cc.png"/>
+    <meta data-rh="true" property="og:url" content="https://www.geme.bio/assets/images/1-380f5b6038f37bde26045310cef8f4cc.png"/>
     <meta data-rh="true" property="og:locale" content="nl"/>
 </head>
 
