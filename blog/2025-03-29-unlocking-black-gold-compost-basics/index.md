@@ -41,7 +41,7 @@ This guide is here to change that. We'll cut through the confusion and provide y
 
 You'll learn how to harness the power of compost for visible, beautiful results.
 
-Having consistent access to high-quality compost makes all the difference. This guide focuses on maximizing the benefits of such compost, whether you create it through patient traditional methods or leverage modern innovations, like the [GEME composter](/products/geme), which deliver this nutrient-rich goodness effortlessly right from your kitchen scraps.
+Having consistent access to high-quality compost makes all the difference. This guide focuses on maximizing the benefits of such compost, whether you create it through patient traditional methods or leverage modern innovations, like the [GEME composter](https://www.geme.bio/products/geme), which deliver this nutrient-rich goodness effortlessly right from your kitchen scraps.
 
 Ready to unlock the full potential of your compost and watch your plants flourish like never before? Let's dive in!
 
