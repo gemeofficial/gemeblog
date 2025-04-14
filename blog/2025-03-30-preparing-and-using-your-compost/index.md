@@ -40,7 +40,7 @@ When you first receive your compost from your GEME composter, you're holding a c
 
 <Columns>
     <Column>
-        ![Fresh GEME compost straight from the composter, showing rich dark color and ideal moisture content](./img/compost-from-geme.jpeg)
+        ![Fresh GEME compost straight from the composter, showing rich dark color and ideal moisture content](./img/compost-from-geme.png)
     </Column>
     <Column>
        ![Close-up of GEME compost in hand, demonstrating perfect crumbly texture and moisture level](./img/compost-hand.png)
