@@ -1,5 +1,5 @@
 ---
-title: 'GEME Composter Discount Code (Official Release, Update Continuously)'
+title: "GEME Composter Discount Code (Official Release, Update Continuously)"
 description: Official announce for GEME Composter discount codes
 keywords:
   - Discount Code
@@ -11,6 +11,7 @@ authors: [matthias]
 tags: [geme, composter]
 picture: https://www.geme.bio/assets/images/img-66d84b59ef3429a9d4f5df3cfc1375f8.png
 ---
+
 <head>
     <meta charSet="utf-8" />
     <meta name="twitter:card" content="summary_large_image" />
@@ -27,15 +28,15 @@ import ReactPlayer from 'react-player'
 ![Food Waste Composting](./img/img.png)
 
 GEME's Sales are keep updating. Follow us on Facebook and twitter to get sooner update.
-Dont' forget to singup to get notified  https://www.geme.bio/signup
+Dont' forget to singup to get notified https://www.geme.bio/signup
 
 <!-- truncate -->
 
-## GEME Composter Discount Codes 
-
+## GEME Composter Discount Codes
 
 | Code                | Status  | Note                                             | Time            |
-|:--------------------|:--------|--------------------------------------------------|-----------------|
+| :------------------ | :------ | ------------------------------------------------ | --------------- |
+| **GEMEEarthDay**    | Expired | Earth Day 2025                                   | Apr 20 - Apr 22 |
 | **\*\*\*\*\*\*\***  | Maybe   | [signup](https://www.geme.bio/signup) to receive | Coming          |
 | **CES**             | Expired | Las Vegas CES Sale                               | Jan 08 - Jan 11 |
 | **CES**             | Expired | Las Vegas CES Day One Flash Sale                 | Jan 07 - Jan 08 |
@@ -50,7 +51,7 @@ Dont' forget to singup to get notified  https://www.geme.bio/signup
 | **Dad**             | Expired | Father's Day 2024                                | Jun             |
 | **ThankYouMom**     | Expired | Mother's Day 2024                                | May             |
 | **Vesak**           | Expired | Vesak's Day 2024                                 | May             |
-| **GEMEEarthDay**    | Expired | Mother's Day 2024                                | Apirl           |
+| **GEMEEarthDay**    | Expired | Earth Day 2024                                   | Apirl           |
 
 ## Another way to get discount
 
