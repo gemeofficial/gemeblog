@@ -72,3 +72,18 @@ seasonal:
   label: "Seasonal"
   description: "Seasonal gardening tips and activities throughout the year"
   permalink: /seasonal
+
+climate:
+  label: "Climate"
+  description: "Discussions and solutions related to climate change"
+  permalink: /climate
+
+coe-groen:
+  label: "CoE Groen"
+  description: "Center of Expertise Groen activities and collaborations"
+  permalink: /coe-groen
+
+food-waste:
+  label: "Food Waste"
+  description: "Food waste management and solutions"
+  permalink: /food-waste
