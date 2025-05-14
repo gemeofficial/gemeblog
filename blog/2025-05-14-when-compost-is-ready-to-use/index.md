@@ -1,5 +1,5 @@
 ---
-title: "When Compost is Ready to Use? Here's A Practical Guide for You"
+title: "When Compost is Ready to Use?"
 description: Your compost is likely ready when it is dark and crumbly, earthy smell, volume reduced and close to ambient temperature. Here's a guide to determining when compost is ready to use and has fully matured for garden application.
 keywords:
   - When compost is ready
