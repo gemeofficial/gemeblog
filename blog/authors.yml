@@ -1,0 +1,59 @@
+endi:
+  name: Endilie Yacop Sucipto
+  title: Maintainer of Docusaurus
+  url: https://github.com/endiliey
+  image_url: https://github.com/endiliey.png
+
+yangshun:
+  name: Yangshun Tay
+  title: Front End Engineer @ Facebook
+  url: https://github.com/yangshun
+  image_url: https://github.com/yangshun.png
+
+slorber:
+  name: Sébastien Lorber
+  title: Docusaurus maintainer
+  url: https://sebastienlorber.com
+  image_url: https://github.com/yangshun.png
+
+lukas:
+  name: Lukas
+  title: Editor
+  image_url: /img/authors/lukas.png
+
+matthias:
+  name: Matthias
+  title: Creator
+
+jules:
+  name: Jules
+  title: Tech Writer
+
+emma:
+  name: Emma
+  title: Writer, Plant Lover, 3 kids Mother
+  image_url: /img/authors/emma.png
+
+marie:
+  name: Marie
+  title: Tech Writer
+
+joey:
+  name: Joey
+  title: Publicist, Plants Lover, Stray Dog Keeper
+  image_url: /img/authors/joey.png
+
+michael:
+  name: Michael
+  title: Microbiologist, Tech Writer
+  image_url: /img/authors/micheal.png
+
+viktor:
+  name: Michael
+  title: Marketing Specialist
+  image_url: /img/authors/micheal.png
+
+Moore:
+  name: Moore
+  title: Tech Writer,Gardening Lover
+  image_url: /img/authors/Moore.jpg

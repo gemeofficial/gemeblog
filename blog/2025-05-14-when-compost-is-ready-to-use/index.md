@@ -10,23 +10,18 @@ keywords:
 slug: when-compost-is-ready-to-use
 authors: [Moore]
 tags: [gardening, composting, sustainability]
-picture: https://www.geme.bio/assets/images/1-e9a4d07b7def7cd5b62ebd2a06b68f36.png
 ---
 
-<head>
-    <meta charSet="utf-8" />
+<head >
+    <!--meta charSet="utf-8" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta data-rh="true" property="og:image" content="https://www.geme.bio/assets/images/1-e9a4d07b7def7cd5b62ebd2a06b68f36.png" />
-    <meta data-rh="true" name="twitter:image" content="https://www.geme.bio/assets/images/1-e9a4d07b7def7cd5b62ebd2a06b68f36.png"/>
-    <meta data-rh="true" property="og:url" content="https://www.geme.bio/assets/images/1-e9a4d07b7def7cd5b62ebd2a06b68f36.png"/>
-    <meta data-rh="true" property="og:locale" content="en"/>
-</head>
+    <meta data-rh="true" name="twitter:image" content="https://www.geme.bio/assets/images/1-e9a4d07b7def7cd5b62ebd2a06b68f36.png" />
+    <meta data-rh="true" property="og:url" content="https://www.geme.bio/assets/images/1-e9a4d07b7def7cd5b62ebd2a06b68f36.png" />
+    <meta data-rh="true" property="og:locale" content="en"/-->
+</head> 
 
-import Columns from '@site/src/components/Columns'
-import Column from '@site/src/components/Column'
-import ReactPlayer from 'react-player'
-
-![Diverse microorganisms under microscope](/blog/2025-05-14-when-compost-is-ready-to-use/img/compost-is-ready.png)
+![Compost is ready](./img/compost-is-ready.png)
 
 Knowing when compost is ready to use is a bit like knowing when a cake is baked. There are some telltale signs to look for.
 
@@ -38,25 +33,29 @@ Knowing when compost is ready to use is a bit like knowing when a cake is baked.
 
 Your compost is likely ready when it shows these characteristics:
 
-### Dark and Crumbly
+### 1. Dark and Crumbly
 
 Finished compost resembles rich, dark brown soil. It should be loose and crumbly in texture.
-![dark and crumbly compost](/blog/2025-05-14-when-compost-is-ready-to-use/img/rich-compost.png)
 
-### Earthy Smell
+![Rich compost](./img/rich-compost.png) 
+
+### 2. Earthy Smell
 
 It should have a pleasant, earthy aroma, like the forest floor. No foul odors!
-![earthy smell compost](/blog/2025-05-14-when-compost-is-ready-to-use/img/compost-smell.png)
 
-### Reduced Volume
+![compost smell](./img/compost-smell.png) 
+
+### 3. Reduced Volume
 
 The volume of your compost pile should have significantly reduced, about half its original size.
-![reduced volume](/blog/2025-05-14-when-compost-is-ready-to-use/img/compost-volume.png)
 
-### Cool Temperature
+![compost colume](./img/compost-volume.png) 
+
+### 4. Cool Temperature
 
 The compost pile should no longer feel warm, indicating that most of the decomposition is complete.
-![cool temperature](/blog/2025-05-14-when-compost-is-ready-to-use/img/compost-temperature.png)
+
+![compost temperature](./img/compost-temperature.png) 
 
 ## Testing Your Compost's Readiness
 
@@ -80,17 +79,19 @@ If you're still unsure, you can do a simple germination test. Plant a few seeds 
 
 Remember that even when your compost appears ready, it's good practice to let it cure for a few extra weeks to ensure it's fully matured. This extra time allows beneficial microorganisms to complete their work and creates an even better product for your garden.
 
-![](/blog/2025-05-14-when-compost-is-ready-to-use/img/compost-for-garden.png)
+![compost for garden](./img/compost-for-garden.png) 
 
 With these guidelines, you can confidently determine when your compost is ready to use and make the most of your composting efforts!
 
 ## Related Articles
 
 - [How to Use Compost](/blog/how-to-use-compost)
+<!-- truncate -->
 - [4 Different Types of Compost and Which One Should I Use](/blog/4-differnt-types-of-compost-and-which-one-should-i-use)
+<!-- truncate -->
 - [Prerequisites for Successful Composting](/blog/prerequisites-for-successful-composting)
+<!-- truncate -->
 
 ---
 
 _Ready to transform your gardening game? Subscribe to our [newsletter](http://geme.bio/signup) for expert composting tips and sustainable gardening advice._
-

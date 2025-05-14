@@ -13,6 +13,8 @@ import Column from '@site/src/components/Column'
 
 GEME recently participated in the "Soil, Water and Climate in Balance" symposium, organized by CoE Groen – the Centre of Expertise for the green domain in the Netherlands. The event brought together experts from research, education, policy-making, and entrepreneurship to discuss the complex challenges facing agriculture, water systems, and climate change, emphasizing solutions through knowledge-sharing, practice-based innovation, and collaborative action.
 
+<!-- truncate -->
+
 ![GEME at CoE Groen Symposium - Lecture session](./img/p4.jpg)
 
 CoE Groen is a unique collaboration of four Dutch universities of applied sciences, forming a leading research and education coalition for the green sector. Their focus areas include sustainable food systems, biodiversity, climate adaptation, circular agriculture, and ecosystem restoration. What makes CoE Groen special is its strong connection between research, education, and practice, supporting projects that not only generate academic knowledge but also provide direct, practical impact for farmers, local governments, entrepreneurs, and communities.
