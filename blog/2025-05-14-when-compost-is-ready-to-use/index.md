@@ -93,3 +93,4 @@ With these guidelines, you can confidently determine when your compost is ready 
 ---
 
 _Ready to transform your gardening game? Subscribe to our [newsletter](http://geme.bio/signup) for expert composting tips and sustainable gardening advice._
+
