@@ -81,6 +81,11 @@ The composition of garden soil is a complex interplay of mineral particles, orga
 Compost is **decomposed organic matter**. It's nature's way of recycling, transforming kitchen scraps, yard waste, and other organic materials into a nutrient-rich soil amendment. 
 
 ![garden soil vs compost](./img/garden-compost-is-easy-to-make-by-geme-composter.webp) 
+<video width="960" height="720" controls>
+  <source url="https://www.youtube.com/embed/PRgYEdy3ewo?autoplay=1&controls=0&modestbranding=1&loop=1&autohide=1&mute=0&playsinline=1&rel=0&showinfo=0&playlist=PRgYEdy3ewo&enablejsapi=1&origin=https%3A%2F%2Fwww.geme.bio&widgetid=16&forigin=https%3A%2F%2Fwww.geme.bio%2Fproduct%2Fgeme&aoriginsup=1&vf=3" type="video/mp4">
+</video>
+
+<p>How to make garden compost</p>
 
 ### Composition of Compost
 
