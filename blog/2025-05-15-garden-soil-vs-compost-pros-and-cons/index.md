@@ -1,5 +1,5 @@
 ---
-title: "Garden Soil VS Compost - What Are Their Pros & Cons?"
+title: "Garden Soil VS Compost - What Are Their Pros and Cons?"
 description: Unsure whether to use garden soil or compost for your garden plants? This comprehensive guide breaks down the pros and cons of garden soil vs compost, helping you choose the best option for a thriving garden.
 keywords:
   - Garden soil vs compost
@@ -7,7 +7,7 @@ keywords:
   - Garden soil or compost
   - Soil for garden
   - Garden soil and compost
-slug: garden-soil-vs-compost-pro-&-cons
+slug: garden-soil-vs-compost-pro-and-cons
 authors: [Moore]
 tags: [gardening, compost, plant, sustainability]
 ---
@@ -82,13 +82,14 @@ Compost is **decomposed organic matter**. It's nature's way of recycling, transf
 
 ![garden soil vs compost](./img/garden-compost-is-easy-to-make-by-geme-composter.webp) 
 
-<div className="video__wrapper">
-            <ReactPlayer
-                className="video__player"
-                controls height="100%"
-                url="https://www.youtube.com/embed/PRgYEdy3ewo?autoplay=1&controls=0&modestbranding=1&loop=1&autohide=1&mute=0&playsinline=1&rel=0&showinfo=0&playlist=PRgYEdy3ewo&enablejsapi=1&origin=https%3A%2F%2Fwww.geme.bio&widgetid=16&forigin=https%3A%2F%2Fwww.geme.bio%2Fproduct%2Fgeme&aoriginsup=1&vf=3" width="100%"
-            />
-</div>
+   <iframe
+     width="560"
+     height="315"
+     src="https://www.youtube.com/embed/PRgYEdy3ewo?autoplay=1&controls=0&modestbranding=1&loop=1&autohide=1&mute=0&playsinline=1&rel=0&showinfo=0&playlist=PRgYEdy3ewo&enablejsapi=1&origin=https%3A%2F%2Fwww.geme.bio&widgetid=16&forigin=https%3A%2F%2Fwww.geme.bio%2Fproduct%2Fgeme&aoriginsup=1&vf=3"
+     frameborder="0"
+     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+     allowfullscreen
+   ></iframe>
 **A composter making garden compost**
 
 ### Composition of Compost
