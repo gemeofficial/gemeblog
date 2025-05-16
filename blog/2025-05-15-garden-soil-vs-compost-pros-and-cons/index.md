@@ -128,10 +128,10 @@ Here are reliable ways to check if your compost is ready:
 
 ### Ideal Applications for Compost
 
-1. Soil Amendment: Mix compost into garden soil to improve its fertility, structure, and water-holding capacity.
-2. Top Dressing: Apply a layer of compost around plants to provide a slow-release source of nutrients.
-3. Potting Mix Ingredient: Add compost to potting mixes to improve drainage and fertility.
-4. Compost Tea: Brew compost tea to create a liquid fertilizer that can be sprayed on plants.
+1. **Soil Amendment**: Mix compost into garden soil to improve its fertility, structure, and water-holding capacity.
+2. **Top Dressing**: Apply a layer of compost around plants to provide a slow-release source of nutrients.
+3. **Potting Mix Ingredient**: Add compost to potting mixes to improve drainage and fertility.
+4. **Compost Tea**: Brew compost tea to create a liquid fertilizer that can be sprayed on plants.
 
 ## Garden Soil vs Compost: Key Differences
 
