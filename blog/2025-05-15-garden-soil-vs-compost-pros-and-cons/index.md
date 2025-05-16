@@ -25,7 +25,7 @@ Often, gardeners find themselves pondering the age-old question: garden soil vs
 
 This comprehensive guide will delve into the intricacies of each, equipping you with the knowledge to make informed decisions for your specific gardening needs. We'll explore their composition, advantages, disadvantages, ideal applications, and how to use them effectively to cultivate a thriving and vibrant garden.
 
-![Garden soil vs compost](./img/garden-soil-or-compost.jpg) 
+![Garden soil vs compost](./img/garden-soil-vs-compost.webp) 
 
 <!-- truncate -->
 
@@ -83,14 +83,13 @@ Compost is **decomposed organic matter**. It's nature's way of recycling, transf
 ![garden soil vs compost](./img/garden-compost-is-easy-to-make-by-geme-composter.webp) 
 
    <iframe
-     width="560"
-     height="315"
+     width="720"
+     height="540"
      src="https://www.youtube.com/embed/PRgYEdy3ewo?autoplay=1&controls=0&modestbranding=1&loop=1&autohide=1&mute=0&playsinline=1&rel=0&showinfo=0&playlist=PRgYEdy3ewo&enablejsapi=1&origin=https%3A%2F%2Fwww.geme.bio&widgetid=16&forigin=https%3A%2F%2Fwww.geme.bio%2Fproduct%2Fgeme&aoriginsup=1&vf=3"
      frameborder="0"
      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
      allowfullscreen
    ></iframe>
-**A composter making garden compost**
 
 ### Composition of Compost
 
@@ -204,7 +203,7 @@ Regardless of whether you choose garden soil or compost, here are some additiona
 
 In the debate of **garden soil vs compost**, the most effective strategy often lies in recognizing their complementary roles. Garden soil provides the foundational structure, while compost injects the vital nutrients and beneficial properties that fuel plant growth. By understanding the pros and cons of each and utilizing them in conjunction, gardeners can create a thriving ecosystem that supports healthy, vibrant plants. Whether you're a seasoned gardener or just a beginner, mastering the art of soil amendment with compost is a key step towards cultivating a flourishing garden.
 
-![compost for garden](./img/compost-for-garden.png) 
+
 
 ## Related Articles
 
