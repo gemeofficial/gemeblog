@@ -120,7 +120,7 @@ Here are reliable ways to check if your compost is ready:
 ## Cons of Compost
 
 1. Can Be Expensive: Buying pre-made compost can be more expensive than buying garden soil. 
-2. May Contain Weed Seeds **When Homemade**: If not properly composted by yourself, compost can contain weed seeds. However，buying a composter could resolve this issue.
+2. May Contain Weed Seeds **When Homemade**: If not properly composted by yourself, compost can contain weed seeds. **However, buying a composter could resolve this issue**.
 3. Not a Standalone Growing Medium: Compost alone doesn't provide enough structure for most plants.
 
 ![garden compost homemade](./img/garden-compost-homemade.jpg) 
