@@ -1,6 +1,6 @@
 ---
 title: Reencle vs GEME Composter
-description: Lomi vs Reencle? A detailed comparison between Reencle and GEME composters to help you choose the best option for sustainable food waste management.
+description: Reencle vs GEME composter? A detailed comparison between Reencle and GEME composter to help you choose the best one for sustainable food waste management.
 keywords:
   - Reencle
   - GEME Composter
@@ -8,7 +8,7 @@ keywords:
 slug: reencle-vs-geme-composter
 authors: [lukas]
 tags: [composter]
-picture: https://www.geme.bio/assets/images/geme-vs-reencle-63804f34b568a2a8f9335bd94054e0a1.png
+picture: ![Geme composter vs Reencle electric composter](./img/geme-composter-vs-reencle-composter.jpg) 
 ---
 
 <head>
@@ -32,8 +32,21 @@ Well, so far, there are only two brands offer microbe based electric composter h
 
 The other brands mostly using dehydrating technology as food recycler, but not composters.
 
-However, there are still some difference that make GEME different from Reencle composter.
-This article compares the two in detail to help you make an informed decision.
+However, there are still some difference that make GEME different from Reencle composter. This article compares the two in detail to help you make an informed decision.
+
+## Table of Content ## 
+
+[**1. Different Features Between Reencle & GEME Composter**](#commonalities-and-differences-between-reencle-and-geme-composter)
+
+[**2. First Impression of the Two Composters**](#first-impression)
+
+[**3. Testing These Electric Composters**](#using-after-a-while2-weeks)
+
+[**4. Microorganism Technology**](#microorganism-technology)
+
+[**5. Marketing of These Electric Composters**](#marketing-strategy)
+
+[**6. Product Philosophy**](#product-philosophy)
 
 <!-- truncate -->
 
@@ -100,8 +113,8 @@ It is very different.
 
 ## Microorganism Technology
 
-Both devices rely on microorganism-based technology to break down food waste,
-but GEME offers a more versatile system capable of handling a wider variety of waste, including meat, dairy, and manure.
+Both devices rely on microorganism-based technology to break down food waste, but GEME offers a more versatile system capable of handling a wider variety of waste, including meat, dairy, and manure.
+
 Reencle is slightly more limited, focusing more on vegetable and fruit waste.
 
 GEME's microbe are refined from nature. No gene editing involved.
@@ -112,18 +125,16 @@ Reencle did not mention it's origin, and it's testing report is in Korea standar
 ## Marketing Strategy
 
 GEME is a Belgium brand and marketed as a high-end, large-capacity composter for eco-conscious users or small businesses.
+
 Its price reflects the robust technology and versatility in handling diverse types of waste.
 
 Reencle is from Korea, positioned as an affordable, compact option for smaller households looking for a simple, effective food recycling solution.
 
 ## Product Philosophy
 
-GEME is designed by technical staff and engineers, it follow the Unix design philosophy, [KISS](https://en.wikipedia.org/wiki/KISS_principle),
-similar like Apple product, it will treat people in zero knowledge assumption, building the product super easy to use while hiding
-the complexity under the background.
+GEME is designed by technical staff and engineers, it follow the Unix design philosophy, [KISS](https://en.wikipedia.org/wiki/KISS_principle), similar like Apple product, it will treat people in zero knowledge assumption, building the product super easy to use while hiding the complexity under the background.
 
-So far, GEME composter is popular and loved by people from 3 years old kids to 80+ aged people.
-It's as natrual as using a regular trash bin.
+So far, GEME composter is popular and loved by people from 3 years old kids to 80+ aged people. It's as natrual as using a regular trash bin.
 
 Reencle is modern design and fashion looking, it involves some simple mechanical automation to make it more intelligent.
 It's good, but somehow it violates [Occam's razor](https://en.wikipedia.org/wiki/Occam%27s_razor) principle.
@@ -133,11 +144,11 @@ It will create some funny moments though(from [Amazon reviews](https://www.amazo
 
 ## Summary
 
-Both the Reencle and GEME composters provide excellent solutions for reducing food waste, but they target different user needs:
+Both Reencle and GEME composters provide excellent solutions for reducing food waste, but they target different user needs:
 
 - The **GEME Composter** excels in capacity, continuous operation, and its ability to handle tougher materials like meat,
-  dairy, and even pet poo and manure. It is well-suited for larger families or small businesses like restaurants, inns and hotels,
-  looking for a robust composting methods for sustainable solution.
+  dairy, and even pet poo and manure. It is well-suited for larger families or small businesses like restaurants, inns and hotels, looking for a robust composting methods for sustainable solution.
+
 - The **Reencle Composter** is better suited for smaller households with less food waste. It is more affordable,
   though it requires more maintenance, such as filter replacements.
 
