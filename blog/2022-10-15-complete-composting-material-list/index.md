@@ -1,25 +1,25 @@
 ---
-title: Complete composting material list
-description: Any substance that contains biodegradable carbon can be used to make compost. However, not all substances are suitable for making your own compost in your home garden. The following is a list of materials that are suitable as well as unsuitable for home composting.
+title: Complete Composting Material List
+description: Any substance that contains biodegradable carbon can be used as composting material for plant growth. However, not all substances are suitable for making your own compost in your garden. The following is a list of materials that are suitable as well as unsuitable for home composting.
 keywords:
   - composting
   - plant growth
 slug: complete-composting-material-list
 authors: [emma]
 tags: [composting]
-image: ./img/img.png
+image: ./img/plant-growth.png
 ---
 
 # Complete composting material list
 
-![composting material](./img/img.png)
+![composting material](./img/plant-growth.png)
 
 Any substance that contains biodegradable carbon can be used to make compost. However, not all substances are suitable 
 for making your own compost in your home garden. The following is a list of materials that are suitable as well as 
 unsuitable for home composting.
 
 <!-- truncate -->
-## Suitable materials
+## Suitable materials for composting
 
 ### Grass clippings
 
@@ -38,7 +38,7 @@ and fresh wood chips.
 
 ### Leaves
 
-Leaves are one of the most important composting materials in the garden.
+Leaves are one of the most important composting materials in the garden, which provide enough nutritions for plant growth.
 
 
 #### Some types of leaves can be more difficult to decompose, such as
@@ -103,7 +103,7 @@ newspapers, and cardboard including egg cartons and trays of fruits and vegetabl
 For sanitary reasons, only bedding for small herbivores can be used for composting, provided it is plant-based 
 (e.g. wood or straw bedding).
 
-All available granular bedding is not compostable. Unless these bedding materials are specifically stated to be 
+All available granular bedding is not for composting. Unless these bedding materials are specifically stated to be 
 biodegradable, they should be placed in the black residual waste collection bin.
 
 Bedding from animals such as rabbits, hamsters, and birds can be used for composting, but the bedding and manure should 
@@ -120,7 +120,7 @@ the mineral content. Wood ash should be well mixed with other materials.
 Large amounts of wood ash should not be used in homemade compost, as the accumulation of heavy metals in wood ash can 
 also lead to increased levels of heavy metals in the compost.
 
-## Materials that should not be used
+## Materials that should not be used for composting
 
 Diseased plant parts (should be placed in the organic waste bin)
 
