@@ -178,11 +178,7 @@ The best approach is often to use garden soil and compost together. Here's how:
 ## Specific Ratios and Application Tips
 
 - **Vegetable Gardens**: Amend garden soil with a generous amount of compost (up to 50% by volume) to provide the nutrients needed for healthy vegetable growth.
-<<<<<<< HEAD
 - **Flower Bed**: Amend garden soil with compost to improve drainage and fertility. A ratio of 1 part compost to 3 parts garden soil is generally sufficient.
-=======
-- **Flower Bed**s\*\*: Amend garden soil with compost to improve drainage and fertility. A ratio of 1 part compost to 3 parts garden soil is generally sufficient.
->>>>>>> 28b48238f004008eb1134451c6c53db618b17d1d
 - **Lawns**: Top dress lawns with a thin layer of compost in the spring or fall to improve soil health and promote lush growth.
 - **Potted Plants**: Use a potting mix that contains a blend of garden soil, compost, and other ingredients like perlite or vermiculite.
 

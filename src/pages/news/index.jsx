@@ -30,7 +30,10 @@ export default function News() {
   const newsTags = getNewsTags(newsBlogData);
 
   return (
-    <Layout title={`${siteConfig.title}`} description="Geme News">
+    <Layout
+      title="GEME Latest News"
+      description="Get the latest news and updates about GEME"
+    >
       <main
         className={clsx(
           "container margin-vert--lg md:max-w-xl lg:max-w-3xl xl:max-w-5xl 2xl:max-w-7xl",
