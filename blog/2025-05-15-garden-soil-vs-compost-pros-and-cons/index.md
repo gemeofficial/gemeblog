@@ -29,6 +29,22 @@ This comprehensive guide will delve into the intricacies of each, equipping you 
 
 <!-- truncate -->
 
+**Table of Content**
+
+[1. What is Garden Soil?](#what-is-garden-soil)
+
+[2. Pros and Cons of Garden Soil](#pros-of-garden-soil)
+
+[3. What is Compost?](#what-is-compost)
+
+[4. Pros and Cons of Compost](#pros-of-compost)
+
+[5. Garden Soil VS Compost](#garden-soil-vs-compost-key-differences)
+
+[6. How to Use Garden Soil and Compost?](#how-to-use-garden-soil-and-compost-effectively)
+
+[7. Which is better? Garden Soil or Compost?](#choosing-the-right-option-for-your-needs)
+
 ## What is Garden Soil?
 
 Garden soil, at its most basic, is the native soil found in your garden. However, when we talk about "garden soil" in the context of buying it, we usually refer to a soil mix specifically formulated for planting.
@@ -161,7 +177,7 @@ The best approach is often to use garden soil and compost together. Here's how:
 ## Specific Ratios and Application Tips
 
 - **Vegetable Gardens**: Amend garden soil with a generous amount of compost (up to 50% by volume) to provide the nutrients needed for healthy vegetable growth.
-- **Flower Bed**s**: Amend garden soil with compost to improve drainage and fertility. A ratio of 1 part compost to 3 parts garden soil is generally sufficient.
+- **Flower Bed**: Amend garden soil with compost to improve drainage and fertility. A ratio of 1 part compost to 3 parts garden soil is generally sufficient.
 - **Lawns**: Top dress lawns with a thin layer of compost in the spring or fall to improve soil health and promote lush growth.
 - **Potted Plants**: Use a potting mix that contains a blend of garden soil, compost, and other ingredients like perlite or vermiculite.
 
