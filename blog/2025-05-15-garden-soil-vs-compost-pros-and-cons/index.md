@@ -12,6 +12,8 @@ authors: [Moore]
 tags: [gardening, compost, plant, sustainability]
 ---
 
+import ReactPlayer from 'react-player'
+
 <head >
     <!--meta charSet="utf-8" />
     <meta name="twitter:card" content="summary_large_image" />
@@ -19,13 +21,13 @@ tags: [gardening, compost, plant, sustainability]
     <meta data-rh="true" name="twitter:image" content="https://www.geme.bio/assets/images/1-e9a4d07b7def7cd5b62ebd2a06b68f36.png" />
     <meta data-rh="true" property="og:url" content="https://www.geme.bio/assets/images/1-e9a4d07b7def7cd5b62ebd2a06b68f36.png" />
     <meta data-rh="true" property="og:locale" content="en"/-->
-</head> 
+</head>
 
-Often, gardeners find themselves pondering the age-old question: garden soil vs compost? Choosing the right medium for your plants is crucial for a flourishing garden. While both play vital roles, they possess distinct characteristics, benefits, and drawbacks. 
+Often, gardeners find themselves pondering the age-old question: garden soil vs compost? Choosing the right medium for your plants is crucial for a flourishing garden. While both play vital roles, they possess distinct characteristics, benefits, and drawbacks.
 
 This comprehensive guide will delve into the intricacies of each, equipping you with the knowledge to make informed decisions for your specific gardening needs. We'll explore their composition, advantages, disadvantages, ideal applications, and how to use them effectively to cultivate a thriving and vibrant garden.
 
-![Garden soil vs compost](./img/garden-soil-vs-compost.webp) 
+![Garden soil vs compost](./img/garden-soil-vs-compost.webp)
 
 <!-- truncate -->
 
@@ -33,7 +35,7 @@ This comprehensive guide will delve into the intricacies of each, equipping you 
 
 Garden soil, at its most basic, is the native soil found in your garden. However, when we talk about "garden soil" in the context of buying it, we usually refer to a soil mix specifically formulated for planting.
 
-![Garden soil for garden](./img/Soil-for-garden.jpg) 
+![Garden soil for garden](./img/Soil-for-garden.jpg)
 
 ### Composition of Garden Soil
 
@@ -46,7 +48,7 @@ The composition of garden soil is a complex interplay of [mineral particles](htt
 - **Water**: Essential for plant growth, dissolving nutrients and transporting them to the roots.
 - **Air**: Necessary for [root respiration](https://pubmed.ncbi.nlm.nih.gov/33058350/) and the activity of beneficial soil organisms.
 
-![when garden soil vs compost](./img/when-garden-soil-vs-compost.jpg) 
+![when garden soil vs compost](./img/when-garden-soil-vs-compost.jpg)
 
 ## Pros of Garden Soil
 
@@ -55,7 +57,7 @@ The composition of garden soil is a complex interplay of [mineral particles](htt
 3. **Provides Structure**: The mineral content provides a stable base for plants to anchor their roots.
 4. **Versatility**: Suitable for a wide range of plants, depending on the specific mix.
 
-![compost for garden](./img/compost-for-garden.png) 
+![compost for garden](./img/compost-for-garden.png)
 
 ## Cons of Garden Soil
 
@@ -65,7 +67,7 @@ The composition of garden soil is a complex interplay of [mineral particles](htt
 4. **Nutrient Deficiencies**: Garden soil may lack essential nutrients, requiring supplementation with fertilizers.
 5. **May Contain Pests/Diseases**: Garden soil can harbor weed seeds, pests, and diseases.
 
-![soil for garden may cause diseases](./img/soil-for-garden-may-cause-diseases.jpg) 
+![soil for garden may cause diseases](./img/soil-for-garden-may-cause-diseases.jpg)
 
 ### Ideal Applications for Garden Soil
 
@@ -74,22 +76,21 @@ The composition of garden soil is a complex interplay of [mineral particles](htt
 - Lawns: Used as a base for establishing new lawns or repairing damaged areas.
 - General Landscaping: Useful for filling holes, leveling ground, and other landscaping purposes.
 
-![garden soil](./img/sandie-clarke-q13Zq1Jufks-unsplash.jpg) 
+![garden soil](./img/sandie-clarke-q13Zq1Jufks-unsplash.jpg)
 
 ## What is Compost?
 
-Compost is **decomposed organic matter**. It's nature's way of recycling, transforming kitchen scraps, yard waste, and other organic materials into a nutrient-rich soil amendment. 
+Compost is **decomposed organic matter**. It's nature's way of recycling, transforming kitchen scraps, yard waste, and other organic materials into a nutrient-rich soil amendment.
 
-![garden soil vs compost](./img/garden-compost-is-easy-to-make-by-geme-composter.webp) 
+![garden soil vs compost](./img/garden-compost-is-easy-to-make-by-geme-composter.webp)
 
-   <iframe
-     width="720"
-     height="540"
-     src="https://www.youtube.com/embed/PRgYEdy3ewo?autoplay=1&controls=0&modestbranding=1&loop=1&autohide=1&mute=0&playsinline=1&rel=0&showinfo=0&playlist=PRgYEdy3ewo&enablejsapi=1&origin=https%3A%2F%2Fwww.geme.bio&widgetid=16&forigin=https%3A%2F%2Fwww.geme.bio%2Fproduct%2Fgeme&aoriginsup=1&vf=3"
-     frameborder="0"
-     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-     allowfullscreen
-   ></iframe>
+<div className="video__wrapper">
+  <ReactPlayer 
+    className="video__player" 
+    controls height="100%" 
+    url="https://youtu.be/PRgYEdy3ewo?si=bfqMby5MPQAeIZTJ" width="100%" 
+  />
+</div>
 
 ### Composition of Compost
 
@@ -102,7 +103,7 @@ Compost is primarily composed of decomposed organic materials, including:
 
 The ideal compost mix has a balance of "browns" and "greens" to provide the right carbon-to-nitrogen ratio for [efficient decomposition](https://www.geme.bio/gk).
 
-![garden soil vs compost](./img/how-compost-better-than-garden-soil.webp) 
+![garden soil vs compost](./img/how-compost-better-than-garden-soil.webp)
 
 ## Pros of Compost
 
@@ -115,16 +116,16 @@ Here are reliable ways to check if your compost is ready:
 5. **Environmentally Friendly**: Composting reduces waste and promotes sustainable gardening practices.
 6. **Increases Microbial Activity**: Compost introduces beneficial microbes to the soil, which helps in breaking down organic matter and making nutrients available to plants.
 
-![composter for garden compost](./img/Composter-for-garden-compost.webp) 
+![composter for garden compost](./img/Composter-for-garden-compost.webp)
 
 ## Cons of Compost
 
-1. Can Be Expensive: Buying pre-made compost can be more expensive than buying garden soil. 
+1. Can Be Expensive: Buying pre-made compost can be more expensive than buying garden soil.
 2. May Contain Weed Seeds **When Homemade**: If not properly composted by yourself, compost can contain weed seeds. **However, buying a composter could resolve this issue**.
 3. Not a Standalone Growing Medium: Compost alone doesn't provide enough structure for most plants.
 
-![garden compost homemade](./img/garden-compost-homemade.jpg) 
-*Homemade garden soil or compost may contain weed seeds.*
+![garden compost homemade](./img/garden-compost-homemade.jpg)
+_Homemade garden soil or compost may contain weed seeds._
 
 ### Ideal Applications for Compost
 
@@ -135,17 +136,17 @@ Here are reliable ways to check if your compost is ready:
 
 ## Garden Soil vs Compost: Key Differences
 
-| Feature | Garden Soil | Compost |
-|-----|-----|-----|
-| **Composition** | Mineral particles, organic matter, water, air | Decomposed organic matter (browns and greens) |
-| **Nutrient Content** | Varies, often needs supplementation | Rich in essential nutrients |
-| **Structure** | Provides a stable base | Improves soil structure, aeration, and drainage | 
-| **Water Retention** | Varies, can be poor in sandy soils | Enhances water retention |
-| **Cost** | Generally less expensive | Can be more expensive |
-| **Availability** | Readily available | Readily available, can also be homemade |
-| **Ideal Use** | Base for planting, filling raised beds | Soil amendment, top dressing, compost tea |
+| Feature              | Garden Soil                                   | Compost                                         |
+| -------------------- | --------------------------------------------- | ----------------------------------------------- |
+| **Composition**      | Mineral particles, organic matter, water, air | Decomposed organic matter (browns and greens)   |
+| **Nutrient Content** | Varies, often needs supplementation           | Rich in essential nutrients                     |
+| **Structure**        | Provides a stable base                        | Improves soil structure, aeration, and drainage |
+| **Water Retention**  | Varies, can be poor in sandy soils            | Enhances water retention                        |
+| **Cost**             | Generally less expensive                      | Can be more expensive                           |
+| **Availability**     | Readily available                             | Readily available, can also be homemade         |
+| **Ideal Use**        | Base for planting, filling raised beds        | Soil amendment, top dressing, compost tea       |
 
-![garden soil vs compost](./img/compost-is-ready.png) 
+![garden soil vs compost](./img/compost-is-ready.png)
 
 ## [How to Use Garden Soil and Compost Effectively](https://www.geme.bio/blog/preparing-and-using-your-compost)
 
@@ -156,16 +157,16 @@ The best approach is often to use garden soil and compost together. Here's how:
 3. **Use Compost in Planting Holes**: When planting new plants, add a scoop of compost to the planting hole to give the roots a boost.
 4. **Create a Custom Potting Mix**: Combine garden soil, compost, and other ingredients like perlite or vermiculite to create a custom potting mix that meets the specific needs of your plants.
 
-![garden soil vs compost geme composter](./img/garden-soil-vs-compost-geme-composter.jpg) 
+![garden soil vs compost geme composter](./img/garden-soil-vs-compost-geme-composter.jpg)
 
 ## Specific Ratios and Application Tips
 
 - **Vegetable Gardens**: Amend garden soil with a generous amount of compost (up to 50% by volume) to provide the nutrients needed for healthy vegetable growth.
-- **Flower Bed**s**: Amend garden soil with compost to improve drainage and fertility. A ratio of 1 part compost to 3 parts garden soil is generally sufficient.
+- **Flower Bed**s\*\*: Amend garden soil with compost to improve drainage and fertility. A ratio of 1 part compost to 3 parts garden soil is generally sufficient.
 - **Lawns**: Top dress lawns with a thin layer of compost in the spring or fall to improve soil health and promote lush growth.
 - **Potted Plants**: Use a potting mix that contains a blend of garden soil, compost, and other ingredients like perlite or vermiculite.
 
-![compost for vegetable garden](./img/sandie-clarke-q13Zq1Jufks-unsplash.jpg) 
+![compost for vegetable garden](./img/sandie-clarke-q13Zq1Jufks-unsplash.jpg)
 
 ## [Choosing the Right Option for Your Needs](https://www.geme.bio/product/geme)
 
@@ -184,7 +185,6 @@ The [best choice](https://www.geme.bio/product/geme) between garden soil vs com
 - **Budget**: Garden soil is generally less expensive than compost, but the long-term benefits of using compost may outweigh the initial cost.
 - **Availability**: Consider the availability of garden soil and compost in your area. You may be able to get compost for free from your local municipality or community garden.
 
-
 :::tip
 
 Regardless of whether you choose garden soil or compost, here are some additional tips for improving your garden soil.
@@ -202,8 +202,6 @@ Regardless of whether you choose garden soil or compost, here are some additiona
 ## Conclusion: The Symbiotic Relationship of Garden Soil VS Compost
 
 In the debate of **garden soil vs compost**, the most effective strategy often lies in recognizing their complementary roles. Garden soil provides the foundational structure, while compost injects the vital nutrients and beneficial properties that fuel plant growth. By understanding the pros and cons of each and utilizing them in conjunction, gardeners can create a thriving ecosystem that supports healthy, vibrant plants. [Whether you're a seasoned gardener or just a beginner, mastering the art of soil amendment with compost is a key step towards cultivating a flourishing garden.](https://www.geme.bio/blog/unlocking-black-gold-compost-basics)
-
-
 
 ## Related Articles
 
