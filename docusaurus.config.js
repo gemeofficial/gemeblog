@@ -1,44 +1,38 @@
 // @ts-check
-// `@type` JSDoc annotations allow editor autocompletion and type checking
-// (when paired with `@ts-check`).
-// There are various equivalent ways to declare your Docusaurus config.
-// See: https://docusaurus.io/docs/api/docusaurus-config
+// `@type` JSDoc 注释允许编辑器自动补全和类型检查
+// （与 `@ts-check` 配合使用时）。
+// 有多种等效的方法来声明您的 Docusaurus 配置。
+// 参见：https://docusaurus.io/docs/api/docusaurus-config
 
 import { themes as prismThemes } from 'prism-react-renderer'
-import tailwindPlugin from "./plugins/tailwind-config.cjs"; // add this
+import tailwindPlugin from "./plugins/tailwind-config.cjs"; // 添加这个
 import remarkMath from 'remark-math'
 import rehypeKatex from 'rehype-katex'
 
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "GEME Blog - News & Stories",
+  title: " ", // meta title 小尾巴
+  titleDelimiter: ' ', // meta title分隔符
   tagline: 'Introducing latest news in GEME, including products updates, industrial news, progress on microbiology technology. Newsletter for users and discount info for customers',
   favicon: 'img/favicon.ico',
 
-  // Set the production url of your site here
+  // 在此处设置您的网站的生产 URL
   url: 'https://www.geme.bio',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
+  // 设置您的网站在其下提供服务的 /<baseUrl>/ 路径名
+  // 对于 GitHub 页面部署，通常是 '/<projectName>/'
   baseUrl: '/',
 
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  // GitHub 页面部署配置。
+  // 如果您不使用 GitHub 页面，则不需要这些。
+  organizationName: 'facebook', // 通常是您的 GitHub 组织/用户名。
+  projectName: 'docusaurus', // 通常是您的仓库名称。
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
-  // SEO scrip tags
+  // SEO 脚本标签
   headTags: [
-    {
-      tagName: 'meta',
-      attributes: {
-        name: 'description',
-        content: 'GEME is a brand that aims to solve the world class food waste problem, and provide a better agricultural output',
-      },
-    },
     {
       tagName: 'script',
       attributes: {
@@ -204,12 +198,12 @@ const config = {
         //   blogSidebarCount: 'ALL',
         //   showReadingTime: true,
 
-        //   // math rendering plugins
+        //   // 数学渲染插件
         //   remarkPlugins: [remarkMath],
         //   rehypePlugins: [rehypeKatex],
 
-        //   // Please change this to your repo.
-        //   // Remove this to remove the "edit this page" links.
+        //   // 请将此更改为您的仓库。
+        //   // 删除此项以移除“编辑此页面”链接。
         //   editUrl:
         //     'https://github.com/gemeofficial/gemedocs/tree/main/blog',
         // },
@@ -232,7 +226,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
+      // 替换为您项目的社交卡片
       image: 'img/geme-social-card.png',
       navbar: {
         // title: 'GEME',
@@ -578,36 +572,36 @@ const config = {
       //   isCloseable: false,
       // },
       algolia: {
-        // The application ID provided by Algolia
+        // Algolia 提供的应用程序 ID
         appId: '7UN4KF34XB',
 
-        // Public API key: it is safe to commit it
+        // 公共 API 密钥：提交它是安全的
         apiKey: '34de1f1b5d45846846f58c27b5aa96fd',
 
         indexName: 'geme-blog-en',
 
-        // Optional: see doc section below
+        // 可选：请参阅下面的文档部分
         contextualSearch: true,
 
-        // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
+        // 可选：指定导航应通过 window.location 而不是 history.push 进行的域。 当我们的 Algolia 配置抓取多个文档站点时很有用，我们希望通过 window.location.href 导航到它们。
         // externalUrlRegex: 'external\\.com|domain\\.com',
 
-        // Optional: Replace parts of the item URLs from Algolia. Useful when using the same search index for multiple deployments using a different baseUrl. You can use regexp or string in the `from` param. For example: localhost:3000 vs myCompany.com/docs
+        // 可选：替换来自 Algolia 的项目 URL 的部分。 在使用不同 baseUrl 的多个部署中使用相同搜索索引时很有用。 您可以在 `from` 参数中使用正则表达式或字符串。 例如：localhost:3000 与 myCompany.com/docs
         // replaceSearchResultPathname: {
-        //   from: '/docs/', // or as RegExp: /\/docs\//
+        //   from: '/docs/', // 或作为正则表达式：/\/docs\//
         //   to: '/',
         // },
 
-        // Optional: Algolia search parameters
+        // 可选：Algolia 搜索参数
         searchParameters: {},
 
-        // Optional: path for search page that enabled by default (`false` to disable it)
+        // 可选：默认启用的搜索页面路径（`false` 禁用它）
         searchPagePath: 'search',
 
-        // Optional: whether the insights feature is enabled or not on Docsearch (`false` by default)
+        // 可选：Docsearch 上是否启用 insights 功能（默认为 `false`）
         insights: false,
 
-        //... other Algolia params
+        //... 其他 Algolia 参数
       },
     }),
 
@@ -620,14 +614,14 @@ const config = {
         blogSidebarCount: 'ALL',
         showReadingTime: true,
 
-        // math rendering plugins
+        // 数学渲染插件
         remarkPlugins: [remarkMath],
         rehypePlugins: [rehypeKatex],
 
-        // Please change this to your repo.
-        // Remove this to remove the "edit this page" links.
-        editUrl:
-          'https://github.com/gemeofficial/gemedocs/tree/main/blog',
+        // 请将此更改为您的仓库。
+        // 删除此项以移除“编辑此页面”链接。
+        // editUrl:
+        //   'https://github.com/gemeofficial/gemedocs/tree/main/blog',
         readingTime: ({ content, frontMatter, defaultReadingTime }) =>
           defaultReadingTime({ content, options: { wordsPerMinute: 300 } }),
       },
@@ -640,21 +634,21 @@ const config = {
       "@dipakparmar/docusaurus-plugin-umami",
       /** @type {import('@dipakparmar/docusaurus-plugin-umami').Options} */
       ({
-        websiteID: "0b1b665a-0dd2-44f0-a4ac-e033cf76cc97", // Required
-        analyticsDomain: "www.geme.bio", // Required
-        scriptName: "assets/thirdparties/umami.js", // Optional
-        // dataHostURL: "", // Optional
-        dataAutoTrack: true, // Optional
-        // dataDoNotTrack: true, // Optional
-        dataCache: true, // Optional
-        // dataDomains: "", // comma separated list of domains, *Recommended*
+        websiteID: "0b1b665a-0dd2-44f0-a4ac-e033cf76cc97", // 必需
+        analyticsDomain: "www.geme.bio", // 必需
+        scriptName: "assets/thirdparties/umami.js", // 可选
+        // dataHostURL: "", // 可选
+        dataAutoTrack: true, // 可选
+        // dataDoNotTrack: true, // 可选
+        dataCache: true, // 可选
+        // dataDomains: "", // 逗号分隔的域列表，*推荐*
       }),
     ],
     async function myPlugin(context, options) {
       return {
         name: "docusaurus-tailwindcss",
         configurePostCss(postcssOptions) {
-          // Appends TailwindCSS and AutoPrefixer.
+          // 添加 TailwindCSS 和 AutoPrefixer。
           postcssOptions.plugins.push(require("tailwindcss"));
           postcssOptions.plugins.push(require("autoprefixer"));
           return postcssOptions;
@@ -668,10 +662,10 @@ const config = {
   //     // require.resolve("@easyops-cn/docusaurus-search-local"),
   //     // /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
   //     // ({
-  //     //   // ... Your options.
-  //     //   // `hashed` is recommended as long-term-cache of index file is possible.
+  //     //   // ... 您的选项。
+  //     //   // 如果可能，建议将 `hashed` 设置为长期缓存索引文件。
   //     //   hashed: true,
-  //     //   // For Docs using Chinese, The `language` is recommended to set to:
+  //     //   // 对于使用中文的文档，建议将 `language` 设置为：
   //     //   // ```
   //     //   // language: ["en", "zh"],
   //     //   // ```
@@ -695,7 +689,10 @@ const config = {
   //       "https://docusaurus.io/img/undraw_react.svg",
   //   },
   // },
-  // plugins: [tailwindPlugin], // update this
+  // plugins: [tailwindPlugin], // 更新此项
+
+  // 添加自定义字段
+  customFields: {}
 };
 
 export default config;
