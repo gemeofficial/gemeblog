@@ -24,14 +24,14 @@ tags: [gardening, composter, plant, sustainability]
 </head>
 
 ![cucumber recall due to salmonella](./img/cucumber-recall-due-to-salmonella-FDA-urgent-alert.jpg)
-*Image Credit: [FDA|Outbreak Investigation of Salmonella: Cucumbers(May 2025)](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-cucumbers-may-2025)*
+_Image Credit: [FDA|Outbreak Investigation of Salmonella: Cucumbers(May 2025)](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-cucumbers-may-2025)_
 
-A multistate outbreak of Salmonella Montevideo infections is under investigation by the FDA and CDC. The source is traced to cucumbers from Bedner Growers, Inc., in Boynton Beach, Florida, distributed by Fresh Start Produce Sales, Inc. 
+A multistate outbreak of Salmonella Montevideo infections is under investigation by the FDA and CDC. The source is traced to cucumbers from Bedner Growers, Inc., in Boynton Beach, Florida, distributed by Fresh Start Produce Sales, Inc.
 
-In the last few days, an outbreak of Food Safety Corcern has been spreading across the United States, affecting hundreds of millions of residents and agricultural industries, over 200 infection cases reported in 15 states. 
+In the last few days, an outbreak of Food Safety Corcern has been spreading across the United States, affecting hundreds of millions of residents and agricultural industries, over 200 infection cases reported in 15 states.
 
 ![Salmonella infection cases in the US](./img/salmonella-infection-cases-across-the-US.jpg)
-*Image Credit: [FDA|Outbreak Investigation of Salmonella: Cucumbers(May 2025)](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-cucumbers-may-2025)*
+_Image Credit: [FDA|Outbreak Investigation of Salmonella: Cucumbers(May 2025)](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-cucumbers-may-2025)_
 
 As a gardening enthusiast, I’m really concerned about how salmonella intrudes into our vegetable garden and how we can get rid of it, whether from soil, compost, water, fertiliser, plants, or grown fruits and vegetables. And I do hope that those who have been infected by salmonella in the US get the best treatment and recover soon. No more infection cases increased!
 
@@ -55,22 +55,23 @@ As a gardening enthusiast, I’m really concerned about how salmonella intrudes 
 
 ![vegetable garden](./img/chateau-vegetable-garden.jpg)
 
-1.**Soil Testing**: Regularly test your garden soil to check for the presence of harmful bacteria. Soil testing kits are available at most garden centers. 
+1.**Soil Testing**: Regularly test your garden soil to check for the presence of harmful bacteria. Soil testing kits are available at most garden centers.
 
 2.**Composting Practices**:
 We recommend utilizing Composter with high-temperature phased aerobic fermentation technology like GEME home electric compoter, which achieves efficient pathogen elimination through the following mechanisms:
+
 - **Intelligent Oxygen Control System**:
-Automatic turning ensures uniform oxygen penetration throughout the compost pile, eliminating anaerobic dead zones and continuously activating thermophilic microbial activity.
+  Automatic turning ensures uniform oxygen penetration throughout the compost pile, eliminating anaerobic dead zones and continuously activating thermophilic microbial activity.
 - **High-Temperature Pathogen Inactivation**:
-Microbial metabolic bioheat elevates internal pile temperatures to over 70°C, with sustained high temperatures maintained for 72+ hours, effectively destroying Salmonella cell structures.
+  Microbial metabolic bioheat elevates internal pile temperatures to over 70°C, with sustained high temperatures maintained for 72+ hours, effectively destroying Salmonella cell structures.
 - **Photocatalytic Synergistic Enhancement**:
-The built-in UV-C photocatalyst system (253.7 nm wavelength) triggers catalytic reactions to degrade bacterial DNA and organic toxins, forming a dual sterilization barrier (thermal + photocatalytic).
+  The built-in UV-C photocatalyst system (253.7 nm wavelength) triggers catalytic reactions to degrade bacterial DNA and organic toxins, forming a dual sterilization barrier (thermal + photocatalytic).
 
-3.**Hot Composting (Thermophilic Composting)**: This method involves maintaining high temperatures to kill pathogens. Use a compost thermometer to monitor the temperature.
+  3.**Hot Composting (Thermophilic Composting)**: This method involves maintaining high temperatures to kill pathogens. Use a compost thermometer to monitor the temperature.
 
-4.**Water Source**: Use clean, potable water for irrigation. Avoid using water from ponds or streams that may be contaminated with animal waste. If you use well water, have it tested regularly for bacteria.
+  4.**Water Source**: Use clean, potable water for irrigation. Avoid using water from ponds or streams that may be contaminated with animal waste. If you use well water, have it tested regularly for bacteria.
 
-5.**Animal Control**: Keep animals out of your garden. Animal feces can be a significant source of Salmonella and other pathogens. Use fencing or netting to protect your plants.
+  5.**Animal Control**: Keep animals out of your garden. Animal feces can be a significant source of Salmonella and other pathogens. Use fencing or netting to protect your plants.
 
 ![vegetable garden without salmonella](./img/vegetable-garden.jpg)
 
@@ -106,7 +107,7 @@ Salmonella is a group of bacteria that can cause food poisoning ([salmonellosis]
 
 ### Key points
 
-- [Salmonella]((https://www.cdc.gov/salmonella/about/index.html)) are bacteria (germs) that can make people sick.
+- [Salmonella](https://www.cdc.gov/salmonella/about/index.html) are bacteria (germs) that can make people sick.
 - People can get infected with Salmonella after swallowing the bacteria.
 - CDC estimates Salmonella cause about 1.35 million infections in the United States every year.
 - Contaminated food is the source for most of these illnesses.
@@ -131,13 +132,13 @@ Salmonella can contaminate fruits and vegetables through various routes:
 
 [Salmonella can be killed through various methods:](https://www.cdc.gov/salmonella/prevention/index.html)
 
-1. **Cooking**: Cooking food to a safe internal temperature will kill Salmonella. The recommended internal temperature for poultry is 165°F (75°C). 
+1. **Cooking**: Cooking food to a safe internal temperature will kill Salmonella. The recommended internal temperature for poultry is 165°F (75°C).
 
 2. **Pasteurization**: Heating liquids, such as milk and juice, to a temperature of above 90 °C (194 °F) for more than 30 mins will kill Salmonella.
 
 3. **Disinfection**: Using disinfectants, such as bleach, can kill Salmonella on surfaces. A solution of 1 tablespoon of bleach per gallon of water is effective for disinfecting surfaces.
 
-4. **Heat Composting**: Maintaining a compost pile at a temperature of 160-180°F (71-82°C) for at least three days will kill Salmonella, while using [GEME composter with kobold](https://www.geme.bio/blog/garden-soil-vs-compost-pros-and-cons) will also kill Salmonella due to its UV light and kobold heating system. When you’re at home, you could compost your food watse or diposable cucumbers in a GEME home composter even if your food materials might be contaminated with Salmonella, but remember to slice it smaller and wash your hands and knives with warm water and soap properly. 
+4. **Heat Composting**: Maintaining a compost pile at a temperature of 160-180°F (71-82°C) for at least three days will kill Salmonella, while using [GEME composter with kobold](https://www.geme.bio/blog/garden-soil-vs-compost-pros-and-cons) will also kill Salmonella due to its UV light and kobold heating system. When you’re at home, you could compost your food watse or diposable cucumbers in a GEME home composter even if your food materials might be contaminated with Salmonella, but remember to slice it smaller and wash your hands and knives with warm water and soap properly.
 
 5. **UV Light**: Ultraviolet (UV) light can kill Salmonella on surfaces and in water.
 
@@ -145,19 +146,19 @@ Salmonella can contaminate fruits and vegetables through various routes:
 
 ![Heating Food to kill Salmonella](./img/Salmonella-Prevention.jpg)
 
-## Is it safe to eat salad now? 
+## Is it safe to eat salad now?
 
 [Cucumber salad or other salads are not safe now!](./img/cucumber-salad.jpg)
 
 ### Is cucumber the only contaminated vegetable?
 
-Cucumbers are commonly used for salad or raw eating. But now, is it just cucumber from Bedner Growers, Inc. unsafe to eat? We highly doubt that. We strongly recommend you stop eating salad or raw fruits and vegetables till the FDA investigation eventually finishes. 
+Cucumbers are commonly used for salad or raw eating. But now, is it just cucumber from Bedner Growers, Inc. unsafe to eat? We highly doubt that. We strongly recommend you stop eating salad or raw fruits and vegetables till the FDA investigation eventually finishes.
 
 ![fruits and vegetables can also be contaminated with salmonella](./img/vegetable-and-fruits-can-be-contaminated-with-salmonella.jpg)
 
 :::warning
 [Salmonella can be spread through cross-contamination (e.g., cutting boards, knives), and even if the recall is limited to cucumbers, other vegetables could still be contaminated from shared tools.](https://www.cdc.gov/salmonella/outbreaks/index.html)
-::: 
+:::
 
 If you’re also concerned about Salmonella contamination, take the following precautions:
 
@@ -189,9 +190,9 @@ In addition to the prevention steps mentionoed in the first two sections, there 
 
 1. **Discard Suspect Produce**: If you suspect that your produce is contaminated with Salmonella, it is best to discard it. Wrap the produce in a plastic bag and dispose of it in a sealed trash can.
 
-:::info 
+:::info
 However, if you think this is totally a waste of food, you could consider using a GEME electric composter with heating system to inactivate the Salmonella and turn these fruits and vegetables into great compost for your vegetable garden soil.
-::: 
+:::
 
 ![The best composter to kill salmonella in your food waste](./img/geme-the-best-composter-to-kill-salmonella.jpg)
 
@@ -209,7 +210,7 @@ The GEME electric composter utilizes a photocatalytic and metal ion catalytic ox
 
 :::Tip
 When the device is in normal operation!
-::: 
+:::
 
 ### Key Differentiators:
 
@@ -217,14 +218,16 @@ When the device is in normal operation!
 
 - **Superior Pathogen Inactivation**: The composter is designed to maximize the inactivation of harmful pathogens and bacteria, including Salmonella. Over 90% of Salmonella bacteria can be inactivated with appropriate UV-C dosage.
 
-- **Kobold Heating Facts**: GEME completely simulates the whole process of natural composting but improves and speeds up the composting process by providing the most suitable conditions for Kobold to grow and degrade. Kobold is a pure natural high-temperature resistant composite microorganism. The fermentation heat can reach up to over 70°C during the fermentation process. **[As recommended by FDA and CDC, it meets the conditions to kill Salmonella](https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures)**. 
+- **Kobold Heating Facts**: GEME completely simulates the whole process of natural composting but improves and speeds up the composting process by providing the most suitable conditions for Kobold to grow and degrade. Kobold is a pure natural high-temperature resistant composite microorganism. The fermentation heat can reach up to over 70°C during the fermentation process. **[As recommended by FDA and CDC, it meets the conditions to kill Salmonella](https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures)**.
 
 ### Benefits:
-- **Effective Salmonella Inactivation**: By breaking down potentially contaminated fruits and vegetables into smaller pieces and processing them in small batches within the  composter, you can ensure the Salmonella is effectively neutralized, making the resulting compost safe to use.
+
+- **Effective Salmonella Inactivation**: By breaking down potentially contaminated fruits and vegetables into smaller pieces and processing them in small batches within the composter, you can ensure the Salmonella is effectively neutralized, making the resulting compost safe to use.
 - **Safe Composting**: The combination of photocatalysis and metal ion catalytic oxidation provides a robust method for eliminating pathogens.
 - **Sustainable and Cost-Effective**: The lack of frequent catalyst replacement makes GEME Home Composter a more sustainable and cost-effective solution compared to other composting machines.
 
 ### Considerations:
+
 - **Pre-Processing Required**: For optimal results, food waste should be broken down into smaller pieces before being added to the composter.
 - **Batch Processing**: Processing in smaller batches ensures thorough exposure to the UV-C light and purification system.
 
