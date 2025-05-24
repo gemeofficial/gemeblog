@@ -67,11 +67,11 @@ We recommend utilizing Composter with high-temperature phased aerobic fermentati
 - **Photocatalytic Synergistic Enhancement**:
   The built-in UV-C photocatalyst system (253.7 nm wavelength) triggers catalytic reactions to degrade bacterial DNA and organic toxins, forming a dual sterilization barrier (thermal + photocatalytic).
 
-  3.**Hot Composting (Thermophilic Composting)**: This method involves maintaining high temperatures to kill pathogens. Use a compost thermometer to monitor the temperature.
+3.**Hot Composting (Thermophilic Composting)**: This method involves maintaining high temperatures to kill pathogens. Use a compost thermometer to monitor the temperature.
 
-  4.**Water Source**: Use clean, potable water for irrigation. Avoid using water from ponds or streams that may be contaminated with animal waste. If you use well water, have it tested regularly for bacteria.
+4.**Water Source**: Use clean, potable water for irrigation. Avoid using water from ponds or streams that may be contaminated with animal waste. If you use well water, have it tested regularly for bacteria.
 
-  5.**Animal Control**: Keep animals out of your garden. Animal feces can be a significant source of Salmonella and other pathogens. Use fencing or netting to protect your plants.
+5.**Animal Control**: Keep animals out of your garden. Animal feces can be a significant source of Salmonella and other pathogens. Use fencing or netting to protect your plants.
 
 ![vegetable garden without salmonella](./img/vegetable-garden.jpg)
 
