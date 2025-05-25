@@ -148,7 +148,7 @@ Salmonella can contaminate fruits and vegetables through various routes:
 
 ## Is it safe to eat salad now?
 
-[Cucumber salad or other salads are not safe now!](./img/cucumber-salad.jpg)
+![Cucumber salad or other salads are not safe now!](./img/cucumber-salad.jpg)
 
 ### Is cucumber the only contaminated vegetable?
 
