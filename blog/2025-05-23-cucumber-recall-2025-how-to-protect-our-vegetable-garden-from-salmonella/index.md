@@ -55,9 +55,9 @@ As a gardening enthusiast, I’m really concerned about how salmonella intrudes 
 
 ![vegetable garden](./img/chateau-vegetable-garden.jpg)
 
-1.**Soil Testing**: Regularly test your garden soil to check for the presence of harmful bacteria. Soil testing kits are available at most garden centers.
+1. **Soil Testing**: Regularly test your garden soil to check for the presence of harmful bacteria. Soil testing kits are available at most garden centers.
 
-2.**Composting Practices**:
+2. **Composting Practices**:
 We recommend utilizing Composter with high-temperature phased aerobic fermentation technology like GEME home electric compoter, which achieves efficient pathogen elimination through the following mechanisms:
 
 - **Intelligent Oxygen Control System**:
@@ -67,35 +67,35 @@ We recommend utilizing Composter with high-temperature phased aerobic fermentati
 - **Photocatalytic Synergistic Enhancement**:
   The built-in UV-C photocatalyst system (253.7 nm wavelength) triggers catalytic reactions to degrade bacterial DNA and organic toxins, forming a dual sterilization barrier (thermal + photocatalytic).
 
-3.**Hot Composting (Thermophilic Composting)**: This method involves maintaining high temperatures to kill pathogens. Use a compost thermometer to monitor the temperature.
+3. **Hot Composting (Thermophilic Composting)**: This method involves maintaining high temperatures to kill pathogens. Use a compost thermometer to monitor the temperature.
 
-4.**Water Source**: Use clean, potable water for irrigation. Avoid using water from ponds or streams that may be contaminated with animal waste. If you use well water, have it tested regularly for bacteria.
+4. **Water Source**: Use clean, potable water for irrigation. Avoid using water from ponds or streams that may be contaminated with animal waste. If you use well water, have it tested regularly for bacteria.
 
-5.**Animal Control**: Keep animals out of your garden. Animal feces can be a significant source of Salmonella and other pathogens. Use fencing or netting to protect your plants.
+5. **Animal Control**: Keep animals out of your garden. Animal feces can be a significant source of Salmonella and other pathogens. Use fencing or netting to protect your plants.
 
 ![vegetable garden without salmonella](./img/vegetable-garden.jpg)
 
 ### Hygiene Practices
 
-- 1.**Wash Hands**: Always wash your hands thoroughly with soap and water before and after working in the garden.
+1. **Wash Hands**: Always wash your hands thoroughly with soap and water before and after working in the garden.
 
-- 2.**Clean Tools**: Regularly clean and disinfect your gardening tools with a bleach solution (1 part bleach to 9 parts water).
+2. **Clean Tools**: Regularly clean and disinfect your gardening tools with a bleach solution (1 part bleach to 9 parts water).
 
-- 3.**Footwear**: Wear dedicated gardening shoes or boots and avoid tracking soil into your home.
+3. **Footwear**: Wear dedicated gardening shoes or boots and avoid tracking soil into your home.
 
-- 4.**Fertilizers**: Use only well-composted manure or commercially available fertilizers that have been treated to kill pathogens. Avoid using fresh manure, as it can contain harmful bacteria.
+4. **Fertilizers**: Use only well-composted manure or commercially available fertilizers that have been treated to kill pathogens. Avoid using fresh manure, as it can contain harmful bacteria.
 
-- 5.**Crop Rotation**: Practice crop rotation to prevent the buildup of pathogens in the soil. Rotate your crops each year, planting different types of vegetables in each area.
+5. **Crop Rotation**: Practice crop rotation to prevent the buildup of pathogens in the soil. Rotate your crops each year, planting different types of vegetables in each area.
 
-- 6.**Raised Beds**: Consider using raised beds to improve drainage and reduce the risk of soil contamination.
+6. **Raised Beds**: Consider using raised beds to improve drainage and reduce the risk of soil contamination.
 
-- 7.**Sunlight**: Ensure your garden receives plenty of sunlight. Sunlight can help kill bacteria on the surface of plants and soil.
+7. **Sunlight**: Ensure your garden receives plenty of sunlight. Sunlight can help kill bacteria on the surface of plants and soil.
 
-- 8.**Mulching**: Use organic mulches, such as straw or wood chips, to suppress weeds and prevent soil from splashing onto plants during watering.
+8. **Mulching**: Use organic mulches, such as straw or wood chips, to suppress weeds and prevent soil from splashing onto plants during watering.
 
-- 9.**Planting Density**: Avoid overcrowding plants, as this can create a humid environment that promotes the growth of bacteria and fungi.
+9. **Planting Density**: Avoid overcrowding plants, as this can create a humid environment that promotes the growth of bacteria and fungi.
 
-- 10.**Regular Inspection**: Regularly inspect your plants for signs of disease or contamination. Remove and dispose of any affected plants immediately.
+10. **Regular Inspection**: Regularly inspect your plants for signs of disease or contamination. Remove and dispose of any affected plants immediately.
 
 ![vegetable garden compost](./img/vegetable-garden-compost.jpg)
 
