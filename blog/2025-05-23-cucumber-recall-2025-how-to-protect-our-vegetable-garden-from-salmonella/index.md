@@ -1,5 +1,5 @@
 ---
-title: "Cucumber Recall 2025 | How To Protect Our Vegetable Garden From Salmonella"
+title: "Cucumber Recall 2025 How To Protect Our Vegetable Garden From Salmonella"
 description: FDA warns of Salmonella in cucumbers lead to CUCUMBER RECALL, 2025. Learn how to protect our vegetable garden from salmonella, safely dispose of contaminated produce, and discover the best composter to kill salmonella. Stay safe!
 keywords:
   - cucumber recall
@@ -45,8 +45,6 @@ As a gardening enthusiast, I’m really concerned about how salmonella intrudes 
 [3. Is it safe to eat salad now? ](#is-it-safe-to-eat-salad-now)
 
 [4. How to deal with your fruits and vegetables, unsure if contaminated with Salmonella](#how-to-deal-with-your-fruits-and-vegetables-unsure-if-contaminated-with-salmonella)
-
-[5. Best Machine to Kill Salmonella Contaminated in Your Food Waste](#best-machine-on-the-market-to-kill-salmonella-contaminated-in-your-food-waste)
 
 ## How to protect our vegetable gardens from Salmonella
 
