@@ -221,6 +221,9 @@ const config = {
           lastmod: 'datetime', // 将使用 frontmatter.date（如博客）作为 <lastmod> 来源
           priority: 0.8,
           changefreq: 'daily',
+
+          // Note: 经测试，调整createSitemapItems内的changefreq和priority似乎无效，或许跟if条件判断错误有关。
+          // 但目前需求是所有blog都使用daily + 0.8，所以直接跳转顶层属性一键配置即可。后续有blog sitemap定制需求，在研究createSitemapItems
           createSitemapItems: async (params) => {
             const { defaultCreateSitemapItems, ...rest } = params
 
