@@ -218,6 +218,33 @@ const config = {
             '/blog/page/**',
             '/blog/tags/**/page/**',
           ],
+          createSitemapItems: async (params) => {
+            const { defaultCreateSitemapItems } = params
+
+            // 获取默认生成的 sitemap items
+            const items = await defaultCreateSitemapItems(params);
+
+            return items
+              // 排除分页页，如 /blog/page/2
+              .filter((item) => !item.url.includes('/page/'))
+              // 为每个条目赋予定制值
+              .map((item) => {
+                // 特殊处理 blog 文章（排除 blog 首页）
+                if (
+                  item.url.startsWith('/blog/') &&
+                  item.url !== '/blog'
+                ) {
+                  return {
+                    ...item,
+                    changefreq: 'daily',
+                    priority: 0.85,
+                  };
+                }
+
+                // 其他页面使用默认设置
+                return item;
+              });
+          },
         },
       }),
     ],
