@@ -219,6 +219,8 @@ const config = {
             '/blog/tags/**/page/**',
           ],
           lastmod: 'datetime', // 将使用 frontmatter.date（如博客）作为 <lastmod> 来源
+          priority: 0.8,
+          changefreq: 'daily',
           createSitemapItems: async (params) => {
             const { defaultCreateSitemapItems, ...rest } = params
 
