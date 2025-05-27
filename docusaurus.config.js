@@ -218,11 +218,12 @@ const config = {
             '/blog/page/**',
             '/blog/tags/**/page/**',
           ],
+          lastmod: 'datetime', // 将使用 frontmatter.date（如博客）作为 <lastmod> 来源
           createSitemapItems: async (params) => {
-            const { defaultCreateSitemapItems } = params
+            const { defaultCreateSitemapItems, ...rest } = params
 
             // 获取默认生成的 sitemap items
-            const items = await defaultCreateSitemapItems(params);
+            const items = await defaultCreateSitemapItems(rest);
 
             return items
               // 排除分页页，如 /blog/page/2
@@ -237,7 +238,7 @@ const config = {
                   return {
                     ...item,
                     changefreq: 'daily',
-                    priority: 0.85,
+                    priority: 0.8,
                   };
                 }
 
