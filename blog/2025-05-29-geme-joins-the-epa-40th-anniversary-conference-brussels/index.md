@@ -1,11 +1,10 @@
 ---
 slug: geme-joins-the-epa-40th-anniversary-conference-brussels
-title: "Composting Begins at Home: GEME Joins the EPA 40th Anniversary Conference in Brussels"
+title: "Composting Begins at Home - GEME Joins the EPA 40th Anniversary Conference in Brussels"
 description: "GEME participated in the 40th Anniversary International Conference of the European Parents’ Association (EPA) — a milestone event held at the European Economic and Social Committee (EESC) in Brussels."
 authors: [Moore]
 tags: [geme, compost, composting, sustainability, news]
 image: ./img/the-epa-40th-anniversary-conference.jpeg
-picture: ![](./img/the-epa-40th-anniversary-conference.jpeg)
 ---
 
 On May 23rd, 2025, GEME had the pleasure of participating in the **40th Anniversary International Conference of the European Parents’ Association (EPA)** — a milestone event held at the **European Economic and Social Committee (EESC)** in Brussels.
@@ -18,7 +17,7 @@ This important gathering brought together educators, EU officials, parents, and 
 
 As a sponsor, GEME joined the celebration not only to support the mission of EPA but also to demonstrate how circular economy principles can be integrated into **everyday family life**. We showcased our **smart composting technology**, which enables households to transform food waste into nutrient-rich compost within 6–24 hours, right from their kitchen.
 
-Alex Yun, head of the division of GEME in Brussels, Belgium, represented our corperation at the EPA 40th anniversary conference. 
+Alex Yun, head of the division of GEME in Brussels, Belgium, represented our corporation at the EPA 40th anniversary conference. 
 
 ![Alex Yun represents our company at the EPA 40th anniversary conference](./img/alex-represents-geme-at-the-epa-40th-anniversary-conference-in-brussels.jpeg)
 
