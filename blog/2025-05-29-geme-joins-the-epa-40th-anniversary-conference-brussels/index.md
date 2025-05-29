@@ -1,7 +1,7 @@
 ---
 slug: geme-joins-the-epa-40th-anniversary-conference-brussels
-title: 'Composting Begins at Home: GEME Joins the EPA 40th Anniversary Conference in Brussels'
-description: 'GEME participated in the 40th Anniversary International Conference of the European Parents’ Association (EPA) — a milestone event held at the European Economic and Social Committee (EESC) in Brussels.'
+title: "Composting Begins at Home: GEME Joins the EPA 40th Anniversary Conference in Brussels"
+description: "GEME participated in the 40th Anniversary International Conference of the European Parents’ Association (EPA) — a milestone event held at the European Economic and Social Committee (EESC) in Brussels."
 authors: [Moore]
 tags: [geme, compost, composting, sustainability, news]
 image: ./img/the-epa-40th-anniversary-conference.jpeg
@@ -28,12 +28,12 @@ In our workshop exchange with parents and EPA members across all European countr
 
 We believe that **the journey toward a greener, more resilient planet starts with everyday actions in the home**. Composting is no longer just a municipal task — it’s a family value, a teaching moment, and a daily impact.
 
-💬 We thank EPA, its visionary speakers, and the participating families for their support and for reminding us that change begins with community.
+We thank EPA, its visionary speakers, and the participating families for their support and for reminding us that change begins with community.
 Let’s continue turning food waste into future soil — starting right where we live.
 
 
 
-👉 Learn more at: www.europarents.eu 
+Learn more at: www.europarents.eu 
 
 
 ![GEME joins the EPA 40th anniversary conference](./img/alex-yun-represents-geme-for-the-epa-40th-anniversary-conference-in-brussels.jpeg)
@@ -42,4 +42,4 @@ Let’s continue turning food waste into future soil — starting right where we
 
 _Explore GEME’s composting innovation or [subscribe to our newsletter](https://www.geme.bio/signup) for more updates from our journey._
 
-🌿 Visit [www.geme.bio](https://www.geme.bio) to learn more.
+Visit [www.geme.bio](https://www.geme.bio) to learn more.
