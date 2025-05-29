@@ -36,7 +36,7 @@ Let’s continue turning food waste into future soil — starting right where we
 👉 Learn more at: www.europarents.eu 
 
 
-![GEME team photo with the Smart Composter at the booth](./img/p1.jpg)
+![GEME joins the EPA 40th anniversary conference](./img/alex-yun-represents-geme-for-the-epa-40th-anniversary-conference-in-brussels.jpeg)
 
 ---
 
