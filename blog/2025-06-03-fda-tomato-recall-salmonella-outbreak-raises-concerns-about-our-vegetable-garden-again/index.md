@@ -26,11 +26,11 @@ tags: [gardening, plant, sustainability]
 
 While composting is generally a good practice for reducing **waste** and enriching soil, it's important to be cautious when dealing with potentially contaminated materials. The **FDA Tomato Recall Salmonella** outbreak highlights the need to take extra precautions to protect your health and prevent the spread of **salmonella**.
 
-### JUMP TO
+<h2 className="people-also-ask">Jump To</h2>
 
 [**1.FDA Tomato Recall Warning**](#1-urgent-fda-tomato-recall-warning)
 
-[**2.What Tomatoes Are Being Recalled?**](##2-what-tomatoes-are-being-recalled)
+[**2.What Tomatoes Are Being Recalled?**](#2-what-tomatoes-are-being-recalled)
 
 [**3.Why Does Salmonella Infect Our Vegetables Again?**](#3-why-does-salmonella-infect-our-vegetables-again)
 
@@ -63,9 +63,10 @@ A Class I designation indicates a reasonable probability that consuming the prod
 
 ## 2. What Tomatoes Are Being Recalled?
 The recalled tomatoes include various sizes and packaging types distributed between April 23 and April 28, 2025. Affected products were sold under the Williams Farms Repack and H&C Farms labels in Georgia, North Carolina, and South Carolina. Specific lot codes include R4467 and R4470. 
+
 Ray & Mascari Inc. also recalled 4-count vine ripe tomatoes packaged in clamshell containers with lot numbers RM250424 15250B or RM250427 15250B. These were distributed in Illinois, Indiana, Kentucky, Michigan, Missouri, Mississippi, New York, Ohio, Pennsylvania, Tennessee, and Wisconsin.
 
-![Recalled tomatoes list](./img/Recalled%20Tomatoes.png)
+![Recalled tomatoes list](./img/recalled-tomatoes.png)
 
 <h2 className="people-also-ask">People Also Ask</h2>
 
@@ -116,10 +117,8 @@ Proper food handling and cooking practices can minimize the risk of infection.
 If you have purchased tomatoes included in the recall:
 
 **Do Not Consume**: Avoid eating the affected products.
-
 **Dispose Safely**: Throw them away in a sealed bag to prevent contamination.
 Return to Store: Some retailers may offer refunds for recalled items.
-
 **Clean Surfaces**: Sanitize any surfaces or containers that came into contact with the recalled tomatoes.
 
 For questions, contact the distributor or the FDA for guidance.
@@ -135,7 +134,7 @@ Note: Always stay informed about food recalls and practice safe food handling to
 ## Summary
 The recent FDA Tomato Recall due to Salmonella contamination has raised significant concerns among consumers and gardeners. 
 
-he recall affects specific tomato products distributed across multiple states, emphasizing the importance of staying informed about food safety alerts.
+The recall affects specific tomato products distributed across multiple states, emphasizing the importance of staying informed about food safety alerts.
 
 Salmonella, a harmful bacterium, can contaminate vegetables through various means, including contaminated water, soil, and improper handling. To mitigate risks:
 
@@ -145,7 +144,7 @@ Salmonella, a harmful bacterium, can contaminate vegetables through various mean
 
 - **Use Clean Water**: Irrigate gardens with potable water to prevent contamination.
 
-- **Avoid Using composter without heating system to compost Recalled Produce**: Home composting may not eliminate pathogens effectively, only by kobold could it reach the high temperature to inactivate Salmonella.
+- **Avoid Using composter without heating system to compost Recalled Produce**: Man-made compost may not eliminate pathogens effectively, only by compost machine with kobold could it reach the high temperature to inactivate Salmonella.
 
 By understanding the causes and prevention methods of Salmonella contamination, individuals can take proactive steps to protect their health and maintain safe gardening practices.
 
@@ -160,7 +159,7 @@ By understanding the causes and prevention methods of Salmonella contamination, 
 
 ## See Also
 
-FDA: <a href="hhttps://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/williams-farms-repack-llc-recalls-tomatoes-due-possible-salmonella-contamination" rel="nofollow">Williams Farms Repack LLC Recalls Tomatoes Due to Possible Salmonella Contamination</a>
+FDA: <a href="https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/williams-farms-repack-llc-recalls-tomatoes-due-possible-salmonella-contamination" rel="nofollow">Williams Farms Repack LLC Recalls Tomatoes Due to Possible Salmonella Contamination</a>
 
 CDC: <a href="https://www.cdc.gov/salmonella/outbreaks/whole-cucumbers-05-25/index.html#:~:text=CDC%3A-,About%20Salmonella%20Infection,-FDA%3A%20Outbreak" rel="nofollow">About Salmonella Infection</a>
 
