@@ -65,7 +65,7 @@ A Class I designation indicates a reasonable probability that consuming the prod
 The recalled tomatoes include various sizes and packaging types distributed between April 23 and April 28, 2025. Affected products were sold under the Williams Farms Repack and H&C Farms labels in Georgia, North Carolina, and South Carolina. Specific lot codes include R4467 and R4470. 
 Ray & Mascari Inc. also recalled 4-count vine ripe tomatoes packaged in clamshell containers with lot numbers RM250424 15250B or RM250427 15250B. These were distributed in Illinois, Indiana, Kentucky, Michigan, Missouri, Mississippi, New York, Ohio, Pennsylvania, Tennessee, and Wisconsin.
 
-![Recalled tomatoes list](./img/Recalled%20Tomatoes.png)
+![Recalled tomatoes list](./img/recalled-tomatoes.png)
 
 <h2 className="people-also-ask">People Also Ask</h2>
 
