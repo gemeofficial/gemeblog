@@ -30,7 +30,7 @@ While composting is generally a good practice for reducing **waste** and enrichi
 
 [**1.FDA Tomato Recall Warning**](#1-urgent-fda-tomato-recall-warning)
 
-[**2.What Tomatoes Are Being Recalled?**](##2-what-tomatoes-are-being-recalled)
+[**2.What Tomatoes Are Being Recalled?**](#2-what-tomatoes-are-being-recalled)
 
 [**3.Why Does Salmonella Infect Our Vegetables Again?**](#3-why-does-salmonella-infect-our-vegetables-again)
 
