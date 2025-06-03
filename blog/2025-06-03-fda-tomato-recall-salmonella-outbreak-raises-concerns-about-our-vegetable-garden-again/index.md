@@ -2,7 +2,7 @@
 title: "FDA Tomato Recall Salmonella Outbreak | Recall Of Tomatoes raises Concerns About Vegetable Garden"
 description: The FDA Tomato Recall Salmonella outbreak has raised concerns about tomato safety and vegetable garden. Learn which tomatoes are affected, how salmonella spreads, and how to protect your garden and family.
 keywords:
-  - FDA tomato recall salmonella
+  - fda tomato recall salmonella
   - tomato recall
   - tomatoes
   - salmonella
@@ -28,25 +28,25 @@ While composting is generally a good practice for reducing **waste** and enrichi
 
 <h2 className="jump-to">Jump To</h2>
 
-[**FDA Tomato Recall Warning**](#1-urgent-fda-tomato-recall-warning)
+[**FDA Tomato Recall Warning**](#urgent-fda-tomato-recall-warning)
 
-[**What Tomatoes Are Being Recalled?**](#2-what-tomatoes-are-being-recalled)
+[**What Tomatoes Are Being Recalled?**](#what-tomatoes-are-being-recalled)
 
-[**Why Does Salmonella Infect Our Vegetables Again?**](#3-why-does-salmonella-infect-our-vegetables-again)
+[**Why Does Salmonella Infect Our Vegetables Again?**](#why-does-salmonella-infect-our-vegetables-again)
 
-[**What Is Salmonella, and How Does It Infect Our Vegetable Garden?**](#4-what-is-salmonella-and-how-does-it-infect-our-vegetable-garden)
+[**What Is Salmonella, and How Does It Infect Our Vegetable Garden?**](#what-is-salmonella-and-how-does-it-infect-our-vegetable-garden)
 
-[**How to Kill Salmonella?**](#5-how-to-kill-salmonella)
+[**How to Kill Salmonella?**](#how-to-kill-salmonella)
 
-[**Is It Safe to Eat Tomatoes Now?**](#6-is-it-safe-to-eat-tomatoes-now)
+[**Is It Safe to Eat Tomatoes Now?**](#is-it-safe-to-eat-tomatoes-now)
 
-[**What Kind of Food Is Easily Contaminated with Salmonella?**](#7-what-kind-of-food-is-easily-contaminated-with-salmonella)
+[**What Kind of Food Is Easily Contaminated with Salmonella?**](#what-kind-of-food-is-easily-contaminated-with-salmonella)
 
-[**How Should I Deal with the Recalled Tomatoes?**](#8-how-should-i-deal-with-the-recalled-tomatoes)
+[**How Should I Deal with the Recalled Tomatoes?**](#how-should-i-deal-with-the-recalled-tomatoes)
 
-[**Is It Safe to Compost My Tomatoes Now?**](#9-is-it-safe-to-compost-my-tomatoes-now)
+[**Is It Safe to Compost My Tomatoes Now?**](#is-it-safe-to-compost-my-tomatoes-now)
 
-## 1. Urgent! FDA Tomato Recall Warning
+## Urgent! FDA Tomato Recall Warning
 In May 2025, the U.S. Food and Drug Administration (FDA) issued a Class I recall—the highest risk level—for certain tomatoes due to potential Salmonella contamination. 
 
 ![FDA Tomato Recall Salmonella](./img/fda-tomato-recall-salmonella.png)
@@ -61,7 +61,7 @@ The recall spans multiple states, including Georgia, North Carolina, South Carol
 
 A Class I designation indicates a reasonable probability that consuming the product could lead to serious health consequences or death. Salmonella infection can cause watery diarrhea, stomach cramps, and vomiting, especially posing severe risks to young children, the elderly, and those with weakened immune systems. 
 
-## 2. What Tomatoes Are Being Recalled?
+## What Tomatoes Are Being Recalled?
 The recalled tomatoes include various sizes and packaging types distributed between April 23 and April 28, 2025. Affected products were sold under the Williams Farms Repack and H&C Farms labels in Georgia, North Carolina, and South Carolina. Specific lot codes include R4467 and R4470. 
 Ray & Mascari Inc. also recalled 4-count vine ripe tomatoes packaged in clamshell containers with lot numbers RM250424 15250B or RM250427 15250B. These were distributed in Illinois, Indiana, Kentucky, Michigan, Missouri, Mississippi, New York, Ohio, Pennsylvania, Tennessee, and Wisconsin.
 
@@ -69,7 +69,7 @@ Ray & Mascari Inc. also recalled 4-count vine ripe tomatoes packaged in clamshel
 
 <h2 className="people-also-ask">People Also Ask</h2>
 
-## 3. Why Does Salmonella Infect Our Vegetables Again?
+## Why Does Salmonella Infect Our Vegetables Again?
 Salmonella can contaminate vegetables through several pathways:
 
 **Contaminated Water**: Using water that contains Salmonella for irrigation can introduce the bacteria to crops.
@@ -81,12 +81,12 @@ Salmonella can contaminate vegetables through several pathways:
 **Improper Handling**: During harvesting, processing, or packaging, poor hygiene practices can lead to contamination.
 These factors contribute to recurring outbreaks of Salmonella in vegetables.
 
-## 4. What Is Salmonella, and How Does It Infect Our Vegetable Garden?
+## What Is Salmonella, and How Does It Infect Our Vegetable Garden?
 Salmonella is a type of bacteria that can cause foodborne illness. It infects vegetables when they come into contact with contaminated water, soil, or surfaces. The bacteria can enter plants through roots or damaged areas, making it difficult to remove through washing alone. 
 
 In gardens, using contaminated compost or allowing animals to access planting areas can introduce Salmonella.
 
-## 5. How to Kill Salmonella?
+## How to Kill Salmonella?
 To eliminate Salmonella from food:
 
 - **Cook Thoroughly**: Heat foods to an internal temperature of at least 165°F (74°C) to kill the bacteria.
@@ -98,10 +98,10 @@ To eliminate Salmonella from food:
 - **Compost Properly**: Ensure compost reaches temperatures that kill pathogens before applying to gardens. Please check this guide to see how to compost suspected tomatoes or other vegetables contaminated with Salmonella: [FDA Cucumber Recall 2025 - Heat Composting](https://www.geme.bio/blog/cucumber-recall-2025-how-to-protect-vegetable-garden-from-salmonella#how-to-kill-salmonella)
 - **Control Animal Access**: Prevent animals from entering garden areas to reduce contamination risks.
 
-## 6. Is It Safe to Eat Tomatoes Now?
+## Is It Safe to Eat Tomatoes Now?
 Yes, it is safe to eat tomatoes that are not part of the recall. Consumers should check the origin and lot numbers of tomatoes to ensure they are not affected. Proper handling and cooking further reduce any risk of Salmonella infection.
 
-## 7. What Kind of Food Is Easily Contaminated with Salmonella?
+## What Kind of Food Is Easily Contaminated with Salmonella?
 Foods commonly associated with Salmonella contamination include:
 
 - **Raw Meat and Poultry**: Undercooked or improperly handled meats.
@@ -112,7 +112,7 @@ Foods commonly associated with Salmonella contamination include:
 
 Proper food handling and cooking practices can minimize the risk of infection.
 
-## 8. How Should I Deal with the Recalled Tomatoes?
+## How Should I Deal with the Recalled Tomatoes?
 If you have purchased tomatoes included in the recall:
 
 **Do Not Consume**: Avoid eating the affected products.
@@ -124,7 +124,7 @@ Return to Store: Some retailers may offer refunds for recalled items.
 
 For questions, contact the distributor or the FDA for guidance.
 
-## 9. Is It Safe to Compost My Tomatoes Now?
+## Is It Safe to Compost My Tomatoes Now?
 Composting recalled tomatoes is not recommended. However, A home electric composter with heating system can completely simulate the whole process of natural composting but improve and speed up the composting process by providing the most suitable conditions for Kobold to grow and degrade. Kobold is a pure natural high-temperature resistant composite microorganism. The fermentation heat can reach up to over 70°C during the fermentation process. **[As recommended by FDA and CDC, it meets the conditions to kill Salmonella](https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures)**.
 
 Other man-made composting systems may not reach temperatures sufficient to kill Salmonella bacteria. Using contaminated compost in your garden can introduce bacteria to your soil and plants. It's safer to dispose of the recalled tomatoes in the trash or use a composter with Kobold.
