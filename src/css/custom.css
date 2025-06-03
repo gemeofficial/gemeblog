@@ -21,6 +21,14 @@
 }
 /** customized for youtube player end **/
 
+/* People Also Ask section styling */
+.people-also-ask {
+  font-size: 2rem;
+  color: #3B7F6F;
+  font-weight: 600;
+  margin-bottom: 1.5rem;
+}
+
 /* You can override the default Infima variables here. */
 :root {
   --ifm-color-primary: #3b7f6f;
