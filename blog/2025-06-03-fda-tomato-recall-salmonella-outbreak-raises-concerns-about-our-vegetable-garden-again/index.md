@@ -53,11 +53,11 @@ In May 2025, the U.S. Food and Drug Administration (FDA) issued a Class I recall
 
 This recall affects products distributed by Williams Farms Repack LLC and Ray & Mascari Inc. The recall was initiated after concerns that the affected tomatoes, sold under the Williams Farms Repack and H&C Farms brands in various packaging sizes, may be contaminated with Salmonella. 
 
-![Williams Farms Repack LLC recall of tomatoes](./img/1_williams_farm_case.jpeg)
+![Williams Farms Repack LLC recall of tomatoes](./img/williams-farm-case.jpeg)
 
 The recall spans multiple states, including Georgia, North Carolina, South Carolina, Illinois, Indiana, Kentucky, Michigan, Missouri, Mississippi, New York, Ohio, Pennsylvania, Tennessee, and Wisconsin. 
 
-![FDA Recalled Tomatoes 2025](./img/3_williams_farm_3ct_tray.jpeg)
+![FDA Recalled Tomatoes 2025](./img/williams-farm-3ct-tray.jpg)
 
 A Class I designation indicates a reasonable probability that consuming the product could lead to serious health consequences or death. Salmonella infection can cause watery diarrhea, stomach cramps, and vomiting, especially posing severe risks to young children, the elderly, and those with weakened immune systems. 
 
