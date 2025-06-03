@@ -150,11 +150,11 @@ By understanding the causes and prevention methods of Salmonella contamination, 
 
 ## Related Articles
 
-- [FDA Cucumber Recall 2025 Due To Salmonella Outbreak](/blog/2025-05-23-cucumber-recall-2025-how-to-protect-our-vegetable-garden-from-salmonella/)
+- [FDA Cucumber Recall 2025 Due To Salmonella Outbreak](/blog/cucumber-recall-2025-how-to-protect-vegetable-garden-from-salmonella)
 <!-- truncate -->
-- [Garden Soil vs Compost](/blog/2025-05-15-garden-soil-vs-compost-pros-and-cons/)
+- [Garden Soil vs Compost](/blog/garden-soil-vs-compost-pros-and-cons)
 <!-- truncate -->
-- [Traditional Compost Pile vs GEME](/blog/2024-08-13-tranditional-compost-pile-vs-geme/)
+- [Traditional Compost Pile vs GEME](/blog/traditional-composting-vs-geme-composter/)
 <!-- truncate -->
 
 ## See Also
