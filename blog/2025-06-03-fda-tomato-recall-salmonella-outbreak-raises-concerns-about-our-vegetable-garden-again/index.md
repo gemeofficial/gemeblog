@@ -12,6 +12,7 @@ keywords:
 slug: fda-tomato-recall-salmonella-outbreak-raises-concerns-about-vegetable
 authors: [Moore]
 tags: [gardening, plant, sustainability]
+picture: ![](./img/fda-tomato-recall-salmonella.png)
 ---
 
 <head >
@@ -25,6 +26,8 @@ tags: [gardening, plant, sustainability]
 
 
 While composting is generally a good practice for reducing **waste** and enriching soil, it's important to be cautious when dealing with potentially contaminated materials. The **FDA Tomato Recall Salmonella** outbreak highlights the need to take extra precautions to protect your health and prevent the spread of **salmonella**.
+
+<!-- truncate -->
 
 <h2 className="jump-to">Jump To</h2>
 
