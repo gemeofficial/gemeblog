@@ -151,7 +151,7 @@ By understanding the causes and prevention methods of Salmonella contamination, 
 
 ## Related Articles
 
-- [FDA Cucumber Recall 2025 Due To Salmonella Outbreal](/blog/2025-05-23-cucumber-recall-2025-how-to-protect-our-vegetable-garden-from-salmonella/)
+- [FDA Cucumber Recall 2025 Due To Salmonella Outbreak](/blog/2025-05-23-cucumber-recall-2025-how-to-protect-our-vegetable-garden-from-salmonella/)
 <!-- truncate -->
 - [4 Different Types of Compost and Which One Should I Use](/blog/4-differnt-types-of-compost-and-which-one-should-i-use)
 <!-- truncate -->
@@ -160,7 +160,7 @@ By understanding the causes and prevention methods of Salmonella contamination, 
 
 ## See Also
 
-FDA: <a href="hhttps://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/williams-farms-repack-llc-recalls-tomatoes-due-possible-salmonella-contamination" rel="nofollow">Williams Farms Repack LLC Recalls Tomatoes Due to Possible Salmonella Contamination</a>
+FDA: <a href="https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/williams-farms-repack-llc-recalls-tomatoes-due-possible-salmonella-contamination" rel="nofollow">Williams Farms Repack LLC Recalls Tomatoes Due to Possible Salmonella Contamination</a>
 
 CDC: <a href="https://www.cdc.gov/salmonella/outbreaks/whole-cucumbers-05-25/index.html#:~:text=CDC%3A-,About%20Salmonella%20Infection,-FDA%3A%20Outbreak" rel="nofollow">About Salmonella Infection</a>
 
