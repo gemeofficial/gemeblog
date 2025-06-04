@@ -660,6 +660,17 @@ const config = {
       },
     ],
     [
+      '@docusaurus/plugin-client-redirects',
+      {
+        redirects: [
+          {
+            from: '/blog/cucumber-recall-how-to-protect-vegetable-garden-from-salmonella',
+            to: '/blog/cucumber-recall-2025-how-to-protect-vegetable-garden-from-salmonella',
+          },
+        ],
+      },
+    ],
+    [
       "@gracefullight/docusaurus-plugin-microsoft-clarity",
       { projectId: "kse470k3uv" },
     ],

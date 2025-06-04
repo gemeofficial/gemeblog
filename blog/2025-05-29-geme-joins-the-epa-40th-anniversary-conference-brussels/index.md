@@ -23,12 +23,12 @@ As a sponsor, GEME joined the celebration not only to support the mission of EPA
 
 In our workshop exchange with parents and EPA members across all European countries, the feedback was clear: **families want actionable solutions to help raise sustainability-conscious children**. The GEME composter is designed to support exactly that — offering a practical, educational, and empowering tool for every home.
 
-![GEME product showcase at the EPA 40th anniversary conference in Brussels](./img/geme-joins-the-epa-40th-anniversary-conference-brussels.jpeg) 
+![GEME product showcase at the EPA 40th anniversary conference in Brussels](./img/geme-joins-the-epa-40th-anniversary-conference-brussels.jpeg)
 
 We believe that **the journey toward a greener, more resilient planet starts with everyday actions in the home**. Composting is no longer just a municipal task — it’s a family value, a teaching moment, and a daily impact.
 
 We thank EPA, its visionary speakers, and the participating families for their support and for reminding us that change begins with community.
-Let’s continue turning food waste into future soil — starting right where we live.
+Let's continue turning food waste into nutrient-rich compost — starting right where we live.
 
 ![GEME joins the EPA 40th anniversary conference](./img/alex-yun-represents-geme-for-the-epa-40th-anniversary-conference-in-brussels.jpeg)
 
