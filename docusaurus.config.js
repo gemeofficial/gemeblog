@@ -664,8 +664,8 @@ const config = {
       {
         redirects: [
           {
-            from: '/blog/cucumber-recall-how-to-protect-vegetable-garden-from-salmonella',
             to: '/blog/cucumber-recall-2025-how-to-protect-vegetable-garden-from-salmonella',
+            from: '/blog/cucumber-recall-how-to-protect-vegetable-garden-from-salmonella',
           },
         ],
       },

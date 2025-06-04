@@ -1,5 +1,11 @@
 {
   "framework": "docusaurus",
+  "rewrites": [
+    {
+      "source": "/blog/cucumber-recall-how-to-protect-vegetable-garden-from-salmonella",
+      "destination": "/blog/cucumber-recall-how-to-protect-vegetable-garden-from-salmonella/index.html"
+    }
+  ],
   "headers": [
     {
       "source": "/blog/page/:number",
