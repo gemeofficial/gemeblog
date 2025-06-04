@@ -1,5 +1,5 @@
 ---
-title: "FDA Tomato Recall Salmonella Outbreak | Recall Of Tomatoes raises Concerns About Vegetable Garden"
+title: "FDA Tomato Recall Salmonella Outbreak Raises Concerns About Vegetable Garden"
 description: The FDA Tomato Recall Salmonella outbreak has raised concerns about tomato safety and vegetable garden. Learn which tomatoes are affected, how salmonella spreads, and how to protect your garden and family.
 keywords:
   - FDA tomato recall salmonella
