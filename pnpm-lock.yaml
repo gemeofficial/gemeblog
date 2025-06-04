@@ -14,6 +14,9 @@ dependencies:
   '@docusaurus/faster':
     specifier: ^3.8.0
     version: 3.8.0(@docusaurus/types@3.8.0)
+  '@docusaurus/plugin-client-redirects':
+    specifier: ^3.8.0
+    version: 3.8.0(@docusaurus/faster@3.8.0)(@mdx-js/react@3.1.0)(@swc/core@1.11.29)(acorn@8.14.1)(react-dom@19.1.0)(react@19.1.0)
   '@docusaurus/plugin-content-blog':
     specifier: ^3.8.0
     version: 3.8.0(@docusaurus/faster@3.8.0)(@docusaurus/plugin-content-docs@3.8.0)(@mdx-js/react@3.1.0)(@swc/core@1.11.29)(acorn@8.14.1)(react-dom@19.1.0)(react@19.1.0)
@@ -2265,6 +2268,44 @@ packages:
       - supports-color
       - uglify-js
       - webpack-cli
+
+  /@docusaurus/plugin-client-redirects@3.8.0(@docusaurus/faster@3.8.0)(@mdx-js/react@3.1.0)(@swc/core@1.11.29)(acorn@8.14.1)(react-dom@19.1.0)(react@19.1.0):
+    resolution: {integrity: sha512-J8f5qzAlO61BnG1I91+N5WH1b/lPWqn6ifTxf/Bluz9JVe1bhFNSl0yW03p+Ff3AFOINDy2ofX70al9nOnOLyw==}
+    engines: {node: '>=18.0'}
+    peerDependencies:
+      react: ^18.0.0 || ^19.0.0
+      react-dom: ^18.0.0 || ^19.0.0
+    dependencies:
+      '@docusaurus/core': 3.8.0(@docusaurus/faster@3.8.0)(@mdx-js/react@3.1.0)(@swc/core@1.11.29)(acorn@8.14.1)(debug@4.4.1)(react-dom@19.1.0)(react@19.1.0)
+      '@docusaurus/logger': 3.8.0
+      '@docusaurus/utils': 3.8.0(@swc/core@1.11.29)(acorn@8.14.1)(react-dom@19.1.0)(react@19.1.0)
+      '@docusaurus/utils-common': 3.8.0(@swc/core@1.11.29)(acorn@8.14.1)(react-dom@19.1.0)(react@19.1.0)
+      '@docusaurus/utils-validation': 3.8.0(@swc/core@1.11.29)(acorn@8.14.1)(react-dom@19.1.0)(react@19.1.0)
+      eta: 2.2.0
+      fs-extra: 11.3.0
+      lodash: 4.17.21
+      react: 19.1.0
+      react-dom: 19.1.0(react@19.1.0)
+      tslib: 2.8.1
+    transitivePeerDependencies:
+      - '@docusaurus/faster'
+      - '@mdx-js/react'
+      - '@parcel/css'
+      - '@rspack/core'
+      - '@swc/core'
+      - '@swc/css'
+      - acorn
+      - bufferutil
+      - csso
+      - debug
+      - esbuild
+      - lightningcss
+      - supports-color
+      - typescript
+      - uglify-js
+      - utf-8-validate
+      - webpack-cli
+    dev: false
 
   /@docusaurus/plugin-content-blog@3.8.0(@docusaurus/faster@3.8.0)(@docusaurus/plugin-content-docs@3.8.0)(@mdx-js/react@3.1.0)(@swc/core@1.11.29)(acorn@8.14.1)(react-dom@19.1.0)(react@19.1.0):
     resolution: {integrity: sha512-0SlOTd9R55WEr1GgIXu+hhTT0hzARYx3zIScA5IzpdekZQesI/hKEa5LPHBd415fLkWMjdD59TaW/3qQKpJ0Lg==}
