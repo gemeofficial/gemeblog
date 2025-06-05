@@ -203,7 +203,7 @@ const config = {
         //   rehypePlugins: [rehypeKatex],
 
         //   // 请将此更改为您的仓库。
-        //   // 删除此项以移除“编辑此页面”链接。
+        //   // 删除此项以移除"编辑此页面"链接。
         //   editUrl:
         //     'https://github.com/gemeofficial/gemedocs/tree/main/blog',
         // },
@@ -652,11 +652,18 @@ const config = {
         rehypePlugins: [rehypeKatex],
 
         // 请将此更改为您的仓库。
-        // 删除此项以移除“编辑此页面”链接。
+        // 删除此项以移除"编辑此页面"链接。
         // editUrl:
         //   'https://github.com/gemeofficial/gemedocs/tree/main/blog',
         readingTime: ({ content, frontMatter, defaultReadingTime }) =>
           defaultReadingTime({ content, options: { wordsPerMinute: 300 } }),
+      },
+    ],
+    [
+      'vercel-analytics',
+      {
+        debug: true,
+        mode: 'auto',
       },
     ],
     [
@@ -736,7 +743,7 @@ const config = {
   // plugins: [tailwindPlugin], // 更新此项
 
   // 添加自定义字段
-  customFields: {}
+  customFields: {},
 };
 
 export default config;
