@@ -10,7 +10,6 @@ keywords:
 slug: make-donut-at-home-for-national-donut-day
 authors: [Moore]
 tags: [foodwaste, food waste, sustainability, composter]
-picture: 
 ---
 
 <head >
@@ -23,45 +22,35 @@ picture:
 </head>
 
 
-While composting is generally a good practice for reducing **waste** and enriching soil, it's important to be cautious when dealing with potentially contaminated materials. The **FDA Tomato Recall Salmonella** outbreak highlights the need to take extra precautions to protect your health and prevent the spread of **salmonella**.
+Every year, people all across the United States come together to celebrate a sweet and sticky holiday known as **National Donut Day**. In 2025, this delightful day falls on **Friday, June 6th**. 
+
+![National Donut Day](./img/national-donut-day-2025.png)
 
 <!-- truncate -->
 
 <h2 className="jump-to">Jump To</h2>
 
-[**FDA Tomato Recall Warning**](#urgent-fda-tomato-recall-warning)
+[**1. When Is National Donut Day 2025?**](#1-when-is-national-donut-day-2025)
 
-[**What Tomatoes Are Being Recalled?**](#what-tomatoes-are-being-recalled)
+[**2. How to Make Donut at Home**](#2-how-to-make-donuts-at-home)
 
-[**Why Does Salmonella Infect Our Vegetables Again?**](#why-does-salmonella-infect-our-vegetables-again)
+[**3. Enjoy Your Donuts But Don't Waste Your Food**](#3-enjoy-your-donuts-but-dont-waste-your-food)
 
-[**What Is Salmonella, and How Does It Infect Our Vegetable Garden?**](#what-is-salmonella-and-how-does-it-infect-our-vegetable-garden)
+[**4. How to Do Food Waste Management**](#4-how-to-do-food-waste-management)
 
-[**How to Kill Salmonella?**](#how-to-kill-salmonella)
-
-[**Is It Safe to Eat Tomatoes Now?**](#is-it-safe-to-eat-tomatoes-now)
-
-[**What Kind of Food Is Easily Contaminated with Salmonella?**](#what-kind-of-food-is-easily-contaminated-with-salmonella)
-
-[**How Should I Deal with the Recalled Tomatoes?**](#how-should-i-deal-with-the-recalled-tomatoes)
-
-[**Is It Safe to Compost My Tomatoes Now?**](#is-it-safe-to-compost-my-tomatoes-now)
+<!-- truncate -->
 
 ## **1. When is National Donut Day 2025?**
 
-🍩 Every year, people all across the United States come together to celebrate a sweet and sticky holiday known as **National Donut Day**. In 2025, this delightful day falls on **Friday, June 6th**. 🍩
-
-**National Donut Day** was started back in 1938 by The Salvation Army to honor the women who served donuts to soldiers during World War I. It’s now celebrated on the **first Friday of June** each year, bringing joy to donut lovers and foodies everywhere.
+🍩 **National Donut Day** was started back in 1938 by The Salvation Army to honor the women who served donuts to soldiers during World War I. It’s now celebrated on the **first Friday of June** each year, bringing joy to donut lovers and foodies everywhere. 🍩
 
 Popular donut shops like **Dunkin’ Donuts**, **Krispy Kreme**, and **Tim Hortons** often give away free donuts or offer special deals to celebrate. It’s a great excuse to grab a sweet treat and join in on the fun with friends or family.
 
 🥯 Whether you go out to get a free donut or bake some at home, National Donut Day is the perfect time to celebrate this delicious dessert! 🥯
 
-
+![Dunkin Donuts](./img/dunkin-donut.png)
 
 ------
-
-
 
 ## **2. How to Make Donuts at Home**
 
@@ -86,6 +75,8 @@ Why go out when you can make delicious donuts in your own kitchen? Homemade donu
 - Oil for frying (like vegetable or canola oil)
 
  Optional toppings: powdered sugar, cinnamon sugar, chocolate glaze, sprinkles
+
+![How to make donuts](./img/how-to-make-donut.png)
 
 ### **Steps to Make Donuts**
 
@@ -127,15 +118,15 @@ Why go out when you can make delicious donuts in your own kitchen? Homemade donu
 
 And there you go—fresh, homemade donuts! Perfect for celebrating **National Donut Day**, or just because you feel like a treat.
 
-
+![Donuts](./img/dunkin-donut.png)
 
 ------
-
-
 
 ## **3. Enjoy Your Donuts but Don’t Waste Your Food**
 
 It’s easy to get excited and make too many donuts, especially on a fun holiday like **National Donut Day**. But while it's great to indulge, we should always try to avoid food waste.
+
+![Food Waste Management](./img/food-waste-management.png)
 
 ### **Here’s Why Not Wasting Food Matters:**
 
@@ -181,6 +172,8 @@ Remember, a little planning goes a long way in making sure we enjoy our food **w
 
 Using a **composter** at home is one of the simplest and most effective ways to turn your food waste into something useful—**rich compost for your garden**!
 
+![Donut Food Waste](./img/compost-food-waste.png)
+
 ### **What Is Composting?**
 
 Composting is the natural process of breaking down organic waste (like banana peels, coffee grounds, and leftover donuts) into a dark, nutrient-rich soil called compost.
@@ -191,6 +184,8 @@ Composting is the natural process of breaking down organic waste (like banana pe
 2. **Reduces landfill waste**, lowering pollution.
 3. **Saves money** on fertilizer.
 4. **Supports plants**, helping them grow better and stronger.
+
+![How Does Donut Transform to Compost](./img/how-donut-transforms-to-compost.jpg)
 
 ### **How to Start Composting at Home:**
 
@@ -211,11 +206,9 @@ Composting is the natural process of breaking down organic waste (like banana pe
 
 Using a composter at home is a **great way to manage food waste** responsibly. Not only do you reduce trash, but you also give back to nature. Although donuts are a bit greasy, a few of them like 2 or 3 are not a big deal for GEME electric composter. ✅
 
-
+![GEME composter helps food waste management](./img/composter-for-food-waste.jpg)
 
 ------
-
-
 
 ## **Conclusion**
 
@@ -223,34 +216,24 @@ Using a composter at home is a **great way to manage food waste** responsibly. N
 
 And most importantly, help our planet 🌍 by learning how to manage your food waste the right way. A simple composter in your kitchen or backyard can make a big difference. Let's enjoy our food, treat ourselves every now and then, and care for our environment all at once. 🌳
 
-
-
 ------
-
-
-
-## ***\*SEE ALSO\****
-
-[daysoftheyear.com - National Donut Day (June 6th, 2025)](https://www.daysoftheyear.com/days/doughnut-day/)
-
-[wikipedia.org - National Donut Day](https://en.wikipedia.org/wiki/National_Donut_Day)
-
-[independent.co.uk - National Donut Day 2025: Where to get the best freebies](https://www.independent.co.uk/life-style/national-donut-day-2025-dunkin-donuts-b2764912.html)
 
 ## Related Articles
 
-- [FDA Cucumber Recall 2025 Due To Salmonella Outbreak](/blog/cucumber-recall-2025-how-to-protect-vegetable-garden-from-salmonella)
+[1. How to Transform Food Waste Into Rich Compost](/blog/2023-09-09-transforming-food-waste-5-reasons-why-geme-composter-is-your-solution/)
 <!-- truncate -->
-- [Garden Soil vs Compost](/blog/garden-soil-vs-compost-pros-and-cons)
+[2. Garden Soil vs Compost](/blog/garden-soil-vs-compost-pros-and-cons)
 <!-- truncate -->
-- [Traditional Compost Pile vs GEME](/blog/traditional-composting-vs-geme-composter/)
+[3. When Is Compost Ready to Use](/blog/2025-05-14-when-compost-is-ready-to-use/)
 <!-- truncate -->
 
-## See Also
+## **SEE ALSO**
 
-FDA: <a href="https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/williams-farms-repack-llc-recalls-tomatoes-due-possible-salmonella-contamination" rel="nofollow">Williams Farms Repack LLC Recalls Tomatoes Due to Possible Salmonella Contamination</a>
+<a href="https://en.wikipedia.org/wiki/National_Donut_Day" rel="nofollow">About National Donut Day</a>
 
-CDC: <a href="https://www.cdc.gov/salmonella/outbreaks/whole-cucumbers-05-25/index.html#:~:text=CDC%3A-,About%20Salmonella%20Infection,-FDA%3A%20Outbreak" rel="nofollow">About Salmonella Infection</a>
+<a href="https://www.daysoftheyear.com/days/doughnut-day/" rel="nofollow">National Donut Day (June 6th, 2025)</a>
+
+<a href="https://www.independent.co.uk/life-style/national-donut-day-2025-dunkin-donuts-b2764912.html" rel="nofollow">National Donut Day 2025: Where to get the best freebies</a>
 
 ---
 
