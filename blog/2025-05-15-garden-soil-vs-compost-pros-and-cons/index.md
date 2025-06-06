@@ -119,7 +119,7 @@ Compost is primarily composed of decomposed organic materials, including:
 
 The ideal compost mix has a balance of "browns" and "greens" to provide the right carbon-to-nitrogen ratio for [efficient decomposition](https://www.geme.bio/gk).
 
-![garden soil vs compost](./img/how-compost-better-than-garden-soil.webp)
+![garden soil vs compost](./img/how-compost-better-than-garden-soil.jpg)
 
 ## Pros of Compost
 
