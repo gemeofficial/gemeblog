@@ -220,12 +220,12 @@ And most importantly, help our planet 🌍 by learning how to manage your food w
 
 ## Related Articles
 
-[1. How to Transform Food Waste Into Rich Compost](/blog/2023-09-09-transforming-food-waste-5-reasons-why-geme-composter-is-your-solution/)
-<!-- truncate -->
-[2. Garden Soil vs Compost](/blog/garden-soil-vs-compost-pros-and-cons)
-<!-- truncate -->
-[3. When Is Compost Ready to Use](/blog/2025-05-14-when-compost-is-ready-to-use/)
-<!-- truncate -->
+[How to Transform Food Waste Into Rich Compost](/blog/transforming-food-waste-5-reasons-why-geme-composter-is-your-solution)
+
+[Garden Soil vs Compost](/blog/garden-soil-vs-compost-pros-and-cons)
+
+[When Is Compost Ready to Use](/blog/when-compost-is-ready-to-use)
+
 
 ## **SEE ALSO**
 
