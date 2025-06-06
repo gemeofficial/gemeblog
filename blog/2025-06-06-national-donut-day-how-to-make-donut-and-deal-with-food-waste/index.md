@@ -10,6 +10,7 @@ keywords:
 slug: make-donut-at-home-for-national-donut-day
 authors: [Moore]
 tags: [foodwaste, food waste, sustainability, composter]
+picture: https://www.geme.bio/assets/images/national-donut-day-2025-1fe7e82084f93a18cd9b1310e22ce55f.png
 ---
 
 <head >
