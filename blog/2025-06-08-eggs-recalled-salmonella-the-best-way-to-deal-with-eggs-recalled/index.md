@@ -2,7 +2,7 @@
 title: "Eggs Recalled Salmonella: The Best Way To Deal With Eggs Recalled"
 description: On June 6, 2025, egg recall due to Salmonella was issued by FDA. This recall raises concerns among consumers about food safety. This article aims to provide clear, actionable information about egg recalls, Salmonella, and how to protect yourself and your family.
 keywords:
-  -  Eggs Recalled Salmonella
+  - Eggs Recalled Salmonella
   - Egg Recall
   - Eggs Recall Map
   - Eggs Recalled
