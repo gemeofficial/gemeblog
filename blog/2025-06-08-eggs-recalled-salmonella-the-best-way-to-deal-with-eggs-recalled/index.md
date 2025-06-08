@@ -12,7 +12,7 @@ keywords:
 slug: eggs-recalled-salmonella-2025-best-way-to-kill-salmonella-in-eggs
 authors: [Moore]
 tags: [Food waste, sustainability, compost]
-picture: /blog/eggs-recalled-salmonella-2025-best-way-to-kill-salmonella-in-eggs
+picture: ./blog/eggs-recalled-salmonella-2025-best-way-to-kill-salmonella-in-eggs
 ---
 
 <head >
