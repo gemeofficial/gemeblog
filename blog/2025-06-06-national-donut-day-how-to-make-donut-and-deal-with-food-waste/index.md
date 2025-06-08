@@ -36,7 +36,7 @@ Every year, people all across the United States come together to celebrate a swe
 
 [**2. How to Make Donut at Home**](#2-how-to-make-donuts-at-home)
 
-[**3. Enjoy Your Donuts But Don't Waste Your Food**](#3-enjoy-your-donuts-but-dont-waste-your-food)
+[**3. Enjoy Your Donuts But Don't Waste Your Donuts**](#3-enjoy-your-donuts-but-dont-waste-your-food)
 
 [**4. How to Do Food Waste Management**](#4-how-to-do-food-waste-management)
 
