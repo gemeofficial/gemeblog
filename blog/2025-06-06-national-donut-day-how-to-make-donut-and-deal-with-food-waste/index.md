@@ -1,8 +1,9 @@
 ---
-title: "National Donut Day: How to Make Donuts At Home And Never Waste Your Food"
-description: Celebrate National Donut Day 2025 by learning how to make donuts at home, reduce food waste, and discover easy composting tips. Sweet treats meet sustainable living in this fun and informative guide!
+title: "National Donut Day How to Make Donuts And Avoid Donut Waste"
+description: Celebrate National Donut Day 2025 by learning how to make donuts at home, reduce donut waste, and discover easy composting tips. Sweet treats meet sustainable living in this fun and informative guide!
 keywords:
-  - dunkin donuts
+  - donut waste
+  - dunkin donuts waste
   - national donut day
   - how to make donut
   - food waste
@@ -123,7 +124,7 @@ And there you go—fresh, homemade donuts! Perfect for celebrating **National Do
 
 ------
 
-## **3. Enjoy Your Donuts but Don’t Waste Your Food**
+## **3. Enjoy Your Donuts but Don’t Waste Your Donuts**
 
 It’s easy to get excited and make too many donuts, especially on a fun holiday like **National Donut Day**. But while it's great to indulge, we should always try to avoid food waste.
 
@@ -137,7 +138,7 @@ It’s easy to get excited and make too many donuts, especially on a fun holiday
 
 - Food waste creates harmful gases in landfills that hurt our planet.
 
-### **Tips to Avoid Wasting Donuts and Other Food:**
+### **Tips to Avoid Donut Waste:**
 
 #### **1.** **Make Only What You Need**
 
