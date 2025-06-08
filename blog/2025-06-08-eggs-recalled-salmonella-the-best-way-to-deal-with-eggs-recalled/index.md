@@ -276,9 +276,9 @@ Remember to always prioritize food safety and take proactive steps to prevent th
 
 ## Related Articles
 
-- [FDA Tomato Recall 2025 Due To Salmonella Outbreak](/blog/fda-tomato-recall-salmonella-outbreak-raises-concerns-about-our-vegetable-garden-again)
+- [FDA Tomato Recall 2025 Due To Salmonella Outbreak](/blog/fda-tomato-recall-salmonella-outbreak-raises-concerns-about-vegetable)
 
-- [Cucumber Recall 2025 Salmonella Outbreak](/blog/cucumber-recall-2025-how-to-protect-our-vegetable-garden-from-salmonella)
+- [Cucumber Recall 2025 Salmonella Outbreak](/blog/cucumber-recall-2025-how-to-protect-vegetable-garden-from-salmonella)
 
 - [Garden Soil VS Compost Pros & Cons](/blog/garden-soil-vs-compost-pros-and-cons)
 
