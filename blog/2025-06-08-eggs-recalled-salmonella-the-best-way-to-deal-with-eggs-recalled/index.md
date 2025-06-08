@@ -45,7 +45,7 @@ In 2025, the United States has experienced several food recalls due to **Salmone
 
 ## 1. Eggs Recall Map: Check If You Purchased Eggs Contaminated With Salmonella
 
-When an ***egg recall** is announced, one of the first things consumers want to know is whether they have purchased the affected eggs. The <a href="https://www.cdc.gov/salmonella/outbreaks/eggs-06-25/index.html" rel="nofollow">**CDC**</a> and <a href="https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-eggs-june-2025" rel="nofollow">**FDA**</a> typically provide detailed information, including brand names, production dates, and distribution areas. However, visualizing this information can be challenging. That's where an **Eggs Recall Map** becomes incredibly useful. Now we get the **2025 Eggs Recall Map** for you to quickly determine if your eggs are part of this recall. 
+When an **egg recall** is announced, one of the first things consumers want to know is whether they have purchased the affected eggs. The <a href="https://www.cdc.gov/salmonella/outbreaks/eggs-06-25/index.html" rel="nofollow">**CDC**</a> and <a href="https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-eggs-june-2025" rel="nofollow">**FDA**</a> typically provide detailed information, including brand names, production dates, and distribution areas. However, visualizing this information can be challenging. That's where an **Eggs Recall Map** becomes incredibly useful. Now we get the **2025 Eggs Recall Map** for you to quickly determine if your eggs are part of this recall. 
 
 
 ![Egg Recall Map](./img/egg-recall-map.png)
@@ -175,11 +175,11 @@ One of the most challenging aspects of **Salmonella** contamination is that you 
 
 ### Why You Can't Detect Salmonella:
 
-**1.No Visible Signs**: **Salmonella** bacteria do not change the appearance, smell, or taste of eggs.
+1. **No Visible Signs**: **Salmonella** bacteria do not change the appearance, smell, or taste of eggs.
 
-**2.Microscopic Contamination**: The bacteria are microscopic and cannot be seen with the naked eye.
+2. **Microscopic Contamination**: The bacteria are microscopic and cannot be seen with the naked eye.
 
-**3.Internal Contamination**: In some cases, the Salmonella bacteria may be present inside the egg, making it impossible to detect without laboratory testing.
+3. **Internal Contamination**: In some cases, the Salmonella bacteria may be present inside the egg, making it impossible to detect without laboratory testing.
 
 ### Rely on Recall Information:
 
@@ -225,7 +225,7 @@ While proper disposal and cleaning are essential steps in dealing with **eggs re
 
 2. Traditional composting methods may not consistently achieve the temperatures needed to kill Salmonella and other pathogens.
 
-### **How Does** GEME Electric Composter Kill Salmonella :
+### How Does GEME Electric Composter Kill Salmonella :
 
 1. **Hot Composting**: GEME composters are designed to reach and maintain high temperatures (typically between 130°F and 160°F) that effectively kill Salmonella and other harmful bacteria. 
 
