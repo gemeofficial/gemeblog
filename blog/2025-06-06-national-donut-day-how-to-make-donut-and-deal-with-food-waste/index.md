@@ -8,7 +8,7 @@ keywords:
   - how to make donut
   - food waste
   - composter
-slug: make-donut-at-home-for-national-donut-day
+slug: avoid-donut-waste-on-national-donut-day
 authors: [Moore]
 tags: [foodwaste, food waste, sustainability, composter]
 picture: https://www.geme.bio/assets/images/national-donut-day-2025-1fe7e82084f93a18cd9b1310e22ce55f.png
@@ -180,7 +180,7 @@ Using a **composter** at home is one of the simplest and most effective ways to 
 
 Composting is the natural process of breaking down organic waste (like banana peels, coffee grounds, and leftover donuts) into a dark, nutrient-rich soil called compost.
 
-### **Why Composting Is Good:**
+### Why Composting Is Good:
 
 1. **Improves soil health** in gardens and pots.
 2. **Reduces landfill waste**, lowering pollution.
@@ -189,14 +189,14 @@ Composting is the natural process of breaking down organic waste (like banana pe
 
 ![How Does Donut Transform to Compost](./img/how-donut-transforms-to-compost.jpg)
 
-### **How to Start Composting at Home:**
+### How to Start Composting at Home:
 
-1. **Get a composter** —you can find these at GEME.
+1. **Get a composter** —you can find these here.
 2. **Collect kitchen scraps** like fruit peels, veggies, eggshells, and coffee grounds.
 3. **Mix with yard waste** —leaves, grass clippings, and twigs work well.
-4. **Turn the** **GEME home composter on** —within 6-8 hours, you’ll have dark, crumbly compost ready to use! 
+4. **Turn the home composter on** —within 6-8 hours, you’ll have dark, crumbly compost ready to use! 
 
-### **What’s** **NOT** **Recommended** **to Compost:**
+### What’s NOT Recommended to Compost:
 
 ❌ Meat and dairy
 
@@ -206,9 +206,9 @@ Composting is the natural process of breaking down organic waste (like banana pe
 
 ❌ Pet waste
 
-Using a composter at home is a **great way to manage food waste** responsibly. Not only do you reduce trash, but you also give back to nature. Although donuts are a bit greasy, a few of them like 2 or 3 are not a big deal for GEME electric composter. ✅
+Using a composter at home is a **great way to manage food waste** responsibly. Not only do you reduce trash, but you also give back to nature. Although donuts are a bit greasy, a few of them like 2 or 3 are not a big deal for a electric composter. ✅
 
-![GEME composter helps food waste management](./img/composter-for-food-waste.jpg)
+![Home composter helps food waste management](./img/composter-for-food-waste.jpg)
 
 ------
 
