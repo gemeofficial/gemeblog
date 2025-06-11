@@ -552,35 +552,35 @@ const config = {
               },
             ],
           },
-          {
-            title: 'Compare',
-            items: [
-              {
-                label: 'GEME vs Lomi',
-                to: '/blog/lomi-vs-geme-composter',
-                target: '_self',
-              },
-              {
-                label: 'GEME vs Mill',
-                to: '/blog/mill-vs-geme-composter',
-                target: '_self',
-              },
-              {
-                label: 'GEME vs Reencle',
-                to: '/blog/reencle-vs-geme-composter',
-                target: '_self',
-              },
-              {
-                label: 'GEME vs Composting Pile',
-                to: '/blog/traditional-composting-vs-geme-composter',
-                target: '_self',
-              },
-              // {
-              //   label: 'GEME Kobold vs EM Starter',
-              //   to: '#',
-              // },
-            ],
-          },
+          // {
+          //   title: 'Compare',
+          //   items: [
+          //     {
+          //       label: 'GEME vs Lomi',
+          //       to: '/blog/lomi-vs-geme-composter',
+          //       target: '_self',
+          //     },
+          //     {
+          //       label: 'GEME vs Mill',
+          //       to: '/blog/mill-vs-geme-composter',
+          //       target: '_self',
+          //     },
+          //     {
+          //       label: 'GEME vs Reencle',
+          //       to: '/blog/reencle-vs-geme-composter',
+          //       target: '_self',
+          //     },
+          //     {
+          //       label: 'GEME vs Composting Pile',
+          //       to: '/blog/traditional-composting-vs-geme-composter',
+          //       target: '_self',
+          //     },
+          //     // {
+          //     //   label: 'GEME Kobold vs EM Starter',
+          //     //   to: '#',
+          //     // },
+          //   ],
+          // },
         ],
       },
       prism: {
