@@ -33,148 +33,148 @@ const config = {
 
   // SEO 脚本标签
   headTags: [
-    {
-      tagName: 'script',
-      attributes: {
-        type: 'application/ld+json',
-      },
-      innerHTML: JSON.stringify({
-        "@context": "https://schema.org",
-        "@type": "Organization",
-        "name": "GEME",
-        "alternateName": "GEME Composter",
-        "legalName": "ROKH",
-        "url": "https://www.geme.bio",
-        "logo": "https://www.geme.bio/full-logo.png",
-        "description": "GEME is a brand that aims to solve the world class food waste problem, and provide a better agricultural output.",
-        "sameAs": [
-          "https://twitter.com/geme_hi",
-          "https://x.com/geme_hi",
-          "https://www.facebook.com/hellogeme",
-          "https://www.youtube.com/@geme_composter",
-          "https://www.pinterest.com/geme_composter",
-          "https://www.instagram.com/geme_composter",
-          "https://www.tiktok.com/@geme.rokh",
-          "https://www.linkedin.com/company/gemebyrokh"
-        ],
-        "email": "info@geme.bio",
-        "contactPoint": {
-          "contactType": "Customer Service",
-          "email": "info@geme.bio",
-          "telephone": "+32 479128278"
-        },
-        "vatID": "BE0719978144",
-        "address": {
-          "@type": "PostalAddress",
-          "streetAddress": "Boulevard Louis Schmidt 29",
-          "addressLocality": "Brussels",
-          "postalCode": "1040",
-          "addressCountry": "Belgium"
-        }
-      }),
-    },
-    {
-      tagName: 'script',
-      attributes: {
-        type: 'application/ld+json',
-      },
-      innerHTML: JSON.stringify({
-        "@context": "https://schema.org",
-        "@type": "OnlineStore",
-        "name": "GEME",
-        "alternateName": "GEME Composter",
-        "legalName": "ROKH",
-        "url": "https://www.geme.bio",
-        "logo": "https://www.geme.bio/full-logo.png",
-        "description": "GEME is a brand that aims to solve the world class food waste problem, and provide a better argicultural output.",
-        "sameAs": [
-          "https://twitter.com/geme_hi",
-          "https://x.com/geme_hi",
-          "https://www.facebook.com/hellogeme",
-          "https://www.youtube.com/@geme_composter",
-          "https://www.pinterest.com/geme_composter",
-          "https://www.instagram.com/geme_composter",
-          "https://www.tiktok.com/@geme.rokh",
-          "https://www.linkedin.com/company/gemebyrokh"
-        ],
-        "telephone": "+32 479128278",
-        "email": "info@geme.bio",
-        "contactPoint": {
-          "contactType": "Customer Service",
-          "email": "info@geme.bio",
-          "telephone": "+32 479128278"
-        },
-        "vatID": "BE0719978144",
-        "address": {
-          "@type": "PostalAddress",
-          "streetAddress": "Boulevard Louis Schmidt 29",
-          "addressLocality": "Brussels",
-          "postalCode": "1040",
-          "addressCountry": "Belgium"
-        },
-        "hasMerchantReturnPolicy": {
-          "@type": "MerchantReturnPolicy",
-          "applicableCountry": [
-            "US",
-            "CA",
-            "GB",
-            "AT",
-            "BE",
-            "CZ",
-            "DK",
-            "EE",
-            "FI",
-            "FR",
-            "DE",
-            "GR",
-            "HU",
-            "IS",
-            "IT",
-            "LV",
-            "LI",
-            "LT",
-            "LU",
-            "MT",
-            "NL",
-            "NO",
-            "PL",
-            "PT",
-            "SK",
-            "SI",
-            "ES",
-            "SE",
-            "CH",
-            "LI"
-          ],
-          "returnPolicyCountry": "BE",
-          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
-          "merchantReturnDays": 30,
-          "returnMethod": "https://schema.org/ReturnByMail",
-          "returnFees": "https://schema.org/FreeReturn",
-          "refundType": "https://schema.org/FullRefund"
-        }
-      }),
-    },
-    {
-      tagName: 'script',
-      attributes: {
-        type: 'application/ld+json',
-      },
-      innerHTML: JSON.stringify({
-        "@context": "https://schema.org",
-        "@type": "WebSite",
-        "name": "GEME",
-        "url": "https://www.geme.bio",
-        "potentialAction": {
-          "@type": "SearchAction",
-          "target": {
-            "@type": "EntryPoint",
-            "urlTemplate": "https://www.geme.bio/search?q={search_term_string}"
-          },
-          "query-input": "required name=search_term_string"
-        }
-      }),
-    },
+    // {
+    //   tagName: 'script',
+    //   attributes: {
+    //     type: 'application/ld+json',
+    //   },
+    //   innerHTML: JSON.stringify({
+    //     "@context": "https://schema.org",
+    //     "@type": "Organization",
+    //     "name": "GEME",
+    //     "alternateName": "GEME Composter",
+    //     "legalName": "ROKH",
+    //     "url": "https://www.geme.bio",
+    //     "logo": "https://www.geme.bio/full-logo.png",
+    //     "description": "GEME is a brand that aims to solve the world class food waste problem, and provide a better agricultural output.",
+    //     "sameAs": [
+    //       "https://twitter.com/geme_hi",
+    //       "https://x.com/geme_hi",
+    //       "https://www.facebook.com/hellogeme",
+    //       "https://www.youtube.com/@geme_composter",
+    //       "https://www.pinterest.com/geme_composter",
+    //       "https://www.instagram.com/geme_composter",
+    //       "https://www.tiktok.com/@geme.rokh",
+    //       "https://www.linkedin.com/company/gemebyrokh"
+    //     ],
+    //     "email": "info@geme.bio",
+    //     "contactPoint": {
+    //       "contactType": "Customer Service",
+    //       "email": "info@geme.bio",
+    //       "telephone": "+32 479128278"
+    //     },
+    //     "vatID": "BE0719978144",
+    //     "address": {
+    //       "@type": "PostalAddress",
+    //       "streetAddress": "Boulevard Louis Schmidt 29",
+    //       "addressLocality": "Brussels",
+    //       "postalCode": "1040",
+    //       "addressCountry": "Belgium"
+    //     }
+    //   }),
+    // },
+    // {
+    //   tagName: 'script',
+    //   attributes: {
+    //     type: 'application/ld+json',
+    //   },
+    //   innerHTML: JSON.stringify({
+    //     "@context": "https://schema.org",
+    //     "@type": "OnlineStore",
+    //     "name": "GEME",
+    //     "alternateName": "GEME Composter",
+    //     "legalName": "ROKH",
+    //     "url": "https://www.geme.bio",
+    //     "logo": "https://www.geme.bio/full-logo.png",
+    //     "description": "GEME is a brand that aims to solve the world class food waste problem, and provide a better argicultural output.",
+    //     "sameAs": [
+    //       "https://twitter.com/geme_hi",
+    //       "https://x.com/geme_hi",
+    //       "https://www.facebook.com/hellogeme",
+    //       "https://www.youtube.com/@geme_composter",
+    //       "https://www.pinterest.com/geme_composter",
+    //       "https://www.instagram.com/geme_composter",
+    //       "https://www.tiktok.com/@geme.rokh",
+    //       "https://www.linkedin.com/company/gemebyrokh"
+    //     ],
+    //     "telephone": "+32 479128278",
+    //     "email": "info@geme.bio",
+    //     "contactPoint": {
+    //       "contactType": "Customer Service",
+    //       "email": "info@geme.bio",
+    //       "telephone": "+32 479128278"
+    //     },
+    //     "vatID": "BE0719978144",
+    //     "address": {
+    //       "@type": "PostalAddress",
+    //       "streetAddress": "Boulevard Louis Schmidt 29",
+    //       "addressLocality": "Brussels",
+    //       "postalCode": "1040",
+    //       "addressCountry": "Belgium"
+    //     },
+    //     "hasMerchantReturnPolicy": {
+    //       "@type": "MerchantReturnPolicy",
+    //       "applicableCountry": [
+    //         "US",
+    //         "CA",
+    //         "GB",
+    //         "AT",
+    //         "BE",
+    //         "CZ",
+    //         "DK",
+    //         "EE",
+    //         "FI",
+    //         "FR",
+    //         "DE",
+    //         "GR",
+    //         "HU",
+    //         "IS",
+    //         "IT",
+    //         "LV",
+    //         "LI",
+    //         "LT",
+    //         "LU",
+    //         "MT",
+    //         "NL",
+    //         "NO",
+    //         "PL",
+    //         "PT",
+    //         "SK",
+    //         "SI",
+    //         "ES",
+    //         "SE",
+    //         "CH",
+    //         "LI"
+    //       ],
+    //       "returnPolicyCountry": "BE",
+    //       "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+    //       "merchantReturnDays": 30,
+    //       "returnMethod": "https://schema.org/ReturnByMail",
+    //       "returnFees": "https://schema.org/FreeReturn",
+    //       "refundType": "https://schema.org/FullRefund"
+    //     }
+    //   }),
+    // },
+    // {
+    //   tagName: 'script',
+    //   attributes: {
+    //     type: 'application/ld+json',
+    //   },
+    //   innerHTML: JSON.stringify({
+    //     "@context": "https://schema.org",
+    //     "@type": "WebSite",
+    //     "name": "GEME",
+    //     "url": "https://www.geme.bio",
+    //     "potentialAction": {
+    //       "@type": "SearchAction",
+    //       "target": {
+    //         "@type": "EntryPoint",
+    //         "urlTemplate": "https://www.geme.bio/search?q={search_term_string}"
+    //       },
+    //       "query-input": "required name=search_term_string"
+    //     }
+    //   }),
+    // },
   ],
 
   presets: [
