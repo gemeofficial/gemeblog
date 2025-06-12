@@ -4,7 +4,7 @@ title: "Composting Begins at Home - GEME Joins the EPA 40th Anniversary Conferen
 description: "GEME participated in the 40th Anniversary International Conference of the European Parents’ Association (EPA) — a milestone event held at the European Economic and Social Committee (EESC) in Brussels."
 authors: [Moore]
 tags: [geme, compost, composting, sustainability, news]
-image: ./img/the-epa-40th-anniversary-conference.jpeg
+picture: https://www.geme.bio/assets/images/the-epa-40th-anniversary-conference-f8855489a174406baa88738c30bc525f.jpeg
 ---
 
 On May 23rd, 2025, GEME had the pleasure of participating in the **40th Anniversary International Conference of the European Parents’ Association (EPA)** — a milestone event held at the **European Economic and Social Committee (EESC)** in Brussels.
