@@ -2,16 +2,16 @@
 title: "Egg Recall Due To Salmonella: The Best Way To Deal With Eggs Recalled"
 description: On June 6, 2025, egg recall due to Salmonella was issued by FDA. This recall raises concerns among consumers about food safety. This article aims to provide clear, actionable information about egg recalls, Salmonella, and how to protect yourself and your family.
 keywords:
-  - Egg Recall
-  - Eggs Recalled Salmonella
-  - Eggs Recall Map
-  - Eggs Recalled
-  - Egg Recall 2025
-  - cdc.gov egg recall
-  - how to kill salmonella
+- Egg Recall
+- Eggs Recalled Salmonella
+- Eggs Recall Map
+- Eggs Recalled
+- Egg Recall 2025
+- cdc.gov egg recall
+- how to kill salmonella
 slug: egg-recall-salmonella-2025-best-way-to-kill-salmonella-in-eggs-recalled
 authors: [Moore]
-tags: [Food waste, sustainability, compost]
+tags: [Foodwaste, sustainability, compost]
 picture: https://www.geme.bio/assets/images/eggs-recall-salmonella-cedbf638bc4fe8a89fd47efc943f7a05.png 
 ---
 
