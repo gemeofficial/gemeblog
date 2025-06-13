@@ -12,6 +12,7 @@ keywords:
 slug: 5-best-composters-to-reduce-food-waste
 authors: [Moore]
 tags: [composter, composting, food waste, sustainability, compost]
+picture: https://www.geme.bio/assets/images/geme-kitchen-composter-02-ce606b7710ee798380164acf2dfae692.jpg
 ---
 
 <head >
@@ -60,9 +61,10 @@ In this article, we'll explore the **top 5 kitchen composters** on the market.
 
 ---
 
-<font color="gray">*Last Update Time: June 11th, 2025*</font>
+<font color="gray">*Last Update Time: June 11th, 2025.*</font>
 
-<font color="gray">*Data collected from each brand's official website.*</font>
+
+    <font color="gray">*Data collected from each brand's official website.*</font>
 
 
 
