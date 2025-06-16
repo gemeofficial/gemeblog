@@ -9,7 +9,7 @@ keywords:
 slug: how-to-plant-a-garden-gardening-tips-for-beginners
 authors: [Moore]
 tags: [gardening, compost, plant, composter, climate]
-picture: https://www.geme.bio/assets/images/geme-kitchen-composter-02-ce606b7710ee798380164acf2dfae692.jpg
+picture: https://www.geme.bio/assets/images/how-to-plant-a-garden-gardening-tips-cd59c9e2853c958e528fd28682bd496d.jpg
 ---
 
 <head >
@@ -27,7 +27,7 @@ import ReactPlayer from 'react-player'
 
 Gardening can seem daunting if you're just starting out. But don't worry! It's a rewarding hobby that anyone can enjoy. This guide provides simple gardening tips to help beginners learn how to plant a garden and grow beautiful garden plants. Let's get started!
 
-## **Overview: How to Plant and Take Care of Different Types of Plants**
+## Overview: How to Plant and Take Care of Different Types of Plants
 
 | Plant Type    | Planting Time | Sunlight Needs | Watering          | Soil Type            | Fertilising        | Common Problems            |
 | ------------- | ------------- | -------------- | ----------------- | -------------------- | ------------------ | -------------------------- |
@@ -36,11 +36,12 @@ Gardening can seem daunting if you're just starting out. But don't worry! It's a
 | Herbs (Basil) | Spring        | 6+ hours       | Regularly, daily  | Well-drained         | Monthly            | Pests, mildew              |
 | Carrots       | Spring/Fall   | 6+ hours       | Regularly, daily  | Loose, sandy         | Not usually needed | Pests, forking             |
 | Zucchini      | Spring        | 6-8 hours      | Deeply, 1-2x/week | Well-draining, rich  | Every 2-3 weeks    | Powdery mildew             |
-| Strawberries  | Spring/Fall   | 6+ hours       | Regularly, daily  | Well-drained, acidic | Monthly            | Birds, rot                 |
+| Strawberries  | Spring/Fall   | 6+ hours       | Regularly, daily  | Well-drained, <font color="green">**acidic**</font>
+ | Monthly            | Birds, rot                 |
 | Sunflowers    | Spring        | 6-8 hours      | Deeply, 1x/week   | Well-draining        | Not usually needed | Pests, diseases            |
 | Lavender      | Spring        | 6+ hours       | Sparingly         | Well-drained, sandy  | Not usually needed | Root rot                   |
 | Roses         | Spring        | 6+ hours       | Deeply, 1x/week   | Well-draining, rich  | Every 4-6 weeks    | Black spot, aphids         |
-| Blueberries   | Spring        | 6+ hours       | Regularly, daily  | Well-drained, acidic | Every 4-6 weeks    | Birds, nutrient deficiency |
+| Blueberries   | Spring        | 6+ hours       | Regularly, daily  | Well-drained, <font color="green">**acidic**</font> | Every 4-6 weeks    | Birds, nutrient deficiency |
 
 ![How to plant a garden gardening tips](./img/how-to-plant-a-garden-gardening-tips.jpg)
 
@@ -65,7 +66,7 @@ Gardening can seem daunting if you're just starting out. But don't worry! It's a
 
 ### 1. Choose the Right Location
 
-The first step of how to plant a garden is selecting the perfect spot. Most garden plants need at least **6 hours of sunlight** per day. Observe your yard throughout the day to see where the sun shines the most. Also, consider **soil quality** and **drainage**. Avoid areas where water pools are after rain.
+The first step of how to plant a garden is selecting the perfect spot. Most garden plants need at least <font color="green">**6 hours of sunlight**</font> per day. Observe your yard throughout the day to see where the sun shines the most. Also, consider <font color="green">**soil quality**</font> and <font color="green">**drainage**</font>. Avoid areas where water pools are after rain.
 
 - **Sunlight:** Essential for plant growth.
 - **Soil:** Should be well-draining and fertile.
@@ -75,17 +76,17 @@ The first step of how to plant a garden is selecting the perfect spot. Most gard
 
 ### 2. Prepare the Soil
 
-Good soil is the foundation of a healthy garden. Before planting, prepare the soil by removing any rocks, weeds, and debris. You can improve soil quality by **[adding compost](https://www.geme.bio/blog/garden-soil-vs-compost-pros-and-cons#how-to-use-garden-soil-and-compost-effectively)** (DoFollow) or other organic matter. This will provide essential nutrients for your garden plants.
+Good soil is the foundation of a healthy garden. Before planting, prepare the soil by removing any rocks, weeds, and debris. You can improve soil quality by **[adding compost](https://www.geme.bio/blog/garden-soil-vs-compost-pros-and-cons#how-to-use-garden-soil-and-compost-effectively)** or other organic matter. This will provide essential nutrients for your garden plants.
 
 - **Remove debris:** Clear the area of rocks, weeds, and trash.
-- **Add** **compost****:** Improves soil fertility and drainage.
+- **Add compost:** Improves soil fertility and drainage.
 - **Till the soil:** **Loosen the soil** to allow roots to grow easily.
 
 ![How to plant a garden gardening tips 2](./img/how-to-plant-a-garden-gardening-tips-02.jpg)
 
 ### 3. Select the Right Garden Plants
 
-Choosing the right garden plants is crucial for success. Consider your **local climate**, soil type, and the amount of sunlight your garden receives. Start with easy-to-grow plants like **herbs**, **lettuce**, and **tomatoes**. These are great for beginners and provide quick results.
+Choosing the right garden plants is crucial for success. Consider your <font color="green">**local climate**</font>, <font color="green">**soil type**</font>, and the amount of <font color="green">**sunlight**</font> your garden receives. Start with easy-to-grow plants like <font color="green">**herbs**</font>, <font color="green">**lettuce**</font>, and <font color="green">**tomatoes**</font>. These are great for beginners and provide quick results.
 
 - **Climate:** Choose plants that thrive in your region.
 - **Soil type:** Match plants to your soil's pH and composition.
@@ -99,18 +100,18 @@ Choosing the right garden plants is crucial for success. Consider your **local c
 When learning how to plant a garden, it's best to start small. A small garden is easier to manage and less overwhelming. You can always expand later as you gain experience. Starting with a few raised beds or containers is a great way to begin your gardening journey.
 
 - **Manageable size:** Easier to maintain and less overwhelming.
-- **Raised beds:** Provide good **drainage** and **soil control**.
+- **Raised beds:** Provide good <font color="green">**drainage**</font> and <font color="green">**soil control**</font>.
 - **Containers:** Allow you to garden in small spaces.
 
 ![How to plant a garden gardening tips 4](./img/how-to-plant-a-garden-gardening-tips-04.jpg)
 
 ### 5. Water Properly
 
-Proper watering is essential for healthy garden plants. Water deeply and less frequently, rather than shallowly and often. This encourages roots to grow deeper and makes plants more drought-tolerant. **Water in the morning** to reduce evaporation and prevent fungal diseases.
+Proper watering is essential for healthy garden plants. Water deeply and less frequently, rather than shallowly and often. This encourages roots to grow deeper and makes plants more drought-tolerant. <font color="green">**Water in the morning**</font> to reduce evaporation and prevent fungal diseases.
 
 - **Deep watering:** Encourages deep root growth.
 - **Morning watering:** Reduces evaporation and disease.
-- **Avoid overwatering****:** [Overwatering](https://blogs.ifas.ufl.edu/osceolaco/2020/06/24/negative-effects-of-overwatering-plants/) (NoFollow) can lead to root rot.
+- **Avoid overwatering:** <a href="https://blogs.ifas.ufl.edu/osceolaco/2020/06/24/negative-effects-of-overwatering-plants/" rel="nofollow">**Overwatering**</a> can lead to root rot.
 
 ![How to plant a garden gardening tips 5](./img/how-to-plant-a-garden-gardening-tips-05.jpg)
 
@@ -126,19 +127,19 @@ Weeds compete with your garden plants for water, nutrients, and sunlight. Regula
 
 ### 7. Fertilise Regularly
 
-Garden plants need nutrients to grow and thrive. Fertilise your plants regularly with a balanced fertiliser. Follow the instructions on the fertiliser package and **avoid over-fertilising**, which can damage your plants.
+Garden plants need nutrients to grow and thrive. Fertilise your plants regularly with a balanced fertiliser. Follow the instructions on the fertiliser package and <font color="green">**avoid over-fertilising**</font>, which can damage your plants.
 
 <div className="video__wrapper">
       <ReactPlayer className="video__player" controls height="100%" url="https://youtube.com/shorts/dLvHS4BXva4" width="100%"/>
 </div>
 
-- **Balanced** fertiliser**:** Provides essential nutrients.
+- **Balanced fertiliser:** Provides essential nutrients.
 - **Follow instructions:** Avoid over-fertilising.
-- **Organic options:** **[Compost](https://www.geme.bio/blog/preparing-and-using-your-compost)** (DoFollow) and other organic fertilisers are great choices.
+- **Organic options:** **[Compost](https://www.geme.bio/blog/preparing-and-using-your-compost)** and other organic fertilisers are great choices.
 
 ![How to plant a garden gardening tips 7](./img/how-to-plant-a-garden-gardening-tips-07.jpg)
 
-## **More Detailed Gardening Tips**
+## More Detailed Gardening Tips
 
 ### 1. Understanding Soil Types
 
@@ -146,7 +147,7 @@ Different garden plants thrive in different soil types. Common soil types includ
 
 - **Sandy soil:** Well-draining, low in nutrients
 - **Clay soil:** Retains water, can be poorly draining.
-- **[Loamy soil](https://en.wikipedia.org/wiki/Loam)** (NoFollow)**:** Balanced mix, ideal for most plants.
+- **<a href="https://en.wikipedia.org/wiki/Loam" rel="nofollow">Loamy soil</a>**: Balanced mix, ideal for most plants.
 
 ![gardening tip soil types](./img/gardening-tip-soil-types.jpg)
 
@@ -158,13 +159,13 @@ Having the right tools can make gardening much easier. Essential tools include a
 - **Hand fork:** For loosening soil and removing weeds.
 - **Gardening gloves:** Protect your hands.
 - **Watering can:** For watering plants gently.
-- **Pruning** **shears:** For trimming and pruning plants.
+- **Pruning shears:** For trimming and pruning plants.
 
 ![gardening tips gardening tools](./img/gardening-tips-gardening-tools.jpg)
 
 ### 3. Dealing with Pests and Diseases
 
-Pests and diseases can damage your garden plants. Regularly inspect your plants for signs of trouble. Use organic pest control methods like [insecticidal soap](https://en.wikipedia.org/wiki/Insecticidal_soap) (NoFollow) or [neem oil](https://en.wikipedia.org/wiki/Neem_oil) (NoFollow) to control pests. Prevent diseases by providing **good air circulation** and **avoiding overwatering**.
+Pests and diseases can damage your garden plants. Regularly inspect your plants for signs of trouble. Use organic pest control methods like <a href="https://en.wikipedia.org/wiki/Insecticidal_soap" rel="nofollow">insecticidal soap</a> or <a href="https://en.wikipedia.org/wiki/Neem_oil" rel="nofollow">neem oil</a> to control pests. Prevent diseases by providing <font color="green">**good air circulation**</font> and <font color="green">**avoiding overwatering**</font>.
 
 - **Insecticidal soap:** Controls many common pests.
 - **Neem oil:** A natural insecticide and fungicide.
@@ -176,8 +177,8 @@ Pests and diseases can damage your garden plants. Regularly inspect your plants 
 
 **Composting** is a great way to recycle kitchen and yard waste into nutrient-rich soil for your garden plants. Start a compost bin or **[electric composter](http://www.geme.bio)** and add materials like vegetable scraps, coffee grounds, and leaves. 
 
-- **Compost** **bin****:** A simple way to compost yard waste, but it can take a longer time (a month or two). 
-- **Electric composter:** For the fastest (**6-8 hours**) and the best compost output to improve the health of the soil.
+- **Compost bin:** A simple way to compost yard waste, but it can take a longer time (a month or two). 
+- <font color="green">**Electric composter:**</font> For the fastest (<font color="green">**6-8 hours**</font>) and the best compost output to improve the health of the soil.
 
 ![gardening tips composting](./img/gardening-tips-composting.jpg)
 
@@ -193,7 +194,7 @@ Companion planting involves growing different garden plants together that benefi
 
 ### 6. Extending the Growing Season
 
-You can extend your gardening season by using techniques like **starting seeds indoors**, using row covers, and planting in raised beds. Starting seeds indoors allows you to get a head start on the growing season. Row covers protect plants from frost and pests.
+You can extend your gardening season by using techniques like <font color="green">**starting seeds indoors**</font>, using row covers, and planting in raised beds. Starting seeds indoors allows you to get a head start on the growing season. Row covers protect plants from frost and pests.
 
 - **Start seeds indoors:** Get a head start on the growing season.
 - **Row covers:** Protect plants from frost and pests.
@@ -211,6 +212,6 @@ Harvesting your garden plants at the right time is crucial for getting the best 
 
 ![gardening tips harvest](./img/gardening-tips-harvest.jpg)
 
-## **Conclusion**
+## Conclusion
 
-Learning how to plant a garden is a rewarding experience. By following these gardening tips, even beginners can create a thriving garden. Remember to choose the right location, prepare the soil, select appropriate garden plants, and provide **regular care**. Happy gardening!
+Learning how to plant a garden is a rewarding experience. By following these gardening tips, even beginners can create a thriving garden. Remember to choose the right location, prepare the soil, select appropriate garden plants, and provide <font color="green">regular care</font>. Happy gardening!
