@@ -640,12 +640,6 @@ const config = {
 
   plugins: [
     [
-      '@docusaurus/plugin-google-tag-manager',
-      {
-        containerId: 'GTM-KB63TRW',
-      },
-    ],
-    [
       './src/plugin/plugin-content-blog', // 为了实现全局 blog 数据，必须改写 plugin-content-blog 插件
       {
         path: 'blog',
