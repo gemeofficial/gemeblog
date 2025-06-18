@@ -11,7 +11,7 @@ keywords:
 - how to kill salmonella
 slug: egg-recall-salmonella-2025-best-way-to-kill-salmonella-in-eggs-recalled
 authors: [Moore]
-tags: [Foodwaste, sustainability, compost]
+tags: [food waste, sustainability, compost]
 picture: https://www.geme.bio/assets/images/eggs-recall-salmonella-cedbf638bc4fe8a89fd47efc943f7a05.png 
 ---
 

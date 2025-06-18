@@ -133,6 +133,7 @@ Garden plants need nutrients to grow and thrive. Fertilise your plants regularly
       <ReactPlayer className="video__player" controls height="100%" url="https://youtube.com/shorts/dLvHS4BXva4" width="100%"/>
 </div>
 
+
 - **Balanced fertiliser:** Provides essential nutrients.
 - **Follow instructions:** Avoid over-fertilising.
 - **Organic options:** **[Compost](https://www.geme.bio/blog/preparing-and-using-your-compost)** and other organic fertilisers are great choices.
@@ -166,6 +167,7 @@ Having the right tools can make gardening much easier. Essential tools include a
 ### 3. Dealing with Pests and Diseases
 
 Pests and diseases can damage your garden plants. Regularly inspect your plants for signs of trouble. Use organic pest control methods like <a href="https://en.wikipedia.org/wiki/Insecticidal_soap" rel="nofollow">insecticidal soap</a> or <a href="https://en.wikipedia.org/wiki/Neem_oil" rel="nofollow">neem oil</a> to control pests. Prevent diseases by providing <font color="green">**good air circulation**</font> and <font color="green">**avoiding overwatering**</font>.
+
 
 - **Insecticidal soap:** Controls many common pests.
 - **Neem oil:** A natural insecticide and fungicide.
