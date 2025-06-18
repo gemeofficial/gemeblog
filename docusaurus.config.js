@@ -182,12 +182,16 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        googleAnalytics: {
-          trackingID: 'G-0SPG79H0VL',
-          anonymizeIP: false,
-        },
+        // googleAnalytics: {
+        //   trackingID: 'G-0SPG79H0VL',
+        //   anonymizeIP: false,
+        // },
+        // gtag: {
+        //   trackingID: 'GTM-KB63TRW',
+        //   anonymizeIP: false,
+        // },
         gtag: {
-          trackingID: 'GTM-KB63TRW',
+          trackingID: 'G-0SPG79H0VL',
           anonymizeIP: false,
         },
         googleTagManager: {
