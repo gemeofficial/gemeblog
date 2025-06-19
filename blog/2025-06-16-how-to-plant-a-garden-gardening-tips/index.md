@@ -51,14 +51,14 @@ In this guide, you’ll discover easy-to-follow gardening tips for beginners, le
 
 <h2 className="jump-to">Jump To</h2>
 
-1. **[Choose the right location](#1-choose-the-right-location)**
-2. **[Prepare the soil](#2-prepare-the-soil)**
-3. **[Select the right garden plants](#3-select-the-right-garden-plants)**
-4. **[Start small](#4-start-small)**
-5. **[Water Properly](#5-water-properly)**
-6. **[Control weeds](#6-control-weeds)**
-7. **[Fertilise regularly](#7-fertilise-regularly)**
-8. **[7 More detailed gardening tips](#more-detailed-gardening-tips)**
+1. **[Find the Perfect Spot to Plant Your Garden Plants](#1-find-the-perfect-spot-to-plant-your-garden-plants-)**
+2. **[Prepare the soil – The Key to Successful Gardening](#2-prep-the-soil--the-key-to-successful-gardening)**
+3. **[Pick the Best Garden Plants for Your Space](#3-pick-the-best-garden-plants-for-your-space)**
+4. **[Start small and Focused](#4-start-small-and-focused)**
+5. **[Water Smart to Support Strong Roots](#5-water-smart-to-support-strong-roots)**
+6. **[Weed Regularly to Keep Plants Healthy](#6-weed-regularly-to-keep-plants-healthy)**
+7. **[Fertilise Right for Healthy Growth](#7-fertilise-right-for-healthy-growth)**
+8. **[Extra Gardening Tips for Beginners](#extra-gardening-tips-for-beginners)**
 
 ## 7 Essential Gardening Tips for Beginners
 
