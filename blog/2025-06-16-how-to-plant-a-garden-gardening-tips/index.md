@@ -1,12 +1,12 @@
 ---
-title: "How to Plant a Garden: 7 Gardening Tips for Beginners | Gardening 01"
+title: "How to Plant a Garden: A Step-by-Step Beginner’s Guide | Gardening 01"
 description: This beginner's guide provides essential gardening tips on how to plant a garden, choose the right garden plants, and maintain a thriving space. Follow the gardening tips and get an enjoyable gardening experience.
 keywords:
 - how to plant a garden
 - gardening tips
-- gardening
+- gardening guide for beginners
 - garden plants
-slug: how-to-plant-a-garden-gardening-tips-for-beginners
+slug: how-to-plant-a-garden-best-gardening-guide-for-beginners
 authors: [Moore]
 tags: [gardening, compost, plant, composter, climate]
 picture: https://www.geme.bio/assets/images/how-to-plant-a-garden-gardening-tips-cd59c9e2853c958e528fd28682bd496d.jpg
@@ -25,7 +25,9 @@ import Columns from '@site/src/components/Columns'
 import Column from '@site/src/components/Column'
 import ReactPlayer from 'react-player'
 
-Gardening might feel a bit overwhelming at first—there’s soil to prep, plants to choose, and care routines to learn. But don’t worry! With a little encouragement and the right guidance, anyone can create a flourishing garden. In this guide, you’ll discover easy-to-follow gardening tips for beginners, learn how to plant a garden from scratch, and nurture a variety of stunning garden plants. Ready to grow? Let’s dig in! 🌿
+Gardening might feel a bit overwhelming at first—there’s soil to prep, plants to choose, and care routines to learn. But don’t worry! With a little encouragement and the right guidance, anyone can create a flourishing garden. 
+
+In this guide, you’ll discover easy-to-follow gardening tips for beginners, learn how to plant a garden from scratch, and nurture a variety of stunning garden plants. Ready to grow? Let’s dig in! 🌿
 
 ## Overview: How to Plant and Take Care of Different Types of Plants
 
