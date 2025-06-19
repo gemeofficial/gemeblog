@@ -9,7 +9,6 @@ keywords:
 slug: how-to-plant-a-garden-best-gardening-guide-for-beginners
 authors: [Moore]
 tags: [gardening, compost, plant, composter, climate]
-picture: https://www.geme.bio/assets/images/how-to-plant-a-garden-gardening-tips-cd59c9e2853c958e528fd28682bd496d.jpg
 ---
 
 <head >
