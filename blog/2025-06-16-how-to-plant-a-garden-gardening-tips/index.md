@@ -9,6 +9,7 @@ keywords:
 slug: how-to-plant-a-garden-best-gardening-guide-for-beginners
 authors: [Moore]
 tags: [gardening, compost, plant, composter, climate]
+picture: https://www.geme.bio/assets/images/how-to-plant-a-garden-gardening-tips-cd59c9e2853c958e528fd28682bd496d.jpg
 ---
 
 <head >
@@ -78,7 +79,7 @@ When you’re learning how to plant a garden, location is everything. Most garde
 
 ### 2. Prep the Soil – The Key to Successful Gardening
 
-Healthy soil means healthy plants. Clear your patch of weeds, rocks, or debris. Loosen the earth with a shovel or tiller, then enrich it with **[organic compost]((https://www.geme.bio/blog/garden-soil-vs-compost-pros-and-cons#how-to-use-garden-soil-and-compost-effectively))**. This boosts nutrients and improves drainage—essential gardening tips for beginners.
+Healthy soil means healthy plants. Clear your patch of weeds, rocks, or debris. Loosen the earth with a shovel or tiller, then enrich it with **[organic compost](/blog/garden-soil-vs-compost-pros-and-cons#how-to-use-garden-soil-and-compost-effectively)**. This boosts nutrients and improves drainage—essential gardening tips for beginners.
 
 - **Clear and loosen soil** – Remove all grass, roots, and rocks; dig down 8–12″ with a shovel or tiller.
 - **Double-dig or stump-loosen** – In heavy soil, dig two layers: loosen the bottom with a fork and incorporate compost at each stage.
@@ -173,7 +174,7 @@ Check leaves regularly for pests or fungal spots. Use organic options like neem 
 
 Turn kitchen food waste and yard waste into nutrient-rich compost that boosts soil fertility. Composting is a powerful, eco-friendly gardening technique. 
 
-[**GEME electric composter**](www.geme.bio) is the best choice for producing rich compost for your garden in 6-8 hours.
+[**GEME electric composter**](https://www.geme.bio) is the best choice for producing rich compost for your garden in 6-8 hours.
 
 ![gardening tips composting](./img/gardening-tips-composting.jpg)
 
