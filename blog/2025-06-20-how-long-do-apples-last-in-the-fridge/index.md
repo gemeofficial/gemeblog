@@ -60,7 +60,7 @@ These varying storage conditions for fresh produce are dependent on several thin
 |---------------|----------------------|---------|
 | Fresh, whole apples | Room temperature is safe, but can also store in the refrigerator to last longer | Apples are safe at room temperature, but their higher ethylene content contributes to faster ripening. Apples stored in the refrigerator can last for several weeks. |
 | Cut apples or apples in a modified form, such as applesauce | Refrigerator | Cut produce is more susceptible to pathogens, so storing in the refrigerator can limit pathogen growth. |
-| Baked apple pie | - Room temperature for up to two days<br>- Refrigerator for up to four days | Fruit pies are made with sugar and the combination of sugar and acid in the fruit is sufficient to retard bacterial growth at room temperature. You can extend this shelf life a little by storing in the refrigerator. Keep in mind though, any pies made with custard, cream, eggs or sugar substitutes, or contain fresh fruit (like a strawberry pie that was not baked) always require refrigeration. |
+| Baked apple pie | Room temperature for up to two days; Refrigerator for up to four days | Fruit pies are made with sugar and the combination of sugar and acid in the fruit is sufficient to retard bacterial growth at room temperature. You can extend this shelf life a little by storing in the refrigerator. Keep in mind though, any pies made with custard, cream, eggs or sugar substitutes, or contain fresh fruit (like a strawberry pie that was not baked) always require refrigeration. |
 
 
 <!-- truncate -->
