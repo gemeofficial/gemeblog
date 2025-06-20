@@ -29,25 +29,17 @@ While composting is generally a good practice for reducing **waste** and enrichi
 
 <!-- truncate -->
 
-<h2 className="jump-to">Jump To</h2>
+## Jump To
 
-[**FDA Tomato Recall Warning**](#urgent-fda-tomato-recall-warning)
-
-[**What Tomatoes Are Being Recalled?**](#what-tomatoes-are-being-recalled)
-
-[**Why Does Salmonella Infect Our Vegetables Again?**](#why-does-salmonella-infect-our-vegetables-again)
-
-[**What Is Salmonella, and How Does It Infect Our Vegetable Garden?**](#what-is-salmonella-and-how-does-it-infect-our-vegetable-garden)
-
-[**How to Kill Salmonella?**](#how-to-kill-salmonella)
-
-[**Is It Safe to Eat Tomatoes Now?**](#is-it-safe-to-eat-tomatoes-now)
-
-[**What Kind of Food Is Easily Contaminated with Salmonella?**](#what-kind-of-food-is-easily-contaminated-with-salmonella)
-
-[**How Should I Deal with the Recalled Tomatoes?**](#how-should-i-deal-with-the-recalled-tomatoes)
-
-[**Is It Safe to Compost My Tomatoes Now?**](#is-it-safe-to-compost-my-tomatoes-now)
+- [**FDA Tomato Recall Warning**](#urgent-fda-tomato-recall-warning)
+- [**What Tomatoes Are Being Recalled?**](#what-tomatoes-are-being-recalled)
+- [**Why Does Salmonella Infect Our Vegetables Again?**](#why-does-salmonella-infect-our-vegetables-again)
+- [**What Is Salmonella, and How Does It Infect Our Vegetable Garden?**](#what-is-salmonella-and-how-does-it-infect-our-vegetable-garden)
+- [**How to Kill Salmonella?**](#how-to-kill-salmonella)
+- [**Is It Safe to Eat Tomatoes Now?**](#is-it-safe-to-eat-tomatoes-now)
+- [**What Kind of Food Is Easily Contaminated with Salmonella?**](#what-kind-of-food-is-easily-contaminated-with-salmonella)
+- [**How Should I Deal with the Recalled Tomatoes?**](#how-should-i-deal-with-the-recalled-tomatoes)
+- [**Is It Safe to Compost My Tomatoes Now?**](#is-it-safe-to-compost-my-tomatoes-now)
 
 ## Urgent! FDA Tomato Recall Warning
 In May 2025, the U.S. Food and Drug Administration (FDA) issued a Class I recall—the highest risk level—for certain tomatoes due to potential Salmonella contamination. 
@@ -71,7 +63,7 @@ Ray & Mascari Inc. also recalled 4-count vine ripe tomatoes packaged in clamshel
 
 ![Recalled tomatoes list](./img/recalled-tomatoes.png)
 
-<h2 className="people-also-ask">People Also Ask</h2>
+## People Also Ask
 
 ## Why Does Salmonella Infect Our Vegetables Again?
 Salmonella can contaminate vegetables through several pathways:

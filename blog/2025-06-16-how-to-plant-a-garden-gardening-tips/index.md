@@ -211,7 +211,7 @@ Start small, stay consistent, and enjoy watching your green space flourish. Happ
 
 ## Related Articles
 
-- [The Best Composter to turn food waste into rich compost for your garden](/blog/the-best-composter-to-reduce-food-waste)
+- [The Best Composter to turn food waste into rich compost for your garden](/blog/the-best-composters-to-reduce-food-waste)
 
 - [Garden Soil VS Compost Pros & Cons](/blog/garden-soil-vs-compost-pros-and-cons)
 
