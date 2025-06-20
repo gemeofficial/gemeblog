@@ -48,7 +48,10 @@ How to eat lychee begins with choosing the best fruit. Look for:
 - **Scent**: A distinct floral fragrance at the stem end.  
 - **Weight**: Heavy for its size, indicating juiciness.  
 
+![how to select perfect lychees](./img/how-does-lychee-taste-like.jpg)
+
 ### Table: Lychee Varieties and Their Flavour Profiles  
+
 | Variety | Origin | Taste Notes | Best Use |
 | --- | --- | --- | --- |
 | Giant Beauty | China | Honey-like, low acid | Fresh eating |
@@ -60,18 +63,23 @@ Unripe lychees taste bland and acidic, while overripe ones develop a fermented "
 ## How to Eat Lychee? A Step-by-Step Guide
 
 ### How do you eat lychee fresh? It's simple:  
+
 1. **Wash**: Rinse under cool water to remove dirt.  
+
 2. **Peel**: Use your nails to nick the rough skin near the stem, then peel it away like an orange.  
 3. **De-seed**: Slice the fruit in half to reveal the glossy brown seed. Remove it with a knife or your fingers.  
 4. **Eat**: Enjoy the raw flesh! 
 
+
 *Pro tip: Soak peeled lychees in saltwater for 10 minutes to reduce "heatiness" (a traditional Chinese practice).* 
 
 ### Creative ways to enjoy lychee:  
-- Skewer peeled lychees with grilled shrimp or scallops.  
+- Skewer peeled lychees with grilled shrimp or scallops. 
+
 - Freeze them for a refreshing snack.  
 - Add to salads (e.g., with mint, cucumber, and feta).  
 
+![how to eat lychee](./img/lychee-salad.jpg)
 
 ## How to Store Lychee? Expert Preservation Tips
 
@@ -90,6 +98,7 @@ Always avoid room temperature storage – **lychees ferment within 48 hours**, r
 | Freezing | 6 months | Slightly softer | Smoothies, desserts |
 | Jam | 1 year | Intense, sweet | Spreads, sauces |
 
+
 <span style={{color: "#FF4500"}}>**Never store lychees at room temperature**</span> — they ferment quickly.  
 
 ## How to Tell When Lychee Has Gone Bad?
@@ -99,8 +108,12 @@ Spotting spoiled lychees prevents unpleasant experiences. How do you eat lychee 
 - **Colour**: Dull brown or black patches (fresh lychees are pink-red).  
 
 - **Smell**: Sour, alcoholic, or vinegar-like odour (fresh lychees smell floral).  
+
 - **Texture**: Mushy flesh or leaking juice.  
+
 - **Taste**: Bitter or fermented flavour – a far cry from the sweet. What does lychee taste like when fresh?  
+
+![How to tell when lychee is bad](./img/bad-lychee.png)
 
 :::note
 *Greyish mould on stems/skin means immediate disposal. Never taste questionable fruit! Drop it in the composter when you notice.*
@@ -109,6 +122,7 @@ Spotting spoiled lychees prevents unpleasant experiences. How do you eat lychee 
 ## Can I Compost Mouldy Lychee? (Yes, Here's the Eco-Way!)
 
 Absolutely! Mouldy lychees belong in the composter, not landfills. Their high nitrogen content enriches the soil. For optimal results:  
+
 1. Remove non-biodegradable tags/stickers.  
 
 2. Crush fruits to accelerate decomposition.  
@@ -126,6 +140,8 @@ It's the most **efficient, odour-free and eco-friendly** method for urban homes.
 ## Creative Lychee Recipes to Elevate Your Meals
 
 How do you eat lychee beyond snacking? Try these crowd-pleasers:  
+
+![how to eat lychee](./img/how-to-eat-lychee-creatively.jpg)
 
 ### 1. Lychee Jasmine Iced Tea
 - Ingredients: 10 peeled lychees, 1 cup jasmine tea, ice, and mint.  
@@ -153,7 +169,10 @@ What does lychee taste like when it's poorly handled? Medicinal or *bitter*. Thi
 - The fruit is underripe (high acidity masks sweetness).  
 
 - It's stored incorrectly, causing fermentation.  
+
 - Varietal differences—some types (like "March Red") are naturally tart.  
+
+![how do you know when lychee is bad](./img/mouldy-lychee.png)
 
 **Maximise flavour**:  
 - Serve lychees chilled to enhance their refreshing quality. 
@@ -184,11 +203,11 @@ Whether you're savouring them straight from the rind or sipping a lychee cocktai
 
 ## Sources
 
-1. [How to eat a lychee](https://www.wikihow.com/Eat-a-Lychee)
-2. [How to Store Fresh Lychees: 8 Steps](https://www.wikihow.com/Store-Fresh-Lychees)
-3. [Lychees 101: Nutrition Facts and Health Benefits](https://www.healthline.com/nutrition/foods/lychees)
-4. [Is There a Limit to How Many Lychee Fruit We Should Eat?](https://nutritionfacts.org/blog/is-there-a-limit-to-how-many-lychee-fruit-we-should-eat/)
-5. [Lychee Introduction](https://ucanr.edu/county-office/cooperative-extension-ventura-county/lychee)
+1. [**How to eat a lychee**](https://www.wikihow.com/Eat-a-Lychee)
+2. [**How to Store Fresh Lychees: 8 Steps**](https://www.wikihow.com/Store-Fresh-Lychees)
+3. [**Lychees 101: Nutrition Facts and Health Benefits**](https://www.healthline.com/nutrition/foods/lychees)
+4. [**Is There a Limit to How Many Lychee Fruit We Should Eat?**](https://nutritionfacts.org/blog/is-there-a-limit-to-how-many-lychee-fruit-we-should-eat/)
+5. [**Lychee Introduction**](https://ucanr.edu/county-office/cooperative-extension-ventura-county/lychee)
 
 ## Related Articles
 
