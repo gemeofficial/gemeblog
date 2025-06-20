@@ -1,0 +1,102 @@
+.ctaContainer {
+  text-align: center;
+  background: #f8f9fa;
+  border-radius: 12px;
+  padding: 20px;
+  margin: 20px 0;
+  border: 2px solid #e9ecef;
+}
+
+.ctaContent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.imageLink {
+  display: inline-block;
+  text-decoration: none;
+}
+
+.productImage {
+  max-width: 300px;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.43);
+}
+
+.productInfo {
+  margin-top: 15px;
+}
+
+.productTitle {
+  color: #2c5aa0;
+  margin: 10px 0;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.offerTitle {
+  color: #2c5aa0;
+  margin: 10px 0;
+  font-size: 1.1rem;
+  font-weight: bold;
+}
+
+.featuresList {
+  text-align: left;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.feature {
+  margin: 5px 0;
+  color: #666;
+  font-size: 0.9rem;
+}
+
+.ctaButton {
+  display: inline-block;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 15px 40px;
+  border-radius: 25px;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 18px;
+  margin-top: 15px;
+  box-shadow: 0 4px 15px rgba(53, 67, 132, 0.66);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.ctaButton:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(53, 67, 132, 0.8);
+  color: white;
+  text-decoration: none;
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+  .ctaContainer {
+    padding: 15px;
+    margin: 15px 0;
+  }
+
+  .productImage {
+    max-width: 250px;
+  }
+
+  .productTitle,
+  .offerTitle {
+    font-size: 1rem;
+  }
+
+  .ctaButton {
+    padding: 12px 30px;
+    font-size: 16px;
+  }
+
+  .featuresList {
+    max-width: 100%;
+  }
+}
