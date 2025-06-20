@@ -15,7 +15,6 @@ export default function GemeComposterCTA({className}) {
         </a>
         <div className={styles.productInfo}>
           <h3 className={styles.productTitle}>GEME, the Best Biowaste Composter</h3>
-          <h3 className={styles.offerTitle}>🌟 Limited Time Offer: Save $50</h3>
           <div className={styles.featuresList}>
             <p className={styles.feature}>✅ Large Capacity 19L, Quiet, Odourless</p>
             <p className={styles.feature}>✅ Quick (6-8 hours), Microbes Compost, Full Compost</p>
