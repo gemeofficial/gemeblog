@@ -125,7 +125,7 @@ Absolutely! Mouldy lychees belong in the composter, not landfills. Their high ni
 
 ![how do you know when lychee is bad](./img/mouldy-lychee.png)
 
-For optimal results:  
+### For optimal results:  
 
 1. Remove non-biodegradable tags/stickers.  
 
