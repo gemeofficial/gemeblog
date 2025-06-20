@@ -121,7 +121,11 @@ Spotting spoiled lychees prevents unpleasant experiences. How do you eat lychee 
 
 ## Can I Compost Mouldy Lychee? (Yes, Here's the Eco-Way!)
 
-Absolutely! Mouldy lychees belong in the composter, not landfills. Their high nitrogen content enriches the soil. For optimal results:  
+Absolutely! Mouldy lychees belong in the composter, not landfills. Their high nitrogen content enriches the soil. 
+
+![how do you know when lychee is bad](./img/mouldy-lychee.png)
+
+For optimal results:  
 
 1. Remove non-biodegradable tags/stickers.  
 
@@ -172,7 +176,6 @@ What does lychee taste like when it's poorly handled? Medicinal or *bitter*. Thi
 
 - Varietal differences—some types (like "March Red") are naturally tart.  
 
-![how do you know when lychee is bad](./img/mouldy-lychee.png)
 
 **Maximise flavour**:  
 - Serve lychees chilled to enhance their refreshing quality. 
