@@ -119,20 +119,21 @@ Proper food handling and cooking practices can minimize the risk of infection.
 ## How Should I Deal with the Recalled Tomatoes?
 If you have purchased tomatoes included in the recall:
 
-**Do Not Consume**: Avoid eating the affected products.
-**Dispose Safely**: Throw them away in a sealed bag to prevent contamination.
-Return to Store: Some retailers may offer refunds for recalled items.
-**Clean Surfaces**: Sanitize any surfaces or containers that came into contact with the recalled tomatoes.
+- **Do Not Consume**: Avoid eating the affected products.
+- **Dispose Safely**: Throw them away in a sealed bag to prevent contamination.
+- **Return to Store**: Some retailers may offer refunds for recalled items.
+- **Clean Surfaces**: Sanitize any surfaces or containers that came into contact with the recalled tomatoes.
 
 For questions, contact the distributor or the FDA for guidance.
 
 ## Is It Safe to Compost My Tomatoes Now?
-Composting recalled tomatoes is not recommended. However, A home electric composter with heating system can completely simulate the whole process of natural composting but improve and speed up the composting process by providing the most suitable conditions for Kobold to grow and degrade. Kobold is a pure natural high-temperature resistant composite microorganism. The fermentation heat can reach up to over 70°C during the fermentation process. **[As recommended by FDA and CDC, it meets the conditions to kill Salmonella](https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures)**.
+Composting recalled tomatoes is not recommended. However, A home electric composter with heating system can completely simulate the whole process of natural composting but improve and speed up the composting process by providing the most suitable conditions for Kobold to grow and degrade. 
+
+Kobold is a pure natural high-temperature resistant composite microorganism. The fermentation heat can reach up to over 70°C during the fermentation process. **[As recommended by FDA and CDC, it meets the conditions to kill Salmonella](https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures)**.
 
 Other man-made composting systems may not reach temperatures sufficient to kill Salmonella bacteria. Using contaminated compost in your garden can introduce bacteria to your soil and plants. It's safer to dispose of the recalled tomatoes in the trash or use a composter with Kobold.
 
-Note: Always stay informed about food recalls and practice safe food handling to protect your health and your garden.
-
+> **Note**: Always stay informed about food recalls and practice safe food handling to protect your health and your garden.
 
 ## Summary
 The recent FDA Tomato Recall due to Salmonella contamination has raised significant concerns among consumers and gardeners. 
