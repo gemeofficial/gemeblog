@@ -70,7 +70,7 @@ These varying storage conditions for fresh produce are dependent on several thin
 4. **[How to store apples for the long term?](#how-to-store-apples-for-the-long-term-even-without-a-fridge)**
 5. **[How to keep apples fresh for months](#how-to-keep-apples-fresh-for-months)**
 6. **[Can I compost bad apples?](#can-i-compost-bad-apples)**
-7. **[Bonus Tips and Q&A](#bonus-tips--qa)**
+7. **[Bonus Tips and Q&A](#bonus-tips-qa)**
 8. **[Summary of key tips](#summary-of-key-tips)**
 
 ## How Long Do Apples Last in the Fridge?
@@ -88,7 +88,7 @@ When stored in the fridge's crisper drawer at around 30–35°F, most apples sta
 ### 3. Countertop vs. Fridge
 Apples left on the countertop typically last 5–7 days (max 1–2 weeks under cool indoor conditions). Once refrigerated, their storage life increases by a factor of 6–10 times.
 
-![](./img/keep-apples-fresh-for-months.jpg)
+![How to keep apples fress for months](./img/keep-apples-fresh-for-months.jpg)
 
 ## How to Store Apples for Maximum Freshness
 
