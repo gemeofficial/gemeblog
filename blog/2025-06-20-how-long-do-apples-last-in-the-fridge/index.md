@@ -17,15 +17,6 @@ picture: https://www.geme.bio/assets/images/how-to-store-apples-25526095cb35f009
 
 import GemeComposterCTA from '@site/src/components/GemeComposterCTA'
 
-<head >
-    <!--meta charSet="utf-8" />
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta data-rh="true" property="og:image" content="https://www.geme.bio/assets/images/1-e9a4d07b7def7cd5b62ebd2a06b68f36.png" />
-    <meta data-rh="true" name="twitter:image" content="https://www.geme.bio/assets/images/1-e9a4d07b7def7cd5b62ebd2a06b68f36.png" />
-    <meta data-rh="true" property="og:url" content="https://www.geme.bio/assets/images/1-e9a4d07b7def7cd5b62ebd2a06b68f36.png" />
-    <meta data-rh="true" property="og:locale" content="en"/-->
-</head>
-
 A fresh, whole apple is safe to store at room temperature for about one week, but once you cut it, it must be refrigerated, unless it is cooked into a pie. Then you can store it at room temperature for up to two days.
 
 These varying storage conditions for fresh produce are dependent on several things, including:

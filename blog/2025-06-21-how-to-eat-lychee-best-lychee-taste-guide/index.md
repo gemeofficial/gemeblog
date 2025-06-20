@@ -1,5 +1,5 @@
 ---
-title: "How to Eat Lychee For the Best Taste? The First-Timer’s Guide"
+title: "How to Eat Lychee For the Best Taste? The First-Timer's Guide"
 description: Learn how to eat lychee and discover its unique lychee taste. This guide covers everything from selecting the best lychees to storage tips and composting guides. 
 keywords:
   - how to eat lychee
@@ -12,15 +12,6 @@ tags: [plant, composter, food waste, composting, compost]
 ---
 
 import GemeComposterCTA from '@site/src/components/GemeComposterCTA'
-
-<head >
-    <!--meta charSet="utf-8" />
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta data-rh="true" property="og:image" content="https://www.geme.bio/assets/images/1-e9a4d07b7def7cd5b62ebd2a06b68f36.png" />
-    <meta data-rh="true" name="twitter:image" content="https://www.geme.bio/assets/images/1-e9a4d07b7def7cd5b62ebd2a06b68f36.png" />
-    <meta data-rh="true" property="og:url" content="https://www.geme.bio/assets/images/1-e9a4d07b7def7cd5b62ebd2a06b68f36.png" />
-    <meta data-rh="true" property="og:locale" content="en"/-->
-</head>
 
 Imagine a captivating blend of floral sweetness and tropical tang, like a cross between a grape and a rose, with hints of strawberry and watermelon. This is what we're going to learn about -- Lychee! 
 
@@ -44,9 +35,9 @@ Imagine a captivating blend of floral sweetness and tropical tang, like a cross 
 
 ## What does lychee taste like? 
 
-The **lychee taste** is often described as <span style="color: green">**fragrantly sweet with a refreshing acidity**</span>, making it a summer favourite worldwide. Its texture starts with a juicy burst followed by a delicate, slightly crisp flesh similar to peeled grapes.
+The **lychee taste** is often described as <span style={{color: "green"}}>**fragrantly sweet with a refreshing acidity**</span>, making it a summer favourite worldwide. Its texture starts with a juicy burst followed by a delicate, slightly crisp flesh similar to peeled grapes.
 
-The fruit’s high sugar content (15–20%) and soluble solids create its signature sweetness, while compounds like geraniol and linalool deliver its floral aroma.  
+The fruit's high sugar content (15–20%) and soluble solids create its signature sweetness, while compounds like geraniol and linalool deliver its floral aroma.  
 
 
 ## How to Select Perfectly Ripe Lychees
@@ -68,7 +59,7 @@ Unripe lychees taste bland and acidic, while overripe ones develop a fermented "
 
 ## How to Eat Lychee? A Step-by-Step Guide
 
-### How do you eat lychee fresh? It’s simple:  
+### How do you eat lychee fresh? It's simple:  
 1. **Wash**: Rinse under cool water to remove dirt.  
 2. **Peel**: Use your nails to nick the rough skin near the stem, then peel it away like an orange.  
 3. **De-seed**: Slice the fruit in half to reveal the glossy brown seed. Remove it with a knife or your fingers.  
@@ -84,11 +75,11 @@ Unripe lychees taste bland and acidic, while overripe ones develop a fermented "
 
 ## How to Store Lychee? Expert Preservation Tips
 
-How to store lychee correctly ensures you enjoy its signature taste longer. **Unpeeled lychees last 3–5 days in the fridge**’s crisper drawer when kept in a ventilated container lined with paper towels (absorbs excess moisture). For long-term storage:  
-- **Freezing**: Peel/de-seed lychees, arrange them on a tray until solid, then transfer to airtight bags (**keeps 6 months**).  <span style="color: #808080">*Tip: Freeze in syrup to retain plump texture.*</span>
+How to store lychee correctly ensures you enjoy its signature taste longer. **Unpeeled lychees last 3–5 days in the fridge's crisper drawer when kept in a ventilated container lined with paper towels (absorbs excess moisture). For long-term storage:**  
+- **Freezing**: Peel/de-seed lychees, arrange them on a tray until solid, then transfer to airtight bags (**keeps 6 months**).  <span style={{color: "#808080"}}>*Tip: Freeze in syrup to retain plump texture.*</span>
 
 - **Canning**: Simmer peeled lychees in sugar syrup (1:1 water-sugar ratio) and sterilise jars.  
-- **Drying**: Use a dehydrator at 50°C (122°F) for 12 hours for chewy lychee "<span style="color: green">**raisins**</span>."  
+- **Drying**: Use a dehydrator at 50°C (122°F) for 12 hours for chewy lychee "<span style={{color: "green"}}>**raisins**</span>."  
 
 Always avoid room temperature storage – **lychees ferment within 48 hours**, ruining their delicate lychee taste. 
 
@@ -99,7 +90,7 @@ Always avoid room temperature storage – **lychees ferment within 48 hours**, r
 | Freezing | 6 months | Slightly softer | Smoothies, desserts |
 | Jam | 1 year | Intense, sweet | Spreads, sauces |
 
-<span style="color: #FF4500">**Never store lychees at room temperature**</span> — they ferment quickly.  
+<span style={{color: "#FF4500"}}>**Never store lychees at room temperature**</span> — they ferment quickly.  
 
 ## How to Tell When Lychee Has Gone Bad?
 
@@ -115,7 +106,7 @@ Spotting spoiled lychees prevents unpleasant experiences. How do you eat lychee 
 *Greyish mould on stems/skin means immediate disposal. Never taste questionable fruit! Drop it in the composter when you notice.*
 :::
 
-## Can I Compost Mouldy Lychee? (Yes, Here’s the Eco-Way!)
+## Can I Compost Mouldy Lychee? (Yes, Here's the Eco-Way!)
 
 Absolutely! Mouldy lychees belong in the composter, not landfills. Their high nitrogen content enriches the soil. For optimal results:  
 1. Remove non-biodegradable tags/stickers.  
@@ -130,7 +121,7 @@ Absolutely! Mouldy lychees belong in the composter, not landfills. Their high ni
 
 It's the most **efficient, odour-free and eco-friendly** method for urban homes. The compost output is also fully matured and nutrient-rich to **improve your garden plants' health** 🌱. 
 
-<span style="color: #D3D3D3">*Traditional composting works too, but it's **too slow**: Bury mouldy lychees deep in your pile, covered with "brown" materials (dry leaves, cardboard). Harvest compost in **2–3 months**.*</span>
+<span style={{color: "#D3D3D3"}}>*Traditional composting works too, but it's **too slow**: Bury mouldy lychees deep in your pile, covered with "brown" materials (dry leaves, cardboard). Harvest compost in **2–3 months**.*</span>
 
 ## Creative Lychee Recipes to Elevate Your Meals
 
@@ -139,12 +130,12 @@ How do you eat lychee beyond snacking? Try these crowd-pleasers:
 ### 1. Lychee Jasmine Iced Tea
 - Ingredients: 10 peeled lychees, 1 cup jasmine tea, ice, and mint.  
 - Method: Muddle lychees in a glass. Add ice and tea. Garnish with mint.  
-- Why it works: The lychee taste balances the tea’s bitterness with floral sweetness.  
+- Why it works: The lychee taste balances the tea's bitterness with floral sweetness.  
 
 ### 2. Lychee Gelato (Low-Fat)
 - Ingredients: 2 cups lychee pulp, 1 cup whole milk, ¼ cup honey.  
 - Method: Blend ingredients, freeze in an ice cream maker.  
-- Flavour note: Creaminess tempers the lychee’s acidity, creating a lush dessert.  
+- Flavour note: Creaminess tempers the lychee's acidity, creating a lush dessert.  
 
 ### 3. Lychee-Aloe Refresher
 - Ingredients: Lychee puree, aloe vera gel, soda water.  
@@ -157,11 +148,11 @@ How do you eat lychee beyond snacking? Try these crowd-pleasers:
 
 ## Why Does Lychee Taste Vary? Science and Tips
 
-What does lychee taste like when it’s poorly handled? Medicinal or *bitter*. This happens when:
+What does lychee taste like when it's poorly handled? Medicinal or *bitter*. This happens when:
 
 - The fruit is underripe (high acidity masks sweetness).  
 
-- It’s stored incorrectly, causing fermentation.  
+- It's stored incorrectly, causing fermentation.  
 - Varietal differences—some types (like "March Red") are naturally tart.  
 
 **Maximise flavour**:  
@@ -186,9 +177,9 @@ A: Canned lychees lose some floral notes but retain sweetness—ideal for desser
 
 How to eat lychee is a journey from tree to table. Start with fresh, fragrant fruits; experiment with snacks, drinks, and mains; and preserve extras to enjoy their summery lychee taste all year round. 
 
-Whether you’re savouring them straight from the rind or sipping a lychee cocktail, this ancient fruit promises a uniquely sweet escape.  
+Whether you're savouring them straight from the rind or sipping a lychee cocktail, this ancient fruit promises a uniquely sweet escape.  
 
-*Pro tip: Grow your own! Dwarf varieties like "Emperor’s Treasure" thrive in pots, delivering homegrown sweetness.*
+*Pro tip: Grow your own! Dwarf varieties like "Emperor's Treasure" thrive in pots, delivering homegrown sweetness.*
 
 
 ## Sources
