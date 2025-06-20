@@ -39,16 +39,24 @@ The **lychee taste** is often described as <span style={{color: "green"}}>**frag
 
 The fruit's high sugar content (15–20%) and soluble solids create its signature sweetness, while compounds like geraniol and linalool deliver its floral aroma.  
 
+![how do lychee taste like](./img/how-does-lychee-taste-like.jpg)
+
 
 ## How to Select Perfectly Ripe Lychees
 
 How to eat lychee begins with choosing the best fruit. Look for:  
 - **Colour**: Vibrant red or pink skin (some varieties like Yu Jin Qiu show golden streaks).  
-- **Texture**: Slightly bumpy rind that yields gently to pressure. Avoid hard or mushy spots.  
-- **Scent**: A distinct floral fragrance at the stem end.  
-- **Weight**: Heavy for its size, indicating juiciness.  
 
-![how to select perfect lychees](./img/how-does-lychee-taste-like.jpg)
+- **Texture**: Slightly bumpy rind that yields gently to pressure. Avoid hard or mushy spots.  
+
+- **Scent**: A distinct floral fragrance at the stem end.  
+
+- **Weight**: Heavy for its size, indicating juiciness.
+
+
+---
+
+![how to select perfect lychees](./img/how-to-store-lychees.jpg)
 
 ### Table: Lychee Varieties and Their Flavour Profiles  
 
@@ -71,6 +79,8 @@ Unripe lychees taste bland and acidic, while overripe ones develop a fermented "
 4. **Eat**: Enjoy the raw flesh! 
 
 
+![how to eat lychee](./img/how-to-eat-lychees.jpg)
+
 *Pro tip: Soak peeled lychees in saltwater for 10 minutes to reduce "heatiness" (a traditional Chinese practice).* 
 
 ### Creative ways to enjoy lychee:  
@@ -88,6 +98,10 @@ How to store lychee correctly ensures you enjoy its signature taste longer. **Un
 
 - **Canning**: Simmer peeled lychees in sugar syrup (1:1 water-sugar ratio) and sterilise jars.  
 - **Drying**: Use a dehydrator at 50°C (122°F) for 12 hours for chewy lychee "<span style={{color: "green"}}>**raisins**</span>."  
+
+---
+
+![How to store lychee](./img/how-to-store-lychee.jpg)
 
 Always avoid room temperature storage – **lychees ferment within 48 hours**, ruining their delicate lychee taste. 
 
