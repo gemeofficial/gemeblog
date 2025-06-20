@@ -73,7 +73,7 @@ A: 使用 GEME Composter，通常需要 6-8 小时...
 
 1. **导入语句**: 确保在文件开头正确导入组件
 2. **图片路径**: 组件会自动使用`/img/geme-kitchen-composter.png`
-3. **链接**: 组件中的链接指向`https://www.geme.bio/product/geme`
+3. **链接**: 组件中的链接指向`https://geme.bio?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-do-apples-last-in-the-fridge`
 4. **样式**: 组件使用 CSS 模块，样式是独立的
 
 ## 自定义样式（可选）
