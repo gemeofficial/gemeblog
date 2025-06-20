@@ -88,7 +88,7 @@ When stored in the fridge's crisper drawer at around 30–35°F, most apples sta
 ### 3. Countertop vs. Fridge
 Apples left on the countertop typically last 5–7 days (max 1–2 weeks under cool indoor conditions). Once refrigerated, their storage life increases by a factor of 6–10 times.
 
-![How to keep apples fress for months](./img/keep-apples-fresh-for-months.jpg)
+![How to keep apples fresh for months](./img/keep-apples-fresh-for-months.jpg)
 
 ## How to Store Apples for Maximum Freshness
 

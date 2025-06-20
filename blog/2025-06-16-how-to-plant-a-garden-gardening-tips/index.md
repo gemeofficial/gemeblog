@@ -1,5 +1,5 @@
 ---
-title: "How to Plant a Garden: A Step-by-Step Beginner’s Guide | Gardening 01"
+title: "How to Plant a Garden: A Step-by-Step Beginner's Guide | Gardening 01"
 description: This beginner's guide provides essential gardening tips on how to plant a garden, choose the right garden plants, and maintain a thriving space. Follow the gardening tips and get an enjoyable gardening experience.
 keywords:
 - how to plant a garden
@@ -25,9 +25,9 @@ import Columns from '@site/src/components/Columns'
 import Column from '@site/src/components/Column'
 import ReactPlayer from 'react-player'
 
-Gardening might feel a bit overwhelming at first—there’s soil to prep, plants to choose, and care routines to learn. But don’t worry! With a little encouragement and the right guidance, anyone can create a flourishing garden. 
+Gardening might feel a bit overwhelming at first—there's soil to prep, plants to choose, and care routines to learn. But don't worry! With a little encouragement and the right guidance, anyone can create a flourishing garden. 
 
-In this guide, you’ll discover easy-to-follow gardening tips for beginners, learn how to plant a garden from scratch, and nurture a variety of stunning garden plants. Ready to grow? Let’s dig in! 🌿
+In this guide, you'll discover easy-to-follow gardening tips for beginners, learn how to plant a garden from scratch, and nurture a variety of stunning garden plants. Ready to grow? Let's dig in! 🌿
 
 ## Overview: How to Plant and Take Care of Different Types of Plants
 
@@ -68,7 +68,7 @@ In this guide, you’ll discover easy-to-follow gardening tips for beginners, le
 
 ### 1. Find the Perfect Spot to Plant Your Garden Plants 🌱
 
-When you’re learning how to plant a garden, location is everything. Most garden plants thrive in full sun—aim for at least <font color="green">**6 hours of direct sunlight**</font> daily. Walk through your yard to spot the sunniest area. Also, check that the soil drains well and you have easy access to water.
+When you're learning how to plant a garden, location is everything. Most garden plants thrive in full sun—aim for at least <font color="green">**6 hours of direct sunlight**</font> daily. Walk through your yard to spot the sunniest area. Also, check that the soil drains well and you have easy access to water.
 
 - **Track sunlight daily** – Observe 4–7 a.m., midday, and dusk; note areas with at least six hours of direct sun.
 - **Perform a drainage test** – Dig a 12″ deep, 12″ wide hole and fill it with water. It should drain within 30–60 minutes for ideal moisture.
@@ -105,7 +105,7 @@ For beginners, less is more. A compact raised bed or a few containers make manag
 
 - **Define a planting area** – Begin with a single raised bed (~4×4 ft) or two containers to stay manageable.
 - **Sketch a planting map** – Draw each bed on paper, marking plant types and spacing.
-- **Use staggered fills** – Mix tall, medium, and low plants (e.g., corn-beans-squash in the “Three Sisters” style) to maximise space.
+- **Use staggered fills** – Mix tall, medium, and low plants (e.g., corn-beans-squash in the "Three Sisters" style) to maximise space.
 - **Expand intentionally** – Add another bed or container only after your initial setup thrives.
 
 ![How to plant a garden gardening tips 4](./img/how-to-plant-a-garden-gardening-tips-04.jpg)
@@ -118,7 +118,7 @@ Water deeply and infrequently—early **in the morning** is best. This encourage
 
 - **Water deeply** – Soak beds until the first 6″ of soil is moist (check by hand).
 - **Morning schedule** – Water early (before 9 a.m.) to reduce evaporation and disease risk.
-- **Observe soil moisture** – Stick a finger into the soil; if only the top inch is dry, don’t water yet.
+- **Observe soil moisture** – Stick a finger into the soil; if only the top inch is dry, don't water yet.
 - **Adjust for weather** – Water less after rainfall; during heatwaves, increase frequency but keep it deep.
 
 ![How to plant a garden gardening tips 5](./img/how-to-plant-a-garden-gardening-tips-05.jpg)
@@ -154,7 +154,7 @@ Use a balanced, slow-release fertiliser or organic compost to give your garden p
 
 ### **1. Know Your Soil Type**
 
-Whether it’s sandy, clay-heavy, or loamy, your soil’s texture affects plant growth. Add compost to sandy soil, and organic amendments to break up dense clay. Loamy soil is ideal—it drains well and holds nutrients.
+Whether it's sandy, clay-heavy, or loamy, your soil's texture affects plant growth. Add compost to sandy soil, and organic amendments to break up dense clay. Loamy soil is ideal—it drains well and holds nutrients.
 
 ![gardening tips soil types](./img/gardening-tip-soil-types.jpg)
 
@@ -185,7 +185,7 @@ Pairing garden plants strategically can naturally deter pests and enhance growth
 - **Group mutual friends** – Plant basil with tomatoes to improve flavour and deter pests; marigolds around veggies to repel nematodes 
 - **Include nitrogen-fixers** – Position beans or peas next to heavy feeders like brassicas to enrich soil.
 - **Balance roots and shade** – Combine deep-rooted (carrots) and shallow-rooted (lettuce) plants; tall beans offer support to squash.
-- **Avoid bad pairings** – Don’t plant beans near onions, and avoid planting potatoes where squash was last year.
+- **Avoid bad pairings** – Don't plant beans near onions, and avoid planting potatoes where squash was last year.
 
 ![gardening tips companion plants](./img/gardening-tips-companion-plants.jpg)
 
@@ -197,7 +197,7 @@ Start seeds indoors to give your garden an early boost. Use row covers, hoop hou
 
 ### **7. Harvest at Peak Time**
 
-Harvest vegetables when they’re ripe and herbs regularly to encourage fresh growth. Timing matters—pick at peak flavour!
+Harvest vegetables when they're ripe and herbs regularly to encourage fresh growth. Timing matters—pick at peak flavour!
 
 ![gardening tips harvest](./img/gardening-tips-harvest.jpg)
 
@@ -211,7 +211,7 @@ Start small, stay consistent, and enjoy watching your green space flourish. Happ
 
 ## Related Articles
 
-- [The Best Composter to turn food waste into rich compost for your garden](/blog/the-best-composters-to-reduce-food-waste)
+- [The Best Composter to turn food waste into rich compost for your garden](/blog/the-best-composter-to-reduce-food-waste)
 
 - [Garden Soil VS Compost Pros & Cons](/blog/garden-soil-vs-compost-pros-and-cons)
 
