@@ -153,7 +153,7 @@ Yes! Composting spoiled apples is eco-friendly and safe with the GEME home compo
 
 <div style={{textAlign: "center", background: "#f8f9fa", borderRadius: "12px", padding: "20px", margin: "20px 0", border: "2px solid #e9ecef"}}>
   <a href="https://www.geme.bio/product/geme" style={{display: "inline-block", textDecoration: "none"}}>
-    <img url="./img/geme-kitchen-composter.png" alt="GEME Kitchen Composter" style={{maxWidth: "300px", borderRadius: "8px", boxShadow: "0 4px 12px rgba(0, 0, 0, 0.43)"}} />
+    <img src="./img/geme-kitchen-composter.png" alt="GEME Kitchen Composter" style={{maxWidth: "300px", borderRadius: "8px", boxShadow: "0 4px 12px rgba(0, 0, 0, 0.43)"}} />
   </a>
   <div style={{marginTop: "15px"}}>
     <h3 style={{color: "#2c5aa0", margin: "10px 0"}}>GEME, the Best Biowaste Composter</h3>
