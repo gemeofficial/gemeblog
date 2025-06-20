@@ -12,7 +12,7 @@ keywords:
 slug: how-long-do-apples-last-in-the-fridge
 authors: [Moore]
 tags: [plant, composter, food waste, composting, compost]
-picture: https://www.geme.bio/assets/images/how-long-do-apples-last-74ef9fe3372582a7519e140443977472.jpg 
+picture: https://www.geme.bio/assets/images/how-to-store-apples-25526095cb35f0098395a78b02cfdbd6.jpg
 ---
 
 <head >
@@ -71,7 +71,7 @@ These varying storage conditions for fresh produce are dependent on several thin
 4. **[How to store apples for the long term?](#how-to-store-apples-for-the-long-term-even-without-a-fridge)**
 5. **[How to keep apples fresh for months](#how-to-keep-apples-fresh-for-months)**
 6. **[Can I compost bad apples?](#can-i-compost-bad-apples)**
-7. **[Bonus Tips and Q&A](#bonus-tips-qa)**
+7. **[Bonus Tips and Q&A](#bonus-tips--qa)**
 8. **[Summary of key tips](#summary-of-key-tips)**
 
 ## How Long Do Apples Last in the Fridge?
@@ -89,7 +89,7 @@ When stored in the fridge's crisper drawer at around 30–35°F, most apples sta
 ### 3. Countertop vs. Fridge
 Apples left on the countertop typically last 5–7 days (max 1–2 weeks under cool indoor conditions). Once refrigerated, their storage life increases by a factor of 6–10 times.
 
-![How to keep apples fresh for months](./img/keep-apples-fresh-for-months.jpg)
+![how to keep apples fresh for months](./img/keep-apples-fresh-for-months.jpg)
 
 ## How to Store Apples for Maximum Freshness
 
@@ -152,20 +152,20 @@ Yes! Composting spoiled apples is eco-friendly and safe with the GEME home compo
 
 ### 🛒 Get Your GEME Composter Now
 
-<div style={{textAlign: "center", background: "#f8f9fa", borderRadius: "12px", padding: "20px", margin: "20px 0", border: "2px solid #e9ecef"}}>
-  <a href="https://www.geme.bio/product/geme" style={{display: "inline-block", textDecoration: "none"}}>
-    <img "src=![geme composter](./img/geme-kitchen-composter.png)." alt="GEME Kitchen Composter" style={{maxWidth: "300px", borderRadius: "8px", boxShadow: "0 4px 12px rgba(0, 0, 0, 0.43)"}} />
+<div style="text-align: center; background: #f8f9fa; border-radius: 12px; padding: 20px; margin: 20px 0; border: 2px solid #e9ecef;">
+  <a href="https://www.geme.bio/product/geme" style="display: inline-block; text-decoration: none;">
+    <img src="./img/geme-kitchen-composter.png" alt="GEME Kitchen Composter" style="max-width: 300px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.43);" />
   </a>
-  <div style={{marginTop: "15px"}}>
-    <h3 style={{color: "#2c5aa0", margin: "10px 0"}}>GEME, the Best Biowaste Composter</h3>
-    <h3 style={{color: "#2c5aa0", margin: "10px 0"}}>🌟 Limited Time Offer: Save $50</h3>
-    <div style={{textAlign: "left", maxWidth: "400px", margin: "0 auto"}}>
-      <p style={{margin: "5px 0", color: "#666"}}>✅ Large Capacity 19L, Quiet, Odourless</p>
-      <p style={{margin: "5px 0", color: "#666"}}>✅ Quick (6-8 hours), Microbes Compost, Full Compost</p>
-      <p style={{margin: "5px 0", color: "#666"}}>✅ 30-Day Risk-Free Trial, One Year Warranty</p>
+  <div style="margin-top: 15px;">
+    <h3 style="color: #2c5aa0; margin: 10px 0;">GEME, the Best Biowaste Composter</h3>
+    <h3 style="color: #2c5aa0; margin: 10px 0;">🌟 Limited Time Offer: Save $50</h3>
+    <div style="text-align: left; max-width: 400px; margin: 0 auto;">
+      <p style="margin: 5px 0; color: #666;">✅ Large Capacity 19L, Quiet, Odourless</p>
+      <p style="margin: 5px 0; color: #666;">✅ Quick (6-8 hours), Microbes Compost, Full Compost</p>
+      <p style="margin: 5px 0; color: #666;">✅ 30-Day Risk-Free Trial, One Year Warranty</p>
     </div>
   </div>
-  <a href="https://www.geme.bio/product/geme" style={{display: "inline-block", background: "linear-gradient(135deg, #667eea 0%, #764ba2 100%)", color: "white", padding: "15px 40px", borderRadius: "25px", textDecoration: "none", fontWeight: "bold", fontSize: "18px", marginTop: "15px", boxShadow: "0 4px 15px rgba(53, 67, 132, 0.66)"}}>
+  <a href="https://www.geme.bio/product/geme" style="display: inline-block; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 15px 40px; border-radius: 25px; text-decoration: none; font-weight: bold; font-size: 18px; margin-top: 15px; box-shadow: 0 4px 15px rgba(53, 67, 132, 0.66);">
     🛒 Shop GEME Composter Now
   </a>
 </div>
