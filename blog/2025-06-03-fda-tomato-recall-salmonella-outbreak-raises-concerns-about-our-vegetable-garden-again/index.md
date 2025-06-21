@@ -121,6 +121,8 @@ For questions, contact the distributor or the FDA for guidance.
 ## Is It Safe to Compost My Tomatoes Now?
 Composting recalled tomatoes is not recommended. However, A home electric composter with heating system can completely simulate the whole process of natural composting but improve and speed up the composting process by providing the most suitable conditions for Kobold to grow and degrade. 
 
+<GemeComposterCTA className="custom-styles" />
+
 Kobold is a pure natural high-temperature resistant composite microorganism. The fermentation heat can reach up to over 70°C during the fermentation process. **[As recommended by FDA and CDC, it meets the conditions to kill Salmonella](https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures)**.
 
 Other man-made composting systems may not reach temperatures sufficient to kill Salmonella bacteria. Using contaminated compost in your garden can introduce bacteria to your soil and plants. It's safer to dispose of the recalled tomatoes in the trash or use a composter with Kobold.
