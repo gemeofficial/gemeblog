@@ -14,9 +14,9 @@ picture: https://www.geme.bio/assets/images/how-to-eat-lychee-9a5bf35daf874ce743
 
 import GemeComposterCTA from '@site/src/components/GemeComposterCTA'
 
-Imagine a captivating blend of floral sweetness and tropical tang, like a cross between a grape and a rose, with hints of strawberry and watermelon. This is what we're going to learn about -- Lychee! 
+Imagine a captivating blend of floral sweetness and tropical tang, like a cross between a grape and a rose, with hints of strawberry and watermelon. Mouthwaterin! And this is what lychee tastes like. Today, we're going to learn about -- Lychee! 
 
-![](./img/how-to-eat-lychee.jpg)
+![what does lychee taste like?](./img/how-to-eat-lychee.jpg)
 
 
 <!-- truncate -->
