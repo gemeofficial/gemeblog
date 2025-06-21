@@ -95,6 +95,9 @@ To eliminate Salmonella from food:
 - **Compost Properly**: Ensure compost reaches temperatures that kill pathogens before applying to gardens. Please check this guide to see how to compost suspected tomatoes or other vegetables contaminated with Salmonella: [FDA Cucumber Recall 2025 - Heat Composting](https://www.geme.bio/blog/cucumber-recall-2025-how-to-protect-vegetable-garden-from-salmonella#how-to-kill-salmonella)
 - **Control Animal Access**: Prevent animals from entering garden areas to reduce contamination risks.
 
+<GemeComposterCTA className="custom-styles" />
+
+
 ## Is It Safe to Eat Tomatoes Now?
 Yes, it is safe to eat tomatoes that are not part of the recall. Consumers should check the origin and lot numbers of tomatoes to ensure they are not affected. Proper handling and cooking further reduce any risk of Salmonella infection.
 
