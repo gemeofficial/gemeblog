@@ -24,6 +24,7 @@ picture: https://www.geme.bio/assets/images/williams-farm-3ct-tray-0a5806881c0b0
     <meta data-rh="true" property="og:locale" content="en"/-->
 </head>
 
+import GemeComposterCTA from '@site/src/components/GemeComposterCTA'
 
 While composting is generally a good practice for reducing **waste** and enriching soil, it's important to be cautious when dealing with potentially contaminated materials. The **FDA Tomato Recall Salmonella** outbreak highlights the need to take extra precautions to protect your health and prevent the spread of **salmonella**.
 
