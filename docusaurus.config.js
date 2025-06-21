@@ -686,6 +686,10 @@ const config = {
             to: '/blog/avoid-donut-waste-on-national-donut-day',
             from: '/blog/make-donut-at-home-for-national-donut-day',
           },
+          {
+            to: '/blog/the-best-composter-to-reduce-food-waste',
+            from: '/blog/5-best-composters-to-reduce-food-waste',
+          },
         ],
       },
     ],
