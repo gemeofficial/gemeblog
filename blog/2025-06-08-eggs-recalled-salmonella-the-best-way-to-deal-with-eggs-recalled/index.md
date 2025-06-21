@@ -24,6 +24,7 @@ picture: https://www.geme.bio/assets/images/eggs-recall-salmonella-cedbf638bc4fe
     <meta data-rh="true" property="og:locale" content="en"/-->
 </head>
 
+import GemeComposterCTA from '@site/src/components/GemeComposterCTA'
 
 In 2025, the United States has experienced several food recalls due to **Salmonella** contamination. Now, it’s egg recall due to Salmonella. This recall raises concerns among consumers about food safety. This article aims to provide clear, actionable information about egg recalls, Salmonella, and how to protect yourself and your family.
 
@@ -211,6 +212,8 @@ Even if there is no active **egg recall** in your state, it's essential to follo
 While proper disposal and cleaning are essential steps in dealing with **eggs recalled**, composting offers an environmentally friendly way to handle food waste. However, not all composters are created equal when it comes to killing Salmonella. We recommend home electric composter with Kobold for **effectively eliminating Salmonella** and other harmful bacteria from your food waste.
 
 ![Egg recall 2025 How to Kill Salmonella in Eggs](./img/egg-recalled-how-to-kill-salmonella-geme.jpg)
+
+<GemeComposterCTA className="custom-styles" />
 
 ### Why Composting?
 

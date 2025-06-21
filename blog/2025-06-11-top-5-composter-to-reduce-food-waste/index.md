@@ -24,6 +24,8 @@ picture: https://www.geme.bio/assets/images/geme-kitchen-composter-02-ce606b7710
     <meta data-rh="true" property="og:locale" content="en"/-->
 </head>
 
+import GemeComposterCTA from '@site/src/components/GemeComposterCTA'
+
 Food waste is a big problem. It hurts our wallets and the environment. But there's a simple solution: **kitchen composters**. These handy devices turn your food waste into nutrient-rich compost, reducing landfills and creating valuable fertilizer for your plants.
 
 In this article, we'll explore the **top 5 kitchen composters** on the market. We'll look at their introductions, features, and benefits to help you choose the perfect one for your needs. Let's dive in and discover **which one is your favourite**!
@@ -80,6 +82,8 @@ The benefits of reduced food waste and safe compost output make it the best opti
 In 2025, the culprit of [**FDA Food Recalls**](/blog/fda-tomato-recall-salmonella-outbreak-raises-concerns-about-vegetable) mostly related to [**Salmonella** contaminations](/blog/cucumber-recall-2025-how-to-protect-vegetable-garden-from-salmonella), which can spread across the US by contaminated food and vegetable and cause severe [infection systoms](https://www.cdc.gov/salmonella/outbreaks/eggs-06-25/index.html). 
 
 However, GEME kitchen composter is the only one on the market that reaches the high temperature of up to 70+ to [kill Salmonella by integrated UV-C Light and Kobold heating system(fermentation)](/blog/egg-recall-salmonella-2025-best-way-to-kill-salmonella-in-eggs-recalled). This is not only for your family’s safety concerns, but also for your garden health and public health. 
+
+<GemeComposterCTA className="custom-styles" />
 
 It utilizes a combination of heat, drying, cooling, and grinding to transform food waste into full, dry, nutrient-rich, and bacteria-free compost that can be used to improve the health of your garden soil.
 

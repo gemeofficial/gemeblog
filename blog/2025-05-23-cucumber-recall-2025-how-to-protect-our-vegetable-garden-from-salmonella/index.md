@@ -22,6 +22,8 @@ tags: [gardening, composter, plant, sustainability]
     <meta data-rh="true" property="og:locale" content="en"/-->
 </head>
 
+import GemeComposterCTA from '@site/src/components/GemeComposterCTA'
+
 ![cucumber recall due to salmonella](./img/cucumber-recall-due-to-salmonella-FDA-urgent-alert.jpg)
 _Image Credit: [FDA|Outbreak Investigation of Salmonella: Cucumbers(May 2025)](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-cucumbers-may-2025)_
 
@@ -137,6 +139,8 @@ Salmonella can contaminate fruits and vegetables through various routes:
 3. **Disinfection**: Using disinfectants, such as bleach, can kill Salmonella on surfaces. A solution of 1 tablespoon of bleach per gallon of water is effective for disinfecting surfaces.
 
 4. **Heat Composting**: Maintaining a compost pile at a temperature of 160-180°F (71-82°C) for at least three days will kill Salmonella, while using [a composter with kobold](https://www.geme.bio/blog/garden-soil-vs-compost-pros-and-cons) will also kill Salmonella due to its UV light and kobold heating system. When you’re at home, you could compost your food watse or diposable cucumbers in a home composter even if your food materials might be contaminated with Salmonella, but remember to slice it smaller and wash your hands and knives with warm water and soap properly.
+
+<GemeComposterCTA className="custom-styles" />
 
 5. **UV Light**: Ultraviolet (UV) light can kill Salmonella on surfaces and in water.
 

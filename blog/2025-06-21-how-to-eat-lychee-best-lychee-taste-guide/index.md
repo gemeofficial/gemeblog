@@ -28,7 +28,7 @@ Imagine a captivating blend of floral sweetness and tropical tang, like a cross 
 3. **[How to know when apples have gone bad?](#how-to-know-when-apples-have-gone-bad)**
 4. **[How to Eat Lychee? A Step-by-Step Guide](#how-to-eat-lychee-a-step-by-step-guide)**
 5. **[How to Store Lychee? Expert Preservation Tips](#how-to-store-lychee-expert-preservation-tips)**
-6. **[CHow to Tell When Lychee Has Gone Bad?](#how-to-tell-when-lychee-has-gone-bad)**
+6. **[How to Tell When Lychees are Bad?](#how-to-tell-when-lychee-has-gone-bad)**
 7. **[Can I Compost Mouldy Lychee?](#can-i-compost-mouldy-lychee-yes-heres-the-eco-way)**
 8. **[Creative Lychee Recipes to Elevate Your Meals](#creative-lychee-recipes-to-elevate-your-meals)**
 0. **[Why Does Lychee Taste Vary? Science and Tips](#why-does-lychee-taste-vary-science-and-tips)**

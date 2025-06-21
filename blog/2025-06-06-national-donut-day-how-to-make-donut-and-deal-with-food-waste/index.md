@@ -23,6 +23,7 @@ picture: https://www.geme.bio/assets/images/national-donut-day-2025-1fe7e82084f9
     <meta data-rh="true" property="og:locale" content="en"/-->
 </head>
 
+import GemeComposterCTA from '@site/src/components/GemeComposterCTA'
 
 Every year, people all across the United States come together to celebrate a sweet and sticky holiday known as **National Donut Day**. In 2025, this delightful day falls on **Friday, June 6th**. 
 
@@ -157,6 +158,8 @@ Give extra donuts to neighbors or friends. Share the joy!
 #### **4.** **Compost Extra Donuts For Garden Soil**
 
 If you just have 2 or 3 donuts left, try to break it down in a home composter to make rich-nutrient compost for your garden. This is the most eco-friendly way to celebrate the holiday.
+
+<GemeComposterCTA className="custom-styles" />
 
 Remember, a little planning goes a long way in making sure we enjoy our food **without wasting it**. 
 

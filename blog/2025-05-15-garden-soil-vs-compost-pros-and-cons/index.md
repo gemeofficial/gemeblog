@@ -13,6 +13,7 @@ tags: [gardening, compost, plant, sustainability]
 ---
 
 import ReactPlayer from 'react-player'
+import GemeComposterCTA from '@site/src/components/GemeComposterCTA'
 
 <head >
     <!--meta charSet="utf-8" />
@@ -107,6 +108,8 @@ Compost is **decomposed organic matter**. It's nature's way of recycling, transf
     url="https://youtu.be/PRgYEdy3ewo?si=bfqMby5MPQAeIZTJ" width="100%" 
   />
 </div>
+
+<GemeComposterCTA className="custom-styles" />
 
 ### Composition of Compost
 

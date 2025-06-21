@@ -21,6 +21,7 @@ picture: https://www.geme.bio/assets/images/how-to-plant-a-garden-gardening-tips
     <meta data-rh="true" property="og:locale" content="en"/-->
 </head>
 
+import GemeComposterCTA from '@site/src/components/GemeComposterCTA'
 import Columns from '@site/src/components/Columns'
 import Column from '@site/src/components/Column'
 import ReactPlayer from 'react-player'
@@ -147,6 +148,8 @@ Use a balanced, slow-release fertiliser or organic compost to give your garden p
 - **Feed with liquid nutrients** – Use diluted fish emulsion or compost tea every 4–6 weeks in active growth periods.
 - **Monitor plant health** – Yellowing leaves? Cut the fertiliser in half. Excess lush green but no blooms? Add phosphate-rich feed.
 - **Organic options:** **[Compost](https://www.geme.bio/blog/preparing-and-using-your-compost)** and other organic fertilisers are great choices.
+
+<GemeComposterCTA className="custom-styles" />
 
 ![How to plant a garden gardening tips 7](./img/how-to-plant-a-garden-gardening-tips-07.jpg)
 
