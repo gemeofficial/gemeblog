@@ -25,7 +25,7 @@ Imagine a captivating blend of floral sweetness and tropical tang, like a cross 
 
 1. **[What does lychee taste like?](#what-does-lychee-taste-like)**
 2. **[How to Select Perfectly Ripe Lychees](#how-to-select-perfectly-ripe-lychees)**
-3. **[How to know when apples have gone bad?](#how-to-know-when-apples-have-gone-bad)**
+3. **[How to know when lychee is bad?](#how-to-tell-when-lychee-has-gone-bad)**
 4. **[How to Eat Lychee? A Step-by-Step Guide](#how-to-eat-lychee-a-step-by-step-guide)**
 5. **[How to Store Lychee? Expert Preservation Tips](#how-to-store-lychee-expert-preservation-tips)**
 6. **[How to Tell When Lychees are Bad?](#how-to-tell-when-lychee-has-gone-bad)**
