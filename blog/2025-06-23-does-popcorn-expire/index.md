@@ -11,7 +11,7 @@ keywords:
 slug: can-popcorn-expire
 authors: [Moore]
 tags: [food waste, composting, compost]
-picture: https://www.geme.bio/assets/images/how-to-eat-lychee-9a5bf35daf874ce743294cb4ae3ea3d3.jpg
+picture: https://www.geme.bio/assets/images/does-popcorn-expire-7ccd661160b7ba97a3bf3ccb151440d7.jpg
 ---
 
 import GemeComposterCTA from '@site/src/components/GemeComposterCTA'
