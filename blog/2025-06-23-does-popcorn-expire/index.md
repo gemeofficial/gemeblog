@@ -50,6 +50,7 @@ That tiny bit of moisture (about 14%) is essential — it's what makes the kerne
 
 Several elements impact how long your popcorn lasts:
 - Moisture exposure (causes mold or drying)
+
 - Air exposure (leads to staleness)
 - Heat and sunlight (break down natural oils and flavourings)
 - Type of popcorn (popped, unpopped, microwave)
@@ -57,6 +58,7 @@ Several elements impact how long your popcorn lasts:
 ## How Long Does Unpopped Popcorn Last?
 ### Shelf life of standard kernels vs. microwave popcorn
 - Unpopped popcorn: Up to 1–2 years if sealed and stored in a dry place.
+
 - Microwave popcorn: Typically has a “best by” date 6–12 months after manufacture. It can be safe to use a couple of months beyond that, but quality may decline.
 
 ![How long does popcorn last?](./img/how-long-does-popcorn-last.jpg)
