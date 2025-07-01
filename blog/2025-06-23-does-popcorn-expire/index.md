@@ -32,7 +32,7 @@ Let’s break down the science and storage solutions behind popcorn’s longevit
 3. **[Can Popcorn expire? Does popcorn go bad?](#does-popped-popcorn-expire)**
 4. **[How to know if popcorn goes bad?](#how-to-know-if-popcorn-goes-bad)**
 5. **[How to store popcorn](#how-to-properly-store-popcorn)**
-6. **[Can I compost popcorn?](#can-i-compost-mouldy-lychee-yes-heres-the-eco-way)**
+6. **[Can I compost popcorn?](#can-i-compost-expired-popcorn)**
 7. **[Can I eat expired popcorn?](#can-you-eat-expired-popcorn)**
 8. **[FAQ about popcorn](#faqs-about-popcorn-expiration)**
 9. **[More tips for making popcorn last longer](#more-tips-for-extending-popcorn-shelf-life)**
