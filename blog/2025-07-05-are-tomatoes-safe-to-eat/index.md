@@ -9,7 +9,7 @@ keywords:
 slug: are-tomatoes-safe-to-eat-now
 authors: [Moore]
 tags: [gardening, food waste, composting, compost]
-picture：https://www.geme.bio/assets/images/is-it-safe-to-eat-tomato-now-f8c682345254cc2bc6d4bd141289f455.jpg
+picture: https://www.geme.bio/assets/images/is-it-safe-to-eat-tomato-now-f8c682345254cc2bc6d4bd141289f455.jpg
 ---
 
 import GemeComposterCTA from '@site/src/components/GemeComposterCTA'
