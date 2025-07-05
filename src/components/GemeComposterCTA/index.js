@@ -6,7 +6,7 @@ export default function GemeComposterCTA({className}) {
   return (
     <div className={clsx(styles.ctaContainer, className)}>
       <div className={styles.ctaContent}>
-        <a href="https://geme.bio?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-eat-lychee-best-lychee-taste-guide" className={styles.imageLink}>
+        <a href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-eat-lychee-best-lychee-taste-guide" className={styles.imageLink}>
           <img 
             src="/img/geme-kitchen-composter.png" 
             alt="GEME Kitchen Composter" 
@@ -22,7 +22,7 @@ export default function GemeComposterCTA({className}) {
           </div>
         </div>
         <a 
-          href="https://geme.bio?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-eat-lychee-best-lychee-taste-guide" 
+          href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-eat-lychee-best-lychee-taste-guide" 
           className={styles.ctaButton}
         >
           🛒 Shop GEME Composter Now
