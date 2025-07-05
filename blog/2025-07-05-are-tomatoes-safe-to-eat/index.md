@@ -142,7 +142,7 @@ Absolutely! The best way to deal with bad tomatoes is to compost it. Use the com
 
 **For optimal results:** 
 
-**Use GEME electric biowaste composter** – GEME is the world's first biowaste home composter, rapidly breaking down organic waste (including popcorn) at **60°C+ (140°F+)**, killing pathogens like Salmonella and producing full compost in **6-8 hours**. 
+**Use GEME electric biowaste composter** – GEME is the world's first biowaste home composter, rapidly breaking down organic waste (including fruits and veggies) at **60°C+ (140°F+)**, killing pathogens like Salmonella and producing full compost in **6-8 hours**. 
 
 ### 🛒 Get Your GEME Composter Now
 
