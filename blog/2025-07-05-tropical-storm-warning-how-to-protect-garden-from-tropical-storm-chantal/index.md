@@ -207,27 +207,27 @@ Once the storm passes, collect storm runoff using clean barrels. Filter and reus
 
 ## FAQs About Tropical Storms and Garden Safety
 
-1. What is the best compost to use before a storm?
+1. **What is the best compost to use before a storm?**
 
 Use well-aged, fibrous compost rich in organic material. It should be dark, crumbly, and easy to spread, helping roots access nutrients and retain moisture even in extreme weather.
 
-2. Can compost help prevent plant flooding?
+2. **Can compost help prevent plant flooding?**
 
 Yes, compost enhances drainage and moisture balance, making your soil less prone to waterlogging. A compost-rich top layer also protects roots from erosion.
 
-3. Should I trim my plants before a tropical storm?
+3. **Should I trim my plants before a tropical storm?**
 
 Absolutely. Pruning helps reduce wind resistance and prevents heavy branches from snapping and causing further damage to nearby plants.
 
-4. How do I protect raised beds from high winds?
+4. **How do I protect raised beds from high winds?**
 
 Use sandbags or concrete blocks around the base. Add row covers or netting to keep plants inside from whipping around.
 
-5. What plants recover fastest after floods?
+5. **What plants recover fastest after floods?**
 
 Hardy plants like zinnias, kale, Swiss chard, and mint bounce back well. Avoid delicate flowers or root-sensitive crops during hurricane season.
 
-6. Is it safe to compost after a flood?
+6. **Is it safe to compost after a flood?**
 
 Yes, but be cautious. Do not compost plants contaminated by sewage or industrial runoff. Stick to green waste from healthy plants and rinse thoroughly before use.
 
