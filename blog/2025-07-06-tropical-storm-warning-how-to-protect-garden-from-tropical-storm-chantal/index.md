@@ -15,6 +15,7 @@ keywords:
 slug: tropical-storm-warning-protect-your-garden-from-chantal-now
 authors: [Moore]
 tags: [climate, gardening, compost]
+picture: https://www.geme.bio/assets/images/tropical-storm-warning-by-noaa-d98a285b14af8642589ba180f070d488.jpg
 ---
 
 
