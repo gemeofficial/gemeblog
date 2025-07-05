@@ -72,7 +72,7 @@ For container gardening, cherry or grape tomatoes are compact and incredibly pro
 | Grass clippings | Cardboard (uncoated) |
 | Manure (from herbivores) | Straw |
 
-Avoid composting meat, dairy, or anything oily. For the best quality of compost for daily use, you can choose a home electric composter like GEME, which turns your kitchen/yard waste into rich compost within 6-8 hours.
+Avoid composting meat, dairy, or anything oily. **For the best quality of compost for daily use, you can choose a home electric composter like GEME, which turns your kitchen/yard waste into rich compost within 6-8 hours**.
 
 <GemeComposterCTA className="custom-styles" />
 
