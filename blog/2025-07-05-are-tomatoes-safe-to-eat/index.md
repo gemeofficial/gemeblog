@@ -184,7 +184,7 @@ So, are tomatoes safe to eat now? Maybe. But if you want absolute certainty, gro
 
 ## Sources
 1. FoodSafty Guidence by CDC https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures
-2. FDA Tomato Recall Due To Salmonella https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/williams-farms-repack-llc-recalls-tomatoes-due-possible-salmonella-contaminationare_expired_popcorn_kernels_still_ok_to_use/
+2. FDA Tomato Recall Due To Salmonella https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/williams-farms-repack-llc-recalls-tomatoes-due-possible-salmonella-contamination
 3. CDC: About Salmonella Infection https://www.cdc.gov/salmonella/about/index.html
 
 
