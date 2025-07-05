@@ -82,7 +82,7 @@ You can either start your tomatoes from seeds indoors 6-8 weeks before the last 
 
 Space them about 18–24 inches apart, and give them enough breathing room for good air circulation.
 
-### FWatering and Sunlight Requirements
+### Watering and Sunlight Requirements
 
 Tomatoes love the sun—at least **6–8 hours of direct sunlight per day**. Water deeply once or twice a week rather than shallow watering daily. This trains the roots to grow deep and strong.
 
@@ -137,6 +137,8 @@ Want to save them for later? Can them, dry them, or freeze them in airtight bags
 ## Can I compost spoiled or rotten tomatoes?
 
 Absolutely! The best way to deal with bad tomatoes is to compost it. Use the compost output to further enrich your garden soil and help your tomato plants grow better. 
+
+![Can I compost rotten tomatoes?](./img/can-I-compost-rotten-tomatoes.png)
 
 **For optimal results:** 
 
