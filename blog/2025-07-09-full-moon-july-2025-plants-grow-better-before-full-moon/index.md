@@ -11,6 +11,7 @@ keywords:
 slug: full-moon-july-2025-affects-plant-growth
 authors: [Moore]
 tags: [climate, plant, gardening, compost, composting]
+picture: https://www.geme.bio/assets/images/full-moon-july-2025-8ecd42a826c2f69c04a2d11e08a7a5ab.jpg
 ---
 
 import GemeComposterCTA from '@site/src/components/GemeComposterCTA'
