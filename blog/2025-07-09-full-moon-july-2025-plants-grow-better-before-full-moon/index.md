@@ -169,7 +169,7 @@ Whether you're a skeptic or a seasoned moon gardener, planting in sync with the 
 
 ## Sources
 1. Science | AAAS 
-https://www.science.org/content/article/moon-through-trees?utm_source=chatgpt.com 
+https://www.science.org/content/article/moon-through-trees
 
 2. Wikipedia: Biodynamic agriculture
 https://en.wikipedia.org/wiki/Biodynamic_agriculture 
@@ -177,7 +177,6 @@ https://en.wikipedia.org/wiki/Biodynamic_agriculture
 3. Permacultureprinciples: <a href="https://permacultureprinciples.com/post/moonlight-affect-plant-growth/?srsltid=AfmBOooa3d_F0dSvNi6qamGZh_CvdIqk9NWfnk05GY_GNuIt7GRM9-x7" rel="nofollow">Can moonlight affect plant growth?</a>
 
 4. CCSENET: Lunar Rhythmicities in the Biology of Trees
-https://ccsenet.org/journal/index.php/jps/article/download/32457/19576?utm_source=chatgpt.com
-
+https://ccsenet.org/journal/index.php/jps/article/download/32457/19576
 
 _Ready to transform your gardening game? Subscribe to our [newsletter](http://geme.bio/signup) for expert composting tips and sustainable gardening advice._
