@@ -11,6 +11,7 @@ keywords:
 slug: do-eggs-expire
 authors: [Moore]
 tags: [food waste, sustainability, compost, composting]
+picture: https://www.geme.bio/assets/images/eggs-gone-bad-ca5340da8acf0206ac2653e920acfba3.jpg
 ---
 
 import GemeComposterCTA from '@site/src/components/GemeComposterCTA'
@@ -246,6 +247,9 @@ Knowing how long eggs last in the fridge helps reduce waste, prevent illness, an
 Sustainable living starts with small choices, like better food storage and composting habits.
 
 ## Related Articles
+
+- [**Egg Recall Due To Salmonella**](/blog/egg-recall-salmonella-2025-best-way-to-kill-salmonella-in-eggs-recalled)
+
 - [**Are Tomatoes Safe to Eat Now?**](/blog/are-tomatoes-safe-to-eat-now)
 
 - [**Can Popcorn Expire?**](/blog/can-popcorn-expire)
@@ -254,7 +258,7 @@ Sustainable living starts with small choices, like better food storage and compo
 
 - [**How Long Do Apples Last in The Fridge?**](/blog/how-long-do-apples-last-in-the-fridge)
 
-- [**Egg Recall Due To Salmonella**](/blog/egg-recall-salmonella-2025-best-way-to-kill-salmonella-in-eggs-recalled)
+
 
 ## Sources
 1. USDA: How long can you store eggs in the refrigerator? https://ask.usda.gov/s/article/How-long-can-you-store-eggs-in-the-refrigerator 

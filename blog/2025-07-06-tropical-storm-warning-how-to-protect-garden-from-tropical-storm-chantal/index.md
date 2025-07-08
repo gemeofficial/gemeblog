@@ -18,6 +18,7 @@ tags: [climate, gardening, compost]
 picture: https://www.geme.bio/assets/images/tropical-storm-warning-by-noaa-d98a285b14af8642589ba180f070d488.jpg
 ---
 
+import GemeComposterCTA from '@site/src/components/GemeComposterCTA'
 
 ## Tropical Storm Chantal and Its Potential Impact
 
@@ -186,6 +187,8 @@ Coastal soil tends to be sandy, drains too quickly, and lacks nutrients. Coupled
 ### Electric Composter, Covers, and Anchors
 
 Invest in a home electric composter to protect organic matter from getting too wet during storms. For plants, use row covers, plant cages, and ground anchors to stabilize growing structures. Plastic mulch sheets also help redirect rainwater.
+
+<GemeComposterCTA className="custom-styles" />
 
 ### Must-Have Gardening Tools for Storm Prep
 
