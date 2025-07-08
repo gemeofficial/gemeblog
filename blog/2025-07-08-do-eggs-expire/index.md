@@ -10,14 +10,14 @@ keywords:
   - GEME composter
 slug: do-eggs-expire
 authors: [Moore]
-tags: [climate, gardening, compost]
+tags: [food waste, sustainability, compost, composting]
 ---
 
 import GemeComposterCTA from '@site/src/components/GemeComposterCTA'
 
 Eggs are one of the most versatile and affordable kitchen staples, but have you ever wondered: *do eggs expire?* *how long do eggs last in the fridge?* Whether you're preparing a weekend breakfast or baking a cake, using fresh eggs is essential — not just for flavor, but for food safety, too.
 
-Let's explore egg shelf life, expiration myths, *how to tell if an egg is bad*, and what to do with spoiled eggs, including <span style="color: green">**how to compost eggs safely using a composter**</span>.
+Let's explore egg shelf life, expiration myths, *how to tell if an egg is bad*, and what to do with spoiled eggs, including <span style={{color: "green"}}>**how to compost eggs safely using a composter**</span>.
 
 ![Do eggs expire?](./img/do-eggs-expire.jpg)
 
@@ -80,20 +80,20 @@ In many cases, eggs are perfectly usable 2–3 weeks past their labeled expirati
 
 ### What Happens When Eggs Expire?
 
-Expired eggs don’t necessarily turn toxic overnight. Over time, moisture and gases escape through the shell, making them:
+Expired eggs don't necessarily turn toxic overnight. Over time, moisture and gases escape through the shell, making them:
 - Runny and watery
 - More alkaline (less acidic)
 - [**Prone to bacterial contamination**](/blog/egg-recall-salmonella-2025-best-way-to-kill-salmonella-in-eggs-recalled)
 
 ![Can eggs expire?](./img/can-eggs-expire.jpg)
 
-That’s why regular checks are important.
+⚠️ **That's why regular checks are important.** 
 
 ## 3. How to Tell When Eggs Go Bad
 
 ### The Float Test Explained
 
-A classic method to check egg freshness:
+**A classic method to check egg freshness**:
 
 1. Fill a bowl with water.
 2. Gently place the egg inside.
@@ -103,15 +103,20 @@ A classic method to check egg freshness:
 - Bad eggs: Float to the top due to increased air cell size.
 
 ### Sight, Smell, and Sound Clues
+
 - Sight: Look for cloudy whites, pinkish or greenish hues—signs of bacterial growth.
 - Smell: A rotten egg smell is unmistakable. If it smells off, toss it.
 - Sound: A sloshing sound inside the shell might indicate a breakdown in structure.
 
 ### Cracked Shells and Odd Colors
-Avoid using eggs with:
+
+**Avoid using eggs with**:
+
 - Cracks or oozing
 - Mold or powdery residue
 - Unusual yolk colors (e.g., green, grey)
+ 
+  ---
 
 ![How to know when eggs are bad](./img/how-to-know-when-eggs-go-bad.jpg)
 
@@ -134,6 +139,7 @@ Avoid using eggs with:
   - Yolks: 2 days
   - Mixed eggs: 2 days
 
+---
 ![How to store eggs for longer shelf life?](./img/how-to-store-eggs.jpg)
 
 ### Egg Storage Chart
@@ -148,9 +154,11 @@ Avoid using eggs with:
 
 ## 5. Composting Bad Eggs: Eco-Friendly Solutions
 
-### Why You Shouldn’t Toss Eggs in the Trash
+### Why You Shouldn't Toss Eggs in the Trash
 
 Rotten eggs in landfills emit methane, a potent greenhouse gas. Composting is a smarter, eco-conscious option.
+
+---
 
 ![Can I compost bad eggs?](./img/compost-bad-eggs.jpg)
 
@@ -177,12 +185,12 @@ Using the GEME composter ensures your waste turns into something beneficial for 
 ### Proper Handling Practices
 
 - Wash your hands before and after handling raw eggs.
-- Don’t mix old and new eggs in storage.
+- Don't mix old and new eggs in storage.
 - Use clean containers for cracked or separated eggs.
-
+---
 ![How to store eggs safely?](./img/how-to-tell-if-eggs-are-bad.jpg)
 
-### Do’s and Don’ts of Fridge Storage
+### Do's and Don'ts of Fridge Storage
 
 **Do:**
 
@@ -190,7 +198,7 @@ Using the GEME composter ensures your waste turns into something beneficial for 
 - Store eggs in the original carton.
 - Label containers with the date when eggs are cracked or boiled.
 
-**Don’t:** 
+**Don't:** 
 
 - Store eggs on the fridge door.
 - Wash eggs before storing.
@@ -205,7 +213,7 @@ Using the GEME composter ensures your waste turns into something beneficial for 
 2. **Can you eat eggs that float in water?**
 
 
-   Floating eggs are likely spoiled. It’s best to discard them.
+   Floating eggs are likely spoiled. It's best to discard them.
 
 3. **What happens if you eat a bad egg?**
 
@@ -215,7 +223,7 @@ Using the GEME composter ensures your waste turns into something beneficial for 
 4. **Can you compost raw eggs?**
 
 
-   Yes! Just make sure they’re composted properly to avoid odors and pests.
+   Yes! Just make sure they're composted properly to avoid odors and pests.
 
 5. **Is it safe to compost eggshells?**
 
@@ -227,11 +235,13 @@ Using the GEME composter ensures your waste turns into something beneficial for 
  
    It processes eggs quickly, contains odor, and produces nutrient-rich compost safely and efficiently.
 
+---
+
 ![rotten egg](./img/eggs-gone-bad.jpg)
 
 ## 8. Conclusion: Keep Your Eggs Fresh and Waste-Free
 
-Knowing how long eggs last in the fridge helps reduce waste, prevent illness, and protect the environment. Always check freshness using the float test or your senses. And if you do end up with bad eggs, don’t just toss them—compost them with smart tools like the GEME composter for food waste.
+Knowing how long eggs last in the fridge helps reduce waste, prevent illness, and protect the environment. Always check freshness using the float test or your senses. And if you do end up with bad eggs, don't just toss them—compost them with smart tools like the [**GEME home electric composter**](https://www.geme.bio/product/geme) for food waste.
 
 Sustainable living starts with small choices, like better food storage and composting habits.
 
@@ -251,7 +261,7 @@ Sustainable living starts with small choices, like better food storage and compo
 
 2. USDA: Is it safe to store eggs in the door of a refrigerator? https://ask.usda.gov/s/article/Is-it-safe-to-store-eggs-in-the-door-of-a-refrigerator
 
-3. Healthline: Can You Eat Expired Eggs? https://www.healthline.com/nutrition/expired-eggs{:rel="nofollow"}
+3. <a href="ttps://www.healthline.com/nutrition/expired-eggs" rel="nofollow">Healthline: Can You Eat Expired Eggs?</a>
 
 4. Wikipedia: Eggs Storage https://en.wikipedia.org/wiki/Eggs_as_food#Storage
 
