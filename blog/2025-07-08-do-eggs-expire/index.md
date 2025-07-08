@@ -265,7 +265,7 @@ Sustainable living starts with small choices, like better food storage and compo
 
 2. USDA: Is it safe to store eggs in the door of a refrigerator? https://ask.usda.gov/s/article/Is-it-safe-to-store-eggs-in-the-door-of-a-refrigerator
 
-3. <a href="ttps://www.healthline.com/nutrition/expired-eggs" rel="nofollow">Healthline: Can You Eat Expired Eggs?</a>
+3. <a href="https://www.healthline.com/nutrition/expired-eggs" rel="nofollow">Healthline: Can You Eat Expired Eggs?</a>
 
 4. Wikipedia: Eggs Storage https://en.wikipedia.org/wiki/Eggs_as_food#Storage
 
