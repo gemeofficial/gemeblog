@@ -69,14 +69,6 @@ Choosing a [**GEME electric composter**](https://www.geme.bio/product/geme) help
 
 <GemeComposterCTA className="custom-styles" />
 
-### Highlight: Using GEME Electric Composter for Best Compost
-
-- Fast processing: Converts food waste into rich compost in 6–8 hours, perfect for last-minute prep before planting.
-
-- Consistent result: Controlled biodegradation yields uniform texture and nutrient levels.
-
-- Moon-aligned usage: Prepare compost on the new moon or slightly before the waxing phase, to apply at peak before the full moon.
-
 ### Practical Gardening Tips for July 2025 Gardeners
 
 - Ideal planting window: July 19–20, 2025, two days ahead of the full moon, marks the optimal time to plant seeds or seedlings in July.
