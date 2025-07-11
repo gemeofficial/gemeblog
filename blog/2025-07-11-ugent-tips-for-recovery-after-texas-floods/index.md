@@ -33,19 +33,19 @@ Floods can strike without warning, leaving behind chaos and damage. **Proper rec
 
 <h2 className="jump-to">Jump To</h2>
 
-1. **[Science between moon phase and plant growth](#1-scientific-evidence-moon-phase-and-plant-growth)**
+1. **[Stay Alert For Potential Follow-up Rainfall](#1-stay-alert-for-potential-follow-up-rainfall)**
 
-2. **[Why plant before full moon July 2025?](#2-why-plant-before-the-full-moon-the-science-explained)**
+2. **[Avoid Outdoor Activities in Flooded Areas](#2-avoid-unnecessary-outdoor-activities-especially-in-flooded-areas)**
 
-3. **[Why composting before full moon July?](#3-biodynamics--composting-before-full-moon)**
+3. **[Prevent Wound Infection](#3-treat-flood-related-injuries-promptly-to-prevent-infections)**
 
-4. **[Critical Views](#4-skeptical-view-what-critics-say)**
+4. **[Do Not Drink Tap Water Without Boiling After Texas Floods](#4-do-not-drink-tap-water-after-the-texas-flood-without-boiling)**
 
-5. **[FAQs about Full Moon July 2026 and Plant Growth](#5-faqs-about-full-moon-july-and-plant-growth)**
+5. **[Clear Debris After Texas Floods](#5-clear-debris-from-yards-immediately-after-texas-floods)**
 
-6. **[Harnessing July 2025 Full Moon for plant growth](#6-conclusion-harnessing-july-2025s-full-moon-for-growth)**
+6. **[Do Not Eat Fresh Food Exposed to Floodwaters](#6-do-not-eat-fruits-or-vegetables-exposed-to-floodwaters)**
 
-7. **[Ancient Lunar Gardening Guide](#7-final-thoughts-lunar-gardening-is-an-ancient-wisdom-reborn-in-modern-science)**
+7. **[Recover Your Garden By Composting Flood Damaged Plants](#7-recover-soil-and-plants-by-composting-flood-damaged-vegetation)**
 
 ## 1. Stay Alert for Potential Follow-up Rainfall
 
@@ -187,27 +187,27 @@ Consider adding fresh compost to restore lost minerals. Test soil pH if possible
 ## Frequently Asked Questions (FAQs)
 
 1. **What are the first things to do after Texas flood?**
- Shut off electricity, evacuate if unsafe, and avoid contact with floodwaters. Begin cleaning and drying your home as soon as possible.
+   Shut off electricity, evacuate if unsafe, and avoid contact with floodwaters. Begin cleaning and drying your home as soon as possible.
 
 2. **Is it safe to enter my house right after flooding?**
 
- Only if you’ve ensured there's no structural damage or electrical hazard. Always check with professionals if unsure.
+   Only if you’ve ensured there's no structural damage or electrical hazard. Always check with professionals if unsure.
 
 3. **Can I use tap water to wash my hands after Texas floods?**
 
- Use bottled or boiled water until local authorities confirm the water is safe.
+   Use bottled or boiled water until local authorities confirm the water is safe.
 
 4. **What should I do with food that was in contact with floodwater?**
 
- Don't eat it — this includes canned goods if the labels were soaked or cans were damaged. The best way is to compost it with an electric composter.
+   Don't eat it — this includes canned goods if the labels were soaked or cans were damaged. The best way is to compost it with an electric composter.
 
 5. **How long should I wait to plant vegetables again after flooding?**
 
- Wait until the soil dries and is tested. Remove topsoil if contaminated and avoid planting edible crops for 30–60 days.
+   Wait until the soil dries and is tested. Remove topsoil if contaminated and avoid planting edible crops for 30–60 days.
 
 6. **How can I tell if my soil is still healthy after Texaxs flood?**
 
- Signs include foul odor, excess moisture, and visible mold. Use compost and organic matter to improve recovery.
+   Signs include foul odor, excess moisture, and visible mold. Use compost and organic matter to improve recovery.
 
 
 ## Conclusion
