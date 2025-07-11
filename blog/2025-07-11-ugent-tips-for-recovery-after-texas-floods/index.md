@@ -9,6 +9,7 @@ keywords:
   - Texas floods recovery
 authors: [Moore]
 tags: [climate, plant, gardening, recycling, composting]
+picture: https://www.geme.bio/assets/images/texas-floods-29381e2a641b83b3e09d43093c167dda.jpg
 ---
 
 import ReactPlayer from 'react-player'
@@ -106,14 +107,18 @@ Tap water can look clean but still be contaminated by pollutants and bacteria af
 ### Polluted Water After Floods
 
 Floods can cause cross-contamination between sewage and clean water supplies, making even treated water unsafe.
-Safe Drinking Options
+
+### Safe Drinking Options
 
 Until authorities declare the water safe:
 - Drink only boiled water.
+
 - Use bottled water if available.
+
 - Consider portable water filters or purification tablets.
 
 ### Boiling Guidelines
+
 Bring water to a rolling boil for at least 1 minute to kill harmful organisms.
 
 ![Do not drink tap water after Texas Floods](./img/do-not-drink-tap-water-after-texas-floods.jpg)
@@ -187,6 +192,7 @@ Consider adding fresh compost to restore lost minerals. Test soil pH if possible
 ## Frequently Asked Questions (FAQs)
 
 1. **What are the first things to do after Texas flood?**
+   
    Shut off electricity, evacuate if unsafe, and avoid contact with floodwaters. Begin cleaning and drying your home as soon as possible.
 
 2. **Is it safe to enter my house right after flooding?**
