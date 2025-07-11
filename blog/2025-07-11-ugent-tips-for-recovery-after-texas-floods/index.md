@@ -205,7 +205,7 @@ Consider adding fresh compost to restore lost minerals. Test soil pH if possible
 
    Wait until the soil dries and is tested. Remove topsoil if contaminated and avoid planting edible crops for 30–60 days.
 
-6. **How can I tell if my soil is still healthy after Texaxs flood?**
+6. **How can I tell if my soil is still healthy after Texas flood?**
 
    Signs include foul odor, excess moisture, and visible mold. Use compost and organic matter to improve recovery.
 
