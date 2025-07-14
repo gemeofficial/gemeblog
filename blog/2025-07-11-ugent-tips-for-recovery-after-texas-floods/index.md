@@ -7,6 +7,7 @@ keywords:
   - polluted water after Texas floods
   - compost after Texas floods
   - Texas floods recovery
+slug: recovery-guide-after-floods
 authors: [Moore]
 tags: [climate, plant, gardening, recycling, composting]
 picture: https://www.geme.bio/assets/images/texas-floods-29381e2a641b83b3e09d43093c167dda.jpg
