@@ -210,7 +210,7 @@ Take **GEME** for example, you can slice the cooked chicken that has gone bad in
 
 Cooked chicken is delicious and easy to prep ahead—but it’s also perishable. Knowing how long cooked chicken lasts in the fridge is key to staying healthy and reducing waste. 
 
-Stick to the 3–4 day rule, store it right, and when in doubt—throw it out. And remember, no composting that leftover rotisserie!
+Stick to the 3–4 day rule, store it right, and when in doubt—throw it out. And remember, no composting that leftover in the traditional way! Take new technology into your life -- the GEME electric composter.
 
 ## Related Articles
 
