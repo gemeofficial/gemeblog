@@ -211,8 +211,6 @@ Cooked chicken is delicious and easy to prep ahead—but it’s also perishable.
 
 Stick to the 3–4 day rule, store it right, and when in doubt—throw it out. And remember, no composting that leftover rotisserie!
 
-🔗 Helpful Resource: USDA Food Safety Guidelines
-
 ## Related Articles
 
 - [**How Long Do Eggs Last in the Fridge?**](/blog/do-eggs-expire)
