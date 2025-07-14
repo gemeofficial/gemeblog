@@ -690,6 +690,10 @@ const config = {
             to: '/blog/the-best-composter-to-reduce-food-waste',
             from: '/blog/5-best-composters-to-reduce-food-waste',
           },
+          {
+            to: '/blog/recovery-guide-after-floods',
+            from: '/blog/2025/07/11/ugent-tips-for-recovery-after-texas-floods',
+          },
         ],
       },
     ],
