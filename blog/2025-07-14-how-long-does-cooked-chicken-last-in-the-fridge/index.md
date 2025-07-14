@@ -15,7 +15,7 @@ picture: https://www.geme.bio/assets/images/how-long-is-cooked-chicken-good-for-
 
 import GemeComposterCTA from '@site/src/components/GemeComposterCTA'
 
-## How Long Does Cooked Chicken Last in the Fridge? Shocking Facts You Should Know
+## How Long Does Cooked Chicken Last in the Fridge?
 
 Cooked chicken is a staple in many kitchens thanks to its versatility and nutrition. But once you’ve roasted, grilled, or sautéed that bird, the clock starts ticking. How long does cooked chicken last in the fridge? This question matters more than you think—because mishandling leftovers can lead to foodborne illnesses. In this guide, you’ll learn how to store cooked chicken safely, how long it remains edible, and whether or not it’s okay to compost your leftovers.
 
