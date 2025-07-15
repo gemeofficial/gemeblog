@@ -1,8 +1,8 @@
 ---
 title: "Urgent! 7 Recovery Tips for Your Home After Floods"
-description: Discover 7 essential emergency tips for your home recovery after New Jersey flooding. Learn how to stay safe, deal with polluted water, and compost after the New Jersey floods effectively.
+description: Discover 7 essential emergency tips for home recovery after New Jersey flooding. Learn how to stay safe, deal with polluted water, and compost after the New Jersey floods effectively.
 keywords:
-  - recovery tips after floods
+  - recovery tips for floods
   - recovery after floods
   - polluted water after floods
   - compost after floods
