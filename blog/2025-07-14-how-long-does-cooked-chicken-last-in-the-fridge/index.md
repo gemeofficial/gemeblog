@@ -1,13 +1,13 @@
 ---
-title: "How Long Does Cooked Chicken Last in the Fridge? Shocking Facts You Should Know"
-description: How long does cooked chicken last in the fridge? Discover safe storage tips, spoilage signs, composting rules, and how to maximize freshness in this expert guide.
+title: "How Long Can Cooked Chicken Stay in the Fridge?"
+description: How long can cooked chicken last in the fridge? Discover safe storage tips, spoilage signs, composting rules, and how to maximize freshness in this expert guide.
 keywords:
-  - how long does cooked chicken last in the fridge
   - how long can cooked chicken stay in the fridge
+  - how long does cooked chicken last in the fridge
   - how long does chicken last in the fridge
   - how long is cooked chicken good for in the fridge
   - can I compost cooked chicken
-slug: how-long-does-cooked-chicken-last-in-the-fridge
+slug: how-long-can-cooked-chicken-last-in-the-fridge
 authors: [Moore]
 tags: [food waste, composting, sustainability]
 picture: https://www.geme.bio/assets/images/how-long-is-cooked-chicken-good-for-in-the-fridge-bf65a6e03150d3686b7138c1018323e0.jpg
@@ -15,11 +15,11 @@ picture: https://www.geme.bio/assets/images/how-long-is-cooked-chicken-good-for-
 
 import GemeComposterCTA from '@site/src/components/GemeComposterCTA'
 
-## How Long Does Cooked Chicken Last in the Fridge?
+## How Long Can Cooked Chicken Stay in the Fridge?
 
 Cooked chicken is a staple in many kitchens thanks to its versatility and nutrition. But once you’ve roasted, grilled, or sautéed that bird, the clock starts ticking. How long does cooked chicken last in the fridge? This question matters more than you think—because mishandling leftovers can lead to foodborne illnesses. In this guide, you’ll learn how to store cooked chicken safely, how long it remains edible, and whether or not it’s okay to compost your leftovers.
 
-![How Long Does Cooked Chicken Last in the Fridge?](./img/how-long-does-cooked-chicken-last-in-the-fridge.jpg)
+![How Long Can Cooked Chicken Stay in the Fridge?](./img/how-long-does-cooked-chicken-last-in-the-fridge.jpg)
 
 <!-- truncate -->
 
