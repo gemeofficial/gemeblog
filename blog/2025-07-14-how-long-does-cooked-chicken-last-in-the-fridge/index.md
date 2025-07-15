@@ -104,6 +104,7 @@ Avoid refreezing chicken once it’s been thawed and reheated. The constant temp
 ## 5. Best Practices for Storing Cooked Chicken
 
 ### Cooling Before Storing
+
 Let your chicken cool to room temperature—but not for more than 2 hours—before refrigerating.
 
 ### Airtight Containers vs Foil/Plastic Wrap
