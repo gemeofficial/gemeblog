@@ -694,6 +694,10 @@ const config = {
             to: '/blog/recovery-guide-after-floods',
             from: '/blog/2025/07/11/ugent-tips-for-recovery-after-texas-floods',
           },
+          {
+            to: '/blog/how-long-can-cooked-chicken-last-in-the-fridge',
+            from: '/blog/how-long-does-cooked-chicken-last-in-the-fridge',
+          },
         ],
       },
     ],
