@@ -1,6 +1,6 @@
 ---
 title: "How Long Can Cooked Chicken Stay in the Fridge?"
-description: How long can cooked chicken last in the fridge? Discover safe storage tips, spoilage signs, composting rules, and how to maximize freshness in this expert guide.
+description: How long can cooked chicken last in the fridge? Cooked chicken can last in the fridge for 3 to 4 days with temperature set at 40°F (4°C) or lower. 
 keywords:
   - how long can cooked chicken stay in the fridge
   - how long does cooked chicken last in the fridge
