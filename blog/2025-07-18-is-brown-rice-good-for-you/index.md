@@ -234,7 +234,7 @@ Use almond milk, honey, cinnamon, and raisins for a delicious dessert.
 
 - Uncooked rice: Safe to compost.
 
-- Cooked rice: Can attract pests and mold. **Best composted in a home electric composter**.
+- Cooked rice: Can attract pests and mold. **Best composted in a home electric composter**. 
 
 <GemeComposterCTA className="custom-styles" />
 
