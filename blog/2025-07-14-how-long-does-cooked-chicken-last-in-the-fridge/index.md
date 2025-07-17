@@ -1,11 +1,11 @@
 ---
 title: "How Long Can Cooked Chicken Stay in the Fridge?"
-description: How long can cooked chicken last in the fridge? Cooked chicken can last in the fridge for 3 to 4 days with temperature set at 40°F (4°C) or lower. 
+description: How long is rotisserie chicken good for in the fridge? Cooked or rotisserie chicken can last in the fridge for 3 to 4 days with temperature set at 40°F (4°C) or lower. 
 keywords:
   - how long can cooked chicken stay in the fridge
+  - how long does rotisserie chicken last in the fridge
   - how long does cooked chicken last in the fridge
-  - how long does chicken last in the fridge
-  - how long is cooked chicken good for in the fridge
+  - how long is rotisserie chicken good for in the fridge
   - can I compost cooked chicken
 slug: how-long-can-cooked-chicken-last-in-the-fridge
 authors: [Moore]
@@ -17,7 +17,7 @@ import GemeComposterCTA from '@site/src/components/GemeComposterCTA'
 
 ## How Long Can Cooked Chicken Stay in the Fridge?
 
-Cooked chicken is a staple in many kitchens thanks to its versatility and nutrition. But once you’ve roasted, grilled, or sautéed that bird, the clock starts ticking. How long does cooked chicken last in the fridge? This question matters more than you think—because mishandling leftovers can lead to foodborne illnesses. In this guide, you’ll learn how to store cooked chicken safely, how long it remains edible, and whether or not it’s okay to compost your leftovers.
+Cooked chicken is a staple in many kitchens thanks to its versatility and nutrition. But once you’ve roasted, grilled, or rotisserie that bird, the clock starts ticking. How long does cooked chicken last in the fridge? This question matters more than you think—because mishandling leftovers can lead to foodborne illnesses. In this guide, you’ll learn how to store cooked chicken safely, how long it remains edible, and whether or not it’s okay to compost your leftovers.
 
 ![How Long Can Cooked Chicken Stay in the Fridge?](./img/how-long-does-cooked-chicken-last-in-the-fridge.jpg)
 
@@ -64,7 +64,7 @@ Your refrigerator should be set at 40°F (4°C) or lower. This is the threshold 
 
 If you're unsure about your fridge's internal temperature, consider using a refrigerator thermometer. These inexpensive tools can help you maintain food safety by ensuring your chicken and other leftovers stay within the safe temperature zone.
 
-![How long can cooked chicken stay in the fridge?](./img/how-long-can-cooked-chicken-stay-in-the-fridge.jpg)
+![How long can rotisserie chicken stay in the fridge?](./img/how-long-can-cooked-chicken-stay-in-the-fridge.jpg)
 
 ## 3. How Long Can Cooked Chicken Stay in the Fridge Safely?
 
