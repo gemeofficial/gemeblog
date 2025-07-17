@@ -10,6 +10,7 @@ keywords:
 slug: is-brown-rice-healthy
 authors: [Moore]
 tags: [food waste, composting, sustainability]
+picture: https://www.geme.bio/assets/images/how-to-cook-brown-rice-b902419b49ada3deae39d4987db5342d.jpg
 ---
 
 import GemeComposterCTA from '@site/src/components/GemeComposterCTA'
