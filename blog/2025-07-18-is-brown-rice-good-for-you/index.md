@@ -242,7 +242,7 @@ Use almond milk, honey, cinnamon, and raisins for a delicious dessert.
 
 | Do Compost | Don't Compost |
 |------------|---------------|
-| Plain, uncooked rice, cooked rice with little oil or seasonings | [Cooked rice with too much oil or seasonings](/docs/faq/supported-foods/what-kinds-of-food-waste-can-i-put-into-what-can-not) |
+| Plain, uncooked rice, cooked rice with little oil or seasonings | [Cooked rice with too much oil or seasonings](https://www.geme.bio/help-center/docs/faq/supported-foods/what-kinds-of-food-waste-can-i-put-into-what-can-not) |
 | In electric composters | In cold or passive compost bins |
 
 ### Storing and Reheating Brown Rice
