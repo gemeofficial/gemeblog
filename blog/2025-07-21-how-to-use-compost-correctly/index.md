@@ -90,7 +90,9 @@ To keep compost usable:
 
 ### Preparing Your Garden for Compost
 
-Before applying compost, clear the area of weeds and debris. Loosen the topsoil with a garden fork or hoe to help compost mix in easily.
+Before applying compost, make sure compost is completely finished and mature, then, clear the area of weeds and debris. Loosen the topsoil with a garden fork or hoe to help compost mix in easily.
+
+How do you know if your compost is ready to use? Please jump to **[What does finished compost look and smell like?](#6-what-does-finished-compost-look-and-smell-like)**. 
 
 ### [How to Use Compost in Garden Beds](https://www.geme.bio/blog/how-to-use-compost)
 
@@ -269,27 +271,27 @@ Compost doesn’t release nutrients all at once. Instead, it:
 
 ## People Also Ask About Using Compost Correctly
 
-1. **Can you use too much compost?**
+### 1. **Can you use too much compost?**
 
 Yes. Overapplication can lead to nutrient imbalances, poor plant growth, and environmental runoff.
 
-2. **How long should compost sit before using?**
+### 2. **How long should compost sit before using?**
 
 At least 24 hours when using GEME microbial composter (at least 2-6 months using traditional composting methods). Finished compost should be dark, crumbly, and earthy-smelling.
 
-3. **Is compost good for all plants?**
+### 3. **Is compost good for all plants?**
 
 Mostly yes, but avoid high amounts for acid-loving plants unless the compost is pH-neutral.
 
-4. **Should compost be mixed or laid on top?** 
+### 4. **Should compost be mixed or laid on top?** 
 
 Both methods work. Top dressing is easy; mixing is better for fast results.
 
-5. **Can compost replace fertilizer?** 
+### 5. **Can compost replace fertilizer?** 
 
 It can reduce the need for chemical fertilizers, but some plants still benefit from added nutrients.
 
-6. **[What does finished compost look and smell like?](https://www.geme.bio/blog/when-compost-is-ready-to-use)** 
+### 6. **[What does finished compost look and smell like?](https://www.geme.bio/blog/when-compost-is-ready-to-use)** 
 
 Dark brown or black, crumbly, and smelling like fresh earth—not sour or rotten.
 
