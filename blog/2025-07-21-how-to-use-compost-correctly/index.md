@@ -122,7 +122,6 @@ Compost can be used in two main ways:
 
 - Trench composting: Dig narrow trenches and fill with compost for deep soil feeding.
 
-![How to Add Compost to Soil](./img/add-compost-to-soil.jpg)
 
 ### How Often Should You Add Compost?
 
