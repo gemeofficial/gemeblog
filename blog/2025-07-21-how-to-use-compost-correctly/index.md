@@ -92,7 +92,7 @@ To keep compost usable:
 
 Before applying compost, clear the area of weeds and debris. Loosen the topsoil with a garden fork or hoe to help compost mix in easily.
 
-### [How to Use Compost in Garden Beds](/blog/how-to-use-compost)
+### [How to Use Compost in Garden Beds](www.geme.bio/blog/how-to-use-compost)
 
 ![How to Use Compost](./img/how-to-use-compost.jpg)
 
@@ -289,7 +289,7 @@ Both methods work. Top dressing is easy; mixing is better for fast results.
 
 It can reduce the need for chemical fertilizers, but some plants still benefit from added nutrients.
 
-6. **[What does finished compost look and smell like?](/blog/when-compost-is-ready-to-use)** 
+6. **[What does finished compost look and smell like?](www.geme.bio/blog/when-compost-is-ready-to-use)** 
 
 Dark brown or black, crumbly, and smelling like fresh earth—not sour or rotten.
 
