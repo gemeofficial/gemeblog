@@ -175,6 +175,8 @@ Sprinkle a thin layer (¼ to ½ inch) of screened compost over the entire lawn. 
 
 - Water lightly after applying to help compost settle.
 
+![Adding Compost to Lawn](./img/use-compost-for-potting-soil.jpg)
+
 ## 7. Common Compost Using Mistakes to Avoid
 
 ### Overusing Compost
