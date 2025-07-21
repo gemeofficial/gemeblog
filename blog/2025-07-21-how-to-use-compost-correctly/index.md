@@ -13,6 +13,7 @@ keywords:
 slug: how-to-use-compost-correctly
 authors: [Moore]
 tags: [compost, gardening, plant]
+picture: https://www.geme.bio/assets/images/how-to-use-compost-51e511afb82172ef674f46077fc2c9a3.jpg
 ---
 
 import GemeComposterCTA from '@site/src/components/GemeComposterCTA'
