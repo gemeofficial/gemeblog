@@ -314,8 +314,7 @@ https://earthmatter.org/wp-content/uploads/2016/08/tip-sheet-how-to-use-compost-
 2. EPA.gov
 https://www.epa.gov/recycle/composting-home
 
-3. NRDC.org: <a href="https://www.nrdc.org/stories/composting-101
-" rel="nofollow">How to use compost</a>
+3. NRDC.org: <a href="https://www.nrdc.org/stories/composting-101" rel="nofollow">How to use compost</a>
 
 4. Oregonstate.edu: https://extension.oregonstate.edu/catalog/em-9308-how-use-compost-gardens-landscapes
 
