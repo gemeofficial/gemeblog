@@ -275,7 +275,7 @@ Yes. Overapplication can lead to nutrient imbalances, poor plant growth, and env
 
 2. **How long should compost sit before using?**
 
-At least 2–6 months. Finished compost should be dark, crumbly, and earthy-smelling.
+At least 24 hours when using GEME microbial composter (at least 2-6 months using traditional composting methods). Finished compost should be dark, crumbly, and earthy-smelling.
 
 3. **Is compost good for all plants?**
 
