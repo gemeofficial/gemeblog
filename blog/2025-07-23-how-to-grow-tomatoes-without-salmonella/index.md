@@ -129,7 +129,7 @@ The best compost should be transformed from your daily waste, including yard was
 **A bio composter can kill any harmful bacteria or pathogens, like Salmonella, using hot composting methods (up to 75-80°C when composting with Kobold fermentation)**. 
 
 <GemeComposterCTA 
-imgSrc="/img/use-compost-for-potting-soil.jpg"
+ imgSrc="/img/geme-bio-composter.jpg"
  productTitle="GEME Bio Composter"
  features={[
     "✅ Heat Compost Kills Harmful Pathogens",
