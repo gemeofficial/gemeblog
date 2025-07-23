@@ -124,7 +124,9 @@ Start seeds indoors 5-7 weeks before your last frost date. Use seed trays filled
 
 Use well-drained, loamy soil enriched with compost. Test for pathogens and avoid using manure from unknown sources to reduce Salmonella contamination risks. 
 
-The best compost should be transformed from your daily waste, including yard waste and kitchen food waste. Use an electric bio composter to make better compost before planting the tomato seedlings. A bio composter can kill any harmful bacteria or pathogens, like Salmonella, using hot composting methods (up to 75-80°C when composting with Kobold fermentation). 
+The best compost should be transformed from your daily waste, including yard waste and kitchen food waste. Use an electric bio composter to make better compost before planting the tomato seedlings. 
+
+**A bio composter can kill any harmful bacteria or pathogens, like Salmonella, using hot composting methods (up to 75-80°C when composting with Kobold fermentation)**. 
 
 <GemeComposterCTA className="custom-styles" />
 
