@@ -1,5 +1,5 @@
 ---
-title: "3.4 How to Grow Tomatoes Safely to Avoid Salmonella Contamination"
+title: "How to Grow Tomatoes Safely And Avoid Salmonella Contamination"
 description: In this guide, we sort out 17 expert tips on how to grow tomatoes safely, how to avoid the risks of Salmonella contamination with tomatoes. Learn how to grow tomato plants, even in pots!
 keywords:
   - how to grow tomatoes
