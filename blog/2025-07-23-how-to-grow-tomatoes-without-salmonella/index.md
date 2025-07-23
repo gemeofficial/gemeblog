@@ -1,324 +1,353 @@
 ---
-title: "How to Use Compost Correctly? A Complete Beginner’s Guide 2025"
-description: Don't know how to use compost? Let's discover how to use compost correctly in your garden, lawn, and pots. Learn about compost expiration, how to add compost to soil, and how much compost for raised beds.
+title: "3.4 How to Grow Tomatoes Safely to Avoid Salmonella Contamination"
+description: In this guide, we sort out 17 expert tips on how to grow tomatoes safely, how to avoid the risks of Salmonella contamination with tomatoes. Learn how to grow tomato plants, even in pots!
 keywords:
-  - how to use compost
-  - does compost expire
-  - add compost to soil
-  - how much compost for raised bed
-  - how to use compost in garden
-  - how to add compost to soil
-  - add compost to lawn
-  - how to use compost for potting soil
-slug: how-to-use-compost-correctly
+  - how to grow tomatoes
+  - salmonella outbreak tomatoes uk
+  - how to grow tomatoes from seeds
+  - how to grow tomato plants
+  - how do you grow tomato plants in pots
+  - how long do tomatoes take to grow 
+slug: how-to-grow-tomatoes-safely
 authors: [Moore]
-tags: [compost, gardening, plant]
-picture: https://www.geme.bio/assets/images/how-to-use-compost-51e511afb82172ef674f46077fc2c9a3.jpg
+tags: [plant, gardening, compost]
 ---
 
 import GemeComposterCTA from '@site/src/components/GemeComposterCTA'
 
-## Introduction to Compost
+Growing your tomatoes can be one of the most rewarding gardening experiences. But did you know that your juicy tomatoes could carry harmful bacteria like Salmonella if not done carefully? With reports like the [**Salmonella outbreak tomatoes in the US and the UK**](https://www.geme.bio/blog/are-tomatoes-safe-to-eat-now), understanding how to grow tomatoes safely is more important than ever.
 
-### What is Compost?
+Whether you're a novice or a seasoned green thumb, this guide walks you through every step, from choosing seeds to harvesting and storing to ensure your tomatoes are delicious and safe to eat.
 
-Compost is decomposed organic matter from kitchen scraps, garden clippings, leaves, and other biodegradable materials. It's often called “black gold” because it can enrich soil, promote plant growth, and reduce the need for chemical fertilizers.
-
-Through natural decomposition processes involving microbes, heat, and moisture, compost turns waste into nutrient-rich humus that's ready to nurture plants.
-
-![Science Behind Using Compost](./img/science-behind-using-compost.jpg)
-
-### Benefits of Using Compost
-
-Using compost can significantly improve your garden in multiple ways:
-
-- Improves soil structure – making it looser and better for root development.
-
-- Enhances moisture retention – reducing the need for frequent watering.
-
-- Boosts soil nutrients – releasing them slowly to support steady plant growth.
-
-- Reduces waste – keeping organic materials out of landfills.
-
-- Supports beneficial microbes – which help break down nutrients and fight diseases.
+![How to Grow Tomatoes](./img/how-to-grow-tomatoes.jpg)
 
 <!-- truncate -->
 
 <h2 className="jump-to">Jump To</h2>
 
-1. **[Can Compost Expire?](#1-understanding-the-lifespan-of-compost)**
+1. **[Salmonella and Tomatoes](#1-understanding-salmonella-and-tomatoes)**
 
-2. **[How to Use Compost in Your Garden](#2-how-to-use-compost-in-your-garden)**
+2. **[How to Grow Tomatoes From Seeds](#2-how-to-grow-tomatoes-from-seeds)**
 
-3. **[Add Compost to Soil](#3-how-to-add-compost-to-soil-the-right-way)**
+3. **[How to Grow Tomatoes](#3-how-to-grow-tomato-plants-outdoors)**
 
-4. **[Use Compost In Raised Beds](#4-using-compost-in-raised-beds)**
+4. **[How Do You Grow Tomato Plants in Pots?](#4-how-do-you-grow-tomato-plants-in-pots)**
 
-5. **[How to Use Compost for Potting Soil And Plants](#5-compost-for-potting-soil-and-plants)**
+5. **[How Long Do Tomatoes Take to Grow?](#5-how-long-do-tomatoes-take-to-grow)**
 
-6. **[Adding Compost to Lawn](#6-adding-compost-to-lawns)**
+6. **[Health Care For Tomato Plants](#6-tomato-plant-care-for-maximum-health)**
 
-7. **[Common Mistakes When Using Compost](#7-common-compost-using-mistakes-to-avoid)**
+7. **[Organic Gardening Practices For Tomato Safety](#7-organic-gardening-practices-for-tomato-safety)**
 
-8. **[Best Tools For Using and Applying Compost](#8-best-tools-and-techniques-for-applying-compost)**
-
-9. **[Science Behind Compost And Soil Health](#9-compost-and-soil-health-the-science-behind-it)**
-
-10. **[Seansonal Guide to Use Compost](#10-seasonal-guide-to-compost-application)**
+8. **[Expert Advice on Tomato Safety](#8-expert-advice-and-final-thoughts-on-tomato-safety)**
 
 
-## 1. Understanding the Lifespan of Compost
+## 1. Understanding Salmonella and Tomatoes
 
-### Does Compost Expire or Go Bad?
+### What is Salmonella?
 
-While compost doesn’t “expire” like food, its effectiveness can decline if stored improperly. Well-maintained, finished compost can last for up to a year or longer. However, if left exposed to rain, sun, or poor air circulation, it may become anaerobic, smelly, or even moldy.
+Salmonella is a type of bacteria that can cause food poisoning. It’s often associated with raw meat, eggs, or dairy, but fresh produce like tomatoes can also become contaminated through dirty water, soil, or handling.
 
-### How to Store Compost Properly
+### Salmonella Outbreak Tomatoes UK: What Happened?
 
-To keep compost usable:
+In recent years, the UK has seen several foodborne illness outbreaks linked to contaminated tomatoes. These events highlighted the risks of poor agricultural practices, especially in large-scale or improperly managed farms.
 
-- Store it in a dry, shaded place.
+![Salmonella Contaminated With Tomatoes](./img/salmonella-tomato.jpg)
 
-- Use a breathable container like a [home electric composter](https://www.geme.bio/product/geme).
+### How Do Tomatoes Get Contaminated
 
-- Avoid soaking it; too much water can kill beneficial microbes.
+Tomatoes can pick up Salmonella through:
 
-- Cover outdoor compost piles with a tarp to prevent nutrient leaching.
+1. Contaminated water (especially during irrigation)
 
-![Can Compost Expire?](./img/does-compost-expire.jpg)
+2. Improper compost use
 
-## 2. How to Use Compost in Your Garden
+3. Animal droppings
 
-### Preparing Your Garden for Compost
+4. Unclean tools and hands
 
-Before applying compost, make sure compost is completely finished and mature, then, clear the area of weeds and debris. Loosen the topsoil with a garden fork or hoe to help compost mix in easily.
+Preventing these issues starts with clean and mindful gardening practices.
 
-How do you know if your compost is ready to use? Please jump to **[What does finished compost look and smell like?](#6-what-does-finished-compost-look-and-smell-like)**. 
+### Choosing the Right Tomato Variety
 
-### [How to Use Compost in Garden Beds](https://www.geme.bio/blog/how-to-use-compost)
+#### Disease-Resistant Varieties
 
-![How to Use Compost](./img/how-to-use-compost.jpg)
+Selecting resistant varieties like ‘Mountain Magic’, ‘Iron Lady’, or ‘Defiant PhR’ gives you a head start against many common plant diseases that can open the door for bacterial infections.
 
-Compost can be used in two main ways:
+#### Best Tomatoes for Home Gardens
 
-#### Best Time to Add Compost
+For home growers, cherry tomatoes (e.g., ‘Sun Gold’), Roma, or beefsteak types offer a good balance of taste, size, and resilience.
 
-- Spring: To prep soil before planting.
+![Tomato Varieties](./img/tomato-variety.jpg)
 
-- Fall: To enrich beds and protect them over winter.
+## 2. How to Grow Tomatoes from Seeds
 
-#### Surface Application vs. Tilling In
+Before you grow tomato plants from seeds, be cautious to choose safe tomato produce that is not part of the Salmonella Tomato Recall area. Or simply get some tomato seeds online. 
 
-- Surface Dressing: Spread 1–2 inches of compost over your beds and let rain or irrigation carry nutrients down.
+Tomato seeds are so tiny in the tomato pulp, making it difficult to pick them out, just like strawberry seeds. However, you don't have to remove all the tomato pulp to take the seeds. Unless you have a tweezer and enough patience to take them out, the only thing you should do is to take the seeds with little pulp and put them in the germinating pot. 
 
-- Tilling In: Mix compost into the top 6–8 inches of soil for quicker integration.
+![How Do You Grow Tomatoes From Seeds](./img/how-do-you-grow-tomatoes-from-seeds.jpg)
+
+### How to make sure your tomato seeds germinate 
+
+1. Keep the seeds inside the pot on germination soil.
+
+2. Provide 12–16 hours of growing light daily.
+
+3. Keep the germinating soil moist all the time. Don't let it dry out. 
+
+4. Keep the temperature at 21-24°C for better results.
+
+5. Avoid crowding to reduce disease spread.
+
+6. Observe the tomato seeds twice a week. Remove or restart if they don't sprout or even get moldy, rare but just in case. 
+
+7. Do not expose the sprouts to strong sunlight; they're still too fragile and can wilt or die. 
+
+8. Transplant seedlings outdoors after the last frost when they're 6–10 inches tall and have at least two sets of true leaves.
+
+![Tomato Seeds Start to Sprout](./img/how-to-grow-tomatoes-from-seeds.jpg)
+
+### Starting Indoors
+
+Start seeds indoors 5-7 weeks before your last frost date. Use seed trays filled with sterile seed-starting mix. Keep them warm (70–75°F or 21–24°C) for optimal germination.
+
+### Seed Germination Tips
+
+1. Keep soil moist but not soggy
+
+2. Provide 12–16 hours of growing light daily
+
+## 3. How to Grow Tomato Plants Outdoors
+
+### Preparing Soil for Safety and Growth
+
+Use well-drained, loamy soil enriched with compost. Test for pathogens and avoid using manure from unknown sources to reduce Salmonella contamination risks. 
+
+The best compost should be transformed from your daily waste, including yard waste and kitchen food waste. Use an electric bio composter to make better compost before planting the tomato seedlings. A bio composter can kill any harmful bacteria or pathogens, like Salmonella, using hot composting methods (up to 75-80°C when composting with Kobold fermentation). 
 
 <GemeComposterCTA className="custom-styles" />
 
-## 3. How to Add Compost to Soil the Right Way
+### Sunlight, Spacing, and Trellising
 
-### Methods to Mix Compost with Soil
+Tomatoes thrive in full sun (6–8 hours daily). Space plants 18–24 inches apart and use stakes or cages to improve air circulation and reduce soil contact. 
 
-- Top dressing: Spread compost on top and leave it undisturbed.
+## 4. How Do You Grow Tomato Plants in Pots?
 
-- Soil-blending: Mix compost with garden soil in a 1:2 or 1:3 ratio.
+### Best Potting Mix for Tomatoes
 
-- Trench composting: Dig narrow trenches and fill with compost for deep soil feeding.
+Choose a high-quality, sterile potting mix with peat, perlite, and compost. Avoid using garden soil directly in pots as it may harbor harmful bacteria or pathogens like Salmonella. 
 
+Use a bio composter with a hot composting method to kill harmful bacteria or pathogens. And your compost output will be totally safe to use.
 
-### How Often Should You Add Compost?
+![Add GEME Safe Compost to Garden Soil](./img/add-compost-to-soil.jpg)
 
-- Gardens: Once or twice a year.
+### Container Size and Drainage
 
-- Flower beds: Once each spring.
+Use at least a 5-gallon container per plant. Ensure it has drainage holes to prevent waterlogging, which can encourage fungal and bacterial growth.
 
-- Heavy feeders (like tomatoes): Add compost every 6–8 weeks.
+### Indoor vs Balcony Gardening
 
-## 4. Using Compost in Raised Beds
+Tomatoes grow well on sunny balconies or patios. If growing indoors, supplement with grow lights and avoid humid, poorly ventilated areas.
 
-### How Much Compost for Raised Bed Gardening
+![How to Grow Tomato Plants in Pots](./img/use-compost-for-potting-soil.jpg)
 
-Use about 25–30% compost in your raised bed mix. For example, if your bed is 10 inches deep, add 2–3 inches of compost on top or mix it throughout the bed.
+## 5. How Long Do Tomatoes Take to Grow?
 
-![How Much Compost For Raised Bed](./img/how-much-compost-for-raised-bed.jpg)
+### Growth Stages and Timeline:
 
-### Mixing Compost with Other Amendments
+1. Seed to sprout: 5–10 days
 
-Compost works well when combined with:
+2. Seedling to transplant: 5–7 weeks
 
-- Coconut coir or peat moss (for moisture retention)
+3. Flowering to fruit set: 2–3 weeks
 
-- Vermiculite or perlite (for drainage)
+4. Fruit maturity: 20–30 days post-pollination
 
-- Worm castings (for added nutrients)
+Most tomato varieties take 60–85 days from transplant to harvest.
 
-## 5. Compost for Potting Soil and Plants
+![How Long Do Tomatoes Take to Grow?](./img/how-to-grow-tomatoes.jpg)
 
-### How to Use Compost for Potting Soil
+### Signs of Maturity and Readiness to Harvest
 
-Mix compost with store-bought potting mix in a 1:3 or 1:4 ratio. Avoid using 100% compost—it’s too rich and may cause root burn.
+Tomatoes are ready when they’re fully colored, slightly soft to the touch, and easily detach from the vine.
 
-### Compost Ratios for Container Gardening
+### Safe Watering and Fertilizing Practices
 
-- Vegetables: 25% compost, 50% potting mix, 25% perlite.
+#### Avoiding Contaminated Water
 
-- Houseplants: 10–20% compost mixed with regular soil or potting blend.
+Always water with clean, potable water. Avoid overhead watering as it can splash soil (and bacteria) onto leaves and fruit.
 
-![How to Use Compost For Potting Soil and Plants](./img/use-compost-in-the-garden.jpg)
+#### Using Organic Compost and Safe Fertilizers
 
-## 6. Adding Compost to Lawns
+Organic compost and slow-release organic fertilizers help feed your plants while keeping them safe from synthetic residues.
 
-### Top Dressing Your Lawn with Compost
+### Hygiene and Handling Practices in the Garden
 
-Sprinkle a thin layer (¼ to ½ inch) of screened compost over the entire lawn. This improves soil structure, encourages microbial activity, and boosts grass health.
+#### Handwashing and Tool Sanitization
 
-### Tips for Even Spreading
+Wash your hands before gardening and sanitize pruning shears or knives regularly to prevent bacterial transfer.
 
-- Use a compost spreader or shovel and rake combo.
+#### Protecting Tomatoes from Animal Contamination
 
-- Water lightly after applying to help compost settle.
+Install fencing to keep animals away. Cover plants with netting if birds or pets are a concern.
 
-![Adding Compost to Lawn](./img/use-compost-for-potting-soil.jpg)
+### Composting Tips to Prevent Contamination
 
-## 7. Common Compost Using Mistakes to Avoid
+#### Safe Compost Materials
 
-### Overusing Compost
+Use only fully decomposed compost. Avoid adding dairy or pet waste to your home electric composter.
 
-Too much compost can lead to:
+### How to Use Compost Without Risks
 
-- Nitrogen burn
+Let compost sit at least 70°C for 6-8 hours to kill pathogens. While there are quite a few composting methods and electric composters for you to choose from, the only one that meets [the CDC conditions to kill harmful pathogens](https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures) is GEME composter. 
 
-- Nutrient imbalance
+Mix the matured compost into soil well before planting.
 
-- Excessive salt buildup
+## 6. Tomato Plant Care for Maximum Health
 
-Always follow recommended ratios, especially for potted plants and lawns.
+### Pruning and Supporting Plants
 
-### Using Unfinished Compost
+Remove suckers to improve airflow and reduce disease. Use cages or trellises to keep plants upright and clean.
 
-Unfinished compost can rob your soil of nitrogen. If it smells sour or has large recognizable chunks, let it decompose longer. Also, unfinished or unmature compost can be a great place for flies, mold, and pests. 
+### Recognizing and Treating Diseases
 
-## 8. Best Tools and Techniques for Applying Compost
+Early blight, fusarium wilt, and blossom end rot can stress plants and invite secondary infections. Use neem oil or copper fungicides as needed.
 
-### Tools for Spreading Compost
+### Harvesting Tomatoes Safely
 
-- Shovel
+#### Best Time to Harvest
 
-- Rake
+Pick tomatoes in the morning when they’re cool and firm. Avoid harvesting in wet conditions to minimize bacterial transfer.
 
-- Compost spreader
+#### How to Handle Without Spreading Bacteria
 
-- Wheelbarrow
+Use clean gloves or washed hands, and place tomatoes in sanitized containers. Don't mix freshly harvested fruit with older or bruised ones.
 
-- Tarp (for easy movement and cleanup)
+![Grow tomatoes in pots and harvest safely](./img/use-compost-in-the-garden.jpg)
 
-### Safety Tips When Handling Compost
+### Storing Tomatoes to Avoid Salmonella
 
-- Wear gloves and a mask if dusty.
+#### Washing vs Not Washing Before Storage
 
-- Wash hands after use.
+It's safer to wash tomatoes right before use, not before storing. Moisture promotes bacterial growth.
 
-- Avoid breathing in mold spores from old compost piles.
+#### Storage Temperature and Ventilation
 
-![How To Apply Compost to Your Garden](./img/how-to-use-compost.jpg)
+Store tomatoes at room temperature (55–70°F) in a single layer with good airflow. Avoid sealing in plastic bags.
 
-## 9. Compost and Soil Health: The Science Behind It
+## 7. Organic Gardening Practices for Tomato Safety
 
-### How Compost Improves Soil Structure and Microbiology
+### Benefits of Going Organic
 
-**Compost**:
+Organic gardening avoids harmful pesticides and emphasizes soil health, which in turn supports safer fruit production.
 
-- Increases porosity
+### Natural Pest and Disease Control
 
-- Supports beneficial microbes and fungi
+Use companion plants (like basil and marigolds), insecticidal soap, and mulch to reduce pests and disease organically.
 
-- Enhances root penetration
+![Companion Plants For Tomato Plants](./img/tomato-plants-companions.jpg)
 
-- Improves cation exchange capacity (CEC)
+### Common Mistakes That Can Lead to Salmonella Contamination
 
-### Nutrient Release Timeline of Compost
+1. Using Unsafe Water
 
-Compost doesn’t release nutrients all at once. Instead, it:
+Always use water from clean, treated sources. Rain barrels must be covered and cleaned regularly.
 
-- Begins feeding immediately
+2. Overcrowding and Poor Airflow
 
-- Continues releasing nutrients for 6–12 months
+Dense planting reduces airflow and raises humidity, creating the perfect storm for bacterial growth.
 
-- Helps retain nutrients in the root zone
+### Tips for Growing Tomatoes in the UK Climate
 
-![Science Behind Compost and Soil Health](./img/how-to-use-compost-in-garden.jpg)
+1. Managing Rainfall and Moisture
 
-## 10. Seasonal Guide to Compost Application
+Mix Compost with raised beds and mulch to prevent waterlogging. Cover with cloches or plastic tunnels during heavy rains.
 
-**Spring**
+2. Ideal Greenhouse Setup
 
-- Use to boost beds before planting.
+Greenhouses allow control over moisture and temperature—great for safe tomato growing year-round in the UK.
 
-- Add compost tea for seedlings.
+## 8. Expert Advice and Final Thoughts on Tomato Safety
 
-**Summer** 
+### How Experts Prevent Salmonella
 
-- Apply light compost layers around veggies.
+Experts emphasize:
 
-- Replenish pots as needed.
+1. Clean water use
 
-**Fall and Winter**
+2. Tool sanitization
 
-- Add compost as mulch.
+3. Disease-resistant varieties
 
-- Prep beds for spring crops.
+4. Regular inspections for contamination signs
 
-![How to Use Compost Correctly](./img/add-compost-to-soil.jpg)
+### Recap of Key Safety Tips
 
-## People Also Ask About Using Compost Correctly
+1. Use sterile seeds and soil
 
-### 1. **Can you use too much compost?**
+2. Avoid contaminated water and traditional composting methods
 
-Yes. Overapplication can lead to nutrient imbalances, poor plant growth, and environmental runoff.
+3. Wash hands and tools regularly
 
-### 2. **How long should compost sit before using?**
+4. Store and handle tomatoes hygienically
 
-At least 24 hours when using GEME microbial composter (at least 2-6 months using traditional composting methods). Finished compost should be dark, crumbly, and earthy-smelling.
+![Use GEME Composter to Produce Safe Compost for Tomato Plants to Grow Better](./img/use-compost-for-potting-soil.jpg)
 
-### 3. **Is compost good for all plants?**
+## 9. People Also Ask About Growing Tomatoes and Salmonella
 
-Mostly yes, but avoid high amounts for acid-loving plants unless the compost is pH-neutral.
+**1. Is Salmonella in tomatoes common?**
 
-### 4. **Should compost be mixed or laid on top?** 
+Not very, but it can happen if basic hygiene and water safety practices are ignored.
 
-Both methods work. Top dressing is easy; mixing is better for fast results.
+**2. How can I prevent contamination at home?**
 
-### 5. **Can compost replace fertilizer?** 
+Use clean water, sanitize tools, and avoid composting unsafe materials like raw manure without hot composting.
 
-It can reduce the need for chemical fertilizers, but some plants still benefit from added nutrients.
+**3. Do I need to sterilize soil?**
 
-### 6. **[What does finished compost look and smell like?](https://www.geme.bio/blog/when-compost-is-ready-to-use)** 
+Sterilizing isn't mandatory but using fresh, disease-free soil helps reduce risks significantly.
 
-Dark brown or black, crumbly, and smelling like fresh earth—not sour or rotten.
+**4. Can I reuse tomato seeds safely?**
 
-## Conclusion: Transform Your Garden with Compost
+Yes, if they’re from healthy plants and properly dried and stored.
 
-Using compost correctly can turn ordinary soil into a nutrient powerhouse that promotes healthier plants, fewer pests, and better harvests. From garden beds to potted plants and lawns, this “black gold” is nature’s original fertilizer—and your garden’s best friend.
+**5. How do I wash tomatoes before eating?**
+
+Rinse under cool running water without soap. Use a clean brush for extra scrubbing.
+
+**6. Are organic tomatoes safer?**
+
+Yes, when grown with clean practices. Organic methods reduce chemical and bacterial contamination risk.
+
+## Conclusion: Safe Growing Equals Healthy Eating
+
+Growing your own tomatoes is incredibly satisfying, and with the right techniques, also very safe. By understanding the risks, using proper hygiene, and following best practices, you can avoid issues like the "Salmonella outbreak tomato" concerns and grow a bountiful, healthy harvest. 
+
+Follow these tips and enjoy safe, delicious tomatoes from your garden to your plate.
+
 
 ## Related Articles
 
-- [**How Do I Know When Compost Is Finished?**](/blog/when-compost-is-ready-to-use)
+- [**Are Tomatoes Safe to Eat Now?**](/blog/are-tomatoes-safe-to-eat-now)
 
-- [**The Best electric Composter for High Quality Compost to Use**](/blog/the-best-composter-to-reduce-food-waste)
+- [**FDA Tomato Recall 2025 Raises Concerns About Veggies Safty**](/blog/fda-tomato-recall-salmonella-outbreak-raises-concerns-about-vegetable)
+
+- [**FDA Cucumber Recall**](/blog/cucumber-recall-2025-how-to-protect-vegetable-garden-from-salmonella)
+
+- [**The Best electric Composter for Safe Compost to Use**](/blog/the-best-composter-to-reduce-food-waste)
 
 - [**The Difference Between Garden Soil And Compost**](/blog/garden-soil-vs-compost-pros-and-cons)
 
 
 ## Sources
 
-1. Earthmatter.org 
-https://earthmatter.org/wp-content/uploads/2016/08/tip-sheet-how-to-use-compost-cpts-htuc-f.pdf
+1. FDA: Williams Farms Repack LLC Recalls Tomatoes Due to Possible Salmonella Contamination 2025 https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/williams-farms-repack-llc-recalls-tomatoes-due-possible-salmonella-contamination 
 
-2. EPA.gov
-https://www.epa.gov/recycle/composting-home
+2. CDC: About Salmonella Infection https://www.cdc.gov/salmonella/outbreaks/whole-cucumbers-05-25/index.html#:~:text=CDC%3A-,About%20Salmonella%20Infection,-FDA%3A%20Outbreak 
 
-3. NRDC.org: <a href="https://www.nrdc.org/stories/composting-101" rel="nofollow">How to use compost</a>
+3. FoodSafety: <a href="https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures" rel="nofollow">Safe Minimum Internal Temperatures</a>
 
-4. Oregonstate.edu: https://extension.oregonstate.edu/catalog/em-9308-how-use-compost-gardens-landscapes
+4. Reddit: <a href="https://www.reddit.com/r/GEME_Gardening/comments/1l26m9j/fda_tomato_recall_salmonella_outbreak_recall_of/" rel="nofollow">FDA Tomato Recall 2025</a>
 
 _Ready to transform your gardening game? Subscribe to our [newsletter](http://geme.bio/signup) for expert composting tips and sustainable gardening advice._
