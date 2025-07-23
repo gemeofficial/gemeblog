@@ -11,6 +11,7 @@ keywords:
 slug: how-to-grow-tomatoes-safely
 authors: [Moore]
 tags: [plant, gardening, compost]
+picture: https://www.geme.bio/assets/images/how-to-grow-tomatoes-69732d63007fcbc532d6b113319c155f.jpg
 ---
 
 import GemeComposterCTA from '@site/src/components/GemeComposterCTA'
