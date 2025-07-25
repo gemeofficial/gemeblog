@@ -18,7 +18,7 @@ Bananas are a convenient, nutrient-rich fruit, but they ripen and spoil quickly 
 
 This guide explores <span style="color: green">**how long bananas last**</span>, practical tips on <span style="color: green">**how to make them last longer**</span>, whether refrigeration helps, and <span style="color: green">**how to compost banana peels**</span> to turn kitchen waste into garden gold.
 
-![How to Make Bananas Last Longer](./img/how-to-make-bananas-last%20longer.jpg)
+![How to Make Bananas Last Longer](./img/how-to-make-bananas-last-longer.jpg)
 
 <!-- truncate -->
 
