@@ -1,353 +1,127 @@
 ---
-title: "How to Grow Tomatoes Safely And Avoid Salmonella Contamination"
-description: In this guide, we sort out 17 expert tips on how to grow tomatoes safely, how to avoid the risks of Salmonella contamination with tomatoes. Learn how to grow tomato plants, even in pots!
+title: "How Can We Make Bananas Last Longer? "
+description: Find out how long bananas last and how to make them last longer. See if bananas stay fresh longer in the fridge and learn how banana peel compost reduces waste.
 keywords:
-  - how to grow tomatoes
-  - salmonella outbreak tomatoes uk
-  - how to grow tomatoes from seeds
-  - how to grow tomato plants
-  - how do you grow tomato plants in pots
-  - how long do tomatoes take to grow 
-slug: how-to-grow-tomatoes-safely
+  - how long do bananas last
+  - how to make bananas last longer
+  - do bananas last longer in the fridge
+  - banana peel compost
+  - can you compost banana peels 
+slug: how-to-make-bananas-last-longer
 authors: [Moore]
-tags: [plant, gardening, compost]
-picture: https://www.geme.bio/assets/images/how-to-grow-tomatoes-69732d63007fcbc532d6b113319c155f.jpg
+tags: [sustainability, foodwaste, compost]
 ---
 
 import GemeComposterCTA from '@site/src/components/GemeComposterCTA'
 
-Growing your tomatoes can be one of the most rewarding gardening experiences. But did you know that your juicy tomatoes could carry harmful bacteria like Salmonella if not done carefully? With reports like the [**Salmonella outbreak tomatoes in the US and the UK**](https://www.geme.bio/blog/are-tomatoes-safe-to-eat-now), understanding how to grow tomatoes safely is more important than ever.
+Bananas are a convenient, nutrient-rich fruit, but they ripen and spoil quickly at home. On average, a bunch of bananas left out on the counter will only stay fresh for a few days before turning brown and mushy. By understanding what causes bananas to ripen and using smart storage techniques, we can significantly extend their shelf life. 
 
-Whether you're a novice or a seasoned green thumb, this guide walks you through every step, from choosing seeds to harvesting and storing to ensure your tomatoes are delicious and safe to eat.
+This guide explores how long bananas last, practical tips on how to make them last longer, whether refrigeration helps, and how to compost banana peels to turn kitchen waste into garden gold.
 
-![How to Grow Tomatoes](./img/how-to-grow-tomatoes.jpg)
+![How to Make Bananas Last Longer](./img/how-to-make-bananas-last%20longer.jpg)
 
 <!-- truncate -->
 
 <h2 className="jump-to">Jump To</h2>
 
-1. **[Salmonella and Tomatoes](#1-understanding-salmonella-and-tomatoes)**
+1. **[How Long Do Bananas Last?](#1-how-long-do-bananas-last)**
 
-2. **[How to Grow Tomatoes From Seeds](#2-how-to-grow-tomatoes-from-seeds)**
+2. **[How to Make Bananas Last Longer](#2-how-to-make-bananas-last-longer-storage-tips)**
 
-3. **[How to Grow Tomatoes](#3-how-to-grow-tomato-plants-outdoors)**
+3. **[Do Bananas Last Longer in the Fridge?](#3-do-bananas-last-longer-in-the-fridge)**
 
-4. **[How Do You Grow Tomato Plants in Pots?](#4-how-do-you-grow-tomato-plants-in-pots)**
+4. **[Banana Peel Compost: Can I Compost Banana Peels?](#4-banana-peel-compost-can-you-compost-banana-peels)**
 
-5. **[How Long Do Tomatoes Take to Grow?](#5-how-long-do-tomatoes-take-to-grow)**
-
-6. **[Health Care For Tomato Plants](#6-tomato-plant-care-for-maximum-health)**
-
-7. **[Organic Gardening Practices For Tomato Safety](#7-organic-gardening-practices-for-tomato-safety)**
-
-8. **[Expert Advice on Tomato Safety](#8-expert-advice-and-final-thoughts-on-tomato-safety)**
+5. **[How to Store Bananas For Longer Shelf Life](#5-conclusion)**
 
 
-## 1. Understanding Salmonella and Tomatoes
+## 1. How Long Do Bananas Last?
 
-### What is Salmonella?
+Banana shelf life depends on ripeness, temperature, and storage method. Fresh green bananas can take several days to ripen, but once yellow, they spoil quickly. According to food experts, typical storage times are:
 
-Salmonella is a type of bacteria that can cause food poisoning. It’s often associated with raw meat, eggs, or dairy, but fresh produce like tomatoes can also become contaminated through dirty water, soil, or handling.
+- **Room temperature (counter)**: About **2–6 days**, depending on how ripe they were at purchase. (If you buy bananas that are already yellow with brown speckles, expect toward the shorter end of this range.)
 
-### Salmonella Outbreak Tomatoes UK: What Happened?
+- **Refrigerator (once ripe)**: About **5–7 days**. Placing ripe bananas in the fridge can give 1–2 extra days of freshness.
 
-In recent years, the UK has seen several foodborne illness outbreaks linked to contaminated tomatoes. These events highlighted the risks of poor agricultural practices, especially in large-scale or improperly managed farms.
+- **Freezer**: Up to **6 months**. Bananas freeze very well (see below), making them last for months if you peel and freeze them.
 
-![Salmonella Contaminated With Tomatoes](./img/salmonella-tomato.jpg)
+![banana peel compost](./img/banana-peel-compost.jpg)
 
-### How Do Tomatoes Get Contaminated
+Southern Living concurs that “once you bring home your bananas, they'll last for about six days or so” at room temperature. The key is that time ranges vary with conditions. Cool, dry, shaded storage slows ripening. For example, storing green bananas in a room at the [**USDA-recommended 60–70°F**](https://fns-prod.azureedge.us/sites/default/files/resource-files/storage.pdf) keeps them fresh longer. However, temperatures below about 55°F can cause *chilling injury*, giving bananas a bitter taste and soft texture.
 
-Tomatoes can pick up Salmonella through:
+![How Long Do Bananas Last?](./img/how-to-make-bananas-last-longer.png)
 
-1. Contaminated water (especially during irrigation)
+## 2. How to Make Bananas Last Longer: Storage Tips
 
-2. Improper compost use
+By controlling their environment and handling, you can extend banana life. Here are practical storage tips for longevity:
 
-3. Animal droppings
+- **Optimal temperature**: Store bananas at **room temperature** (ideally around 60–70°F). Avoid very hot conditions (which speed ripening) and avoid cold drafts or air below ~55°F (which causes chilling injury). A cool kitchen or pantry is usually ideal.
 
-4. Unclean tools and hands
+- **Wrap the stems**: The **stems** are where most of the ripening ethylene gas is released. Covering the stems with plastic wrap or aluminum foil will slow gas escape and delay ripening. We also recommends wrapping banana stems to trap ethylene and extend freshness.
 
-Preventing these issues starts with clean and mindful gardening practices.
+- **Keep away from other fruit**: Bananas are sensitive to ethylene from other produce. Storing bananas **separately** – not in the fruit bowl with apples, avocados, or tomatoes – prevents extra ripening. Put ethylene-producing fruits in a different place, and banana near other produce will keep longer.
 
-### Choosing the Right Tomato Variety
+- **Hang bananas**: Use a **banana hanger or hook** so the bunches are suspended. Hanging prevents bruising from contact with surfaces and allows air to circulate, which can slow down the ripening process. A gentle airflow around each banana keeps moisture balanced.
 
-#### Disease-Resistant Varieties
+- **Avoid direct sunlight and heat**: Sunlight and high heat accelerate ripening. Store bananas in a **cool, shaded spot** (but not the refrigerator unless already ripe). Direct light can make the peel turn yellow and brown faster. A dim corner or cupboard works well.
 
-Selecting resistant varieties like ‘Mountain Magic’, ‘Iron Lady’, or ‘Defiant PhR’ gives you a head start against many common plant diseases that can open the door for bacterial infections.
+![How long do bananas last?](./img/how-long-do-bananas-last.jpg)
 
-#### Best Tomatoes for Home Gardens
+Besides these tips, there are a few other tricks. Do not wrap the entire banana in plastic; that can trap all ethylene and speed spoiling. Instead focus just on the cut stems. Some people swear by tying rubber bands around the stems or separating bananas into smaller bunches to slow collective ripening. As bananas age, consider eating or using them in recipes (bananas near overripe stages are perfect for smoothies or baking).
 
-For home growers, cherry tomatoes (e.g., ‘Sun Gold’), Roma, or beefsteak types offer a good balance of taste, size, and resilience.
+## 3. Do Bananas Last Longer in the Fridge?
 
-![Tomato Varieties](./img/tomato-variety.jpg)
+Refrigeration can extend a banana’s life, but it comes with trade-offs. Once bananas reach your perfect ripeness (usually fully yellow with few brown spots), moving them to the fridge will **stop or greatly slow** the ripening process. Also note that refrigerating ripe bananas can preserve their current state for about one to two extra days. Ripe bananas in the fridge last about 5–7 days.
 
-## 2. How to Grow Tomatoes from Seeds
+However, **keep in mind**: the cold will **darken the peel** quickly. After a few days in the refrigerator, the banana skin turns dark brown or black, even though the fruit inside remains firm and edible. You should judge ripeness by the banana's firmness and smell, not just peel color. Also, never refrigerate **green (unripe) bananas**. Colder than about 55°F completely halts ripening and can leave green bananas unable to ripen properly later. In fact, chilling injury below ~55°F can make bananas bitter and mushy.
 
-Before you grow tomato plants from seeds, be cautious to choose safe tomato produce that is not part of the Salmonella Tomato Recall area. Or simply get some tomato seeds online. 
+![Do bananas last longer in the fridge?](./img/do-bananas-last-longer-in-the-fridge.jpg)
 
-Tomato seeds are so tiny in the tomato pulp, making it difficult to pick them out, just like strawberry seeds. However, you don't have to remove all the tomato pulp to take the seeds. Unless you have a tweezer and enough patience to take them out, the only thing you should do is to take the seeds with little pulp and put them in the germinating pot. 
+**Freezing for maximum life**: For the longest storage, freeze bananas. Freezing **stops ripening altogether**, so you can keep bananas for months. Peel and slice ripe bananas and freeze them in a single layer before bagging (this prevents clumping). Frozen bananas are no longer good to eat raw (they turn mushy when thawed), but they're ideal for smoothies, baking, or ice cream. In summary, yes, a ripe banana can last a day or two longer in the fridge, and indefinitely in the freezer, but prepare for a dark peel.
 
-![How Do You Grow Tomatoes From Seeds](./img/how-do-you-grow-tomatoes-from-seeds.jpg)
+## 4. Banana Peel Compost: Can You Compost Banana Peels?
 
-### How to make sure your tomato seeds germinate 
+Instead of tossing spent bananas, an eco-friendly solution is to compost the peels. **Yes, banana peels are fully compostable and even beneficial for plants**. They break down quickly and add valuable nutrients to the compost. According to [**Mississippi State University Extension**](http://extension.msstate.edu/news/southern-gardening/2011/organic-fertilizer-ideal-gardens), banana peels decompose rapidly and enrich soil with [*phosphorus*](https://en.wikipedia.org/wiki/Phosphorus) and [*potassium*](https://ods.od.nih.gov/factsheets/Potassium-HealthProfessional/) – the same nutrients that make bananas good for us. Similarly, gardening experts note that banana peels are rich in potassium (and also contain magnesium, phosphorus, calcium, etc.), nutrients vital for plant growth.
 
-1. Keep the seeds inside the pot on germination soil.
+![Can I Compost Banana Peels?](./img/can-i-compost-bananas.jpg)
 
-2. Provide 12–16 hours of growing light daily.
+To compost banana peels, simply cut or tear them into smaller pieces and add them to your home electric biowaste composter. This speeds up decomposition and produces the best quality of compost to use. You can also use **banana peel compost** for tomatoes, peppers, and other veggies – it acts like an organic fertilizer. One study says plants love banana peels' nutrients; for example, peels make excellent side-dressings or amendments in the planting hole.
 
-3. Keep the germinating soil moist all the time. Don't let it dry out. 
-
-4. Keep the temperature at 21-24°C for better results.
-
-5. Avoid crowding to reduce disease spread.
-
-6. Observe the tomato seeds twice a week. Remove or restart if they don't sprout or even get moldy, rare but just in case. 
-
-7. Do not expose the sprouts to strong sunlight; they're still too fragile and can wilt or die. 
-
-8. Transplant seedlings outdoors after the last frost when they're 6–10 inches tall and have at least two sets of true leaves.
-
-![Tomato Seeds Start to Sprout](./img/how-to-grow-tomatoes-from-seeds.jpg)
-
-### Starting Indoors
-
-Start seeds indoors 5-7 weeks before your last frost date. Use seed trays filled with sterile seed-starting mix. Keep them warm (70–75°F or 21–24°C) for optimal germination.
-
-### Seed Germination Tips
-
-1. Keep soil moist but not soggy
-
-2. Provide 12–16 hours of growing light daily
-
-## 3. How to Grow Tomato Plants Outdoors
-
-### Preparing Soil for Safety and Growth
-
-Use well-drained, loamy soil enriched with compost. Test for pathogens and avoid using manure from unknown sources to reduce Salmonella contamination risks. 
-
-The best compost should be transformed from your daily waste, including yard waste and kitchen food waste. Use an electric bio composter to make better compost before planting the tomato seedlings. 
-
-**A bio composter can kill any harmful bacteria or pathogens, like Salmonella, using hot composting methods (up to 75-80°C when composting with Kobold fermentation)**. 
+Note that banana peels alone aren't a complete fertilizer. Because they take a little time to break down fully, use them alongside other compostable scraps (leaves, veggies, etc.). Doing so helps balance carbon and nitrogen rotio in your compost. In short, don’t throw banana peels in the trash – **composting them recycles their nutrients and reduces food waste**.
 
 <GemeComposterCTA 
  imgSrc="/img/geme-bio-composter.jpg"
- productTitle="GEME Bio Composter"
+ productTitle="GEME Bio-waste Composter"
  features={[
-    "✅ Heat Compost Kills Harmful Pathogens",
-    "✅ Better and Safer Compost For Plant Growth",
-    "✅ Quiet, Odor-Free, Quick(6-8 hours)",
-    "✅ Large Capacity (19 L) For Daily Waste"
-  ]}
-buttonText="Get Your GEME Composter For Tomato Plants"
-  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-grow-tomatoes-safely"
+    "✅ Compost Banana Peels to reduce waste",
+    "✅ Better Compost For Soil Health and Plant Growth",
+    "✅ Quiet, Odor-Free, Quick (6-8 hours) Compost",
+    "✅ Composting Reduces Landfills & Greenhouse Gases"
+ ]}
+buttonText="Start Composting Banana Peels From GEME"
+  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-make-bananas-last-longer"
 />
 
-### Sunlight, Spacing, and Trellising
+## 5. Conclusion
 
-Tomatoes thrive in full sun (6–8 hours daily). Space plants 18–24 inches apart and use stakes or cages to improve air circulation and reduce soil contact. 
+By following simple storage strategies, you can significantly prolong the life of your bananas and reduce waste. In practice, this means keeping bananas at a steady, moderate temperature (around room temp), wrapping the stems to slow ethylene, hanging the fruit to avoid bruises, and separating them from other ethylene-producing produce. Refrigeration is useful to “pause” ripening once bananas are ripe, and freezing peeled bananas preserves them long-term.
 
-## 4. How Do You Grow Tomato Plants in Pots?
+Every banana peel saved from the landfill becomes a resource for your garden when composted. Banana peels release potassium, phosphorus and other nutrients back into the soil, enriching your plants and closing the loop in an eco-friendly way. 
 
-### Best Potting Mix for Tomatoes
+![Banana Peel Compost](./img/use-compost-for-potting-soil.jpg)
 
-Choose a high-quality, sterile potting mix with peat, perlite, and compost. Avoid using garden soil directly in pots as it may harbor harmful bacteria or pathogens like Salmonella. 
-
-Use a bio composter with a hot composting method to kill harmful bacteria or pathogens. And your compost output will be totally safe to use.
-
-![Add GEME Safe Compost to Garden Soil](./img/add-compost-to-soil.jpg)
-
-### Container Size and Drainage
-
-Use at least a 5-gallon container per plant. Ensure it has drainage holes to prevent waterlogging, which can encourage fungal and bacterial growth.
-
-### Indoor vs Balcony Gardening
-
-Tomatoes grow well on sunny balconies or patios. If growing indoors, supplement with grow lights and avoid humid, poorly ventilated areas.
-
-![How to Grow Tomato Plants in Pots](./img/use-compost-for-potting-soil.jpg)
-
-## 5. How Long Do Tomatoes Take to Grow?
-
-### Growth Stages and Timeline:
-
-1. Seed to sprout: 5–10 days
-
-2. Seedling to transplant: 5–7 weeks
-
-3. Flowering to fruit set: 2–3 weeks
-
-4. Fruit maturity: 20–30 days post-pollination
-
-Most tomato varieties take 60–85 days from transplant to harvest.
-
-![How Long Do Tomatoes Take to Grow?](./img/how-to-grow-tomatoes.jpg)
-
-### Signs of Maturity and Readiness to Harvest
-
-Tomatoes are ready when they’re fully colored, slightly soft to the touch, and easily detach from the vine.
-
-### Safe Watering and Fertilizing Practices
-
-#### Avoiding Contaminated Water
-
-Always water with clean, potable water. Avoid overhead watering as it can splash soil (and bacteria) onto leaves and fruit.
-
-#### Using Organic Compost and Safe Fertilizers
-
-Organic compost and slow-release organic fertilizers help feed your plants while keeping them safe from synthetic residues.
-
-### Hygiene and Handling Practices in the Garden
-
-#### Handwashing and Tool Sanitization
-
-Wash your hands before gardening and sanitize pruning shears or knives regularly to prevent bacterial transfer.
-
-#### Protecting Tomatoes from Animal Contamination
-
-Install fencing to keep animals away. Cover plants with netting if birds or pets are a concern.
-
-### Composting Tips to Prevent Contamination
-
-#### Safe Compost Materials
-
-Use only fully decomposed compost. Avoid adding dairy or pet waste to your home electric composter.
-
-### How to Use Compost Without Risks
-
-Let compost sit at least 70°C for 6-8 hours to kill pathogens. While there are quite a few composting methods and electric composters for you to choose from, the only one that meets [the CDC conditions to kill harmful pathogens](https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures) is GEME composter. 
-
-Mix the matured compost into soil well before planting.
-
-## 6. Tomato Plant Care for Maximum Health
-
-### Pruning and Supporting Plants
-
-Remove suckers to improve airflow and reduce disease. Use cages or trellises to keep plants upright and clean.
-
-### Recognizing and Treating Diseases
-
-Early blight, fusarium wilt, and blossom end rot can stress plants and invite secondary infections. Use neem oil or copper fungicides as needed.
-
-### Harvesting Tomatoes Safely
-
-#### Best Time to Harvest
-
-Pick tomatoes in the morning when they’re cool and firm. Avoid harvesting in wet conditions to minimize bacterial transfer.
-
-#### How to Handle Without Spreading Bacteria
-
-Use clean gloves or washed hands, and place tomatoes in sanitized containers. Don't mix freshly harvested fruit with older or bruised ones.
-
-![Grow tomatoes in pots and harvest safely](./img/use-compost-in-the-garden.jpg)
-
-### Storing Tomatoes to Avoid Salmonella
-
-#### Washing vs Not Washing Before Storage
-
-It's safer to wash tomatoes right before use, not before storing. Moisture promotes bacterial growth.
-
-#### Storage Temperature and Ventilation
-
-Store tomatoes at room temperature (55–70°F) in a single layer with good airflow. Avoid sealing in plastic bags.
-
-## 7. Organic Gardening Practices for Tomato Safety
-
-### Benefits of Going Organic
-
-Organic gardening avoids harmful pesticides and emphasizes soil health, which in turn supports safer fruit production.
-
-### Natural Pest and Disease Control
-
-Use companion plants (like basil and marigolds), insecticidal soap, and mulch to reduce pests and disease organically.
-
-![Companion Plants For Tomato Plants](./img/tomato-plants-companions.jpg)
-
-### Common Mistakes That Can Lead to Salmonella Contamination
-
-1. Using Unsafe Water
-
-Always use water from clean, treated sources. Rain barrels must be covered and cleaned regularly.
-
-2. Overcrowding and Poor Airflow
-
-Dense planting reduces airflow and raises humidity, creating the perfect storm for bacterial growth.
-
-### Tips for Growing Tomatoes in the UK Climate
-
-1. Managing Rainfall and Moisture
-
-Mix Compost with raised beds and mulch to prevent waterlogging. Cover with cloches or plastic tunnels during heavy rains.
-
-2. Ideal Greenhouse Setup
-
-Greenhouses allow control over moisture and temperature—great for safe tomato growing year-round in the UK.
-
-## 8. Expert Advice and Final Thoughts on Tomato Safety
-
-### How Experts Prevent Salmonella
-
-Experts emphasize:
-
-1. Clean water use
-
-2. Tool sanitization
-
-3. Disease-resistant varieties
-
-4. Regular inspections for contamination signs
-
-### Recap of Key Safety Tips
-
-1. Use sterile seeds and soil
-
-2. Avoid contaminated water and traditional composting methods
-
-3. Wash hands and tools regularly
-
-4. Store and handle tomatoes hygienically
-
-![Use GEME Composter to Produce Safe Compost for Tomato Plants to Grow Better](./img/use-compost-for-potting-soil.jpg)
-
-## 9. People Also Ask About Growing Tomatoes and Salmonella
-
-**1. Is Salmonella in tomatoes common?**
-
-Not very, but it can happen if basic hygiene and water safety practices are ignored.
-
-**2. How can I prevent contamination at home?**
-
-Use clean water, sanitize tools, and avoid composting unsafe materials like raw manure without hot composting.
-
-**3. Do I need to sterilize soil?**
-
-Sterilizing isn't mandatory but using fresh, disease-free soil helps reduce risks significantly.
-
-**4. Can I reuse tomato seeds safely?**
-
-Yes, if they’re from healthy plants and properly dried and stored.
-
-**5. How do I wash tomatoes before eating?**
-
-Rinse under cool running water without soap. Use a clean brush for extra scrubbing.
-
-**6. Are organic tomatoes safer?**
-
-Yes, when grown with clean practices. Organic methods reduce chemical and bacterial contamination risk.
-
-## Conclusion: Safe Growing Equals Healthy Eating
-
-Growing your own tomatoes is incredibly satisfying, and with the right techniques, also very safe. By understanding the risks, using proper hygiene, and following best practices, you can avoid issues like the "Salmonella outbreak tomato" concerns and grow a bountiful, healthy harvest. 
-
-Follow these tips and enjoy safe, delicious tomatoes from your garden to your plate.
+In summary, proper banana storage and composting help eco-conscious cooks enjoy their bananas at peak flavor and do a bit of good for the planet. With these tips, you’ll spend less time throwing out spoiled fruits and more time enjoying perfectly ripe bananas, or turning them into something delicious like banana bread when they do get very ripe.
 
 
 ## Related Articles
 
+- [**How to Use Compost Properly](/blog/how-to-use-compost-correctly)
+
+- [**How to Grow Tomato Plants Without Salmonella**](/blog/how-to-grow-tomatoes-safely)
+
 - [**Are Tomatoes Safe to Eat Now?**](/blog/are-tomatoes-safe-to-eat-now)
 
 - [**FDA Tomato Recall 2025 Raises Concerns About Veggies Safty**](/blog/fda-tomato-recall-salmonella-outbreak-raises-concerns-about-vegetable)
-
-- [**FDA Cucumber Recall**](/blog/cucumber-recall-2025-how-to-protect-vegetable-garden-from-salmonella)
 
 - [**The Best electric Composter for Safe Compost to Use**](/blog/the-best-composter-to-reduce-food-waste)
 
@@ -356,12 +130,13 @@ Follow these tips and enjoy safe, delicious tomatoes from your garden to your pl
 
 ## Sources
 
-1. FDA: Williams Farms Repack LLC Recalls Tomatoes Due to Possible Salmonella Contamination 2025 https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/williams-farms-repack-llc-recalls-tomatoes-due-possible-salmonella-contamination 
+1. Mississippi State University Extension notes on composting banana peels https://extension.msstate.edu/
 
-2. CDC: About Salmonella Infection https://www.cdc.gov/salmonella/outbreaks/whole-cucumbers-05-25/index.html#:~:text=CDC%3A-,About%20Salmonella%20Infection,-FDA%3A%20Outbreak 
+2. USDA: Storing Fresh Bananas https://www.fns.usda.gov/fs/produce-safety/storage 
 
-3. FoodSafety: <a href="https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures" rel="nofollow">Safe Minimum Internal Temperatures</a>
+3. Southern Living: <a href="southernliving.com" rel="nofollow">Guidance on banana shelf life and storage from food science experts</a>
 
-4. Reddit: <a href="https://www.reddit.com/r/GEME_Gardening/comments/1l26m9j/fda_tomato_recall_salmonella_outbreak_recall_of/" rel="nofollow">FDA Tomato Recall 2025</a>
+4. Allrecipes: <a href="allrecipes.com" rel="nofollow">Banana storage tips and effects of refrigeration</a>
+
 
 _Ready to transform your gardening game? Subscribe to our [newsletter](http://geme.bio/signup) for expert composting tips and sustainable gardening advice._
