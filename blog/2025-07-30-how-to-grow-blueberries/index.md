@@ -188,7 +188,7 @@ Embrace a little planning and effort, and soon you’ll have your own productive
 
 2. University of Maine: Growing Blueberries From Seed https://extension.umaine.edu/blueberries/factsheets/cultivated-lowbush-blueberries/growing-blueberries-from-seed/ 
 
-3. Ontario, Ministry of Agriculture, Food and Agribusiness <a href="https://www.ontario.ca/page/growing-blueberries-home-gardens-and-small-scale-production" rel="nofollow">GGrowing blueberries for home gardens and small scale production</a>
+3. Ontario, Ministry of Agriculture, Food and Agribusiness <a href="https://www.ontario.ca/page/growing-blueberries-home-gardens-and-small-scale-production" rel="nofollow">Growing blueberries for home gardens and small scale production</a>
 
 
 _Ready to transform your gardening game? Subscribe to our [newsletter](http://geme.bio/signup) for expert composting tips and sustainable gardening advice._
