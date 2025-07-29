@@ -80,7 +80,7 @@ Follow these steps to plant blueberry bushes:
 
 6. **Mulch and water**. Immediately water thoroughly to settle the soil. Apply a 2–3 inch layer of acid mulch (pine needles, pine bark, or wood chips) around the base. Mulch conserves moisture, suppresses weeds, and keeps the soil cool. Over time, gradually build mulch depth to 4 inches.
 
-7. **Space plants properl**y**. Leave about 4–5 feet between each bush, and 6–8 feet between rows. This spacing allows sunlight penetration and air circulation, improving fruit production.
+7. **Space plants properly**. Leave about 4–5 feet between each bush, and 6–8 feet between rows. This spacing allows sunlight penetration and air circulation, improving fruit production.
 
 ![How do I plant blueberries?](./img/blueberry-soil-ph.jpg)
 
