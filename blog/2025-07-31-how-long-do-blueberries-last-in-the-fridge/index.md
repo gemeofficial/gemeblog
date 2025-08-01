@@ -81,7 +81,7 @@ If stored properly, blueberries last 7 to 14 days in the fridge. To maximize fre
 
 Spread blueberries out on a paper towel in a shallow container to absorb excess moisture. Cover loosely to allow air circulation.
 
-![How long do Blueberries last in the fridge](./img/how-long-can-blueberries-stay-in-the-fridge.jpg)
+![How long do Blueberries last in the fridge](./img/how-long-do-blueberries-last-in-the-fridge.jpg)
 
 ## 3. How Long Do Washed Blueberries Last in the Fridge?
 
