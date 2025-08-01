@@ -31,7 +31,7 @@ We’ll also answer common questions like:
 
 Let’s dive into how to keep your blueberries fresh, flavorful, and safe to eat for as long as possible.
 
-![How long do blueberries last in the fridge](./img/how-long-do-blueberries-last-in-the-fridge.jpg)
+![How long do blueberries last in the fridge](./img/how-long-can-blueberries-stay-in-the-fridge.jpg)
 
 <!-- truncate -->
 
@@ -113,7 +113,7 @@ Several factors impact the shelf life of blueberries, both inside and outside th
 
 ### How to Store Blueberries for Maximum Freshness
 
-1. Refrigerator (Short-Term Storage)
+1. **Refrigerator (Short-Term Storage)**
 
 To keep blueberries fresh for 1–2 weeks, follow these steps:
 
@@ -131,7 +131,7 @@ Remove any moldy or squished berries to prevent them from affecting the others..
 
 :::
 
-2. Freezer (Long-Term Storage)
+2. **Freezer (Long-Term Storage)**
 
 If you won’t finish your blueberries within a week, freezing is the best option.
 
@@ -149,7 +149,7 @@ Frozen blueberries will last up to 12 months and are perfect for smoothies, oatm
 
 ![How long do frozen blueberries last?](./img/how-long-do-frozen-blueberries-last.jpg)
 
-3. Room Temperature (Temporary Storage)
+3. **Room Temperature (Temporary Storage)**
 
 You can leave blueberries at room temperature if you plan to eat them within 24–48 hours. However, this method is only advisable if the room is cool and the berries are unwashed.
 
@@ -157,13 +157,13 @@ You can leave blueberries at room temperature if you plan to eat them within 24�
 
 Not sure if your blueberries are still good? Here are signs that they’ve spoiled:
 
-- Mold: White, fuzzy patches mean it’s time to throw them out.
+- **Mold**: White, fuzzy patches mean it’s time to throw them out.
 
-- Shriveled or dried berries: Dehydrated blueberries are past their prime but might still be usable in baking.
+- **Shriveled or dried berries**: Dehydrated blueberries are past their prime but might still be usable in baking.
 
-- Off smell: Sour or fermented odor means they’re no longer safe to eat.
+- **Off smell**: Sour or fermented odor means they’re no longer safe to eat.
 
-- Leaky or mushy berries: These are signs of rot and bacterial growth.
+- **Leaky or mushy berries**: These are signs of rot and bacterial growth.
 
 If only one or two berries are moldy, you can salvage the rest by removing the bad ones, rinsing the good ones thoroughly, and drying them completely before storing.
 
@@ -188,13 +188,13 @@ buttonText="Use GEME Kitchen Composter For Food Waste"
 
 Want to stretch the life of your blueberries? Here are some easy tricks:
 
-- Vinegar rinse (for mold prevention): Mix 1 part white vinegar to 3 parts water and soak berries for 1 minute. Rinse and dry completely before storing in the fridge. This kills mold spores.
+- **Vinegar rinse (for mold prevention)**: Mix 1 part white vinegar to 3 parts water and soak berries for 1 minute. Rinse and dry completely before storing in the fridge. This kills mold spores.
 
-- Use breathable containers: Avoid airtight plastic; instead, opt for mesh, baskets, or vented containers.
+- **Use breathable containers**: Avoid airtight plastic; instead, opt for mesh, baskets, or vented containers.
 
-- Dry storage: Add a paper towel at the bottom of the container to absorb moisture.
+- **Dry storage**: Add a paper towel at the bottom of the container to absorb moisture.
 
-- Inspect often: Remove overripe or moldy berries immediately.
+- **Inspect often**: Remove overripe or moldy berries immediately.
 
 ![How to store blueberries](./img/how-long-does-blueberry-last.jpg)
 
