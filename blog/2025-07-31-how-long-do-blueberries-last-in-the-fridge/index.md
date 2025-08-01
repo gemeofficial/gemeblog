@@ -167,7 +167,7 @@ Not sure if your blueberries are still good? Here are signs that they’ve spoil
 
 If only one or two berries are moldy, you can salvage the rest by removing the bad ones, rinsing the good ones thoroughly, and drying them completely before storing.
 
-> **<span style="color: #006400">💚 However, when you notice that many of your blueberries are bad, don't just toss them in the trash, compost them instead.</span>**
+> **<span style={{color: '#006400'}}>💚 However, when you notice that many of your blueberries are bad, don't just toss them in the trash, compost them instead.</span>**
 
 Compost is decomposed organic matter from food waste, garden clippings, leaves, and other biodegradable materials. It's often called “black gold” because it can enrich soil, promote plant growth, and reduce landfills and greenhouse gas emission.
 
