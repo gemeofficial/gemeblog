@@ -36,7 +36,7 @@ Imagine a captivating blend of floral sweetness and tropical tang, like a cross 
 
 ## What does lychee taste like? 
 
-The **lychee taste** is often described as <span style={{color: "green"}}>**fragrantly sweet with a refreshing acidity**</span>, making it a summer favourite worldwide. Its texture starts with a juicy burst followed by a delicate, slightly crisp flesh similar to peeled grapes.
+The **lychee taste** is often described as **fragrantly sweet with a refreshing acidity**, making it a summer favourite worldwide. Its texture starts with a juicy burst followed by a delicate, slightly crisp flesh similar to peeled grapes.
 
 The fruit's high sugar content (15–20%) and soluble solids create its signature sweetness, while compounds like geraniol and linalool deliver its floral aroma.  
 
@@ -95,10 +95,10 @@ Unripe lychees taste bland and acidic, while overripe ones develop a fermented "
 ## How to Store Lychee? Expert Preservation Tips
 
 How to store lychee correctly ensures you enjoy its signature taste longer. **Unpeeled lychees last 3–5 days in the fridge's crisper drawer when kept in a ventilated container lined with paper towels (absorbs excess moisture). For long-term storage:**  
-- **Freezing**: Peel/de-seed lychees, arrange them on a tray until solid, then transfer to airtight bags (**keeps 6 months**).  <span style={{color: "#808080"}}>*Tip: Freeze in syrup to retain plump texture.*</span>
+- **Freezing**: Peel/de-seed lychees, arrange them on a tray until solid, then transfer to airtight bags (**keeps 6 months**).  *Tip: Freeze in syrup to retain plump texture.*
 
 - **Canning**: Simmer peeled lychees in sugar syrup (1:1 water-sugar ratio) and sterilise jars.  
-- **Drying**: Use a dehydrator at 50°C (122°F) for 12 hours for chewy lychee "<span style={{color: "green"}}>**raisins**</span>."  
+- **Drying**: Use a dehydrator at 50°C (122°F) for 12 hours for chewy lychee "**raisins**."  
 
 ---
 
@@ -114,7 +114,7 @@ Always avoid room temperature storage – **lychees ferment within 48 hours**, r
 | Jam | 1 year | Intense, sweet | Spreads, sauces |
 
 
-<span style={{color: "#FF4500"}}>**Never store lychees at room temperature**</span> — they ferment quickly.  
+**Never store lychees at room temperature** — they ferment quickly.  
 
 ## How to Tell When Lychee Has Gone Bad?
 
@@ -154,7 +154,7 @@ Absolutely! Mouldy lychees belong in the composter, not landfills. Their high ni
 
 It's the most **efficient, odour-free and eco-friendly** method for urban homes. The compost output is also fully matured and nutrient-rich to **improve your garden plants' health** 🌱. 
 
-<span style={{color: "#D3D3D3"}}>*Traditional composting works too, but it's **too slow**: Bury mouldy lychees deep in your pile, covered with "brown" materials (dry leaves, cardboard). Harvest compost in **2–3 months**.*</span>
+*Traditional composting works too, but it's **too slow**: Bury mouldy lychees deep in your pile, covered with "brown" materials (dry leaves, cardboard). Harvest compost in **2–3 months**.*
 
 ## Creative Lychee Recipes to Elevate Your Meals
 

@@ -18,7 +18,7 @@ import GemeComposterCTA from '@site/src/components/GemeComposterCTA'
 
 Eggs are one of the most versatile and affordable kitchen staples, but have you ever wondered: *do eggs expire?* *how long do eggs last in the fridge?* Whether you're preparing a weekend breakfast or baking a cake, using fresh eggs is essential — not just for flavor, but for food safety, too.
 
-Let's explore egg shelf life, expiration myths, *how to tell if an egg is bad*, and what to do with spoiled eggs, including <span style={{color: "green"}}>**how to compost eggs safely using a composter**</span>.
+Let's explore egg shelf life, expiration myths, *how to tell if an egg is bad*, and what to do with spoiled eggs, including **how to compost eggs safely using a composter**.
 
 ![Do eggs expire?](./img/do-eggs-expire.jpg)
 

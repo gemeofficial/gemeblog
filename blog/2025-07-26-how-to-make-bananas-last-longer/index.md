@@ -17,7 +17,7 @@ import GemeComposterCTA from '@site/src/components/GemeComposterCTA'
 
 Bananas are a convenient, nutrient-rich fruit, but they ripen and spoil quickly at home. On average, a bunch of bananas left out on the counter will only stay fresh for a few days before turning brown and mushy. By understanding what causes bananas to ripen and using smart storage techniques, we can significantly extend their shelf life. 
 
-This guide explores <span style={{color: "green"}}>**how long bananas last**</span>, practical tips on <span style={{color: "green"}}>**how to make them last longer**</span>, whether refrigeration helps, and <span style={{color: "green"}}>**how to compost banana peels**</span> to turn kitchen waste into garden gold.
+This guide explores **how long bananas last**, practical tips on **how to make them last longer**, whether refrigeration helps, and **how to compost banana peels** to turn kitchen waste into garden gold.
 
 ![How to Make Bananas Last Longer](./img/how-to-make-bananas-last-longer.jpg)
 

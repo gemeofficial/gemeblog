@@ -36,7 +36,7 @@ Let’s dive into how to keep your blueberries fresh, flavorful, and safe to eat
 
 <!-- truncate -->
 
-<h2 className="jump-to">Jump To</h2>
+<h2 class="jump-to">Jump To</h2>
 
 1. **[How Long Do Blueberries Last?](#1-how-long-do-blueberries-last)**
 
@@ -168,7 +168,7 @@ Not sure if your blueberries are still good? Here are signs that they’ve spoil
 
 If only one or two berries are moldy, you can salvage the rest by removing the bad ones, rinsing the good ones thoroughly, and drying them completely before storing.
 
-> **<span style="color: #006400">💚 However, when you notice that many of your blueberries are bad, don't just toss them in the trash, compost them instead.</span>**
+> **💚 However, when you notice that many of your blueberries are bad, don't just toss them in the trash, compost them instead.**
 
 Compost is decomposed organic matter from food waste, garden clippings, leaves, and other biodegradable materials. It's often called “black gold” because it can enrich soil, promote plant growth, and reduce landfills and greenhouse gas emission.
 
