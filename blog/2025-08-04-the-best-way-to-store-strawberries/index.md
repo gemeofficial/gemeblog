@@ -20,7 +20,7 @@ In warm or humid conditions, they spoil very quickly. Minimizing handling, keepi
 
 The tips below (**drawn from USDA and university extension guidance**) will help home cooks, gardeners, and sustainability advocates store strawberries safely and effectively.
 
-![The Best Way to Store Strawberries](./img/how-to-keep-strawberry-fresh.jpg)
+![The Best Way to Store Strawberries](./img/the-best-way-to-store-strawberries.jpg)
 
 <!-- truncate -->
 
@@ -53,7 +53,7 @@ The tips below (**drawn from USDA and university extension guidance**) will help
 
 Because of these factors, fresh strawberries last only a few days without special care. However, by controlling temperature, humidity, and moisture, you can extend their shelf life.
 
-![Why Strawberries Spoil Quickly?](./img/strawberry-compost-spoiled-strawberry-moldy-strawberries.jpg)
+![Why Strawberries Spoil Quickly?](./img/how-to-keep-strawberry-fresh.jpg)
 
 ## 2. How Long Do Strawberries Last in the Fridge (vs. Room Temp)?
 
