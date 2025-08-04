@@ -45,7 +45,7 @@ The tips below (**drawn from USDA and university extension guidance**) will help
 
 1. **High moisture and delicate skin**: Strawberries are about 90% water, so any extra moisture speeds decay. Their soft flesh and delicate skin bruise easily, creating entry points for bacteria and mold.
 
-2. **Rapid respiration**: As a soft fruit, strawberries breathe and ripen fast. Room-temperature air (especially above 60°F) can accelerate metabolism and aging. In fact, cooling slows their respiration dramatically [**(one extension study notes decay is up to 10× faster at room temperature than at 32°F)**](extension.psu.edu).
+2. **Rapid respiration**: As a soft fruit, strawberries breathe and ripen fast. Room-temperature air (especially above 60°F) can accelerate metabolism and aging. In fact, cooling slows their respiration dramatically [**(one extension study notes decay is up to 10× faster at room temperature than at 32°F)**](https://extension.psu.edu).
 
 3. **Susceptible to mold**: Strawberries commonly harbor mold spores. Once one berry goes bad, Botrytis (gray mold) can quickly spread to neighbors. For example, USDA guidance warns that if one berry in a container is moldy, nearby berries should be discarded.
 
@@ -62,13 +62,13 @@ Studies and USDA guidelines give ballpark shelf lives under different conditions
 | **Storage Condition** | **Approx. Shelf Life** |
 | --- | --- |
 | **Refrigerator, 32–36°F (0–2°C), 90–95% RH** – ideal crisper conditions | **Up to 1–2 weeks** |
-| **Regular Fridge (~40°F, 4°C)** | **~3–7 days** (about 3 days at typical 40°F, [up to ~7 days if very fresh and dry](anrcatalog.ucanr.edu)) |
+| **Regular Fridge (~40°F, 4°C)** | **~3–7 days** (about 3 days at typical 40°F, [up to ~7 days if very fresh and dry](https://anrcatalog.ucanr.edu)) |
 | **Room temperature (~68–72°F / 20–22°C)** | Typically **≤1 day**. USDA notes strawberries can be held at room temp up to 24 hours *without refrigeration*; after that spoilage accelerates. |
 | **Frozen** | **6–12 months** in a proper freezer (whole or sliced, in airtight containers, often with sugar or syrup to preserve quality). |
 
 In practice, if you buy or pick strawberries and plan to use them within a day, you may keep them at room temp briefly (on a cool counter) for convenience. 
 
-But for any longer storage, refrigeration is best. The USDA “Foodkeeper” chart and extension sources emphasize that refrigeration (below 41°F) is required for all fresh berries, since [*unrefrigerated, they spoil very fast*](district.schoolnutritionandfitness.com).
+But for any longer storage, refrigeration is best. The USDA “Foodkeeper” chart and extension sources emphasize that refrigeration (below 41°F) is required for all fresh berries, since [*unrefrigerated, they spoil very fast*](https://district.schoolnutritionandfitness.com).
 
 ![How Long Do Strawberries Last in the Fridge?](./img/how-long-do-strawberries-last-in-the-fridge.png)
 
@@ -100,7 +100,7 @@ Place strawberries in the coldest part of your fridge that still stays above fre
 
 :::warning
 
-Refrigeration is strongly advised for any cut or hulled berries. The USDA notes: [“**Seal, date, and refrigerate cut berries immediately and use by the following day**”](fns-prod.azureedge.us). Fruit cut or mashed is very perishable.
+Refrigeration is strongly advised for any cut or hulled berries. The USDA notes: [“**Seal, date, and refrigerate cut berries immediately and use by the following day**”](https://fns-prod.azureedge.us). Fruit cut or mashed is very perishable.
 
 :::
 
@@ -160,7 +160,7 @@ Even with good care, strawberries eventually spoil. Look for these signs of spoi
 
 If only a few berries spoil, salvage the rest quickly. Eat or preserve the still-firm berries as soon as possible. To prevent waste, **compost any rotten berries or trimmings** (see below). Never eat moldy strawberries, and wash hands after handling spoiled produce.
 
-> **<span style={{color: '#006400'}}>💚 However, when you notice that many of your strawberries are bad, don't just discard them, compost them instead.</span>**
+> **<span style="color: #006400">💚 However, when you notice that many of your strawberries are bad, don't just discard them, compost them instead.</span>**
 
 By composting, you recycle nutrients back into soil for future plants. For example, finished strawberry compost is excellent for mixing into the soil of next season’s vegetable or flower beds.
 
