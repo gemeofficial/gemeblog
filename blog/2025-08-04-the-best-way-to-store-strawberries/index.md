@@ -20,7 +20,7 @@ In warm or humid conditions, they spoil very quickly. Minimizing handling, keepi
 
 The tips below (**drawn from USDA and university extension guidance**) will help home cooks, gardeners, and sustainability advocates store strawberries safely and effectively.
 
-![The Best Way to Store Strawberries](./img/the-best-way-to-store-strawberries.jpg)
+![The Best Way to Store Strawberries](./img/how-to-keep-strawberry-fresh.jpg)
 
 <!-- truncate -->
 
@@ -100,7 +100,7 @@ Place strawberries in the coldest part of your fridge that still stays above fre
 
 :::warning
 
-Refrigeration is strongly advised for any cut or hulled berries. The USDA notes: [“**Seal, date, and refrigerate cut berries immediately and use by the following day**”](https://fns-prod.azureedge.us). Fruit cut or mashed is very perishable.
+Refrigeration is strongly advised for any cut or hulled berries. The USDA notes: [“**Seal, date, and refrigerate cut berries immediately and use by the following day**”](https"//fns-prod.azureedge.us). Fruit cut or mashed is very perishable.
 
 :::
 
@@ -160,7 +160,7 @@ Even with good care, strawberries eventually spoil. Look for these signs of spoi
 
 If only a few berries spoil, salvage the rest quickly. Eat or preserve the still-firm berries as soon as possible. To prevent waste, **compost any rotten berries or trimmings** (see below). Never eat moldy strawberries, and wash hands after handling spoiled produce.
 
-> **<span style="color: #006400">💚 However, when you notice that many of your strawberries are bad, don't just discard them, compost them instead.</span>**
+> **<span style={{color: '#006400'}}>💚 However, when you notice that many of your strawberries are bad, don't just discard them, compost them instead.</span>**
 
 By composting, you recycle nutrients back into soil for future plants. For example, finished strawberry compost is excellent for mixing into the soil of next season’s vegetable or flower beds.
 
