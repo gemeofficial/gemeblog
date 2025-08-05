@@ -1,0 +1,176 @@
+.relatedArticlesContainer {
+  padding-bottom: 1.5rem;
+}
+
+.sectionTitle {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #1c1e21;
+  margin-bottom: 1.5rem;
+}
+
+.articlesGrid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.articleCard {
+  background: #ffffff;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border: 1px solid #e9ecef;
+}
+
+.articleCard:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+}
+
+.cardLink {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  height: 100%;
+}
+
+.cardImageContainer {
+  position: relative;
+  width: 100%;
+  height: 200px;
+  overflow: hidden;
+  background: #f8f9fa;
+}
+
+.cardImage {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.articleCard:hover .cardImage {
+  transform: scale(1.05);
+}
+
+.cardContent {
+  padding: 1rem;
+}
+
+.cardTags {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.tag {
+  background: linear-gradient(135deg, rgb(72, 185, 64) 0%, #3b7f6f 100%);
+  color: white;
+  padding: 0.25rem 0.75rem;
+  border-radius: 20px;
+  font-size: 0.75rem;
+  font-weight: 500;
+  text-transform: capitalize;
+}
+
+.cardTitle {
+  font-size: 1rem;
+  font-weight: 600;
+  color: #2c3e50;
+  line-height: 1.4;
+  margin: 0;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* 响应式设计 */
+@media (max-width: 1024px) {
+  .relatedArticlesContainer {
+    padding-bottom: 1rem;
+  }
+
+  .articlesGrid {
+    gap: 1rem;
+    padding: 0 1rem;
+  }
+
+  .cardImageContainer {
+    height: 180px;
+  }
+
+  .cardContent {
+    padding: 0.75rem;
+  }
+
+  .cardTitle {
+    font-size: 0.85rem;
+  }
+
+  .tag {
+    font-size: 0.65rem;
+    padding: 0.2rem 0.6rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .articlesGrid {
+    gap: 0.8rem;
+    padding: 0 0.8rem;
+  }
+
+  .cardImageContainer {
+    height: 160px;
+  }
+
+  .cardContent {
+    padding: 0.6rem;
+  }
+
+  .cardTitle {
+    font-size: 0.8rem;
+  }
+
+  .tag {
+    font-size: 0.6rem;
+    padding: 0.15rem 0.5rem;
+  }
+  .cardTitle {
+    -webkit-line-clamp: 4;
+  }
+}
+
+@media (max-width: 625px) {
+  .articlesGrid {
+    gap: 0.6rem;
+    padding: 0 0.6rem;
+  }
+
+  .cardImageContainer {
+    height: 140px;
+  }
+
+  .cardContent {
+    padding: 0.5rem;
+  }
+
+  .cardTitle {
+    font-size: 14px;
+  }
+
+  .tag {
+    font-size: 10px;
+    padding: 0.1rem 0.4rem;
+  }
+  .cardTags {
+    gap: 0.4rem;
+    margin-bottom: 0.5rem;
+  }
+}

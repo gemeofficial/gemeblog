@@ -10,6 +10,7 @@ keywords:
 slug: garden-soil-vs-compost-pros-and-cons
 authors: [Moore]
 tags: [gardening, compost, plant, sustainability]
+picture: "http://localhost:3002/assets/images/garden-soil-vs-compost-d2c04b2a31f8914e3ff4da347dff4666.webp"
 ---
 
 import ReactPlayer from 'react-player'

@@ -14,8 +14,9 @@ picture: https://www.geme.bio/assets/images/how-to-store-strawberries-40a914c579
 ---
 
 import GemeComposterCTA from '@site/src/components/GemeComposterCTA'
+import RelatedArticles from '@site/src/components/RelatedArticles'
 
-Strawberries are delicious but notoriously perishable. Their tender, thin skins, high moisture and sugar content, and rapid respiration make them prone to bruising, microbial spoilage (especially mold such as Botrytis), and flavor loss. 
+Strawberries are delicious but notoriously perishable. Their tender, thin skins, high moisture and sugar content, and rapid respiration make them prone to bruising, microbial spoilage (especially mold such as Botrytis), and flavor loss.
 
 In warm or humid conditions, they spoil very quickly. Minimizing handling, keeping them cool and dry, and using gentle storage methods are key. **With the right techniques, you can keep strawberries fresh longer, reduce waste, and even recycle food waste into rich compost for your garden**.
 
@@ -41,7 +42,6 @@ The tips below (**drawn from USDA and university extension guidance**) will help
 
 7. **[Strawberries Compost: How to Compost Properly](#7-strawberry-compost-how-to-compost-berries-properly)**
 
-
 ## 1. Why Strawberries Spoil Quickly
 
 1. **High moisture and delicate skin**: Strawberries are about 90% water, so any extra moisture speeds decay. Their soft flesh and delicate skin bruise easily, creating entry points for bacteria and mold.
@@ -60,16 +60,16 @@ Because of these factors, fresh strawberries last only a few days without specia
 
 Studies and USDA guidelines give ballpark shelf lives under different conditions:
 
-| **Storage Condition** | **Approx. Shelf Life** |
-| --- | --- |
-| **Refrigerator, 32–36°F (0–2°C), 90–95% RH** – ideal crisper conditions | **Up to 1–2 weeks** |
-| **Regular Fridge (~40°F, 4°C)** | **~3–7 days** (about 3 days at typical 40°F, [up to ~7 days if very fresh and dry](https://anrcatalog.ucanr.edu)) |
-| **Room temperature (~68–72°F / 20–22°C)** | Typically **≤1 day**. USDA notes strawberries can be held at room temp up to 24 hours *without refrigeration*; after that spoilage accelerates. |
-| **Frozen** | **6–12 months** in a proper freezer (whole or sliced, in airtight containers, often with sugar or syrup to preserve quality). |
+| **Storage Condition**                                                   | **Approx. Shelf Life**                                                                                                                          |
+| ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Refrigerator, 32–36°F (0–2°C), 90–95% RH** – ideal crisper conditions | **Up to 1–2 weeks**                                                                                                                             |
+| **Regular Fridge (~40°F, 4°C)**                                         | **~3–7 days** (about 3 days at typical 40°F, [up to ~7 days if very fresh and dry](https://anrcatalog.ucanr.edu))                               |
+| **Room temperature (~68–72°F / 20–22°C)**                               | Typically **≤1 day**. USDA notes strawberries can be held at room temp up to 24 hours _without refrigeration_; after that spoilage accelerates. |
+| **Frozen**                                                              | **6–12 months** in a proper freezer (whole or sliced, in airtight containers, often with sugar or syrup to preserve quality).                   |
 
-In practice, if you buy or pick strawberries and plan to use them within a day, you may keep them at room temp briefly (on a cool counter) for convenience. 
+In practice, if you buy or pick strawberries and plan to use them within a day, you may keep them at room temp briefly (on a cool counter) for convenience.
 
-But for any longer storage, refrigeration is best. The USDA “Foodkeeper” chart and extension sources emphasize that refrigeration (below 41°F) is required for all fresh berries, since [*unrefrigerated, they spoil very fast*](https://district.schoolnutritionandfitness.com).
+But for any longer storage, refrigeration is best. The USDA “Foodkeeper” chart and extension sources emphasize that refrigeration (below 41°F) is required for all fresh berries, since [_unrefrigerated, they spoil very fast_](https://district.schoolnutritionandfitness.com).
 
 ![How Long Do Strawberries Last in the Fridge?](./img/how-long-do-strawberries-last-in-the-fridge.png)
 
@@ -177,24 +177,24 @@ Turning spoiled strawberries (and their tops or juice) into compost is an eco-fr
 
 ![How to Compost Strawberries Properly](./img/spoiled-strawberries.jpg)
 
-For home kitchens, modern electric composters can make composting even easier. The GEME Kitchen Composter is one example. It uses microbial fermentation, heat, and stirring to turn food scraps (like strawberry tops, peels or leftover berries) into compost in as little as 6–8 hours. 
+For home kitchens, modern electric composters can make composting even easier. The GEME Kitchen Composter is one example. It uses microbial fermentation, heat, and stirring to turn food scraps (like strawberry tops, peels or leftover berries) into compost in as little as 6–8 hours.
 
 It even heats the waste above 75°C to kill pathogens like Salmonella, producing dry, sanitized, and mature compost. For sustainability-minded cooks, such a composter can make recycling fruit scraps effortless and odor-free.
 
-<GemeComposterCTA 
- imgSrc="/img/geme-bio-composter.jpg"
- productTitle="GEME Bio-waste Composter"
- features={[
-    "✅ Compost Spoiled Strawberries within 8 hours",
-    "✅ Better Compost For Soil Health & Garden Plants",
-    "✅ Quiet, Odor-Free, Mature Compost",
-    "✅ Reduce Landfill Waste & Greenhouse Gases"
- ]}
+<GemeComposterCTA
+imgSrc="/img/geme-bio-composter.jpg"
+productTitle="GEME Bio-waste Composter"
+features={[
+"✅ Compost Spoiled Strawberries within 8 hours",
+"✅ Better Compost For Soil Health & Garden Plants",
+"✅ Quiet, Odor-Free, Mature Compost",
+"✅ Reduce Landfill Waste & Greenhouse Gases"
+]}
 buttonText="Use GEME Kitchen Composter to Compost Food Waste"
-  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-way-to-store-strawberries"
+href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-way-to-store-strawberries"
 />
 
-By using the kitchen composter, you can sustainably convert strawberry scraps into garden gold. 
+By using the kitchen composter, you can sustainably convert strawberry scraps into garden gold.
 
 ## 8. Summary and Key Tips
 
@@ -212,13 +212,13 @@ By using the kitchen composter, you can sustainably convert strawberry scraps in
 
 7. **Composting**: Fruit scraps, including whole strawberries, can be composted. Chop them up and mix with “brown” materials; for a high-tech approach, a GEME Kitchen Composter can safely and odorlessly turn them into rich compost.
 
-By following these storage and handling tips from food-safety and horticulture authorities (USDA, UC Davis, Penn State, etc.), you’ll keep your strawberries fresh longer and minimize waste. 
+By following these storage and handling tips from food-safety and horticulture authorities (USDA, UC Davis, Penn State, etc.), you’ll keep your strawberries fresh longer and minimize waste.
 
 Proper refrigeration (at the best temperature and humidity) and wise preparation are the keys to enjoying your berries at their peak. And when they inevitably go past prime, composting ensures that nothing goes to waste in your sustainable kitchen and garden.
 
 ## Sources:
 
-Recommendations are drawn from USDA Food & Nutrition Service and university extension publications on produce storage. 
+Recommendations are drawn from USDA Food & Nutrition Service and university extension publications on produce storage.
 
 1. https://extension.psu.edu
 
@@ -228,17 +228,14 @@ Recommendations are drawn from USDA Food & Nutrition Service and university exte
 
 4. https://district.schoolnutritionandfitness.com
 
-## Related Articles
-
-- [**How Long Do Blueberries Last in the Fridge**](/blog/how-long-do-blueberries-last-in-fridge)
-
-- [**How to Grow Blueberries**](/blog/how-to-grow-blueberries)
-
-- [**How to Grow Tomato Plants Without Salmonella**](/blog/how-to-grow-tomatoes-safely)
-
-- [**The Best electric Composter for Composting Food Waste**](/blog/the-best-composter-to-reduce-food-waste)
-
-- [**The Difference Between Garden Soil And Compost**](/blog/garden-soil-vs-compost-pros-and-cons)
-
+<RelatedArticles
+  slugs={[
+  "how-long-do-blueberries-last-in-fridge",
+  "how-to-grow-blueberries",
+  "how-to-grow-tomatoes-safely",
+  "the-best-composter-to-reduce-food-waste",
+  "garden-soil-vs-compost-pros-and-cons"
+  ]}
+/>
 
 _Ready to transform your gardening game? Subscribe to our [newsletter](http://geme.bio/signup) for expert composting tips and sustainable gardening advice._
