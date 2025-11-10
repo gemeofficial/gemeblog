@@ -20,7 +20,6 @@ Composting is nature’s recycling. It uses microorganisms to turn organic waste
 
 Embedding a photo, for example, reveals a steaming compost heap – evidence of intense microbial activity at work.
 
-![A compost pile heating up and steaming](./img/the-best-way-to-store-strawberries.jpg)
 
 A garden compost pile heating up and steaming as microbes break down yard and kitchen waste (Picture from rodaleinstitute.org).
 
@@ -66,8 +65,6 @@ The ingredients for composting include a proper balance of the following materia
 
 - Air (oxygen).
 
-![Why Strawberries Spoil Quickly?](./img/how-to-keep-strawberry-fresh.jpg)
-
 ## 2. What Can You Add to a Backyard Compost Pile / an Electric Composter?
 
 Both backyard piles and indoor electric composters can handle many of the same materials. Acceptable “greens” (nitrogen-rich items) include fruit and vegetable scraps, coffee grounds, eggshells, and grass clippings. Acceptable “browns” (carbon-rich items) are dry leaves, straw, shredded paper (non-glossy), cardboard (no wax coating), and wood chips. These should be added in layers or mixed with the greens; a good rule of thumb is to use at least 2–3 times as much brown as green. The Carbon and Nitrogen balance gives microbes what they need (energy from carbon, protein from nitrogen).
@@ -106,16 +103,6 @@ Electric composters (like GEME) can handle a wider variety of kitchen waste safe
 | GEME electric composter can avoid animals from getting in.  
 † Do not add compostable bags or cutlery, as their durable PLA will not fully break down and will contaminate the final compost, while their physical shapes can easily tangle or jam the stirring shaft, potentially damaging the machine.                                  |
 
-
-
-![How Long Do Strawberries Last in the Fridge?](./img/how-long-do-strawberries-last-in-the-fridge.png)
-
-:::tip
-
-Place strawberries in the coldest part of your fridge that still stays above freezing (many recommend the crisper drawer). Use them within a few days, or transfer to long-term storage (below).
-
-:::
-
 ## 3. Getting Started: Backyard Compost Pile
 
 Creating a backyard compost pile is straightforward and requires minimal equipment. Start by selecting a dry, shady spot in your yard with good drainage. You can compost on bare ground or use a bin (wire, wood, plastic, or concrete blocks all work). Bins can help keep things tidy and retain heat, but even an open pile will compost if managed.
@@ -127,8 +114,6 @@ Creating a backyard compost pile is straightforward and requires minimal equipme
 **Step 3 – Maintain the Pile:** Turn or aerate the pile every 1–2 weeks by mixing the materials with a pitchfork or shovel. This introduces oxygen and speeds decomposition. Keep the pile moist but not soggy – add water during dry spells. If the pile is too dry, decomposition will stall (add water and more greens); if it smells bad, it may be too wet or lacking air (add more dry browns and turn it). A well-balanced, turned pile heats up nicely and breaks down in a few months.
 
 **Step 4 – Harvest Finished Compost:** After about 3–5 months (in an active, well-turned pile; up to a year if left undisturbed), the compost at the bottom will look dark, crumbly, and soil-like. Stop adding new materials and let the pile cure for 1–2 months. Use a shovel or screen to sift out any large, undecomposed bits (egg shells, twigs, etc.) – these can go in the next batch. The result is nutrient-rich compost ready to be mixed into garden beds, potted plants, or used as mulch.
-
-![How to Store Strawberries](./img/best-way-to-store-strawberries.jpg)
 
 ## 4. Electric Composters: How They Work
 
@@ -158,8 +143,6 @@ In summary, an electric composter like GEME offers a fast, indoor solution for k
 The GEME is a specific brand of electric composter designed to produce real compost at home. Unlike simpler kitchen dehydrators, the GEME uses a patented microbial technology (the GEME-Kobold system) to actively ferment the waste. You add a starter culture of beneficial bacteria once during setup, then you can continuously add food scraps (up to ~4.4 lbs per day). Its internal mixing shaft constantly turns the contents, exposing the waste to air and microbes.
 
 A GEME cycle runs 6–8 hours. By the end of each cycle, over 95% of the food scraps have been broken down. The machine vents clean, filtered air and holds onto the remaining 5% of material, which continues to compost inside the unit. The device can hold many cycles’ worth of waste (about 2 months for a family) before it needs to be emptied. When full, you simply open it and take out finished compost – it is true, microbial-rich compost, not just dried pulp.
-
-![Keep Strawberries Fresh Longer](./img/keep-strawberries-fresh-longer.jpg)
 
 ### Key features of the GEME include:
 
@@ -200,8 +183,6 @@ When choosing between a backyard pile and an electric composter like GEME, consi
 - Odour & Pests: Outdoor piles can emit odours if imbalanced and may attract animals if meat/dairy is present. The GEME’s sealed, filtered system keeps smells contained and eliminates pest issues.
 
 In essence, backyard composting is cost-effective and sustainable if you have the space and patience. It’s perfect for gardeners who enjoy hands-on compost making and have yard waste to balance kitchen scraps. Meanwhile, an electric composter like GEME is a premium option for those prioritising convenience, speed, and 24/7 composting – especially in urban or winter settings. Many users find the main value is time saved: **💚GEME can produce a bag of compost in days that a backyard pile would take months to create.**
-
-![Strawberry Compost](./img/strawberry-compost.png)
 
 ## 7. Tips for Successful Composting
 
