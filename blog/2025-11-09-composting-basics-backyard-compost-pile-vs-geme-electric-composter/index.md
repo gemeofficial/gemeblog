@@ -223,7 +223,7 @@ Choose the method that fits your lifestyle and space. The key is simply to start
 <RelatedArticles
   slugs={[
   "the-best-composter-to-reduce-food-waste",
-  "garden-soil-vs-compost-pros-and-cons"
+  "garden-soil-vs-compost-pros-and-cons",
   "how-long-do-blueberries-last-in-fridge",
   "how-to-grow-blueberries",
   "how-to-grow-tomatoes-safely",
