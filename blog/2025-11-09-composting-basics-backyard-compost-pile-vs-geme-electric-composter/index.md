@@ -231,3 +231,5 @@ Choose the method that fits your lifestyle and space. The key is simply to start
 />
 
 _Ready to transform your gardening game? Subscribe to our [newsletter](http://geme.bio/signup) for expert composting tips and sustainable gardening advice._
+
+
