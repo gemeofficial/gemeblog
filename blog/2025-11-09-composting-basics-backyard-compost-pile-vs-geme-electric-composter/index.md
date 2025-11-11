@@ -20,6 +20,7 @@ Composting is nature’s recycling. It uses microorganisms to turn organic waste
 
 Embedding a photo, for example, reveals a steaming compost heap – evidence of intense microbial activity at work.
 
+![Compost Pile](./img/compost-pile-steaming.jpg)
 
 A garden compost pile heating up and steaming as microbes break down yard and kitchen waste (Picture from rodaleinstitute.org).
 
@@ -65,6 +66,8 @@ The ingredients for composting include a proper balance of the following materia
 
 - Air (oxygen).
 
+![Benefits of Composting Food Waste](./img/epa-composting-graphic2_0.png)
+
 ## 2. What Can You Add to a Backyard Compost Pile / an Electric Composter?
 
 Both backyard piles and indoor electric composters can handle many of the same materials. Acceptable “greens” (nitrogen-rich items) include fruit and vegetable scraps, coffee grounds, eggshells, and grass clippings. Acceptable “browns” (carbon-rich items) are dry leaves, straw, shredded paper (non-glossy), cardboard (no wax coating), and wood chips. These should be added in layers or mixed with the greens; a good rule of thumb is to use at least 2–3 times as much brown as green. The Carbon and Nitrogen balance gives microbes what they need (energy from carbon, protein from nitrogen).
@@ -98,10 +101,9 @@ Electric composters (like GEME) can handle a wider variety of kitchen waste safe
 | Dryer lint                                        |                                                                                                                       |
 | Glossy paper                                      |                                                                                                                       |
 | Produce stickers                                  |                                                                                                                       |
-| * These foods can attract animals in a backyard compost pile.  
-† Backyard composting piles generally do not reach high enough temperatures to fully decompose these materials. These materials can be composted at commercial composting facilities. Check first to make sure your specific facility accepts them.                                    |
-| GEME electric composter can avoid animals from getting in.  
-† Do not add compostable bags or cutlery, as their durable PLA will not fully break down and will contaminate the final compost, while their physical shapes can easily tangle or jam the stirring shaft, potentially damaging the machine.                                  |
+| * These foods can attract animals in a backyard compost pile. † Backyard composting piles generally do not reach high enough temperatures to fully decompose these materials. These materials can be composted at commercial composting facilities. Check first to make sure your specific facility accepts them.                                  | GEME electric composter can avoid animals from getting in. † Do not add compostable bags or cutlery, as their durable PLA will not fully break down and will contaminate the final compost, while their physical shapes can easily tangle or jam the stirring shaft, potentially damaging the machine.                                                                                                                      |
+
+![What Can I Compost?](./img/composting-dos-&-don'ts.jpg)
 
 ## 3. Getting Started: Backyard Compost Pile
 
@@ -144,43 +146,49 @@ The GEME is a specific brand of electric composter designed to produce real comp
 
 A GEME cycle runs 6–8 hours. By the end of each cycle, over 95% of the food scraps have been broken down. The machine vents clean, filtered air and holds onto the remaining 5% of material, which continues to compost inside the unit. The device can hold many cycles’ worth of waste (about 2 months for a family) before it needs to be emptied. When full, you simply open it and take out finished compost – it is true, microbial-rich compost, not just dried pulp.
 
+![GEME Home Electric Composter Step 1](./img/compost-step-1.gif)
+
 ### Key features of the GEME include:
 
-- True Composting (not just dehydration): By using live microbes, the GEME’s output is genuine compost with nutrients and soil microbes, not merely ground dehydrated waste.
+- **True Composting (not just dehydration):** By using live microbes, the GEME’s output is genuine compost with nutrients and soil microbes, not merely ground dehydrated waste.
 
-- Fast Processing: It transforms scraps into compostable material in as little as 6–8 hours per cycle, far quicker than a backyard compost pile.
+- **Fast Processing:** It transforms scraps into compostable material in as little as 6–8 hours per cycle, far quicker than a backyard compost pile.
 
-- Continuous Use: You can add food waste anytime, even while a cycle is running; there’s no need to wait or pause collection.
+- **Continuous Use:** You can add food waste anytime, even while a cycle is running; there’s no need to wait or pause collection.
 
-- Odour Control: The GEME has a sealed, filter-equipped design that traps smells so your kitchen stays fresh.
+- **Odour Control:** The GEME has a sealed, filter-equipped design that traps smells so your kitchen stays fresh.
 
-- Capacity: It holds about 19 litres of material and can process up to 5 kg of waste per day, suiting a medium household.
+- **Capacity:** It holds about 19 litres of material and can process up to 5 kg of waste per day, suiting a medium household.
 
-- Ease of Maintenance: Parts are removable and dishwasher-safe, and the permanent filter never needs replacing.
+- **Ease of Maintenance:** Parts are removable and dishwasher-safe, and the permanent filter never needs replacing.
+
+![GEME Home Electric Composter Step 2](./img/compost-step-2.gif)
 
 Operating a GEME is user-friendly: pour in scraps, press a button, and let technology handle the rest. When it’s time to empty the compost (every few weeks to months, depending on use), you get a dry, odourless potting mix–like material ready for plants.
 
 The GEME’s design makes composting nearly automatic. It cuts out much of the work and waiting of traditional composting. It does cost several hundred dollars (around $700–$900) and uses some power, but the convenience and ability to compost all food scraps year-round make it worthwhile for many households.
 
+![GEME Home Electric Composter Step 3](./img/compost-step-3.gif)
+
 ## 6. Backyard Compost vs GEME Electric Composter: Pros and Cons
 
 When choosing between a backyard pile and an electric composter like GEME, consider the trade-offs:
 
-- Space & Location: Backyard compost needs an outdoor space (or at least a basement/garage compost bin), whereas the GEME sits on your kitchen counter or a small indoor spot. If you live in an apartment or have limited yard space, an electric composter lets you recycle indoors.
+- **Space & Location:** Backyard compost needs an outdoor space (or at least a basement/garage compost bin), whereas the GEME sits on your kitchen counter or a small indoor spot. If you live in an apartment or have limited yard space, an electric composter lets you recycle indoors.
 
-- Initial Cost: Starting a backyard pile is essentially free (save for the cost of a simple bin). An electric composter is a significant purchase.
+- **Initial Cost:** Starting a backyard pile is essentially free (save for the cost of a simple bin). An electric composter is a significant purchase.
 
-- Maintenance & Labour: A pile requires periodic turning and attention to moisture and odour. The GEME largely manages itself; you empty ashes of compost occasionally and add fresh scraps – no turning or mixing by hand. Cleaning is minimal (wash out the bin occasionally).
+- **Maintenance & Labour:** A pile requires periodic turning and attention to moisture and odour. The GEME largely manages itself; you empty ashes of compost occasionally and add fresh scraps – no turning or mixing by hand. Cleaning is minimal (wash out the bin occasionally).
 
-- Speed: Backyards take months to produce finished compost, whereas GEME yields usable material in a day or two. If you want rapid results, GEME wins.
+- **Speed:** Backyards take months to produce finished compost, whereas GEME yields usable material in a day or two. If you want rapid results, GEME wins.
 
-- Volume of Compost: A backyard pile can handle large volumes of both yard and kitchen waste. The GEME is limited to its 19L bin and 5 kg daily input. For a very large garden, the pile may ultimately produce more total compost, while it takes much more time and labour.
+- **Volume of Compost:** A backyard pile can handle large volumes of both yard and kitchen waste. The GEME is limited to its 19L bin and 5 kg daily input. For a very large garden, the pile may ultimately produce more total compost, while it takes much more time and labour.
 
-- Material Flexibility: The GEME handles meat, fish, dairy and cooked foods that you’d normally avoid outside. An outdoor pile is best with only plant-based scraps (or requires extra care if adding animal products). 
+- **Material Flexibility:** The GEME handles meat, fish, dairy and cooked foods that you’d normally avoid outside. An outdoor pile is best with only plant-based scraps (or requires extra care if adding animal products). 
 
-- Quality of Output: Well-managed backyard compost is fully mature and ready to use. Most electric composters produce a dry, pulverised mix that often benefits from a final cure. The GEME’s microbial process produces true compost. In practice, it would be much better to mix the compost into a garden area and let it finish decomposing for a week or two before planting.
+- **Quality of Output:** Well-managed backyard compost is fully mature and ready to use. Most electric composters produce a dry, pulverised mix that often benefits from a final cure. The GEME’s microbial process produces true compost. In practice, it would be much better to mix the compost into a garden area and let it finish decomposing for a week or two before planting.
 
-- Odour & Pests: Outdoor piles can emit odours if imbalanced and may attract animals if meat/dairy is present. The GEME’s sealed, filtered system keeps smells contained and eliminates pest issues.
+- **Odour & Pests:** Outdoor piles can emit odours if imbalanced and may attract animals if meat/dairy is present. The GEME’s sealed, filtered system keeps smells contained and eliminates pest issues.
 
 In essence, backyard composting is cost-effective and sustainable if you have the space and patience. It’s perfect for gardeners who enjoy hands-on compost making and have yard waste to balance kitchen scraps. Meanwhile, an electric composter like GEME is a premium option for those prioritising convenience, speed, and 24/7 composting – especially in urban or winter settings. Many users find the main value is time saved: **💚GEME can produce a bag of compost in days that a backyard pile would take months to create.**
 
@@ -188,19 +196,21 @@ In essence, backyard composting is cost-effective and sustainable if you have th
 
 Whether you choose a compost pile or an electric composter, some general tips help ensure success:
 
-- Balance Greens and Browns: Aim for about a 1:2 or 1:3 ratio of wet to dry materials by volume. More browns prevent odours and excess moisture.
+- **Balance Greens and Browns:** Aim for about a 1:2 or 1:3 ratio of wet to dry materials by volume. More browns prevent odours and excess moisture.
 
-- Stay Aerated: In piles, turn regularly. In electric bins, ensure vents are clear. Oxygen-loving microbes need air to work.
+- **Stay Aerated:** In piles, turn regularly. In electric bins, ensure vents are clear. Oxygen-loving microbes need air to work.
 
-- Monitor Moisture: Compost should be damp, not drippy wet. If your pile or machine contents seem parched, add a little water; if it’s soggy, add dry material.
+- **Monitor Moisture:** Compost should be damp, not drippy wet. If your pile or machine contents seem parched, add a little water; if it’s soggy, add dry material.
 
-- Chop or Shred Waste: Smaller pieces compost faster. Chop woody stems or tough scraps before adding them to your compost pile.
+- **Chop or Shred Waste:** Smaller pieces compost faster. Chop woody stems or tough scraps before adding them to your compost pile.
 
-- Maintain Heat: Pile temperatures indicate activity. If a backyard pile isn’t heating, add more greens or cover it to retain warmth. For GEME, simply ensure it is plugged in and clean.
+- **Maintain Heat:** Pile temperatures indicate activity. If a backyard pile isn’t heating, add more greens or cover it to retain warmth. For GEME, simply ensure it is plugged in and clean.
 
-- Prevent Pests: In outdoor bins, use lids and bury food scraps under browns. Indoor bins like GEME rely on the airtight design.
+- **Prevent Pests:** In outdoor bins, use lids and bury food scraps under browns. Indoor bins like GEME rely on the airtight design.
 
-- Mix Outputs: Even after using an electric composter, consider mixing its output into garden soil. This final “curing” step lets any remaining microbes finish their work. 
+- **Mix Outputs:** Even after using an electric composter, consider mixing its output into garden soil. This final “curing” step lets any remaining microbes finish their work. 
+
+![Backyard Compost Pile](./img/compost-pile.jpg)
 
 ## Conclusion
 
