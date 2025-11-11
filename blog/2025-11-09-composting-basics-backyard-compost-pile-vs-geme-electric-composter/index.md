@@ -1,6 +1,6 @@
 ---
 title: "Composting Basics: Backyard Compost Pile VS GEME Electric Composter"
-description: Composting basics: learn what composting is and what can be composted. Compare a backyard compost pile to a GEME electric composter in this practical how-to guide.
+description: "Composting basics: learn what composting is and what can be composted. Compare a backyard compost pile to a GEME electric composter in this practical how-to guide."
 keywords:
   - composting basics
   - electric composter
