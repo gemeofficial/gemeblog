@@ -136,7 +136,7 @@ The advantage of electric units is convenience and speed. Because they operate i
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Use GEME Kitchen Composter to Reduce Food Waste"
-  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-way-to-store-strawberries"
+  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=compost-pile-vs-electric-composter"
 />
 
 In summary, an electric composter like GEME offers a fast, indoor solution for kitchen scraps, especially where outdoor composting is impractical. It can convert most food waste into a compostable form in under a day. 
