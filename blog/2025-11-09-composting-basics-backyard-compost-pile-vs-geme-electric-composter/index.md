@@ -11,6 +11,7 @@ keywords:
 slug: compost-pile-vs-electric-composter
 authors: [Moore]
 tags: [foodwaste, composting, compost, recycling]
+picture: https://www.geme.bio/assets/images/epa-composting-graphic2_0-6d5d76b2058ef0e626c4c78dc3f8f81e.png 
 ---
 
 import GemeComposterCTA from '@site/src/components/GemeComposterCTA' 
@@ -129,12 +130,12 @@ The advantage of electric units is convenience and speed. Because they operate i
  imgSrc="/img/geme-bio-composter.jpg"
  productTitle="GEME Bio-waste Composter"
  features={[
-    "✅ Compost Spoiled Strawberries within 8 hours",
+    "✅ Compost Food Waste within 8 hours",
     "✅ Better Compost For Soil Health & Garden Plants",
-    "✅ Quiet, Odor-Free, Mature Compost",
+    "✅ Quiet, Odor-Free, Real Compost",
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
-buttonText="Use GEME Kitchen Composter to Compost Food Waste"
+buttonText="Use GEME Kitchen Composter to Reduce Food Waste"
   href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-way-to-store-strawberries"
 />
 
