@@ -80,7 +80,7 @@ The key idea: **adding moldy fruits can actually help your compost**. Mold and f
 
 Most mold species on food will be killed by the heat of an active compost pile. In fact, a well-maintained compost pile can reach 130–160°F, which is hot enough to kill the spores of most pathogens and molds. So any harmful fungi on the grapes are not likely to survive a thorough composting process. 
 
-But the question is, most families don't have enough space or kitchen waste to build a large compost pile that can reach a high enough temperature to kill the pathogens and molds. Your compost will stay cold in a simple small pile, especially in autumn or winter days, and can take months to finish. Thus, a kitchen composter is recommended as the best solution, as it can heat up your compost to 160-210°F, and break down the moldy grapes to finished compost within a day.
+But the question is, most families don't have enough space or kitchen waste to build a large compost pile that can reach a high enough temperature to kill the pathogens and molds. Your compost will stay cold in a simple small pile, especially in autumn or winter days, and can take months to finish. **Thus, a kitchen composter is recommended as the best solution, as it can heat up your compost to 160-210°F, and break down the moldy grapes to finished compost within a day**.
 
 If you throw grapes in the composter, follow the composting rules (see below) and be sure to cover them with browns. 
 
@@ -113,17 +113,17 @@ If you decide to compost your grapes (spoiled or not), here’s how to do it eff
 
 - **Keep moisture balanced**. The compost should be about as damp as a wrung-out sponge. If it’s too wet (which fruit scraps can cause), add more dry browns. If it’s too dry, add water and more greens.
 
-![GEME Home Electric Composter Step 1](./img/compost-step-1.gif)
-
-![GEME Home Electric Composter Step 2](./img/compost-step-2.gif)
-
-![GEME Home Electric Composter Step 3](./img/compost-step-3.gif)
-
 Following these steps, your grapes – even ones that were moldy – will safely turn into rich compost in a day when using the GEME electric composter (or a few months for a barkyard compost pile). 
 
 Remember that large backyard compost piles can take 3–6 months to mature fully, while smaller piles might take up to a year. **So, it's clearly better to use a composter for a safer, simpler, and shorter composting process**. Finished compost should be dark and earthy-smelling, with no visible food scraps.
 
 If you compost in a cooler or outdoor pile that never heats up much (under 120 °F), just take extra care: bury the moldy grapes deeper and mix well to distribute heat.
+
+![GEME Home Electric Composter Step 1](./img/compost-step-1.gif)
+
+![GEME Home Electric Composter Step 2](./img/compost-step-2.gif)
+
+![GEME Home Electric Composter Step 3](./img/compost-step-3.gif)
 
 ### Key features of the GEME include:
 
