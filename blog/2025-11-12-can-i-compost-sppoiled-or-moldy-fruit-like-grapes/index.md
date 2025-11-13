@@ -11,6 +11,7 @@ keywords:
 slug: can-i-compost-moldy-grapes
 authors: [Moore]
 tags: [foodwaste, composting, compost, recycling]
+picture: https://www.geme.bio/assets/images/grapes-cc3165848eb60e3d1c1edaa7e7a7355c.jpg
 ---
 
 import GemeComposterCTA from '@site/src/components/GemeComposterCTA' 
