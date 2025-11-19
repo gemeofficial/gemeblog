@@ -54,7 +54,7 @@ First of all, let’s get it straight! On this Black Friday, the best GEME Compo
 - Free Shipping
 
 Original price: $1098
-**Black Friday Exclusive: $899**
+**Black Friday Exclusive**: $899
 Discount: around $200 off
 
 ![GEME Composter Discount](./img/geme-composter.webp)
