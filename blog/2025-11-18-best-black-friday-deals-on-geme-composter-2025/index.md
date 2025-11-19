@@ -49,7 +49,7 @@ Below, let’s find out the best GEME Composter discounts on GEME's official web
 First of all, let's get it straight! On this Black Friday, the best GEME Composter discount is a great bundle saving - the Geme Kit + Quarterly Kobold Supply (1 Pack) For Free + 2-Year Warranty, with \$200 off. Here's the detail: 
  
 - GEME Composter: 1 unit
-- GEME Kobold: 1 + 1 Pack of Quarterly Supply (Worth \$36)
+- GEME Kobold: 1+1 = 2 Packs of Quarterly Supply (Worth \$36)
 - Shovel & Scraper: 1
 - Warranty: 1+1 = 2 Years (Worth \$170)
 - Free Shipping
