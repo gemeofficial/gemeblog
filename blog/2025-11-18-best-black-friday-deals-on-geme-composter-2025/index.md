@@ -46,10 +46,10 @@ Below, let’s find out the best GEME Composter discounts on GEME's official web
 
 ## 1. The Best GEME Composter Discount
 
-First of all, let's get it straight! On this Black Friday, the best GEME Composter discount is a great bundle saving - the Geme Kit + Quarterly Kobold Supply (6 Packs) For Free + 2-Year Warranty, with \$200 off. Here's the detail: 
+First of all, let's get it straight! On this Black Friday, the best GEME Composter discount is a great bundle saving - the Geme Kit + Quarterly Kobold Supply (1 Pack) For Free + 2-Year Warranty, with \$200 off. Here's the detail: 
  
 - GEME Composter: 1 unit
-- GEME Kobold: 1 + 6 Packs of Quarterly Supply (Worth \$36)
+- GEME Kobold: 1 + 1 Pack of Quarterly Supply (Worth \$36)
 - Shovel & Scraper: 1
 - Warranty: 1+1 = 2 Years (Worth \$170)
 - Free Shipping
@@ -100,7 +100,7 @@ buttonText="Use GEME Kitchen Composter to Reduce Food Waste"
 
 ## 3. The Benefits of GEME Composter Discount
 
-Black Friday deals on kitchen appliances are exclusive in the year of 2025. For the above bundle, it's worth \$1098 on regular days. However, you will get around 200 Dollars off for **a freebie of Quarterly Kobold Supply and a 2-year warranty, which is priced at 899 US Dollars only!**
+Black Friday deals on kitchen appliances are exclusive in the year of 2025. For the above bundle, it's worth \$1098 on regular days. However, you will get around \$200 off for **a freebie of Quarterly Kobold Supply and a 2-year warranty, which is priced at \$899 only!**
  
 For the freebie of Kobold, you can use it for 6 months compared with the original kit. Also, the extended warranty will ensure you have the best experience of composting at home. 
 
