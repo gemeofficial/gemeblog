@@ -54,7 +54,10 @@ First of all, let’s get it straight! On this Black Friday, the best GEME Compo
 - Free Shipping
 
 Original price: $1098
-**Black Friday Exclusive**: $899
+
+<span style={{ color: "#176a1c", fontWeight: "bold" }}><b>Black Friday Exclusive: $899</b></span>
+
+
 Discount: around $200 off
 
 ![GEME Composter Discount](./img/geme-composter.webp)
@@ -63,14 +66,23 @@ Discount: around $200 off
 
 For Black Friday 2025, you can get the GEME Composter Discount through:
 
-  1. **GEME’s official product page**: https://www.geme.bio/product/geme 
+  1. **GEME’s official product page**: 
+  
+  https://www.geme.bio/product/geme 
 
-  2. **GEME’s Amazon Product page**: (For US users) https://www.amazon.com/GEME-Composter-Real-Composting-Electric/dp/B0BV31KTCN?maas=maas_adg_1D1327F2B6769D19FFBFD6A0E636E38D_afap_abs&ref_=aa_maas&tag=maas
+  2. **GEME’s Amazon Product page**: 
+  
+  (For US users) https://www.amazon.com/GEME-Composter-Real-Composting-Electric/dp/B0BV31KTCN?maas=maas_adg_1D1327F2B6769D19FFBFD6A0E636E38D_afap_abs&ref_=aa_maas&tag=maas
+  
   (For Deutschland users) https://www.amazon.de/GEME-Elektrischer-Dauerhafter-Kompostierung-Kompostbeh%C3%A4lter/dp/B0CJY4K9J3?maas=maas_adg_97B704A2C272860E61DF4501F27A1DDE_afap_abs&ref_=aa_maas&tag=maas 
 
-  3. **GEME’s Walmart Product page**: https://www.walmart.com/ip/GEME-World-First-Bio-Smart-19L-Electric-Composter-Kitchen-Filter-No-Need-Change-Not-Dehydration-Tec-Add-Waste-Anytime-Compost-Machine-Bin-Food-Cycler/1670817413  
+  3. **GEME’s Walmart Product page**: 
+  
+  https://www.walmart.com/ip/GEME-World-First-Bio-Smart-19L-Electric-Composter-Kitchen-Filter-No-Need-Change-Not-Dehydration-Tec-Add-Waste-Anytime-Compost-Machine-Bin-Food-Cycler/1670817413  
 
-  4. **Subscribe for Early Alerts**: Sign up for the [GEME newsletter](https://www.geme.bio/signup) or follow our social channels. We will release Black Friday promo emails to subscribers for Black Friday and Cyber Monday 2025.
+  4. **Subscribe for Early Alerts**: 
+  
+  Sign up for the [GEME newsletter](https://www.geme.bio/signup) or follow our social channels. We will release Black Friday promo emails to subscribers for Black Friday and Cyber Monday 2025.
 
 <GemeComposterCTA 
  imgSrc="/img/geme-bio-composter.jpg"
@@ -87,7 +99,7 @@ buttonText="Use GEME Kitchen Composter to Reduce Food Waste"
 
 ## 3. The Benefits of GEME Composter Discount
 
-Black Friday deals on kitchen appliances are exclusive in the year of 2025. For the above bundle, it’s worth $1098 on regular days. However, you will get around $200 off for **a freebie of Quarterly Kobold Supply and a 2-year warranty, which is priced at $899 only**! 
+Black Friday deals on kitchen appliances are exclusive in the year of 2025. For the above bundle, it’s worth $1098 on regular days. However, you will get around 200 Dollars off for **a freebie of Quarterly Kobold Supply and a 2-year warranty, which is priced at 899 US Dollars only!**
  
 For the freebie of Kobold, you can use it for 6 months compared with the original kit. Also, the extended warranty will ensure you have the best experience of composting at home. 
 
@@ -108,6 +120,7 @@ When your town is covered by snow, a compost pile will definitely fail to compos
 
 Operating a GEME composter is straightforward. You pour kitchen scraps into the bin and hit “start”. The internal mixing shaft and heating system take over, maintaining temperatures around 160–212°F to kill pathogens. Over several hours, the waste is ground and fermented. At the end of a cycle, excess moisture is expelled, and the remaining material settles. Every few weeks (depending on use), the composter will be full of rich compost. You simply open the hatch and scoop out the dark, earthy compost. One user notes that all the dinner waste can disappear by morning! (See reviews from the official GEME site: www.geme.bio.)
 
+
 <div className="video__wrapper">
   <ReactPlayer 
     className="video__player" 
@@ -116,7 +129,10 @@ Operating a GEME composter is straightforward. You pour kitchen scraps into the 
   />
 </div>
 
-Important tips: GEME can handle fruit peels, veggies, coffee grounds, eggshells, meat, dairy, and even certain plant matter that you’d avoid in a backyard pile. Do not add very hard items (like big bones) or non-biodegradables (plastics, metal, glass). Because GEME’s microbes need a little care, you should add a 20g microbial refill (“Kobold”) about every two weeks to keep the composting active. But aside from cleaning the bin occasionally, the device is largely self-sufficient.
+
+### Important tips: 
+
+GEME can handle fruit peels, veggies, coffee grounds, eggshells, meat, dairy, and even certain plant matter that you’d avoid in a backyard pile. Do not add very hard items (like big bones) or non-biodegradables (plastics, metal, glass). Because GEME’s microbes need a little care, you should add a 20g microbial refill (“Kobold”) about every two weeks to keep the composting active. But aside from cleaning the bin occasionally, the device is largely self-sufficient.
 
 ## 6. Comparing GEME to Other Electric Composters
 
@@ -124,13 +140,13 @@ When evaluating Black Friday deals, consider how the GEME composter stacks up ag
  
 ### Feature Comparison:
  
-- Capacity: GEME ~19L (~5kg/day) vs. Lomi Classic ~8L (2kg/day) or Vitamix ~7L (daily use).
+- **Capacity**: GEME ~19L (~5kg/day) vs. Lomi Classic ~8L (2kg/day) or Vitamix ~7L (daily use).
 
-- Output: GEME – real compost; Others – dried pulp or liquid.
+- **Output**: GEME – real compost; Others – dried pulp or liquid.
 
-- Noise & Size: GEME is relatively large (42 lbs, 18×12.6×26.2 in) but runs quietly. Some smaller units can be lighter but also smaller capacity that can’t process all your daily kitchen waste.
+- **Noise & Size**: GEME is relatively large (42 lbs, 18×12.6×26.2 in) but runs quietly. Some smaller units can be lighter but also smaller capacity that can’t process all your daily kitchen waste.
 
-- Cost: Discounted GEME Kit $899 for Black Friday deals; Others can exceed $900 or can be at a lower price, but not a full breakdown or real composting (dehydrating instead).
+- **Cost**: Discounted GEME Kit 899 US Dollars for Black Friday deals; Others can exceed 900 US Dollars or can be at a lower price, but not a full breakdown or real composting (dehydrating instead).
  
 The GEME composter bridges the gap between outdoor piles and simple food recyclers. Compared to a backyard compost bin, the GEME composter is space-efficient and works year-round indoors. It eliminates pests and odours common to outdoor piles because of its sealed design. 
 
