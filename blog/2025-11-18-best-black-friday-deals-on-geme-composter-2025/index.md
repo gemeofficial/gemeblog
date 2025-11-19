@@ -10,6 +10,7 @@ keywords:
 slug: best-black-friday-deals-on-geme-composter-2025
 authors: [Moore]
 tags: [geme, composter, composting, sustainability]
+picture: https://www.geme.bio/img/geme-bio-composter.jpg
 ---
 
 import GemeComposterCTA from '@site/src/components/GemeComposterCTA' 
