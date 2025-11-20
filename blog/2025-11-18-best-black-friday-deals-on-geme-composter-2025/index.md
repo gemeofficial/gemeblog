@@ -1,5 +1,5 @@
 ---
-title: "Best Black Friday Deals on GEME Composter 2025"
+title: "GEME Composter Black Friday Discount 2025"
 description: Score big savings on GEME Composter this Black Friday! Discover the best Black Friday appliance deals on the GEME countertop composter for 2025. Snag a GEME Composter Discount and learn about GEME’s features and environmental benefits. 
 keywords:
   - GEME Composter
