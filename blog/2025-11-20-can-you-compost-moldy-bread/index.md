@@ -9,6 +9,7 @@ keywords:
 slug: can-you-compost-moldy-bread
 authors: [Moore]
 tags: [foodwaste, composting, sustainability]
+picture: https://www.geme.bio/assets/images/what-happens-if-you-eat-moldy-bread-0d4410d8bbf61d82993cc4d76341b4a9.jpg 
 ---
 
 import GemeComposterCTA from '@site/src/components/GemeComposterCTA' 
