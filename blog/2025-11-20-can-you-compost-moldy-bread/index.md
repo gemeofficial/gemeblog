@@ -21,11 +21,11 @@ Bread is one of the most commonly wasted foods in American and European househol
 
 ### Quick Recap
 
-- Can you compost bread? Yes — even moldy bread.
+- Can you compost bread? **Yes — even moldy bread**.
 
-- Can bread be composted safely? Absolutely, especially in a GEME composter.
+- Can bread be composted safely? **Absolutely, especially in a GEME composter**.
 
-- Is moldy bread dangerous to eat? Yes, avoid it due to allergens and potential toxins.
+- Is moldy bread dangerous to eat? **Yes, avoid it due to allergens and potential toxins**.
 
 You’ll also learn why bread composts more reliably in a GEME composter, which uses active microorganisms to break it down fully.
 
@@ -72,7 +72,7 @@ This is why many university extension programs and composting experts recommend 
 
 A GEME Composter uses heat + continuous mixing + living microbes to digest food waste rapidly. Bread — especially soft or moldy bread — is one of the easiest items for GEME Kitchen Composter to process.
 
- Benefits include:
+ **Benefits include**:
 
 - no pests, no odor
 
@@ -153,7 +153,7 @@ Bread is porous, meaning mold roots (called hyphae) spread deep below the visibl
 
 Reactions vary depending on the mold type and the person’s health, but potential effects include:
 
-  3.1 Digestive discomfort
+  1. **Digestive discomfort**
   
   Symptoms may include:
   
@@ -167,7 +167,7 @@ Reactions vary depending on the mold type and the person’s health, but potenti
 
 These are caused by mold spores or microbial byproducts.
 
-  3.2 Allergic reactions
+  2. **Allergic reactions**
   
   People sensitive to mold may experience:
   
@@ -183,17 +183,17 @@ These are caused by mold spores or microbial byproducts.
 
 Severe reactions are more common in people with asthma.
 
-  3.3 Exposure to mycotoxins
+  3. **Exposure to mycotoxins**
   
   Some molds produce mycotoxins, toxic compounds that can harm health when eaten. While most bread molds are not the most dangerous species, it is impossible to identify them safely at home.
   
-  If someone ate moldy bread accidentally:
+  **If someone ate moldy bread accidentally**:
   
   - Most healthy adults will be fine with mild symptoms.
   
   - Drink water and monitor for reactions.
   
-  - Seek medical advice if:
+  **Seek medical advice if**:
   
   - symptoms worsen
   
