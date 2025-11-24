@@ -36,7 +36,7 @@ Let’s dive into how to keep your blueberries fresh, flavorful, and safe to eat
 
 <!-- truncate -->
 
-<h2 class="jump-to">Jump To</h2>
+<h2 className="jump-to">Jump To</h2>
 
 1. **[How Long Do Blueberries Last?](#1-how-long-do-blueberries-last)**
 

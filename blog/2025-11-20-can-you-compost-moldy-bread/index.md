@@ -10,6 +10,7 @@ slug: can-you-compost-moldy-bread
 authors: [Moore]
 tags: [foodwaste, composting, sustainability]
 picture: https://www.geme.bio/assets/images/what-happens-if-you-eat-moldy-bread-0d4410d8bbf61d82993cc4d76341b4a9.jpg 
+showBlackFridayModal: true
 ---
 
 import GemeComposterCTA from '@site/src/components/GemeComposterCTA' 
@@ -33,7 +34,7 @@ You’ll also learn why bread composts more reliably in a GEME composter, which 
 ![Can you compost moldy bread?](./img/can-you-compost-bread.jpg)
 <!-- truncate -->
 
-<h2 class="jump-to">Jump To</h2>
+<h2 className="jump-to">Jump To</h2>
 
 1. **[Can You Compost Moldy Bread?](#1-can-you-compost-bread-especially-moldy-bread)**
 

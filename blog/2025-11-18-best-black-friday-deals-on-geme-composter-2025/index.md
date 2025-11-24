@@ -26,7 +26,7 @@ Below, let’s find out the best GEME Composter discounts on GEME's official web
 ![Best Black Friday Deals On GEME Composter](./img/geme-composter-discount.webp)
 <!-- truncate -->
 
-<h2 class="jump-to">Jump To</h2>
+<h2 className="jump-to">Jump To</h2>
 
 1. **[The Best GEME Composter Discount](#1-the-best-geme-composter-discount)**
 

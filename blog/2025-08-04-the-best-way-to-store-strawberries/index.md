@@ -26,7 +26,7 @@ The tips below (**drawn from USDA and university extension guidance**) will help
 
 <!-- truncate -->
 
-<h2 class="jump-to">Jump To</h2>
+<h2 className="jump-to">Jump To</h2>
 
 1. **[Why Strawberries Spoil Quickly?](#1-why-strawberries-spoil-quickly)**
 
