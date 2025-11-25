@@ -1,11 +1,11 @@
-import React, { useState, useEffect } from 'react';
-import clsx from 'clsx';
+import React, { useState, useEffect } from "react";
+import clsx from "clsx";
 
 export default function BlackFridayModal({
   delay = 8000,
   imgSrc = "/img/geme-bio-composter.jpg",
   href = "https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=black_friday&utm_content=black_friday_modal",
-  onClose
+  onClose,
 }) {
   const [isVisible, setIsVisible] = useState(false);
   const [isMounted, setIsMounted] = useState(false);
@@ -34,7 +34,7 @@ export default function BlackFridayModal({
   };
 
   // 点击背景关闭
-  const handleBackdropClick = (e) => {
+  const handleBackdropClick = e => {
     if (e.target === e.currentTarget) {
       handleClose();
     }
@@ -47,7 +47,7 @@ export default function BlackFridayModal({
   return (
     <div
       className={clsx(
-        "fixed inset-0 z-50 flex items-center justify-center",
+        "fixed inset-0 z-[999] flex items-center justify-center",
         "bg-black bg-opacity-50 transition-opacity duration-300",
         isVisible ? "opacity-100" : "opacity-0"
       )}
@@ -56,13 +56,12 @@ export default function BlackFridayModal({
       <div
         className={clsx(
           "relative bg-white rounded-lg shadow-2xl",
-          "w-full h-full md:w-auto md:h-auto md:max-w-[1024px]",
-          "flex flex-col md:flex-row",
+          "w-full h-[90vh] md:w-auto md:h-auto md:min-h-[70vh] md:max-w-5xl 2xl:max-w-7xl",
           "transition-all duration-300",
           isVisible ? "scale-100 opacity-100" : "scale-95 opacity-0",
           "overflow-hidden"
         )}
-        onClick={(e) => e.stopPropagation()}
+        onClick={e => e.stopPropagation()}
       >
         {/* 关闭按钮 */}
         <button
@@ -73,7 +72,7 @@ export default function BlackFridayModal({
             "flex items-center justify-center",
             "bg-white rounded-full shadow-lg",
             "hover:bg-gray-100 transition-colors",
-            "text-gray-600 hover:text-gray-900"
+            "text-gray-600 hover:text-gray-900 cursor-pointer"
           )}
           aria-label="Close"
         >
@@ -94,7 +93,7 @@ export default function BlackFridayModal({
 
         {/* 移动端布局：内容在上，按钮在中间，图片在下 */}
         {/* PC端布局：图片在左，内容在右，按钮在内容底部 */}
-        <div className="flex flex-col md:flex-row h-full">
+        <div className="flex flex-col h-full md:flex-row min-h-[70vh] max-h-[90vh]">
           {/* PC端：左侧图片，移动端：下方图片 */}
           <div className="order-3 md:order-1 w-full md:w-1/2 h-1/3 md:h-auto flex-shrink-0">
             <img
@@ -112,21 +111,16 @@ export default function BlackFridayModal({
                 Black Friday Discount: 20% off!
               </h2>
 
-              <div className="space-y-3 md:space-y-4 mb-6 md:mb-8">
-                <div className="text-base md:text-lg font-semibold text-gray-800">
-                  <p className="mb-2">GEME Composter x 1</p>
-                  <p className="mb-2">GEME Kobold x 1 + Quarterly Supply x 1</p>
-                  <p>Shovel & Scraper x 1</p>
-                </div>
-
-                <div className="space-y-2 text-sm md:text-base text-gray-600">
-                  <p>Warranty: 2 years</p>
-                  <p>Shipping: Free</p>
-                </div>
+              <div className="mb-4 lg:mb-8 text-base md:text-lg font-semibold text-gray-800 text-center md:text-left">
+                <p className="mb-2 md:mb-4">GEME Composter x 1</p>
+                <p className="mb-2 md:mb-4">GEME Kobold x 1 + Quarterly Supply x 1</p>
+                <p className="mb-2 md:mb-4">Shovel & Scraper x 1</p>
+                <p className="mb-2 md:mb-4">Warranty: 2 years</p>
+                <p className="mb-2 md:mb-4">Shipping: Free</p>
               </div>
 
               {/* 价格信息 */}
-              <div className="mb-6 md:mb-8">
+              <div className="mb-4 lg:mb-8">
                 <div className="flex flex-col md:flex-row items-center md:items-baseline gap-2 md:gap-4">
                   <span className="text-lg md:text-xl text-gray-500 line-through">
                     Price: $1098
@@ -163,4 +157,3 @@ export default function BlackFridayModal({
     </div>
   );
 }
-

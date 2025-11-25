@@ -10,6 +10,7 @@ keywords:
 slug: what-is-anaerobic-composting-and-what-are-the-pros-and-cons
 authors: [lukas]
 tags: [composting]
+showBlackFridayModal: true
 ---
 import Columns from '@site/src/components/Columns'
 import Column from '@site/src/components/Column'
