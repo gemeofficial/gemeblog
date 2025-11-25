@@ -11,6 +11,7 @@ slug: how-to-make-bananas-last-longer
 authors: [Moore]
 tags: [sustainability, foodwaste, compost]
 picture: https://www.geme.bio/assets/images/how-long-do-bananas-last-80f49f1539885de54e549104e7df125a.jpg
+showBlackFridayModal: true
 ---
 
 import GemeComposterCTA from '@site/src/components/GemeComposterCTA'

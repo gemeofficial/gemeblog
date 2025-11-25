@@ -33,7 +33,7 @@ You’ll also learn why bread composts more reliably in a GEME composter, which 
 ![Can you compost moldy bread?](./img/can-you-compost-bread.jpg)
 <!-- truncate -->
 
-<h2 class="jump-to">Jump To</h2>
+<h2 className="jump-to">Jump To</h2>
 
 1. **[Can You Compost Moldy Bread?](#1-can-you-compost-bread-especially-moldy-bread)**
 

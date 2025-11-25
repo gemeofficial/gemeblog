@@ -25,7 +25,7 @@ In this practical guide, we’ll cover everything from explaining mold on grapes
 
 <!-- truncate -->
 
-<h2 class="jump-to">Jump To</h2>
+<h2 className="jump-to">Jump To</h2>
 
 1. **[Mold on Grapes: How to identify and prevent Mold on Fruits?](#1-mold-on-grapes-identifying-and-preventing-spoilage)**
 

@@ -6,7 +6,6 @@ import styles from './styles.module.css';
 
 export default function RelatedArticles({ slugs = [], className }) {
   const allBlogData = usePluginData("docusaurus-plugin-content-blog");
-  console.log('allBlogData', allBlogData);
 
   // 根据slugs过滤相关文章
   const relatedPosts = allBlogData.blogs.filter(blog =>

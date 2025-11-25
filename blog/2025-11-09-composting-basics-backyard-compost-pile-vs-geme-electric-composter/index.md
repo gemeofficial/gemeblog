@@ -27,7 +27,7 @@ A garden compost pile heating up and steaming as microbes break down yard and ki
 
 <!-- truncate -->
 
-<h2 class="jump-to">Jump To</h2>
+<h2 className="jump-to">Jump To</h2>
 
 1. **[Why Compost at Home??](#1-why-compost-at-home)**
 
