@@ -36,7 +36,7 @@ Here’s a practical guide for what to do when a winter storm warning is in effe
 
 5. **[What to Do During A Winter Storm?](#5-what-to-do-during-a-winter-storm-warning-action-plan)**
 
-6. **[Why Choose GEME Kitchen Composter During A Winter Storm?](#conclusion-why-geme-kitchen-composter-during-a-winter-storm)
+6. **[Why Choose GEME Kitchen Composter During A Winter Storm?](#conclusion-why-geme-kitchen-composter-during-a-winter-storm)**
 
 ## 1. Why Winter Storm Threatens Your Compost System
 
@@ -175,7 +175,7 @@ When a winter storm warning hits, act early: insulate your pile, switch to GEME 
   "how-long-do-blueberries-last-in-fridge",
   "how-long-do-apples-last-in-the-fridge",
   "can-i-compost-moldy-grapes",
-  "best-black-friday-deals-on-geme-composter-2025"
+  "best-black-friday-deals-on-geme-composter-2025",
   "can-you-compost-moldy-bread"
   ]}
 />
