@@ -1,5 +1,5 @@
 ---
-title: "Winter Storm Warning in Effect: How Can I Protect My Garden and Keep My Compost Working?"
+title: "Winter Storm Warning in Effect: How Can I Protect My Garden and Compost in Winter?"
 description: Can we compost in winter? Yes, but only by indoor electric Composter. NOAA has issued a winter storm warning for Minnesota ahead of Thanksgiving. A Winter storm can stop your compost pile cold. To protect your garden, and keep compost working in winter, you can use a GEME kitchen composter that thrives even in freezing weather.
 keywords:
   - winter storm
