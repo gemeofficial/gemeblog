@@ -8,6 +8,7 @@ keywords:
 slug: is-walmart-open-on-thanksgiving
 authors: [Moore]
 tags: [composter]
+image: https://www.geme.bio/assets/images/geme-composter-discount-during-walmart-thanksgiving-hours-95dbd73c208cdc4b2519df8651634e77.png
 ---
 
 import GemeComposterCTA from '@site/src/components/GemeComposterCTA' 
