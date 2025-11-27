@@ -12,7 +12,7 @@ keywords:
 slug: the-best-composter-to-reduce-food-waste
 authors: [Moore]
 tags: [composter, composting, food waste, sustainability, compost]
-picture: https://www.geme.bio/assets/images/geme-kitchen-composter-02-ce606b7710ee798380164acf2dfae692.jpg
+image: https://www.geme.bio/assets/images/geme-kitchen-composter-02-ce606b7710ee798380164acf2dfae692.jpg
 ---
 
 <head >

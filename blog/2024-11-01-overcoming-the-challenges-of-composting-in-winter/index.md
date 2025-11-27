@@ -8,7 +8,7 @@ keywords:
 slug: overcoming-the-challenges-of-composting-in-winter
 authors: [joey]
 tags: [composting]
-picture: https://www.geme.bio/assets/images/img-f44f46e270e1baa7aeda18f248c0a649.png
+image: https://www.geme.bio/assets/images/img-f44f46e270e1baa7aeda18f248c0a649.png
 ---
 <head>
     <meta charSet="utf-8" />

@@ -11,7 +11,7 @@ keywords:
 slug: can-popcorn-expire
 authors: [Moore]
 tags: [food waste, composting, compost]
-picture: https://www.geme.bio/assets/images/does-popcorn-expire-7ccd661160b7ba97a3bf3ccb151440d7.jpg
+image: https://www.geme.bio/assets/images/does-popcorn-expire-7ccd661160b7ba97a3bf3ccb151440d7.jpg
 showBlackFridayModal: true
 ---
 

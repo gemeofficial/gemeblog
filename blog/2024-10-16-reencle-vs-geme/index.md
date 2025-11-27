@@ -8,7 +8,7 @@ keywords:
 slug: reencle-vs-geme-composter
 authors: [lukas]
 tags: [composter]
-picture: https://www.geme.bio/assets/images/geme-vs-reencle-63804f34b568a2a8f9335bd94054e0a1.png
+image: https://www.geme.bio/assets/images/geme-vs-reencle-63804f34b568a2a8f9335bd94054e0a1.png
 ---
 
 <head>

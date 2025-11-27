@@ -4,8 +4,7 @@ title: 'GEME Participates in "Soil, Water and Climate in Balance" Symposium, Hig
 description: 'GEME joined the Netherlands-based "Soil, Water and Climate in Balance" symposium to share composting innovations, discuss circular food systems, and promote sustainable waste solutions.'
 authors: [joey]
 tags: [geme, compost, climate, food-waste, sustainability, coe-groen, news]
-image: ./img/p1.jpg
-picture: https://www-geme-bio-us.s3.us-west-1.amazonaws.com/images/activities/swc-balance/p3.jpg
+image: https://www.geme.bio/assets/images/p3-b1da2e678157fc94113b07a9a3fc37e1.jpg
 ---
 
 import Columns from '@site/src/components/Columns'

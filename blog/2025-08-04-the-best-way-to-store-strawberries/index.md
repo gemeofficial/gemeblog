@@ -10,7 +10,7 @@ keywords:
 slug: best-way-to-store-strawberries
 authors: [Moore]
 tags: [foodwaste, sustainability, recycling, compost]
-picture: https://www.geme.bio/assets/images/how-to-store-strawberries-40a914c57913f9dcb2294ea9e1c07788.jpg
+image: https://www.geme.bio/assets/images/how-to-store-strawberries-40a914c57913f9dcb2294ea9e1c07788.jpg
 ---
 
 import GemeComposterCTA from '@site/src/components/GemeComposterCTA' 

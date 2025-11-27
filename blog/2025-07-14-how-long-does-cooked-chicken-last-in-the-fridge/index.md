@@ -10,7 +10,7 @@ keywords:
 slug: how-long-can-cooked-chicken-last-in-the-fridge
 authors: [Moore]
 tags: [food waste, composting, sustainability]
-picture: https://www.geme.bio/assets/images/how-long-is-cooked-chicken-good-for-in-the-fridge-bf65a6e03150d3686b7138c1018323e0.jpg
+image: https://www.geme.bio/assets/images/how-long-is-cooked-chicken-good-for-in-the-fridge-bf65a6e03150d3686b7138c1018323e0.jpg
 ---
 
 import GemeComposterCTA from '@site/src/components/GemeComposterCTA'

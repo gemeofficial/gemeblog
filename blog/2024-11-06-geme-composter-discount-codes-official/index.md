@@ -9,7 +9,7 @@ keywords:
 slug: geme-composter-discount-code
 authors: [matthias]
 tags: [geme, composter]
-picture: https://www.geme.bio/assets/images/img-66d84b59ef3429a9d4f5df3cfc1375f8.png
+image: https://www.geme.bio/assets/images/img-66d84b59ef3429a9d4f5df3cfc1375f8.png
 ---
 
 <head>

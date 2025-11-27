@@ -10,7 +10,7 @@ keywords:
 slug: recovery-guide-after-floods
 authors: [Moore]
 tags: [climate, plant, gardening, recycling, composting]
-picture: https://www.geme.bio/assets/images/texas-floods-29381e2a641b83b3e09d43093c167dda.jpg
+image: https://www.geme.bio/assets/images/texas-floods-29381e2a641b83b3e09d43093c167dda.jpg
 ---
 
 import ReactPlayer from 'react-player'

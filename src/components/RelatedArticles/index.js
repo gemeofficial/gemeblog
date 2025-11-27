@@ -24,14 +24,14 @@ export default function RelatedArticles({ slugs = [], className }) {
         <div className={styles.articlesGrid}>
           {relatedPosts.map((post, index) => {
             const { metadata } = post;
-            const { title, tags, picture, slug } = metadata.frontMatter;
+            const { title, tags, image, slug } = metadata.frontMatter;
 
             return (
               <article key={index} className={styles.articleCard}>
                 <Link to={`/blog/${slug}`} className={styles.cardLink}>
                   <div className={styles.cardImageContainer}>
                     <img
-                      src={picture}
+                      src={image}
                       alt={title}
                       className={styles.cardImage}
                       loading="lazy"

@@ -50,7 +50,7 @@ import RelatedArticles from "@site/src/components/RelatedArticles";
 ---
 title: "文章标题"
 tags: [tag1, tag2, tag3]
-picture: "https://example.com/image.jpg"
+image: "https://example.com/image.jpg"
 slug: "article-slug"
 ---
 ```
@@ -73,6 +73,6 @@ slug: "article-slug"
 ## 注意事项
 
 1. 确保传入的 slugs 在博客文章中存在
-2. 文章必须有完整的 frontmatter 信息（title, tags, picture, slug）
+2. 文章必须有完整的 frontmatter 信息（title, tags, image, slug）
 3. 组件会自动处理不存在的文章（返回 null）
 4. 图片使用懒加载优化性能

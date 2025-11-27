@@ -10,7 +10,7 @@ keywords:
 slug: winter-garden-cleanup-guide
 authors: [joey]
 tags: [gardening, composting, sustainability, seasonal, geme]
-picture: https://www.geme.bio/assets/images/winter-garden-cleanup.png
+image: https://www.geme.bio/assets/images/winter-garden-cleanup.png
 ---
 
 import Columns from '@site/src/components/Columns'

@@ -12,7 +12,7 @@ keywords:
 slug: how-long-do-apples-last-in-the-fridge
 authors: [Moore]
 tags: [plant, composter, food waste, composting, compost]
-picture: https://www.geme.bio/assets/images/how-to-store-apples-25526095cb35f0098395a78b02cfdbd6.jpg
+image: https://www.geme.bio/assets/images/how-to-store-apples-25526095cb35f0098395a78b02cfdbd6.jpg
 showBlackFridayModal: true
 ---
 

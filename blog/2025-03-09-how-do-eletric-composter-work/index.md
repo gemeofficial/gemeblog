@@ -10,7 +10,7 @@ keywords:
 slug: electric-composter-guide-geme
 authors: [michael]
 tags: [geme, composting, sustainability, foodwaste, recycling]
-picture: https://www.geme.bio/assets/images/4-months-8f716f44542752a0018da292356bf740.png
+image: https://www.geme.bio/assets/images/4-months-8f716f44542752a0018da292356bf740.png
 ---
 
 import Columns from '@site/src/components/Columns'

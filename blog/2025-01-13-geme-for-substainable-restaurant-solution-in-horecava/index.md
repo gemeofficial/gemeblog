@@ -9,7 +9,7 @@ keywords:
 slug: geme-for-restaurant-food-waste-solution-in-horecava
 authors: [joey]
 tags: [geme, composting, news, foodwaste, horecava, sustainability]
-picture: https://www.geme.bio/assets/images/1-380f5b6038f37bde26045310cef8f4cc.png
+image: https://www.geme.bio/assets/images/1-380f5b6038f37bde26045310cef8f4cc.png
 ---
 
 <head>

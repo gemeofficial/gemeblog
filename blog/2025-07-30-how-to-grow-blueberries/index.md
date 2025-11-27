@@ -12,7 +12,7 @@ keywords:
 slug: how-to-grow-blueberries
 authors: [Moore]
 tags: [gardening, plant, compost]
-picture: https://www.geme.bio/assets/images/how-do-blueberries-grow-23e19370b8248d50fb8434682017d419.jpg
+image: https://www.geme.bio/assets/images/how-do-blueberries-grow-23e19370b8248d50fb8434682017d419.jpg
 ---
 
 import GemeComposterCTA from '@site/src/components/GemeComposterCTA'
