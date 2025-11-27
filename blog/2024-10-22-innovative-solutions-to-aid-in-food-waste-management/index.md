@@ -8,7 +8,7 @@ keywords:
 slug: economic-mission-on-food-waste-newyork-2024
 authors: [joey]
 tags: [geme, news]
-picture: https://www.geme.bio/assets/images/head-db4818b05ab30cc4d72793c86fe4ba5e.png
+image: https://www.geme.bio/assets/images/head-db4818b05ab30cc4d72793c86fe4ba5e.png
 ---
 <head>
     <meta charSet="utf-8" />

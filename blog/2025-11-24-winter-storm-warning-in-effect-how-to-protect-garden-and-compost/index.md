@@ -7,7 +7,7 @@ keywords:
 slug: protect-garden-and-compost-from-winter-storm
 authors: [Moore]
 tags: [composting, climate, gardening]
-picture: https://www.geme.bio/assets/images/winter-storm-warning-c60cc54d59799c072a258c761dcabd55.webp
+image: https://www.geme.bio/assets/images/winter-storm-warning-c60cc54d59799c072a258c761dcabd55.webp
 ---
 
 import GemeComposterCTA from '@site/src/components/GemeComposterCTA' 

@@ -11,7 +11,7 @@ keywords:
 slug: do-eggs-expire
 authors: [Moore]
 tags: [food waste, sustainability, compost, composting]
-picture: https://www.geme.bio/assets/images/eggs-gone-bad-ca5340da8acf0206ac2653e920acfba3.jpg
+image: https://www.geme.bio/assets/images/eggs-gone-bad-ca5340da8acf0206ac2653e920acfba3.jpg
 ---
 
 import GemeComposterCTA from '@site/src/components/GemeComposterCTA'

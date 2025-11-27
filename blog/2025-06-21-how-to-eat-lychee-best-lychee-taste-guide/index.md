@@ -9,7 +9,7 @@ keywords:
 slug: how-to-eat-lychee-for-best-lychee-taste
 authors: [Moore]
 tags: [plant, composter, food waste, composting, compost]
-picture: https://www.geme.bio/assets/images/how-to-eat-lychee-9a5bf35daf874ce743294cb4ae3ea3d3.jpg
+image: https://www.geme.bio/assets/images/how-to-eat-lychee-9a5bf35daf874ce743294cb4ae3ea3d3.jpg
 ---
 
 import GemeComposterCTA from '@site/src/components/GemeComposterCTA'

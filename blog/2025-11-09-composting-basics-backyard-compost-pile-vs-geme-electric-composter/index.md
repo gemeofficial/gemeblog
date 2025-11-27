@@ -11,7 +11,7 @@ keywords:
 slug: compost-pile-vs-electric-composter
 authors: [Moore]
 tags: [foodwaste, composting, compost, recycling]
-picture: https://www.geme.bio/assets/images/epa-composting-graphic2_0-6d5d76b2058ef0e626c4c78dc3f8f81e.png 
+image: https://www.geme.bio/assets/images/epa-composting-graphic2_0-6d5d76b2058ef0e626c4c78dc3f8f81e.png 
 ---
 
 import GemeComposterCTA from '@site/src/components/GemeComposterCTA' 

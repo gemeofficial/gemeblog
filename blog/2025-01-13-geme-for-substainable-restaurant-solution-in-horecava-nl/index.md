@@ -9,7 +9,7 @@ keywords:
 slug: geme-duurzame-restaurant-oplossing-horecava
 authors: [joey]
 tags: [geme, horecava, news]
-picture: https://www.geme.bio/assets/images/1-380f5b6038f37bde26045310cef8f4cc.png
+image: https://www.geme.bio/assets/images/1-380f5b6038f37bde26045310cef8f4cc.png
 ---
 
 <head>

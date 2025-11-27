@@ -12,7 +12,7 @@ keywords:
 slug: fda-tomato-recall-salmonella-outbreak-raises-concerns-about-vegetable
 authors: [Moore]
 tags: [gardening, plant, sustainability]
-picture: https://www.geme.bio/assets/images/williams-farm-3ct-tray-0a5806881c0b0d4536016f8ac9405e36.jpg
+image: https://www.geme.bio/assets/images/williams-farm-3ct-tray-0a5806881c0b0d4536016f8ac9405e36.jpg
 ---
 
 <head >

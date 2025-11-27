@@ -54,7 +54,7 @@ export default function News() {
                   <div className="w-full md:w-72 h-48 md:h-52 overflow-hidden rounded-md">
                     <img
                       className="w-full h-full object-cover hover:scale-105 duration-500"
-                      src={blog.metadata.frontMatter.picture}
+                      src={blog.metadata.frontMatter.image}
                       alt={blog.metadata.title}
                     />
                   </div>

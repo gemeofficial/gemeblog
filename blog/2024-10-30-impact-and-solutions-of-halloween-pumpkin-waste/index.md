@@ -8,7 +8,7 @@ keywords:
 slug: the-phenomenon-impact-and-solutions-of-halloween-pumpkin-waste
 authors: [joey]
 tags: [foodwaste]
-picture: https://www.geme.bio/assets/images/img-ebbc76a64033f0a420d391471bff77ab.png
+image: https://www.geme.bio/assets/images/img-ebbc76a64033f0a420d391471bff77ab.png
 ---
 
 <head>

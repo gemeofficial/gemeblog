@@ -10,7 +10,7 @@ keywords:
 slug: geme-ces-2025-las-vegas
 authors: [joey]
 tags: [geme, ces, news, sustainability, foodwaste]
-picture: https://www.geme.bio/assets/images/ces-6b5e9dc266516bb1cc17e19869a3b9af.png
+image: https://www.geme.bio/assets/images/ces-6b5e9dc266516bb1cc17e19869a3b9af.png
 ---
 
 <head>
