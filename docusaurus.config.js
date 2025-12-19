@@ -4,32 +4,32 @@
 // 有多种等效的方法来声明您的 Docusaurus 配置。
 // 参见：https://docusaurus.io/docs/api/docusaurus-config
 
-import { themes as prismThemes } from 'prism-react-renderer'
+import { themes as prismThemes } from "prism-react-renderer";
 import tailwindPlugin from "./plugins/tailwind-config.cjs"; // 添加这个
-import remarkMath from 'remark-math'
-import rehypeKatex from 'rehype-katex'
-
+import remarkMath from "remark-math";
+import rehypeKatex from "rehype-katex";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: " ", // meta title 小尾巴
-  titleDelimiter: ' ', // meta title分隔符
-  tagline: 'Introducing latest news in GEME, including products updates, industrial news, progress on microbiology technology. Newsletter for users and discount info for customers',
-  favicon: 'img/favicon.ico',
+  titleDelimiter: " ", // meta title分隔符
+  tagline:
+    "Introducing latest news in GEME, including products updates, industrial news, progress on microbiology technology. Newsletter for users and discount info for customers",
+  favicon: "img/favicon.ico",
 
   // 在此处设置您的网站的生产 URL
-  url: 'https://www.geme.bio',
+  url: "https://www.geme.bio",
   // 设置您的网站在其下提供服务的 /<baseUrl>/ 路径名
   // 对于 GitHub 页面部署，通常是 '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: "/",
 
   // GitHub 页面部署配置。
   // 如果您不使用 GitHub 页面，则不需要这些。
-  organizationName: 'facebook', // 通常是您的 GitHub 组织/用户名。
-  projectName: 'docusaurus', // 通常是您的仓库名称。
+  organizationName: "facebook", // 通常是您的 GitHub 组织/用户名。
+  projectName: "docusaurus", // 通常是您的仓库名称。
 
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenLinks: "throw",
+  onBrokenMarkdownLinks: "warn",
 
   // SEO 脚本标签
   headTags: [
@@ -179,7 +179,7 @@ const config = {
 
   presets: [
     [
-      'classic',
+      "classic",
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         // googleAnalytics: {
@@ -191,11 +191,11 @@ const config = {
         //   anonymizeIP: false,
         // },
         gtag: {
-          trackingID: 'G-0SPG79H0VL',
+          trackingID: "G-0SPG79H0VL",
           anonymizeIP: false,
         },
         googleTagManager: {
-          containerId: 'GTM-KB63TRW',
+          containerId: "GTM-KB63TRW",
         },
         // blog: {
         //   blogSidebarTitle: 'All posts',
@@ -213,47 +213,46 @@ const config = {
         // },
         blog: false,
         theme: {
-          customCss: './src/css/custom.css',
+          customCss: "./src/css/custom.css",
         },
         sitemap: {
           ignorePatterns: [
-            '/markdown-page',
-            '/search',
-            '/blog/page/**',
-            '/blog/tags/**/page/**',
+            "/markdown-page",
+            "/search",
+            "/blog/page/**",
+            "/blog/tags/**/page/**",
           ],
-          lastmod: 'datetime', // 将使用 frontmatter.date（如博客）作为 <lastmod> 来源
+          lastmod: "datetime", // 将使用 frontmatter.date（如博客）作为 <lastmod> 来源
           priority: 0.8,
-          changefreq: 'daily',
+          changefreq: "daily",
 
           // Note: 经测试，调整createSitemapItems内的changefreq和priority似乎无效，或许跟if条件判断错误有关。
           // 但目前需求是所有blog都使用daily + 0.8，所以直接跳转顶层属性一键配置即可。后续有blog sitemap定制需求，在研究createSitemapItems
-          createSitemapItems: async (params) => {
-            const { defaultCreateSitemapItems, ...rest } = params
+          createSitemapItems: async params => {
+            const { defaultCreateSitemapItems, ...rest } = params;
 
             // 获取默认生成的 sitemap items
             const items = await defaultCreateSitemapItems(rest);
 
-            return items
-              // 排除分页页，如 /blog/page/2
-              .filter((item) => !item.url.includes('/page/'))
-              // 为每个条目赋予定制值
-              .map((item) => {
-                // 特殊处理 blog 文章（排除 blog 首页）
-                if (
-                  item.url.startsWith('/blog/') &&
-                  item.url !== '/blog'
-                ) {
-                  return {
-                    ...item,
-                    changefreq: 'daily',
-                    priority: 0.8,
-                  };
-                }
+            return (
+              items
+                // 排除分页页，如 /blog/page/2
+                .filter(item => !item.url.includes("/page/"))
+                // 为每个条目赋予定制值
+                .map(item => {
+                  // 特殊处理 blog 文章（排除 blog 首页）
+                  if (item.url.startsWith("/blog/") && item.url !== "/blog") {
+                    return {
+                      ...item,
+                      changefreq: "daily",
+                      priority: 0.8,
+                    };
+                  }
 
-                // 其他页面使用默认设置
-                return item;
-              });
+                  // 其他页面使用默认设置
+                  return item;
+                })
+            );
           },
         },
       }),
@@ -264,295 +263,294 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // 替换为您项目的社交卡片
-      image: 'img/geme-social-card.png',
+      image: "img/geme-social-card.png",
       navbar: {
         // title: 'GEME',
         logo: {
-          alt: 'GEME Logo',
-          src: '/img/logo-text.png',
-          href: 'https://www.geme.bio',
-          target: '_self',
+          alt: "GEME Logo",
+          src: "/img/logo-text.png",
+          href: "https://www.geme.bio",
+          target: "_self",
           width: 155,
-          height: 32
+          height: 32,
         },
         items: [
           {
-            position: 'left',
-            label: 'Products',
+            position: "left",
+            label: "Products",
             items: [
               {
-                label: 'GEME Home Composter',
-                to: 'https://www.geme.bio/product/geme',
-                target: '_self',
+                label: "GEME Home Composter",
+                to: "https://www.geme.bio/product/geme",
+                target: "_self",
               },
               {
-                label: 'GEME Terra 2',
-                to: 'https://www.geme.bio/geme-terra-2',
-                target: '_self',
+                label: "GEME Terra 2",
+                to: "https://www.geme.bio/geme-terra-2",
+                target: "_self",
               },
               {
-                label: 'GEME Kobold',
-                to: 'https://www.geme.bio/geme-kobold',
-                target: '_self',
+                label: "GEME Kobold",
+                to: "https://www.geme.bio/geme-kobold",
+                target: "_self",
               },
               {
-                label: 'GEME Commercial Composters',
-                to: 'https://www.geme.bio/industrial-equipments',
-                target: '_self',
+                label: "GEME Commercial Composters",
+                to: "https://www.geme.bio/industrial-equipments",
+                target: "_self",
               },
               {
-                label: 'GEME Dots',
-                to: 'https://www.geme.bio/geme-dots',
-                target: '_self',
+                label: "GEME Dots",
+                to: "https://www.geme.bio/geme-dots",
+                target: "_self",
               },
             ],
           },
           {
-            position: 'left',
-            label: 'Technologies',
+            position: "left",
+            label: "Technologies",
             items: [
               {
-                label: 'GK Resource Recycling',
-                to: 'https://www.geme.bio/gk',
-                target: '_self',
+                label: "GK Resource Recycling",
+                to: "https://www.geme.bio/gk",
+                target: "_self",
               },
               {
-                label: 'Green City Network',
-                to: 'https://www.geme.bio/green-city-networks',
-                target: '_self',
+                label: "Green City Network",
+                to: "https://www.geme.bio/green-city-networks",
+                target: "_self",
               },
             ],
           },
           {
-            position: 'left',
-            to: '/',
-            label: 'Help Center',
+            position: "left",
+            to: "/",
+            label: "Help Center",
             // dropdownActiveClassDisabled: false,
             items: [
               {
-                label: 'Tutorial',
-                to: 'https://www.geme.bio/help-center/docs/get-started',
-                target: '_self',
+                label: "Tutorial",
+                to: "https://www.geme.bio/help-center/docs/get-started",
+                target: "_self",
               },
               {
-                label: 'FAQ',
-                to: 'https://www.geme.bio/help-center/docs/category/faq',
-                target: '_self',
+                label: "FAQ",
+                to: "https://www.geme.bio/help-center/docs/category/faq",
+                target: "_self",
               },
               {
-                label: 'Shipping & Order',
-                to: 'https://www.geme.bio/help-center/docs/orders-and-shipping',
-                target: '_self',
+                label: "Shipping & Order",
+                to: "https://www.geme.bio/help-center/docs/orders-and-shipping",
+                target: "_self",
               },
               {
-                label: 'Warranty & Return',
-                to: 'https://www.geme.bio/help-center/docs/warranty-and-return',
-                target: '_self',
+                label: "Warranty & Return",
+                to: "https://www.geme.bio/help-center/docs/warranty-and-return",
+                target: "_self",
               },
               {
-                label: 'Repair & Replace',
-                to: 'https://www.geme.bio/help-center/docs/category/repair--replace',
-                target: '_self',
+                label: "Repair & Replace",
+                to: "https://www.geme.bio/help-center/docs/category/repair--replace",
+                target: "_self",
               },
               {
-                label: 'Customer Support',
-                to: 'https://www.geme.bio/help-center/docs/customer-support',
-                target: '_self',
+                label: "Customer Support",
+                to: "https://www.geme.bio/help-center/docs/customer-support",
+                target: "_self",
               },
-
             ],
           },
           {
-            position: 'left',
-            label: 'More',
+            position: "left",
+            label: "More",
             items: [
               {
-                label: 'Contact',
-                to: 'https://www.geme.bio/contact',
-                target: '_self',
+                label: "Contact",
+                to: "https://www.geme.bio/contact",
+                target: "_self",
               },
               {
-                label: 'About',
-                to: 'https://www.geme.bio/about',
-                target: '_self',
+                label: "About",
+                to: "https://www.geme.bio/about",
+                target: "_self",
               },
               {
-                label: 'Media Kit',
-                to: 'https://www.geme.bio/media-kit',
+                label: "Media Kit",
+                to: "https://www.geme.bio/media-kit",
               },
               {
-                label: 'News',
-                to: '/news/',
+                label: "News",
+                to: "/news/",
               },
               {
-                label: 'Blog',
-                to: '/blog',
+                label: "Blog",
+                to: "/blog",
               },
               {
-                label: 'Creative Hub',
-                to: 'https://www.geme.bio/creative-hub',
-                target: '_self',
+                label: "Creative Hub",
+                to: "https://www.geme.bio/creative-hub",
+                target: "_self",
               },
               {
-                label: 'GEME Referral',
-                to: 'https://www.geme.bio/geme-referral',
-                target: '_self',
+                label: "GEME Referral",
+                to: "https://www.geme.bio/geme-referral",
+                target: "_self",
               },
               {
-                label: 'Community',
-                to: 'https://www.geme.bio/community',
-                target: '_self',
+                label: "Community",
+                to: "https://www.geme.bio/community",
+                target: "_self",
               },
               {
-                label: 'Affiliate ',
-                to: 'http://www.shareasale.com/join/geme',
+                label: "Affiliate ",
+                to: "http://www.shareasale.com/join/geme",
               },
               {
-                label: 'Feedback',
-                to: 'https://www.geme.bio/feedback',
-                target: '_self',
+                label: "Feedback",
+                to: "https://www.geme.bio/feedback",
+                target: "_self",
               },
             ],
           },
 
           {
-            type: 'search',
-            position: 'right',
+            type: "search",
+            position: "right",
           },
           {
-            to: 'https://www.geme.bio/product/geme',
-            label: 'Buy GEME',
-            position: 'right',
-            target: '_self',
+            to: "https://www.geme.bio/product/geme",
+            label: "Buy GEME",
+            position: "right",
+            target: "_self",
           },
           {
-            to: 'https://www.geme.bio/how-it-works',
-            label: 'How it works',
-            position: 'right',
-            target: '_self',
+            to: "https://www.geme.bio/how-it-works",
+            label: "How it works",
+            position: "right",
+            target: "_self",
           },
           {
-            to: 'https://www.facebook.com/groups/505437601497667',
-            label: 'User Group',
-            position: 'right',
+            to: "https://www.facebook.com/groups/505437601497667",
+            label: "User Group",
+            position: "right",
           },
           {
-            to: 'https://www.geme.bio/signup',
-            label: 'Signup',
-            position: 'right',
-            target: '_self',
+            to: "https://www.geme.bio/signup",
+            label: "Signup",
+            position: "right",
+            target: "_self",
           },
         ],
       },
       footer: {
-        style: 'dark',
+        style: "dark",
         logo: {
-          alt: 'GEME Logo',
-          src: 'img/logo.png',
-          href: 'https://www.geme.bio',
-          target: '_self',
+          alt: "GEME Logo",
+          src: "img/logo.png",
+          href: "https://www.geme.bio",
+          target: "_self",
           width: 32,
           height: 32,
         },
         copyright: `Copyright © ${new Date().getFullYear()} ROKH SRL`,
         links: [
           {
-            title: 'Products',
+            title: "Products",
             items: [
               {
-                label: 'GEME Composter',
-                to: 'https://www.geme.bio/product/geme',
+                label: "GEME Composter",
+                to: "https://www.geme.bio/product/geme",
               },
               {
-                label: 'GEME Terra 2',
-                to: 'https://www.geme.bio/geme-terra-2',
+                label: "GEME Terra 2",
+                to: "https://www.geme.bio/geme-terra-2",
               },
               {
-                label: 'GEME Kobold',
-                to: 'https://www.geme.bio/geme-kobold',
+                label: "GEME Kobold",
+                to: "https://www.geme.bio/geme-kobold",
               },
               {
-                label: 'GEME Commercial Composters',
-                to: 'https://www.geme.bio/industrial-equipments',
+                label: "GEME Commercial Composters",
+                to: "https://www.geme.bio/industrial-equipments",
               },
               {
-                label: 'GEME Dots',
-                to: 'https://www.geme.bio/geme-dots',
+                label: "GEME Dots",
+                to: "https://www.geme.bio/geme-dots",
               },
             ],
           },
           {
-            title: 'Help Center',
+            title: "Help Center",
             items: [
               {
-                label: 'Get Started',
-                to: 'https://www.geme.bio/help-center/docs/get-started',
+                label: "Get Started",
+                to: "https://www.geme.bio/help-center/docs/get-started",
               },
               {
-                label: 'FAQ',
-                to: 'https://www.geme.bio/help-center/docs/category/faq',
+                label: "FAQ",
+                to: "https://www.geme.bio/help-center/docs/category/faq",
               },
               {
-                label: 'Manual',
-                to: 'https://www.geme.bio/manual',
+                label: "Manual",
+                to: "https://www.geme.bio/manual",
               },
               {
-                label: 'Customer Support',
-                to: 'https://www.geme.bio/help-center/docs/customer-support',
+                label: "Customer Support",
+                to: "https://www.geme.bio/help-center/docs/customer-support",
               },
             ],
           },
           {
-            title: 'Contact',
+            title: "Contact",
             items: [
               {
-                label: 'Contact Us',
-                to: 'https://www.geme.bio/contact',
+                label: "Contact Us",
+                to: "https://www.geme.bio/contact",
               },
               {
-                label: 'Refer a friend',
-                to: 'https://www.geme.bio/geme-referral',
+                label: "Refer a friend",
+                to: "https://www.geme.bio/geme-referral",
               },
               {
-                label: 'Creative Hub',
-                to: 'https://www.geme.bio/creative-hub',
+                label: "Creative Hub",
+                to: "https://www.geme.bio/creative-hub",
               },
               {
-                label: 'Affiliate ',
-                to: 'http://www.shareasale.com/join/geme',
+                label: "Affiliate ",
+                to: "http://www.shareasale.com/join/geme",
               },
               {
-                label: 'Suggestion & Feedback',
-                to: 'https://www.geme.bio/feedback',
+                label: "Suggestion & Feedback",
+                to: "https://www.geme.bio/feedback",
               },
             ],
           },
           {
-            title: 'Company',
+            title: "Company",
             items: [
               {
-                label: 'About',
-                to: 'https://www.geme.bio/about',
+                label: "About",
+                to: "https://www.geme.bio/about",
               },
               {
-                label: 'Blog',
-                to: '/blog',
+                label: "Blog",
+                to: "/blog",
               },
               {
-                label: 'News',
-                to: '/news/',
+                label: "News",
+                to: "/news/",
               },
               {
-                label: 'Community',
-                to: 'https://www.geme.bio/community',
+                label: "Community",
+                to: "https://www.geme.bio/community",
               },
               {
-                label: 'Media Kit',
-                to: 'https://www.geme.bio/media-kit',
+                label: "Media Kit",
+                to: "https://www.geme.bio/media-kit",
               },
               {
-                label: 'Business Cooperation',
-                to: 'https://www.geme.bio/cooperation',
+                label: "Business Cooperation",
+                to: "https://www.geme.bio/cooperation",
               },
             ],
           },
@@ -596,7 +594,7 @@ const config = {
         maxHeadingLevel: 5,
       },
       colorMode: {
-        defaultMode: 'light',
+        defaultMode: "light",
         disableSwitch: false,
         respectPrefersColorScheme: false,
       },
@@ -610,12 +608,12 @@ const config = {
       // },
       algolia: {
         // Algolia 提供的应用程序 ID
-        appId: '7UN4KF34XB',
+        appId: "7UN4KF34XB",
 
         // 公共 API 密钥：提交它是安全的
-        apiKey: '34de1f1b5d45846846f58c27b5aa96fd',
+        apiKey: "34de1f1b5d45846846f58c27b5aa96fd",
 
-        indexName: 'geme-blog-en',
+        indexName: "geme-blog-en",
 
         // 可选：请参阅下面的文档部分
         contextualSearch: true,
@@ -633,7 +631,7 @@ const config = {
         searchParameters: {},
 
         // 可选：默认启用的搜索页面路径（`false` 禁用它）
-        searchPagePath: 'search',
+        searchPagePath: "search",
 
         // 可选：Docsearch 上是否启用 insights 功能（默认为 `false`）
         insights: false,
@@ -644,19 +642,20 @@ const config = {
 
   plugins: [
     [
-      './src/plugin/plugin-content-blog', // 为了实现全局 blog 数据，必须改写 plugin-content-blog 插件
+      "./src/plugin/plugin-content-blog", // 为了实现全局 blog 数据，必须改写 plugin-content-blog 插件
       {
-        path: 'blog',
-        blogSidebarTitle: 'All posts',
-        blogSidebarCount: 'ALL',
+        path: "blog",
+        blogSidebarTitle: "All posts",
+        blogSidebarCount: "ALL",
         showReadingTime: true,
 
         // 要下架的文章文件夹 参数是目录名称
         exclude: [
-          '**/2024-09-26-soilkind-vs-geme/**',
-          '**/2024-09-29-lomi-vs-geme/**',
-          '**/2024-09-30-mill-vs-geme/**',
-          '**/2024-10-16-reencle-vs-geme/**',
+          "**/2024-09-26-soilkind-vs-geme/**",
+          "**/2024-09-29-lomi-vs-geme/**",
+          "**/2024-09-30-mill-vs-geme/**",
+          "**/2024-10-16-reencle-vs-geme/**",
+          "**/2023-07-07-redefine-garbage-we-can-do-better/**",
         ],
 
         // 数学渲染插件
@@ -672,39 +671,39 @@ const config = {
       },
     ],
     [
-      'vercel-analytics',
+      "vercel-analytics",
       {
         debug: true,
-        mode: 'auto',
+        mode: "auto",
       },
     ],
     [
-      '@docusaurus/plugin-client-redirects',
+      "@docusaurus/plugin-client-redirects",
       {
         redirects: [
           {
-            to: '/blog/cucumber-recall-2025-how-to-protect-vegetable-garden-from-salmonella',
-            from: '/blog/cucumber-recall-how-to-protect-vegetable-garden-from-salmonella',
+            to: "/blog/cucumber-recall-2025-how-to-protect-vegetable-garden-from-salmonella",
+            from: "/blog/cucumber-recall-how-to-protect-vegetable-garden-from-salmonella",
           },
           {
-            to: '/blog/egg-recall-salmonella-2025-best-way-to-kill-salmonella-in-eggs-recalled',
-            from: '/blog/eggs-recalled-salmonella-2025-best-way-to-kill-salmonella-in-eggs',
+            to: "/blog/egg-recall-salmonella-2025-best-way-to-kill-salmonella-in-eggs-recalled",
+            from: "/blog/eggs-recalled-salmonella-2025-best-way-to-kill-salmonella-in-eggs",
           },
           {
-            to: '/blog/avoid-donut-waste-on-national-donut-day',
-            from: '/blog/make-donut-at-home-for-national-donut-day',
+            to: "/blog/avoid-donut-waste-on-national-donut-day",
+            from: "/blog/make-donut-at-home-for-national-donut-day",
           },
           {
-            to: '/blog/the-best-composter-to-reduce-food-waste',
-            from: '/blog/5-best-composters-to-reduce-food-waste',
+            to: "/blog/the-best-composter-to-reduce-food-waste",
+            from: "/blog/5-best-composters-to-reduce-food-waste",
           },
           {
-            to: '/blog/recovery-guide-after-floods',
-            from: '/blog/2025/07/11/ugent-tips-for-recovery-after-texas-floods',
+            to: "/blog/recovery-guide-after-floods",
+            from: "/blog/2025/07/11/ugent-tips-for-recovery-after-texas-floods",
           },
           {
-            to: '/blog/how-long-can-cooked-chicken-last-in-the-fridge',
-            from: '/blog/how-long-does-cooked-chicken-last-in-the-fridge',
+            to: "/blog/how-long-can-cooked-chicken-last-in-the-fridge",
+            from: "/blog/how-long-does-cooked-chicken-last-in-the-fridge",
           },
         ],
       },
@@ -758,11 +757,11 @@ const config = {
 
   stylesheets: [
     {
-      href: 'https://cdn.jsdelivr.net/npm/katex@0.13.24/dist/katex.min.css',
-      type: 'text/css',
+      href: "https://cdn.jsdelivr.net/npm/katex@0.13.24/dist/katex.min.css",
+      type: "text/css",
       integrity:
-        'sha384-odtC+0UGzzFL/6PNoE8rX/SPcQDXBJ+uRepguP4QkPCm2LBxH3FA3y+fKSiJ+AmM',
-      crossorigin: 'anonymous',
+        "sha384-odtC+0UGzzFL/6PNoE8rX/SPcQDXBJ+uRepguP4QkPCm2LBxH3FA3y+fKSiJ+AmM",
+      crossorigin: "anonymous",
     },
   ],
 
