@@ -2,7 +2,7 @@ import React from 'react';
 import { useBlogPost } from "@docusaurus/plugin-content-blog/client";
 import BlogPostItem from '@theme-original/BlogPostItem';
 import GiscusComponent from '@site/src/components/GiscusComponent';
-import BlackFridayModal from '@site/src/components/BlackFridayModal';
+// import BlackFridayModal from '@site/src/components/BlackFridayModal';
 
 // 给博客文章添加评论
 // 参考链接：https://rikublock.dev/docs/tutorials/giscus-integration/
@@ -15,7 +15,7 @@ export default function BlogPostItemWrapper(props) {
   const { closeComments, showBlackFridayModal, slug } = frontMatter
 
   // 只在特定文章显示黑五弹出框
-  const isShowBlackFridayModal = isBlogPostPage && Boolean(showBlackFridayModal)
+  // const isShowBlackFridayModal = isBlogPostPage && Boolean(showBlackFridayModal)
 
   return (
     <>
@@ -23,9 +23,9 @@ export default function BlogPostItemWrapper(props) {
       {(closeComments != true && isBlogPostPage) && (
         <GiscusComponent />
       )}
-      {isShowBlackFridayModal && (
+      {/* {isShowBlackFridayModal && (
         <BlackFridayModal />
-      )}
+      )} */}
     </>
   );
 }
