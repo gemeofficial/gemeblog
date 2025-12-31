@@ -1,118 +1,134 @@
 ---
-title: "Is Walmart Open on Thanksgiving 2025? GEME Composter Discount During Walmart Thanksgiving Hours"
-description: Is Walmart open on Thanksgiving 2025? No, but you can still shop online on Walmart's official website, where GEME Composter at Walmart offers great savings for Thanksgiving. Let's get the facts on Walmart Thanksgiving hours, and discover a smart Thanksgiving purchase for the GEME Composter purchase, even if local stores are closed.
+title: "Bio-Composting Breakthroughs: GEME Terra 2 Debuts, An Easier & Smarter Way To Compost At Home"
+description: GEME, the leader in the global bio-composting market, launches the revolutionary kitchen composter model GEME Terra 2 on 9 December 2025. The GEME Terra 2 pre-orders were sold out in just 10 hours, with 154 units snapped up by eager gardeners.
 keywords:
-  - walmart thanksgiving hours
-  - is walmart open on thanksgiving 2025
-  - geme composter
-slug: is-walmart-open-on-thanksgiving
+  - Geme Terra 2
+  - Kitchen composter
+  - Composting at home
+  - how to reduce waste at home
+slug: geme-terra-2-debuts
 authors: [Moore]
-tags: [composter]
-image: https://www.geme.bio/assets/images/geme-composter-discount-during-walmart-thanksgiving-hours-95dbd73c208cdc4b2519df8651634e77.png
+tags: [composter, news, geme]
+
 ---
 
-import GemeComposterCTA from '@site/src/components/GemeComposterCTA' 
+import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
 import RelatedArticles from '@site/src/components/RelatedArticles'
 import ReactPlayer from 'react-player'
 
-Is Walmart open on Thanksgiving? No, according to [USA Today](https://www.usatoday.com/story/money/shopping/2025/11/25/retail-stores-open-closed-thanksgiving-2025/87393207007/), Walmart stores will be closed on Thanksgiving. However, you can still shop online on Walmart's official website, where GEME Composter at Walmart offers great savings for Thanksgiving. Let's get the facts on Walmart Thanksgiving hours, and discover a smart Thanksgiving purchase of the GEME Composter, even if local stores are closed.
+GEME, the leader in the global bio-composting market, launches the revolutionary kitchen composter model GEME Terra 2 on 9 December 2025. Its lighter, smarter design makes composting at home much easier and more efficient, fitting almost all kinds of households, reducing food waste, and bringing a more eco-friendly lifestyle in the future. 
 
-![Is Walmart open on Thanksgiving?](./img/geme-composter-discount-during-walmart-thanksgiving-hours.png)
+![GEME Terra 2](./img/geme-terra-2.png)
 <!-- truncate -->
 
 <h2 class="jump-to">Jump To</h2>
 
-1. **[WWalmart Thanksgiving Hours 2025: What You Need To Know](#1--walmart-thanksgiving-hours-2025-what-you-need-to-know)**
+1. **[Bringing New Solutions To Reducing Waste At Home](#1-bringing-new-solutions-to-reducing-waste-at-home)**
 
-2. **[How to Get a GEME Composter Thanksgiving Exclusive Price at Walmart Online](#2--why-a-geme-composter-is-a-smart-thanksgiving--black-friday-buy)**
+2. **[Revolutionise Your Composting Experience](#2-revolutionise-your-composting-experience)**
 
-3. **[How to Plan Buying GEME Composter This Thanksgiving and Black Friday](#3--how-to-plan-buying-geme-composter-this-thanksgivingblack-friday)**
+3. **[User Friendly And Safe Composting](#3-user-friendly-and-safe-composting)**
 
-4. **[Conclusioin](#final-thoughts)**
+4. **[The Urgency Of Reducing Food Waste](#4-the-urgency-of-reducing-food-waste)**
 
-## 1. 🛒 Walmart Thanksgiving Hours 2025: What You Need to Know
+5. **[Let's Feed the Earth!](#5-lets-feed-the-earth)**
 
-  ✅ **Is Walmart Open on Thanksgiving 2025?**
+6. **[GEME Terra 2 V.S. Dehydrator](#6-geme-terra-2-vs-dehydrator)**
 
-  - According to Walmart, **Local Walmart stores will be closed nationwide** on Thanksgiving Day, Thursday, November 27, 2025. 
+7. **[About GEME](#7-about-geme)**
 
-  - That means no in-store shopping — including home appliances, kitchen gadgets, or composters — on Thanksgiving itself. 
+## 1. Bringing New Solutions To Reducing Waste At Home 
 
-  - However, **Walmart will reopen early the next morning ([Friday, Black Friday](https://www.geme.bio/blog/best-black-friday-deals-on-geme-composter-2025))** — most stores open at 6:00 a.m. local time, ready for Black Friday deals. 
+[GEME Terra 2](https://www.geme.bio/product/terra2) weighs only 13 kg but has a 14 L capacity, making it easy to handle up to 3 kg of daily food waste. Its dimensions (11.7 × 17.2 × 22.3 inches) make composting at home accessible for modern families and households of three or fewer persons. 
 
-  - If you hoped to grab a GEME Composter on Thanksgiving Day, shopping online will be the perfect option, as GEME Composter offers an exclusive price of <strong style={{ color: '#177245' }}>\$764.99</strong>, compared to the original price of \$899, which could **save you \$135.00 for Thanksgiving**. 
+On December 9th, the GEME Terra II pre-orders sold out in just 10 hours, with 154 units snapped up by eager gardeners – the response was incredible! It's been such a thrill to see how much our customers have been waiting for a solution like this. They're absolutely enthusiastic about transforming their kitchen scraps into nutrient-rich garden compost, even in cooler weather.
 
-  ✅ **How Can I Get the GEME Composter During Walmart Thanksgiving Hours?**
+![GEME Terra 2 Composter Composting At Home](./img/geme-terra-2-composter.png)
 
-  1. For your convenience, you can click the following link directed to the [**GEME Composter Page**](https://www.walmart.com/ip/GEME-World-First-Bio-Smart-19L-Electric-Composter-Kitchen-Filter-No-Need-Change-Not-Dehydration-Tec-Add-Waste-Anytime-Compost-Machine-Bin-Food-Cycler/1670817413) and continue your purchase: https://www.walmart.com/ip/GEME-World-First-Bio-Smart-19L-Electric-Composter-Kitchen-Filter-No-Need-Change-Not-Dehydration-Tec-Add-Waste-Anytime-Compost-Machine-Bin-Food-Cycler/1670817413 
+According to [Statista's Household Size Survey](https://www.statista.com/statistics/242189/disitribution-of-households-in-the-us-by-household-size/), in 2024, more than 78% of U.S. households consisted of three people or fewer. That said, the smaller design of GEME Terra 2 can help over 78% of US households achieve better food waste management, leaving more space in their homes and thus reducing carbon footprint and cutting greenhouse gas emissions. 
 
-  ![Get GEME Composter Discount at Walmart Online Store](./img/geme-composter-discount-during-walmart-thanksgiving-hours.png)
+![Statista Household Size Survey](./img/statista-household-size-survey.png)
 
-  2. Alternatively, you can visit the [Walmart Official Website](https://www.walmart.com/ip/GEME-World-First-Bio-Smart-19L-Electric-Composting-Bin/1670817413?classType=REGULAR&from=/search) and search for "GEME", then you'll see the GEME Composter listed top in the results. 
+## 2. Revolutionise Your Composting Experience
 
-  ![Online Shopping During Walmart Thanksgiving Hours](./img/is-walmart-open-on-thanksgiving-no-but-you-can-purchase-geme-composter-at-walmart-online.png)
+Unlike those dehydrators on the market (which claim to be composters), GEME Terra 2 rapidly breaks down food waste into rich compost by microbial fermentation, making traditional yard composting a thing of the past. It handles all your waste right where it's generated, saving time and effort. 
 
-  With Thanksgiving 2025 arriving soon, many households are planning their shopping, meal prep — and maybe even composting ahead of the holidays. If you’re eyeing a GEME Composter as a green addition to your kitchen, you can pick one up at Walmart over Thanksgiving and share practical tips for composting during the busy holiday weekend.
+What can be marked as the most intelligent countertop composter is that it automatically adjusts internal conditions, ensuring optimal composting without any manual intervention. You don't have to consider carbon-nitrogen ratios or turning piles as you used to, because GEME Terra 2 now takes care of everything for you. You can definitely rest assured that your food waste will be turned into nutrients for your garden and plants. 
 
-## 2. 🌱 Why a GEME Composter Is a Smart Thanksgiving & Black Friday Buy
+![GEME Terra 2 Composting At Home](./img/geme-terra-2-composting-at-home.jpg)
 
-If you wish to get to a local Walmart store for shopping, Black Friday might be a great time to shop, since you can’t get to Walmart on Thanksgiving. For Thanksgiving and Black Friday, GEME makes sense for eco-conscious households, here's why:
+Furthermore, the advanced technology of GEME Terra 2 features real-time monitoring, making composting at home much more engaging. The high-precision sensors track temperature, humidity, and pH, automatically adjusting for perfect compost. As with the first-generation GEME composter, the permanent filter doesn't need replacements, ensuring hassle-free maintenance and continuous operation. 
 
-- **Real Kitchen Composter for Every Season**
+At IFA 2024, GEME Composter Terra II was highlighted by [Jon Bitner](https://www.digitaltrends.com/users/jon-bitner/) as one of "[The best smart home tech of IFA 2024](https://www.digitaltrends.com/home/ifa-2024-best-smart-home/)".
 
-A GEME Composter lets you compost food scraps indoors year-round — even through holiday cooking, cold weather, and heavy prep. Because indoor composting doesn’t depend on outdoor conditions (cold, snow, rain), it’s ideal during busy holiday seasons.
+![GEME Terra II On IFA 2024 Digital Trends](./img/geme-terra-2-on-digital-trends.png)
 
-- **Great for Holiday Waste Reduction**
+## 3. User-Friendly and Safe Composting
 
-Thanksgiving often creates extra kitchen waste (vegetable peels, cooking scraps, expired foods). A kitchen composter helps handle that waste cleanly and quickly — no need to worry about freezing piles or delays in outdoor compost breakdown.
+Still, the GEME Terra 2 retains its energy-saving, silent, and odour-free property, just like the first model. It's designed for convenience and comfort in any home environment. Also, personalised notifications of GEME Terra 2 boost optimal performance, making composting easier than ever. 
 
-- **Black Friday Appliance Deals Matter**
+Considering the safety of children, GEME Terra 2 features a Child Lock, ensuring a safe composting process for families. Another new feature is the Digital Display, which provides easy-to-read information on composting status and alerts, keeping you informed at just a glance.
 
-Black Friday is known for big sales on kitchen appliances deals. A high-value item like [**GEME could see discounts or promotions**](https://www.geme.bio/blog/best-black-friday-deals-on-geme-composter-2025) — making this holiday weekend a smart time to buy if you’ve been considering a kitchen composter.
-
-- **Convenience & Peace of Mind**
-
-Because GEME handles scraps indoors, you don’t need to schedule trips to the store or yard. It’s convenient year-round, avoids bad weather delays, and supports sustainable waste practices even in winter.
-
-## 3. 🧾 How to Plan: Buying GEME Composter This Thanksgiving/Black Friday
-
-| ✅ **What to Do**                                                 | 💡 Why It Matters                                                        |
-|--------------------------------------------------------------|-------------------------------------------------------------------------|
-| Check the [**GEME Composter online store at Walmart for lower price exclusive for Thanksgiving and Black Friday**](https://www.walmart.com/ip/GEME-World-First-Bio-Smart-19L-Electric-Composter-Kitchen-Filter-No-Need-Change-Not-Dehydration-Tec-Add-Waste-Anytime-Compost-Machine-Bin-Food-Cycler/1670817413) | Online ordering or pickup is faster and cheaper at Walmart.              |
-| Check Walmart’s official site or app Friday morning early     | Most stores open at **6 a.m. local time** on Black Friday.                   |
-| Set alerts for “GEME” or “GEME Electric Compost Bin”          | GEME may be discounted among holiday appliance promotions.               |
-| Have a backup plan (other retailers or order now for store pickup) | If GEME sells out immediately, another retailer or pre-order might ensure success. |
-| Check delivery ETA if ordering online                         | Items ordered during holiday season often have delayed shipping.         |
----
-
-<GemeComposterCTA 
- imgSrc="/img/geme-bio-composter.jpg"
- productTitle="GEME Kitchen Composter"
+<GemeTerra2CTA 
+ imgSrc="/img/geme-terra-2.png"
+ productTitle="GEME Terra II Composter"
  features={[
     "✅ Best Way Of Composting in Winter",
     "✅ Quiet, Odour-Free, Real Compost",
     "✅ Rich Compost Output For Garden Soil & Plants",
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
-buttonText="Get Your GEME Composter For Thanksgiving"
-  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=is-walmart-open-on-thanksgiving"
+buttonText="Get Your GEME Terra II"
+  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-debuts"
 />
 
-## Final Thoughts 
+## 4. The Urgency of Reducing Food Waste
+In the United States, 31% (133 billion pounds) of the 430 billion pounds of available food supply at the retail and consumer levels in 2010 went uneaten, according to the [report from the USDA by Jean C. Buzby, Hodan Farah Wells and Jeffrey Hyman](https://www.ers.usda.gov/publications/pub-details?pubid=43836). 
 
-If you were hoping to snag a [**GEME Composter at Walmart on Thanksgiving 2025**](https://www.walmart.com/ip/GEME-World-First-Bio-Smart-19L-Electric-Composter-Kitchen-Filter-No-Need-Change-Not-Dehydration-Tec-Add-Waste-Anytime-Compost-Machine-Bin-Food-Cycler/1670817413), shop online instead. While Walmart Thanksgiving hours mean the store is closed on Nov. 27, every store reopens Friday morning for [**Black Friday sales**](https://www.geme.bio/blog/best-black-friday-deals-on-geme-composter-2025). That presents a perfect opportunity to pick up a kitchen composter as part of your holiday cleanup and waste-reduction efforts.
+In 2018, 24% of all municipal waste generated in the EU was landfilled. As [the European Commission report](https://environment.ec.europa.eu/topics/waste-and-recycling_en) indicates, landfill waste can have dangerous effects on human health and on the environment. The average European produces 5 tons of waste each year. In contrast, only 38% of waste in the EU is recycled, and over 60% of household waste still ends up in landfills in some EU countries. 
 
-Whether you’re an eco-conscious cook, a sustainability-minded family, or simply looking to save money on kitchen appliances deals, a GEME Composter purchase on Thanksgiving or Black Friday can check a lot of boxes.
+According to [the EU's waste hierarchy](https://ec.europa.eu/environment/topics/waste-and-recycling/waste-framework-directive_en), landfilling is the least preferable option and should be limited to the necessary minimum. Whether in the US or the EU, governments are committed to reducing food waste from retailers to individuals, including introducing [methods of composting organic waste at home](https://www.epa.gov/recycle/composting-home) and setting out [laws to limit the share of municipal waste landfilled to 10% by 2035](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202501892&qid=1763688194910). 
 
-  ✔ Save money with possible Black Friday discounts
+![How to reduce waste at home](./img/how-to-reduce-waste-at-home.jpg)
 
-  ✔ Handle holiday kitchen waste easily
+## 5. Let's Feed The Earth
 
-  ✔ Begin composting indoors — no outdoor pile needed
+Vivian, CEO of GEME, shared her concept:" With our first generation, we proved that composting could be effortless. But with Terra II, we want to change the mindset entirely.
 
-  ✔ Prepare for sustainable cooking and cleaner kitchens going into winter
+For centuries, humans have been 'takers'—we take food from the soil and give back only plastic and pollution. The philosophy behind Terra II is simple yet profound: Let's feed the earth.
 
-If you decide to buy, don’t sleep on it. Happy Shopping and composting!
+By making the device smaller, smarter, and more accessible, we are democratising this act of care. We don't want sustainability to be a luxury for the few; we want it to be a daily ritual for the many. I hope that Terra II turns every kitchen into a source of nourishment for our planet, closing the loop from table to soil, and reminding us that when we feed the earth, we are ultimately feeding ourselves." 
+
+![GEME Terra 2 For Gardeners](./img/geme-terra-2-for-gardeners.jpg)
+
+## 6. GEME Terra 2 V.S. Dehydrator
+
+| Feature                | GEME Terra 2                          | Dehydrator               |
+|------------------------|---------------------------------------|--------------------------|
+| **Dimensions**         | 11.7 x 17.2 x 22.3 inch (388×274×540mm)| 16.6 x 13.8 x 37.5 inch  |
+| **Weight**             | 13 kg                                 | 30.8 kg                  |
+| **Capacity**           | 14 L                                  | 6.5 L                    |
+| **Households**         | 1–3 persons                           | Above 4 persons          |
+| **Power Consumption**  | 117 Wh                                | 700 Wh                   |
+| **Composting Method**  | Microorganic Composting                | Dehydrating              |
+| **Composting Cycle**   | 6–8 hours                             | 3–6 hours                |
+| **Output**             | Real, ready-to-use compost            | Dehydrated waste         |
+| **Child Lock**         | Yes                                   | No                       |
+| **Real-Time Monitor**  | Yes                                   | No                       |
+| **Personalised Notifications** | Yes                           | No                       |
+
+## 7. About GEME 
+
+GEME, a premier brand in home composting, is backed by ROKH SRL, a Belgium-based biotechnology company. Driven by a vision to develop the most innovative composting solutions, the team is dedicated to applying scientific advancements to promote sustainable living globally. 
+
+## 8. Sources
+
+1. [Distribution of households in the United States from 1970 to 2024, by household size](https://www.statista.com/statistics/242189/disitribution-of-households-in-the-us-by-household-size/?srsltid=AfmBOorKn3XgkaEzMafaBVopalFG_uSF3wGyPUTYgXeG2lA60HZVYpNr)
+2. [The best smart home tech of IFA 2024](https://www.digitaltrends.com/home/ifa-2024-best-smart-home/)
+3. [Revolutionising Home Sustainability GEME Debuts the Future of Composting at IFA Berlin 2024](https://www.prnewswire.com/news-releases/revolutionizing-home-sustainability-geme-debuts-the-future-of-composting-at-ifa-berlin-2024-302228430.html)
+4. [The Estimated Amount, Value, and Calories of Postharvest Food Losses at the Retail and Consumer Levels in the United States](https://www.ers.usda.gov/publications/pub-details?pubid=43836)
+5. [Landfill waste: EU rules aim to minimise the amount of waste sent to landfills](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202501892&qid=1763688194910)
+6. [The Waste Framework Directive From the European Commission](https://environment.ec.europa.eu/topics/waste-and-recycling/waste-framework-directive_en)
 
 <RelatedArticles
   slugs={[
@@ -129,5 +145,4 @@ If you decide to buy, don’t sleep on it. Happy Shopping and composting!
 />
 
 _Ready to transform your gardening game? Subscribe to our [newsletter](http://geme.bio/signup) for expert composting tips and sustainable gardening advice._
-
 
