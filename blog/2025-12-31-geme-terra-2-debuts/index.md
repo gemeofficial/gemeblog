@@ -9,7 +9,7 @@ keywords:
 slug: geme-terra-2-debuts
 authors: [Moore]
 tags: [composter, news, geme]
-
+image: https://www.geme.bio/_next/image?url=%2Fassets%2Fimages%2Fterra2-product-page-v2%2Fhero-section%2F1.webp&w=1920&q=75
 ---
 
 import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
@@ -79,7 +79,7 @@ Considering the safety of children, GEME Terra 2 features a Child Lock, ensuring
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-debuts"
+  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-debuts"
 />
 
 ## 4. The Urgency of Reducing Food Waste
