@@ -39,11 +39,13 @@ GEME, the leader in the global bio-composting market, launches the revolutionary
 
 ## 1. Bringing New Solutions To Reducing Waste At Home 
 
-[GEME Terra 2](https://www.geme.bio/product/terra2) weighs only 13 kg but has a 14 L capacity, making it easy to handle up to 3 kg of daily food waste. Its dimensions (11.7 × 17.2 × 22.3 inches) make composting at home accessible for modern families and households of three or fewer persons. 
+[**GEME Terra 2**](https://www.geme.bio/product/terra2) weighs only 13 kg but has a 14 L capacity, making it easy to handle up to 3 kg of daily food waste. Its dimensions (11.7 × 17.2 × 22.3 inches) make composting at home accessible for modern families and households of three or fewer persons. 
 
 On December 9th, the GEME Terra II pre-orders sold out in just 10 hours, with 154 units snapped up by eager gardeners – the response was incredible! It's been such a thrill to see how much our customers have been waiting for a solution like this. They're absolutely enthusiastic about transforming their kitchen scraps into nutrient-rich garden compost, even in cooler weather.
 
-![GEME Terra 2 Composter Composting At Home](./img/geme-terra-2-composter.png)
+<div className="video__wrapper">
+      <ReactPlayer className="video__player" controls height="100%" url="https://youtu.be/13akndaR7RY" width="100%"/>
+</div>
 
 According to [Statista's Household Size Survey](https://www.statista.com/statistics/242189/disitribution-of-households-in-the-us-by-household-size/), in 2024, more than 78% of U.S. households consisted of three people or fewer. That said, the smaller design of GEME Terra 2 can help over 78% of US households achieve better food waste management, leaving more space in their homes and thus reducing carbon footprint and cutting greenhouse gas emissions. 
 
@@ -87,7 +89,7 @@ In the United States, 31% (133 billion pounds) of the 430 billion pounds of avai
 
 In 2018, 24% of all municipal waste generated in the EU was landfilled. As [the European Commission report](https://environment.ec.europa.eu/topics/waste-and-recycling_en) indicates, landfill waste can have dangerous effects on human health and on the environment. The average European produces 5 tons of waste each year. In contrast, only 38% of waste in the EU is recycled, and over 60% of household waste still ends up in landfills in some EU countries. 
 
-According to [the EU's waste hierarchy](https://ec.europa.eu/environment/topics/waste-and-recycling/waste-framework-directive_en), landfilling is the least preferable option and should be limited to the necessary minimum. Whether in the US or the EU, governments are committed to reducing food waste from retailers to individuals, including introducing [methods of composting organic waste at home](https://www.epa.gov/recycle/composting-home) and setting out [laws to limit the share of municipal waste landfilled to 10% by 2035](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202501892&qid=1763688194910). 
+According to [the EU's waste hierarchy](https://ec.europa.eu/environment/topics/waste-and-recycling/waste-framework-directive_en), landfilling is the least preferable option and should be limited to the necessary minimum. Whether in the US or the EU, governments are committed to reducing food waste from retailers to individuals, including introducing [methods of composting organic waste at home](https://www.epa.gov/recycle/composting-home) and setting out [laws to limit the share of municipal waste landfilled to 10% by 2035](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202501892&qid=1763688194910). Solutions like GEME Terra II help households take meaningful action at the source.
 
 ![How to reduce waste at home](./img/how-to-reduce-waste-at-home.jpg)
 
