@@ -47,6 +47,7 @@ On December 9th, the GEME Terra II pre-orders sold out in just 10 hours, with 15
       <ReactPlayer className="video__player" controls height="100%" url="https://youtu.be/13akndaR7RY" width="100%"/>
 </div>
 
+
 According to [Statista's Household Size Survey](https://www.statista.com/statistics/242189/disitribution-of-households-in-the-us-by-household-size/), in 2024, more than 78% of U.S. households consisted of three people or fewer. That said, the smaller design of GEME Terra 2 can help over 78% of US households achieve better food waste management, leaving more space in their homes and thus reducing carbon footprint and cutting greenhouse gas emissions. 
 
 ![Statista Household Size Survey](./img/statista-household-size-survey.png)
