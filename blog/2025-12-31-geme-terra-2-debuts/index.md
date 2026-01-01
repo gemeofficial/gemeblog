@@ -41,7 +41,9 @@ GEME, the leader in the global bio-composting market, launches the revolutionary
 
 [**GEME Terra 2**](https://www.geme.bio/product/terra2) weighs only 13 kg but has a 14 L capacity, making it easy to handle up to 3 kg of daily food waste. Its dimensions (11.7 × 17.2 × 22.3 inches) make composting at home accessible for modern families and households of three or fewer persons. 
 
-On December 9th, the GEME Terra II pre-orders sold out in just 10 hours, with 154 units snapped up by eager gardeners – the response was incredible! It's been such a thrill to see how much our customers have been waiting for a solution like this. They're absolutely enthusiastic about transforming their kitchen scraps into nutrient-rich garden compost, even in cooler weather.
+On December 9th, the GEME Terra II pre-orders sold out in just 10 hours, with hundreds of units snapped up by eager gardeners – the response was incredible! It's been such a thrill to see how much our customers have been waiting for a solution like this. They're absolutely enthusiastic about transforming their kitchen scraps into nutrient-rich garden compost, even in cooler weather.
+
+
 
 <div className="video__wrapper">
       <ReactPlayer className="video__player" controls height="100%" url="https://youtu.be/13akndaR7RY" width="100%"/>
