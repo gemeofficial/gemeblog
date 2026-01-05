@@ -181,7 +181,7 @@ However, several drawbacks have also surfaced as Riddley Gemperlein-Schirm from 
 
 **Limited Availability**: Notably, Pela has halted Lomi sales in the U.S. as of April 2024. This means fewer retailers and support options for North American buyers going forward.
 
-![Lomi Composter Review](./img/Banana-peel-and-other-food-scraps-up-to-Lomi-fill-line-©KettiWilhelm2023.webp)
+![Lomi Composter Review](./img/Banana-peel-and-other-food-scraps-up-to-Lomi-fill-line-KettiWilhelm2023.jpg)
 <span style={{ color: '#a0a0a0', fontStyle: 'italic' }}>(Image by By Ketti Wilhelm At TiltedMap)</span>
 
 In sum, Lomi can be a convenient trash-reduction tool, but its drawbacks, from the fiddly locking lid to the subscription refills, have led many reviewers to seek alternatives.
