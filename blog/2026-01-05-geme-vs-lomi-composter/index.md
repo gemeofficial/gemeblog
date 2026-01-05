@@ -9,6 +9,7 @@ keywords:
 slug: geme-vs-lomi
 authors: [Moore]
 tags: [composter, sustainability, geme]
+image: https://www.geme.bio/_next/image?url=%2Fassets%2Fimages%2Fterra2-product-page-v2%2Fstep3.webp&w=1200&q=75
 
 ---
 
