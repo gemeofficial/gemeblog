@@ -167,7 +167,7 @@ buttonText="Get Your GEME Terra II"
 
 Reviews of Lomi confirm its strengths: it reliably grinds tough food scraps (lemons, eggshells, meat trimmings) with ease. Its modern design and simple one-button control are user-friendly, and Lomi’s 3L capacity can handle a couple of days of scraps. 
 
-However, several drawbacks have also surfaced as Riddley Gemperlein-Schirm from Serious Eats, Kat Merck from Wired, and users from Reddit pointed out:
+However, several drawbacks have also surfaced as [Riddley Gemperlein-Schirm from **Serious Eats**](https://www.seriouseats.com/lomi-countertop-composter-review-7098305),[Kat Merck from **Wired**](https://www.wired.com/story/home-composters-buying-guide/), and [users from **Reddit**](https://www.reddit.com/r/composting/comments/1b6btyx/lomi_composter_not_recommended) pointed out:
 
 **Finicky Lid**: The twist-lock lid can be frustrating. Serious Eats reports needing “precise alignment” to lock it, often taking multiple tries.
 
