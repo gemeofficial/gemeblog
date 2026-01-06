@@ -53,7 +53,7 @@ One reviewer, [**Helen Rosner from The New Yorker**](https://www.newyorker.com/c
 **Capacity & Convenience**: Terra II’s 14L tank handles 45+ days of household waste, so you empty it infrequently. Lomi’s 3L bucket typically fills in just 1–4 days. That means Terra II requires far fewer stoppages.
 Add-Back Feature: GEME lets you top off with new scraps at any time, even mid-cycle. Lomi does not – once a cycle starts you must close the lid and wait.
 
-**Material Tolerance**: Terra II can compost liquids, meat, dairy, and even pet waste – anything you can eat, GEME can compost. [Lomi, by contrast, cannot handle liquids or non-foods (e.g. nut shells, bones) and has strict “no grease” rules](https://www.seriouseats.com/lomi-countertop-composter-review-7098305).
+**Material Tolerance**: Terra II can compost liquids, meat, and dairy – anything you can eat, GEME can compost. [Lomi, by contrast, cannot handle liquids or non-foods (e.g. nut shells, bones) and has strict “no grease” rules](https://www.seriouseats.com/lomi-countertop-composter-review-7098305).
 
 **Maintenance & Running Cost**: Terra II uses a permanent metal-ion filter and self-replicating microbe pack – no monthly replacements. Lomi relies on replaceable carbon filters and special LomiPods (about \$50 per 45 cycles) (reference: www.seriouseats.com). Over time, GEME’s no-refill design means much lower upkeep.
 
