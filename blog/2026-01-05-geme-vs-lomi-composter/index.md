@@ -55,9 +55,9 @@ Add-Back Feature: GEME lets you top off with new scraps at any time, even mid-cy
 
 **Material Tolerance**: Terra II can compost liquids, meat, dairy, and even pet waste – anything you can eat, GEME can compost. [Lomi, by contrast, cannot handle liquids or non-foods (e.g. nut shells, bones) and has strict “no grease” rules](https://www.seriouseats.com/lomi-countertop-composter-review-7098305).
 
-**Maintenance & Running Cost**: Terra II uses a permanent metal-ion filter and self-replicating microbe pack – no monthly replacements. Lomi relies on replaceable carbon filters and special LomiPods (about \$50 per 45 cycles) (reference: www.seriouseats.com). Over time, GEME’s no-refill design means much lower upkeep (see ROI below).
+**Maintenance & Running Cost**: Terra II uses a permanent metal-ion filter and self-replicating microbe pack – no monthly replacements. Lomi relies on replaceable carbon filters and special LomiPods (about \$50 per 45 cycles) (reference: www.seriouseats.com). Over time, GEME’s no-refill design means much lower upkeep.
 
-**Noise & Energy**: Terra II operates at a gentle 25–40 dB (near whisper level) and about 1.2–1.7 kWh/day (comparable to a laptop). Lomi runs louder (~60 dB+) and draws ~500 W+ whenever active (reference: www.wired.com).
+**Noise & Energy**: Terra II operates at a gentle 35–40 dB (near whisper level) and about 117Wh (comparable to a laptop). Lomi runs louder (~60 dB+) and draws ~500Wh whenever active (reference: www.wired.com).
 
 
 <div className="video__wrapper">
@@ -134,7 +134,7 @@ In summary, GEME Terra II not only handles more waste but also provides real com
     </tr>
     <tr>
       <td style={{ padding: '8px' }}><b>Sound Level</b></td>
-      <td style={{ textAlign: 'center', padding: '8px' }}>25–40 dB</td>
+      <td style={{ textAlign: 'center', padding: '8px' }}>35–40 dB</td>
       <td style={{ textAlign: 'center', padding: '8px' }}>60+ dB</td>
     </tr>
     <tr>
