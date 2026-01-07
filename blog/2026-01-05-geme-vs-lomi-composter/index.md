@@ -26,19 +26,21 @@ We’ve done the research on GEME vs Lomi – including user feedback and expert
 
 <h2 class="jump-to">Jump To</h2>
 
-1. **[Key Differences: GEME vs Lomi](#1-key-differences-geme-vs-lomi)**
+1. **[Key Differences: GEME vs Lomi](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-vs-lomi)**
 
-2. **[Pay 50 More, Save Much More](#2-pay-50-more-save-much-more)**
+2. **[Pay 50 More, Save Much More](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-vs-lomi)**
 
 3. **[Lomi Composter Strengths & Drawbacks](#3-lomi-composter-strengths--drawbacks)**
 
-4. **[How GEME Terra 2 Works](#4-how-geme-terra-ii-works)**
+4. **[How GEME Terra 2 Works](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-vs-lomi)**
 
 5. **[How Lomi Composter Works](#5-how-lomi-works-quick-overview)**
 
-6. **[Why GEME Terra 2 is the Best Lomi Alternative](#6-why-geme-terra-ii-is-the-best-lomi-alternative)**
+6. **[Why GEME Terra 2 is the Best Lomi Alternative](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-vs-lomi)**
 
-7. **[Conclusion of GEME vs Lomi](#7-conclusion)**
+7. **[Conclusion of GEME vs Lomi](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-vs-lomi)**
+
+## Reviewers Say
 
 One reviewer, [**Helen Rosner from The New Yorker**](https://www.newyorker.com/culture/annals-of-gastronomy/the-promises-of-the-home-composting-machine) noted, Lomi’s output was **“dark-brown, crumbly dust”, “not compost, exactly”**. Lomi excels at reducing volume, but **[Terra II](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-vs-lomi)’s** biological process produces a nutrient-rich fertilizer you can mix straight into plants. Let’s compare their features head-to-head.
 
