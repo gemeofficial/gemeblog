@@ -1,15 +1,14 @@
 ---
-title: "GEME vs Lomi: Electric Composter Comparison for Zero Waste Homes"
-description:  For zero waste, Lomi works well at grinding scraps but comes with quirks (noisy, bulky, pricey), whereas GEME Terra II offers an innovative alternative that truly creates living soil. GEME Terra II is the best Lomi composter alternative for eco-conscious families and apartment dwellers.
+title: "Electric Compost Bin Filters Cost: GEME vs Lomi vs Mill vs Reencle"
+description: Electric composter filters cost can add up fast. Lomi, Mill, and Reencle composters require costly filter replacements, while GEME has no ongoing filter costs.
 keywords:
-  - Geme Terra 2
-  - Lomi composter
-  - Zero waste
-  - Geme vs Lomi
-slug: geme-vs-lomi
+  - Compost bin filters
+  - Electric composter filters cost
+  - Zero waste composter cost
+  - GEME Terra 2
+slug: electric-compost-bin-filters-costs-comparison
 authors: [Moore]
 tags: [composter, sustainability, geme]
-image: https://www.geme.bio/_next/image?url=%2Fassets%2Fimages%2Fterra2-product-page-v2%2Fstep3.webp&w=1200&q=75
 
 ---
 
@@ -17,253 +16,107 @@ import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA'
 import RelatedArticles from '@site/src/components/RelatedArticles'
 import ReactPlayer from 'react-player'
 
-Embarking on a zero waste lifestyle? Home composters like GEME Terra II and the popular Lomi composter promise to turn kitchen scraps into useful soil. These electric composters tackle food waste indoors, but not all models are created equal. 
+In the race to turn kitchen waste into compost, not all systems are created equal. Electric composter filters cost can dramatically affect your long-term savings and satisfaction. Many countertop composters rely on charcoal and carbon filters to control odor – but those filters often need regular replacement. 
 
-We’ve done the research on GEME vs Lomi – including user feedback and expert reviews – to help eco-conscious families, apartment dwellers, tech-savvy homeowners, and zero-waste advocates choose the best option. 
+For example, the popular Lomi composter recommends new filters every 3–4 months and sells [a 2-pack for about \$54](https://lomi.com/products/lomi-filter-refills-90-cycles), roughly \$100 per year. The Mill’s support site also confirms its odor filter costs about [\$89 each](https://support.mill.com/hc/en-us/articles/12045124640411-How-often-do-I-need-to-replace-my-carbon-filter-and-how-much-does-it-cost) (lasting ~1 year) . Even Reencle, a leading competitor, sells replacement carbon filters at [\$35 each](https://reencle.co/products/reencle-prime-filter) [(plus mesh filters at \$12)](https://reencle.co/products/reencle-mesh-filter) and expects annual replacements. These ongoing compost bin filter costs can add up over time.
 
+By contrast, **both GEME Pro and GEME Terra II electric composters are engineered for zero filter replacements**. GEME uses an industrial metal-ion “permanent” filter inside that never needs a charcoal refill. In short, GEME has no ongoing filter subscription costs. [<span style={{color: 'green', fontStyle: 'italic'}}>Terra II at \$549 has no ongoing refills… Consumables 3-Year: \$0 Permanent Filter & Self-replicating Microbes</span>](https://ww.geme.bio/blog/geme-vs-lomi?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=electric-compost-bin-filters-costs-comparison). In practical terms, this means **GEME owners pay \$0 per year for filters, while competitors may pay hundreds of dollars over a few years**.
+
+![Even with a convenient compost bin, hidden costs like filter replacements can add up over time.](./image/compost-bin-hidden-costs-filter-replacements.png)
+*Image: Modern indoor composting – even with a convenient countertop bin, hidden costs like filter replacements can add up over time.*
 <!-- truncate -->
 
 <h2 class="jump-to">Jump To</h2>
 
-1. **[Key Differences: GEME vs Lomi](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-vs-lomi)**
+1. **[Electric Composter Comparison: Filter Costs Uncovered](https://ww.geme.bio/blog/geme-vs-lomi?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=electric-compost-bin-filters-costs-comparison)**
 
-2. **[Pay 50 More, Save Much More](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-vs-lomi)**
+2. **[Compost Bin Filters Replacement Frequency And Impact](#2-compost-bin-filters-replacement-frequency-and-impact)**
 
-3. **[Lomi Composter Strengths & Drawbacks](#3-lomi-composter-strengths--drawbacks)**
+3. **[Debunking Reencle's \$35 Year Claim](#3-debunking-reencles-35year-claim)**
 
-4. **[How GEME Terra 2 Works](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-vs-lomi)**
+4. **[GEME Brand Protection And Legsl Recourse](#4-brand-protection-and-legal-recourse)**
 
-5. **[How Lomi Composter Works](#5-how-lomi-works-quick-overview)**
+5. **[Conclusion: No Hidden Filter Costs With GEME](#5-conclusion-no-hidden-costs-with-geme)**
 
-6. **[Why GEME Terra 2 is the Best Lomi Alternative](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-vs-lomi)**
+## 1. Electric Composter Comparison: Filter Costs Uncovered
 
-7. **[Conclusion of GEME vs Lomi](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-vs-lomi)**
+When evaluating an electric composter for your home, it pays to compare not just the purchase price, but also the maintenance costs (often dominated by filters). Here’s a quick rundown of typical filter expenses for top brands:
+GEME Terra II: \$0 per year (permanent metal-ion filter, no charcoal or pod replacements).
 
-## Reviewers Say
+  - **Lomi**: ≈\$50 per 3–4 months. Lomi sells filter packs (~45 cycles worth) for about \$50 each. Since filters last ~45 cycles (roughly 3 months), **you’d spend around \$200 per year on Lomi filters**. (Reference: [Lomi Filter Refills 90 Cycles](https://lomi.com/products/lomi-filter-refills-90-cycles))
 
-One reviewer, [**Helen Rosner from The New Yorker**](https://www.newyorker.com/culture/annals-of-gastronomy/the-promises-of-the-home-composting-machine) noted, Lomi’s output was **“dark-brown, crumbly dust”, “not compost, exactly”**. Lomi excels at reducing volume, but **[Terra II](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-vs-lomi)’s** biological process produces a nutrient-rich fertilizer you can mix straight into plants. Let’s compare their features head-to-head.
+  - **The Mill**: ≈\$89 per year. The Mill’s carbon odor filter is rated for about 1 year of use (2 million m² of activated charcoal). Without a rental plan, this is ~\$89 every year. (Reference: [Mill Support: How Often Do I Need to Replace My Carbon Filter & How Much Does It Cost?](https://support.mill.com/hc/en-us/articles/12045124640411-How-often-do-I-need-to-replace-my-carbon-filter-and-how-much-does-it-cost))
 
-## 1. Key Differences: GEME vs Lomi 
+  - **Reencle Prime**: ≈\$35 per year (carbon) + \$12 mesh. Reencle’s accessory shop lists [a carbon filter at \$35](https://www.reencle.co/products/reencle-prime-filter) and [a mesh filter at \$12](https://www.reencle.co/products/reencle-mesh-filter). The company suggests replacing filters roughly every 9–12 months. That works out to about \$47/year total if both carbon and mesh are changed annually.(Reference: [Reecle Prime Filter, Reencle Mesh Filter](https://reencle.co/products/reencle-food-waste-composter))
 
-[**GEME Terra II**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-vs-lomi) uses live microbes and AI to turn food scraps into garden-ready soil in hours. It operates quietly (≤40 dB) and continuously: just toss in your scraps anytime and let its “Kobold” microbes go to work. By contrast, Lomi (shown above) uses heat to dehydrate waste. 
-
-**Composting Process**: GEME Terra II runs continuously with live microbes, letting you add waste anytime. Lomi works in batch cycles – you must wait for a run to finish before adding more scraps.
-
-**Output Quality**: GEME produces active, nutrient-rich soil (with microbes intact). Lomi’s result is mostly dry residue. As one review noted, Lomi’s finished product looks like “dark-brown, crumbly dust” – helpful for volume reduction but essentially sterile.
-
-**Capacity & Convenience**: Terra II’s 14L tank handles 45+ days of household waste, so you empty it infrequently. Lomi’s 3L bucket typically fills in just 1–4 days. That means Terra II requires far fewer stoppages.
-Add-Back Feature: GEME lets you top off with new scraps at any time, even mid-cycle. Lomi does not – once a cycle starts you must close the lid and wait.
-
-**Material Tolerance**: Terra II can compost liquids, meat, and dairy – anything you can eat, GEME can compost. [Lomi, by contrast, cannot handle liquids or non-foods (e.g. nut shells, bones) and has strict “no grease” rules](https://www.seriouseats.com/lomi-countertop-composter-review-7098305).
-
-**Maintenance & Running Cost**: Terra II uses a permanent metal-ion filter and self-replicating microbe pack – no monthly replacements. Lomi relies on replaceable carbon filters and special LomiPods (about \$50 per 45 cycles) (reference: www.seriouseats.com). Over time, GEME’s no-refill design means much lower upkeep.
-
-**Noise & Energy**: Terra II operates at a gentle 35–40 dB (near whisper level) and about 117Wh (comparable to a laptop). Lomi runs louder (~60 dB+) and draws ~500Wh whenever active (reference: www.wired.com).
-
-
-<div className="video__wrapper">
-      <ReactPlayer className="video__player" controls height="100%" url="https://youtu.be/13akndaR7RY" width="100%"/>
-</div>
-
-
-## 2. Pay \$50 more, Save much more 
-
-[**Terra II**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-vs-lomi) at \$549 has no ongoing refills, so the extra \$50 can pay back in about 3 months. Up to \$550 cheaper to own. And it makes soil, not just smaller trash.
-
-<table style={{ width: '100%', background: '#f5f5f5', borderRadius: '8px', margin: '24px 0', borderCollapse: 'collapse' }}>
-  <thead>
-    <tr>
-      <th style={{ textAlign: 'left', padding: '8px' }}>Cost</th>
-      <th style={{ textAlign: 'center', padding: '8px' }}>Lomi</th>
-      <th style={{ textAlign: 'center', padding: '8px' }}>GEME Terra II</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style={{ padding: '8px' }}>Machine Cost</td>
-      <td style={{ textAlign: 'center', padding: '8px' }}>&#36;499</td>
-      <td style={{ textAlign: 'center', padding: '8px' }}><b>&#36;549</b></td>
-    </tr>
-    <tr>
-      <td style={{ padding: '8px' }}>Consumables 3-Year</td>
-      <td style={{ textAlign: 'center', padding: '8px' }}>&#36;600 Charcoal Filters &amp; Microbe Pods</td>
-      <td style={{ textAlign: 'center', padding: '8px' }}><b>&#36;0 Permanent Filter &amp; Self-replicating Microbes</b></td>
-    </tr>
-    <tr>
-      <td style={{ padding: '8px' }}>3-Year Total</td>
-      <td style={{ textAlign: 'center', padding: '8px' }}>&#36;1099</td>
-      <td style={{ textAlign: 'center', padding: '8px', fontWeight: 'bold' }}><b>&#36;549</b></td>
-    </tr>
-  </tbody>
-</table>
-
-In summary, GEME Terra II not only handles more waste but also provides real compost, all with quieter, smarter operation. The table below from GEME highlights some of these advantages:
-
-<table style={{ width: '100%', background: '#f5f5f5', borderRadius: '8px', margin: '24px 0', borderCollapse: 'collapse' }}>
-  <thead>
-    <tr>
-      <th style={{ textAlign: 'left', padding: '8px' }}></th>
-      <th style={{ textAlign: 'center', padding: '8px' }}>GEME Terra 2</th>
-      <th style={{ textAlign: 'center', padding: '8px' }}>Lomi Composter</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style={{ padding: '8px' }}><b>Working Mode</b></td>
-      <td style={{ textAlign: 'center', padding: '8px' }}>Continuous microbial composting</td>
-      <td style={{ textAlign: 'center', padding: '8px' }}>Periodic grinding/dehydrating</td>
-    </tr>
-    <tr>
-      <td style={{ padding: '8px' }}><b>End Result</b></td>
-      <td style={{ textAlign: 'center', padding: '8px' }}>True living soil</td>
-      <td style={{ textAlign: 'center', padding: '8px' }}>Dried, sterile waste</td>
-    </tr>
-    <tr>
-      <td style={{ padding: '8px' }}><b>Interaction</b></td>
-      <td style={{ textAlign: 'center', padding: '8px' }}>Add scraps anytime</td>
-      <td style={{ textAlign: 'center', padding: '8px' }}>Wait for cycle completion</td>
-    </tr>
-    <tr>
-      <td style={{ padding: '8px' }}><b>Filter System</b></td>
-      <td style={{ textAlign: 'center', padding: '8px' }}>Permanent (no refills)</td>
-      <td style={{ textAlign: 'center', padding: '8px' }}>Replaceable carbon (every ~3 months)</td>
-    </tr>
-    <tr>
-      <td style={{ padding: '8px' }}><b>Days to Fill</b></td>
-      <td style={{ textAlign: 'center', padding: '8px' }}>45+ days</td>
-      <td style={{ textAlign: 'center', padding: '8px' }}>~1 day (per fill)</td>
-    </tr>
-    <tr>
-      <td style={{ padding: '8px' }}><b>Sound Level</b></td>
-      <td style={{ textAlign: 'center', padding: '8px' }}>35–40 dB</td>
-      <td style={{ textAlign: 'center', padding: '8px' }}>60+ dB</td>
-    </tr>
-    <tr>
-      <td style={{ padding: '8px' }}><b>Energy Cost</b></td>
-      <td style={{ textAlign: 'center', padding: '8px' }}>117Wh (like a laptop)</td>
-      <td style={{ textAlign: 'center', padding: '8px' }}>500Wh+ (like an oven)</td>
-    </tr>
-    <tr>
-      <td style={{ padding: '8px' }}><b>Accepts Liquids/Meat</b></td>
-      <td style={{ textAlign: 'center', padding: '8px' }}>Yes (up to 3 kg per load)</td>
-      <td style={{ textAlign: 'center', padding: '8px' }}>No</td>
-    </tr>
-  </tbody>
-</table>
+These figures highlight a big difference: **GEME imposes no filter fees, while others require ongoing purchases**. Over just three years, for instance, **GEME’s design is more than $500 cheaper than a filter-dependent competitor**. GEME emphasizes this payback: [“Pay $50 more, save much more… Terra II at \$549 has no ongoing refills… 3-Year Total: $549 for GEME Terra 2 but \$1099 for a competitor like Lomi”](https://ww.geme.bio/blog/geme-vs-lomi?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=electric-compost-bin-filters-costs-comparison). In plain terms, **your ROI on GEME can be much higher since you eliminate hidden filter expenses**.
 
 <GemeTerra2CTA 
  imgSrc="/img/geme-terra-2.png"
  productTitle="GEME Terra II Composter"
  features={[
-    "✅ Winner of GEME vs Lomi",
+    "✅ Zero Filter Costs, No Refills",
     "✅ Quiet, Odour-Free, Real Compost",
     "✅ Rich Compost Output For Garden Soil & Plants",
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-vs-lomi"
+  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=electric-compost-bin-filters-costs-comparison"
 />
 
-## 3. Lomi Composter: Strengths & Drawbacks 
+## 2. Compost Bin Filters: Replacement Frequency and Impact
 
-Reviews of Lomi confirm its strengths: it reliably grinds tough food scraps (lemons, eggshells, meat trimmings) with ease. Its modern design and simple one-button control are user-friendly, and Lomi’s 3L capacity can handle a couple of days of scraps. 
+Most kitchen compost bins and machines advertise an odorless operation, but few highlight the hidden upkeep. Compost bin filters (usually activated charcoal) trap smells but saturate over time. For example, Lomi’s support notes that the charcoal in its filters breaks down “a little quicker” with heavy use (reference: https://lomi.com/products/lomi-filter-refills-90-cycles), requiring more frequent changes. **Many users blindly subscribe to filter refills, unaware of the long-term costs**.
 
-However, several drawbacks have also surfaced as [Riddley Gemperlein-Schirm from **Serious Eats**](https://www.seriouseats.com/lomi-countertop-composter-review-7098305),[Kat Merck from **Wired**](https://www.wired.com/story/home-composters-buying-guide/), and [users from **Reddit**](https://www.reddit.com/r/composting/comments/1b6btyx/lomi_composter_not_recommended) pointed out:
+In contrast, GEME’s technology avoids this trap. By using self-replicating microbes and an ionizing filter, GEME eliminates odors without consumables. This eco-friendly design not only saves money but also reduces waste (no spent filter cartridges to dispose of). As [**GEME Terra II**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=electric-compost-bin-filters-costs-comparison) designs: “No charcoal. No refills. Industrial metal-ion catalysis eliminates odors forever.”
 
-**Finicky Lid**: The twist-lock lid can be frustrating. Serious Eats reports needing “precise alignment” to lock it, often taking multiple tries.
+![GEME Electric Compost Bin Has Zero Filter Costs](./image/geme-terra-2-digital-display.jpg)
 
-**Bulky Design**: At ~18″×13″×12″ (46×33×30 cm) and 20 pounds, Lomi “eats up a lot of space” on the counter. It must sit out during cycles (no separate compost bin).
+For households budgeting their composting ROI, this matters. Even eco-conscious consumers can be surprised at how quickly \$10/month on filters becomes \$120/year. **A proper electric composter comparison must include these costs**. 
 
-**High Cost**: The Lomi unit retails around \$500. On top of that, required LomiPods and charcoal refills run \$50 per set (lasting ≈45 cycles). This makes it one of the priciest countertop composters in maintenance.
+If you factor in these numbers, GEME often comes out ahead for multi-year ownership, despite a slightly higher initial price. The up-front GEME vs. Lomi comparison shows a \$50 price premium yields a \$550 lifetime savings.
 
-**Energy Use**: Lomi’s modes take several hours (e.g. 3–20h) of continuous power. Users on forums complain it’s a “big hunk of e-waste” that uses a ton of electricity to produce basically dry flakes.
+## 3. Debunking Reencle’s $35/Year Claim 
 
-**Underwhelming Output**: Critics emphasize that Lomi’s end product isn’t truly compost. Wired’s guide bluntly calls it “a grinder-and-dryer” – useful for waste disposal but not the same as composting. [**One Reddit user wrote**](https://www.reddit.com/r/composting/comments/1b6btyx/lomi_composter_not_recommended) you end up with “dry food that you can’t really use as soil amendment,” and still need to finish it in a compost pile. In other words, the “Lomi dirt” often needs more composting before it can nourish plants.
+On November 3, 2024, Reencle (a competing composter brand) published a comparison post that incorrectly stated: “Additional bin filter replacements cost \$35 annually” for GEME. **This claim is false and misleading. It appears to confuse GEME’s design with a typical “bin filter” system that GEME does not use**.
 
-**Limited Availability**: Notably, Pela has halted Lomi sales in the U.S. as of April 2024. This means fewer retailers and support options for North American buyers going forward.
+![Reencle False Claims About GEME Composter](./image/reencle-false-claims-about-geme-composter.png)
 
-![Lomi Composter Review](./img/Banana-peel-and-other-food-scraps-up-to-Lomi-fill-line-KettiWilhelm2023.jpg)
-<span style={{ color: '#a0a0a0', fontStyle: 'italic' }}>(Image by By Ketti Wilhelm At TiltedMap)</span>
+GEME categorically denies requiring any \$35/year filter. GEME uses the permanent filter system described above, and we have made every effort to clarify this point. The only filters GEME customers use are those never purchased – they are built-in and self-cleansing. In fact, an official comparison explicitly notes “Filter System: Permanent (no refills),” whereas it shows Lomi’s replaceable filters as the alternative. No credible source backs the \$35 claim.
 
-In sum, Lomi can be a convenient trash-reduction tool, but its drawbacks, from the fiddly locking lid to the subscription refills, have led many reviewers to seek alternatives.
+**We understand this misinformation could confuse shoppers**. GEME has reached out to Reencle to request a correction. **Should Reencle fail to amend its statements, GEME is prepared to pursue formal legal action. We take our brand and customers’ trust seriously: if false claims about our filters continue to circulate, we will enforce our rights to protect our reputation and inform the public**.
 
-## 4. How GEME Terra II Works
+![Reencle's Fake News Has Violated The Reputation Of GEME](./image/Reencle-fake-news-violates-the-reputation-of-geme.png)
+*Screenshot: Reencle's fake news has violated the reputation of GEME, intending to manipulate Google Search Engine, and misleading Google AI Overview and shoppers around the world.*
 
-GEME Terra II is an AI-powered home bio-composter that mimics nature’s decomposition. It maintains a moderate 45–55 °C “Goldilocks” environment where industrial-grade microbes break down waste 30× faster than in a backyard pile. 
+## 4. Brand Protection and Legal Recourse 
 
-The process is fully continuous: you can open the lid and add scraps anytime, day or night. The 14-liter chamber (large for a countertop unit) can handle roughly 3 kg of food per day. After about 6–8 hours of work, Terra II yields a dark, soil-like output rich in microbes – a genuine compost product. There are no filters to swap or pods to buy: GEME uses a permanent metal-ion filter for truly odorless operation.
+GEME is committed to transparency. To that end, we explicitly clarify: [**GEME Terra II does not require recurring filter purchases**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=electric-compost-bin-filters-costs-comparison). Reencle’s \$35/year claim is baseless. We urge any consumer who hears this rumor to refer to GEME’s official sources and product documentation.
 
-In short, GEME’s approach creates living soil ready for plants, not just dried leftovers.
+If necessary, GEME is prepared to take legal steps. Defamatory statements can harm consumers and businesses alike. We have begun the process of notifying Reencle that their claim is untrue and potentially defamatory. We will seek retraction and correction. 
 
-### Easy “Toss, Wait, Harvest” Operation
+**If Reencle does not promptly remedy the misinformation, GEME will not hesitate to file suit to ensure accurate information is available to consumers**.
 
-- **Toss It In**. Simply scrape your food scraps (even meat, dairy, or small bones) into the Terra II. The 14L tank holds up to 45+ days’ worth of waste.
+## 5. Conclusion: No Hidden Costs with GEME
 
-- **Walk Away**. GEME’s built-in AI and sensors automatically manage heat, oxygen and moisture. There are no complicated buttons – just press to start one of three modes and forget it.
+When shopping for a kitchen composter, always look at **total cost of ownership**. Upfront price is only part of the equation – consider electric composter filters cost over the life of the machine. **GEME stands out in electric composter comparisons by eliminating an entire cost category: filters. No charcoal refills, no pods to order, just continuous odor-free composting**.
 
-- **Harvest Compost**. In 6–8 hours (depending on mode and material), the machine converts scraps into a dark soil-like amendment. You simply scoop it out and mix it into your garden or potted plants.
+For savvy shoppers, this is a powerful question: why pay more later when you can pay once and forget it? GEME Terra II may cost around $549, but with $0 in filter fees, your savings over time add up. Our permanent filter design means cleaner kitchens and a lighter wallet drain.
 
-This “Add & Forget” experience fits busy lives: Terra II only needs emptying every 1–2 months (95% of waste volume is reduced). Throughout this cycle the system stays whisper-quiet (≤40 dB) so it won’t disturb your household. Overall, GEME Terra II delivers a high-tech, low-effort composting solution that traditional dehydrators (like Lomi) simply can’t match.
+We hope this information helps you make an informed decision. GEME remains focused on innovation and customer trust. We will defend our brand against false claims and are fully prepared to protect our rights in court if need be. In the meantime, remember: **compost bin filters should relieve your life, not your budget. With GEME, there are no surprises – just great compost**.
 
-![GEME Terra 2](./img/geme-terra-2-digital-display.jpg)
+![GEME Terra 2](./image/geme-terra-2-composter.png)
 
-## 5. How Lomi Works (Quick Overview)
+## 6. References
 
-Lomi (by Pela) is a grind-and-dry countertop composter. It has three modes (Eco Express, Grow, and Lomi-Approved) that run from 3 up to 20 hours, using heat and mixing to break down scraps. You fill Lomi’s bucket (about 3 L capacity) with food waste, lock on the lid, select a mode, and run the cycle. Afterward, Lomi’s motorized blade and hot airflow grind the waste into a very fine, “coffee-grounds” texture. For example, [Helen Rosner from **The New Yorker**](https://www.newyorker.com/culture/annals-of-gastronomy/the-promises-of-the-home-composting-machine) said five hours of Lomi processing yielded **“about a half cup of dark-brown, crumbly dust” that smelled faintly of burned onions**. This powder can be added to soil (at a high dilution ratio) or thrown into a traditional compost pile for further processing.
-
-While Lomi is effective at volume reduction, it’s important to note that this output is not fully finished compost. Experts point out you still get essentially cooked scraps, not mature soil. Wired’s tester summed it up: **Lomi is “a lot to pay for what’s essentially a grinder-and-dryer”. In contrast, GEME Terra II’s microbe-driven approach yields genuine compost right away**.
-
-![GEME Terra 2 better than Lomi Composter](./img/geme-terra-2-composter.png)
-
-## 6. Why GEME Terra II is the Best Lomi Alternative
-
-GEME Terra II was designed with these exact limitations in mind. It addresses Lomi’s pain points while delivering true composting results. Here’s how Terra II stands out as a Lomi alternative:
-
-- **Continuous Composting**: No more waiting. Terra II’s “Add & Forget” system lets you drop in waste anytime. You never have to align a lid or empty a bin mid-cycle.
-
-- **High Yield, Low Effort**: Terra II biologically digests 95% of scraps (versus ~80% volume reduction in typical dehydrators). This means you spend less time emptying compost and more time enjoying the benefits of real fertilizer.
-
-- **Quiet, Compact & Stylish**: Engineered for modern kitchens, Terra II is sleek and relatively lightweight (13 kg). It runs as softly as a whisper (≤40 dB) thanks to optimized dampening. It’s floor-standing or countertop-friendly, making it perfect for apartments or open-concept homes.
-
-- **No Ongoing Costs**: Terra II has no consumable subscriptions. A one-time purchase (\$549) covers everything. GEME’s permanent filter and self-replicating microbe packs mean the only ongoing input is your kitchen scraps. Over time, this is a huge saving: **GEME Terra II is up to \$550 cheaper to own over 3 years than a typical “smart bin” like Lomi (which costs \$499 + \$600 in filters)**.
-
-- **Odor-Free Guarantee**: No one wants a stinky machine. Terra II uses advanced metal-ion oxidation instead of charcoal, so there’s truly no odor during composting. You won’t invite pests or have garbage smells – just fresh air.
-
-- **Handling Anything**: If it’s organic, Terra II can compost it. That includes fruit and veggie scraps plus cooked foods, meat, dairy, and even pet waste. By contrast, Lomi cannot take these. Terra II’s robustness makes it a future-proof choice as more biowaste options (like compostable packaging) become common.
-
-- **Sustainable Output**: Finally, Terra II’s output is genuine, microbe-rich compost. As GEME puts it, dehydrators (like Lomi) “just cook trash, but GEME creates life”, producing ready-to-use organic fertilizer. This means your plants get real nutrients back, closing the waste loop properly.
-
-![GEME Terra 2](./img/geme-terra-2-composting-at-home.jpg)
-
-### Perfect for Your Lifestyle
-
-- **Eco-Conscious Families**: With Terra II, you divert nearly all your food waste from landfill into soil. Harvesting actual compost at home reduces your garbage volume far more than a food recycler can.
-
-- **Apartment Dwellers & Small-Space Homes**: Terra II’s compact footprint and quiet operation make it ideal for tight kitchens. You get the benefits of composting without needing a yard or outdoor bin.
-
-- **Tech-Savvy Homeowners**: If you love smart appliances, GEME delivers. Its AI sensors adjust conditions automatically, and a simple smart display (or app) tells you when compost is ready. The **“batchless”** design fits a modern lifestyle of convenience and connectivity.
-
-- **Zero-Waste Advocates**: Terra II minimizes waste at every step. No single-use filters or pods means less plastic thrown away. The end product is genuine fertilizer, not sterile flakes – supporting a true circular living system.
-
-These benefits make GEME Terra II a compelling choice for anyone who found Lomi lacking. GEME has even timed its launch to address demand: Batch 1 sold out immediately, and Batch 2 is now open for pre-order at \$549. Plus, GEME offers a 30-day money-back guarantee and free shipping to US & EU, making it easy to upgrade your kitchen composting.
-
-![GEME Terra 2 For Gardeners](./img/geme-terra-2.png)
-
-## 7. Conclusion 
-
-In an electric composter comparison, GEME Terra II consistently outperforms Lomi in key areas: capacity, output quality, cost, and convenience. Serious reviews and user feedback from [**Serious Eats**](https://www.seriouseats.com/lomi-countertop-composter-review-7098305) and [**Wired**](https://www.wired.com/story/home-composters-buying-guide/) suggest that while Lomi reduces waste volume effectively, its limitations (large footprint, fiddly lid, and ongoing costs) leave some buyers wanting more. GEME Terra II addresses these gaps head-on, providing truly continuous, odor-free composting with no subscriptions.
-
-For **eco-conscious families and zero-waste advocates** looking to turn kitchen scraps into garden gold, Terra II is a clear Lomi alternative. Its professional-grade microbes actually create fertile soil, and its quiet, plug-and-play design suits busy, modern homes. Don’t just shrink your trash – compost it with GEME Terra II. Pre-orders are open now, so secure your unit today and join the movement for smarter, greener kitchens.
-
-## 8. References
-
-1. [Serious Eats: Lomi Composter Review](https://www.seriouseats.com/lomi-countertop-composter-review-7098305)
-2. [Wired: Home Composter Buying Guide](https://www.wired.com/story/home-composters-buying-guide/) 
-3. [The New Yorker: The Promise of the Home Composting Machine](https://www.newyorker.com/culture/annals-of-gastronomy/the-promises-of-the-home-composting-machine)
-4. [Reddit: Lomi Composter is Not Recommended](https://www.reddit.com/r/composting/comments/1b6btyx/lomi_composter_not_recommended)
+1. [Mill Support: How Often Do I Need to Replace My Carbon Filter & How Much Does It Cost?](https://support.mill.com/hc/en-us/articles/12045124640411-How-often-do-I-need-to-replace-my-carbon-filter-and-how-much-does-it-cost)
+2. [Lomi Filter Refills 90 Cycles](https://lomi.com/products/lomi-filter-refills-90-cycles)
+3. [Reencle Prime Carbon Filter At \$35](https://reencle.co/products/reencle-prime-filter)
+4. [Reencle Mesh Filters At \$12)](https://reencle.co/products/reencle-mesh-filter)
 
 <RelatedArticles
   slugs={[
+  "geme-vs-lomi", 
   "geme-terra-2-debuts",
   "the-best-composter-to-reduce-food-waste",
   "compost-pile-vs-electric-composter",
