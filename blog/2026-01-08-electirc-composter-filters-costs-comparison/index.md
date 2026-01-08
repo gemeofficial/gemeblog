@@ -50,7 +50,9 @@ When evaluating an electric composter for your home, it pays to compare not just
 
   - **Reencle Prime**: ≈\$35 per year (carbon) + \$12 mesh. Reencle’s accessory shop lists [a carbon filter at \$35](https://www.reencle.co/products/reencle-prime-filter) and [a mesh filter at \$12](https://www.reencle.co/products/reencle-mesh-filter). The company suggests replacing filters roughly every 9–12 months. That works out to about \$47/year total if both carbon and mesh are changed annually.(Reference: [Reecle Prime Filter, Reencle Mesh Filter](https://reencle.co/products/reencle-food-waste-composter))
 
-<span style={{ color: '#6e6e6e', fontStyle: 'italic', fontWeight: 'bold' }}>As-of date & scope: Prices and replacement guidance are sourced from brands’ official pages and verified on January 8, 2026; excludes tax/shipping; actual usage varies.</span>
+:::note
+*As-of date & scope: Prices and replacement guidance are sourced from brands' official pages and verified on January 8, 2026; excludes tax/shipping; actual usage varies.*
+:::
 
 | Brand / Model        | Filter Type                          | Replacement Required | Replacement Frequency | Annual Filter Cost (Approx.)     | Ongoing Subscription | Key Notes                                                                                                  |
 | -------------------- | ------------------------------------ | -------------------- | --------------------- | -------------------------------- | -------------------- | ---------------------------------------------------------------------------------------------------------- |
