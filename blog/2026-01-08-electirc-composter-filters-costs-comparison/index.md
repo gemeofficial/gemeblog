@@ -9,7 +9,7 @@ keywords:
 slug: electric-compost-bin-filters-costs-comparison
 authors: [Moore]
 tags: [composter, sustainability, geme]
-
+image: https://www.geme.bio/assets/images/compost-bin-hidden-costs-filter-replacements-f9ecdeb27185c285f6197509cdb606d6.png 
 ---
 
 import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
@@ -117,7 +117,7 @@ We hope this information helps you make an informed decision. GEME remains focus
 
 ## 6. References
 
-1. [Mill Support: How Often Do I Need to Replace My Carbon Filter & How Much Does It Cost?](https://www.support.mill.com/hc/en-us/articles/12045124640411-How-often-do-I-need-to-replace-my-carbon-filter-and-how-much-does-it-cost)
+1. [Mill Support: How Often Do I Need to Replace My Carbon Filter & How Much Does It Cost?](https://support.mill.com/hc/en-us/articles/12045124640411-How-often-do-I-need-to-replace-my-carbon-filter-and-how-much-does-it-cost)
 2. [Lomi Filter Refills 90 Cycles](https://www.lomi.com/products/lomi-filter-refills-90-cycles)
 3. [Reencle Prime Carbon Filter At \$35](https://www.reencle.co/products/reencle-prime-filter)
 4. [Reencle Mesh Filters At \$12)](https://www.reencle.co/products/reencle-mesh-filter)
