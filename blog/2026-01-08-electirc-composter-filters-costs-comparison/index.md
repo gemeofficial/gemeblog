@@ -90,7 +90,7 @@ On November 3, 2024, Reencle (a competing composter brand) published a compariso
 
 ![Reencle False Claims About GEME Composter](./image/reencle-false-claims-about-geme-composter.png)
 
-GEME categorically denies requiring any \$35/year filter. GEME uses the permanent filter system described above, and we have made every effort to clarify this point. The only filters GEME customers use are those never purchased – they are built-in and self-cleansing. In fact, an official comparison explicitly notes “Filter System: Permanent (no refills),” whereas it shows Lomi’s replaceable filters as the alternative. No credible source backs the \$35 claim.
+GEME categorically denies requiring any \$35/year filter. GEME uses the permanent filter system described above, and we have made every effort to clarify this point. The only filters GEME customers use are those never purchased – they are built-in and self-cleansing. No credible source backs the \$35 claim.
 
 **We understand this misinformation could confuse shoppers**. GEME has reached out to Reencle to request a correction. **Should Reencle fail to amend its statements, GEME is prepared to pursue formal legal action. We take our brand and customers’ trust seriously: if false claims about our filters continue to circulate, we will enforce our rights to protect our reputation and inform the public**.
 
