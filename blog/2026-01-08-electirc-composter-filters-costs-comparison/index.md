@@ -32,7 +32,7 @@ By contrast, **both GEME Pro and GEME Terra II electric composters are engineere
 
 2. **[Compost Bin Filters Replacement Frequency And Impact](#2-compost-bin-filters-replacement-frequency-and-impact)**
 
-3. **[Debunking Reencle's \$35 Year Claim](#3-debunking-reencles-35year-claim)**
+3. **[Debunking Reencle's \$35/Year Claim](#3-debunking-reencles-35year-claim)**
 
 4. **[GEME Brand Protection And Legsl Recourse](#4-brand-protection-and-legal-recourse)**
 
@@ -49,7 +49,15 @@ GEME Terra II: \$0 per year (permanent metal-ion filter, no charcoal or pod repl
 
   - **Reencle Prime**: ≈\$35 per year (carbon) + \$12 mesh. Reencle’s accessory shop lists [a carbon filter at \$35](https://www.reencle.co/products/reencle-prime-filter) and [a mesh filter at \$12](https://www.reencle.co/products/reencle-mesh-filter). The company suggests replacing filters roughly every 9–12 months. That works out to about \$47/year total if both carbon and mesh are changed annually.(Reference: [Reecle Prime Filter, Reencle Mesh Filter](https://reencle.co/products/reencle-food-waste-composter))
 
-These figures highlight a big difference: **GEME imposes no filter fees, while others require ongoing purchases**. Over just three years, for instance, **GEME’s design is more than $500 cheaper than a filter-dependent competitor**. GEME emphasizes this payback: [“Pay $50 more, save much more… Terra II at \$549 has no ongoing refills… 3-Year Total: $549 for GEME Terra 2 but \$1099 for a competitor like Lomi”](https://ww.geme.bio/blog/geme-vs-lomi?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=electric-compost-bin-filters-costs-comparison). In plain terms, **your ROI on GEME can be much higher since you eliminate hidden filter expenses**.
+| Brand / Model        | Filter Type                          | Replacement Required | Replacement Frequency | Annual Filter Cost (Approx.)     | Ongoing Subscription | Key Notes                                                                                                  |
+| -------------------- | ------------------------------------ | -------------------- | --------------------- | -------------------------------- | -------------------- | ---------------------------------------------------------------------------------------------------------- |
+| **GEME Terra II**    | Permanent metal-ion catalytic filter | No need                | Never                 | **\$0**                           |  None               | No charcoal, no refills, no consumables. Odor control via microbial fermentation and catalytic filtration. |
+| **Lomi**             | Activated charcoal filters           | Yes                | Every 3–4 months      | **\$150–\$200**                    | Optional auto-ship | Filters saturate quickly with frequent use. Ongoing cost increases with heavy composting.                  |
+| **Mill Kitchen Bin** | High-capacity carbon odor filter     | Yes                | About once per year   | **~\$89**                         | None               | Large charcoal filter; replacement required to maintain odor control.                                      |
+| **Reencle Prime**    | Carbon filter + mesh filter          | Yes                | Every 9–12 months     | **~\$47** (\$35 carbon + \$12 mesh) | None               | Requires annual filter replacement; recurring consumable cost.                                             |
+
+
+These figures highlight a big difference: **GEME imposes no filter fees, while others require ongoing purchases**. Over just three years, for instance, **GEME’s design is more than \$500 cheaper than a filter-dependent competitor**. GEME emphasizes this payback: [“Pay \$50 more, save much more… Terra II at \$549 has no ongoing refills… 3-Year Total: \$549 for GEME Terra 2 but \$1099 for a competitor like Lomi”](https://ww.geme.bio/blog/geme-vs-lomi?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=electric-compost-bin-filters-costs-comparison). In plain terms, **your ROI on GEME can be much higher since you eliminate hidden filter expenses**.
 
 <GemeTerra2CTA 
  imgSrc="/img/geme-terra-2.png"
