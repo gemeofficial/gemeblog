@@ -20,7 +20,7 @@ In the race to turn kitchen waste into compost, not all systems are created equa
 
 For example, the popular Lomi composter recommends new filters every 3–4 months and sells [a 2-pack for about \$54](https://lomi.com/products/lomi-filter-refills-90-cycles), roughly \$100 per year. The Mill’s support site also confirms its odor filter costs about [\$89 each](https://support.mill.com/hc/en-us/articles/12045124640411-How-often-do-I-need-to-replace-my-carbon-filter-and-how-much-does-it-cost) (lasting ~1 year) . Even Reencle, a leading competitor, sells replacement carbon filters at [\$35 each](https://reencle.co/products/reencle-prime-filter) [(plus mesh filters at \$12)](https://reencle.co/products/reencle-mesh-filter) and expects annual replacements. These ongoing compost bin filter costs can add up over time.
 
-By contrast, **both GEME Pro and GEME Terra II electric composters are engineered for zero filter replacements**. GEME uses an industrial metal-ion “permanent” filter inside that never needs a charcoal refill. In short, GEME has no ongoing filter subscription costs. [<span style={{color: 'green', fontStyle: 'italic'}}>Terra II at \$549 has no ongoing refills… Consumables 3-Year: \$0 Permanent Filter & Self-replicating Microbes</span>](https://ww.geme.bio/blog/geme-vs-lomi?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=electric-compost-bin-filters-costs-comparison). In practical terms, this means **GEME owners pay \$0 per year for filters, while competitors may pay hundreds of dollars over a few years**.
+By contrast, **both GEME Pro and GEME Terra II electric composters are engineered for zero filter replacements**. GEME uses an industrial metal-ion “permanent” filter inside that never needs a charcoal refill. In short, GEME has no ongoing filter subscription costs. [<span style={{color: 'green', fontStyle: 'italic'}}>Terra II at \$549 has no ongoing refills… Consumables 3-Year: \$0 Permanent Filter & Self-replicating Microbes</span>](https://www.geme.bio/blog/geme-vs-lomi?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=electric-compost-bin-filters-costs-comparison). In practical terms, this means **GEME owners pay \$0 per year for filters, while competitors may pay hundreds of dollars over a few years**.
 
 ![Even with a convenient compost bin, hidden costs like filter replacements can add up over time.](./image/compost-bin-hidden-costs-filter-replacements.png)
 *Image: Modern indoor composting – even with a convenient countertop bin, hidden costs like filter replacements can add up over time.*
@@ -28,7 +28,7 @@ By contrast, **both GEME Pro and GEME Terra II electric composters are engineere
 
 <h2 class="jump-to">Jump To</h2>
 
-1. **[Electric Composter Comparison: Filter Costs Uncovered](https://ww.geme.bio/blog/geme-vs-lomi?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=electric-compost-bin-filters-costs-comparison)**
+1. **[Electric Composter Comparison: Filter Costs Uncovered](https://www.geme.bio/blog/geme-vs-lomi?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=electric-compost-bin-filters-costs-comparison)**
 
 2. **[Compost Bin Filters Replacement Frequency And Impact](#2-compost-bin-filters-replacement-frequency-and-impact)**
 
