@@ -42,7 +42,7 @@ By contrast, **both GEME Pro and GEME Terra II electric composters are engineere
 
 When evaluating an electric composter for your home, it pays to compare not just the purchase price, but also the maintenance costs (often dominated by filters). Here’s a quick rundown of typical filter expenses for top brands:
 
-  - **GEME Terra II**: \$0 per year (permanent metal-ion filter, no charcoal or pod replacements).
+  - **GEME Composter(GEME Pro & GEME Terra 2)**: \$0 per year (permanent metal-ion filter, no charcoal or pod replacements).
 
   - **Lomi**: ≈\$50 per 3–4 months. Lomi sells filter packs (~45 cycles worth) for about \$50 each. Since filters last ~45 cycles (roughly 3 months), **you’d spend around \$200 per year on Lomi filters**. (Reference: [Lomi Filter Refills 90 Cycles](https://lomi.com/products/lomi-filter-refills-90-cycles))
 
