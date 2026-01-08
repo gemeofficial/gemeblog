@@ -21,7 +21,6 @@ Embarking on a zero waste lifestyle? Home composters like GEME Terra II and the 
 
 We’ve done the research on GEME vs Lomi – including user feedback and expert reviews – to help eco-conscious families, apartment dwellers, tech-savvy homeowners, and zero-waste advocates choose the best option. 
 
-![GEME vs Lomi](./img/geme-terra-2-on-digital-trends.png)
 <!-- truncate -->
 
 <h2 class="jump-to">Jump To</h2>
