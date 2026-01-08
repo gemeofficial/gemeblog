@@ -85,7 +85,7 @@ In contrast, GEME’s technology avoids this trap. By using self-replicating mic
 
 For households budgeting their composting ROI, this matters. Even eco-conscious consumers can be surprised at how quickly \$10/month on filters becomes \$120/year. **A proper electric composter comparison must include these costs**. 
 
-If you factor in these numbers, GEME often comes out ahead for multi-year ownership, despite a slightly higher initial price. The up-front GEME vs. Lomi comparison shows a \$50 price premium yields a \$550 lifetime savings.
+If you factor in these numbers, GEME often comes out ahead for multi-year ownership, despite a slightly higher initial price. 
 
 ## 3. Correction Notice For Reencle (Fact Check)
 
