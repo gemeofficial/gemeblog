@@ -651,10 +651,10 @@ const config = {
 
         // 要下架的文章文件夹 参数是目录名称
         exclude: [
-          "**/2024-09-26-soilkind-vs-geme/**",
-          "**/2024-09-29-lomi-vs-geme/**",
-          "**/2024-09-30-mill-vs-geme/**",
-          "**/2024-10-16-reencle-vs-geme/**",
+          // "**/2024-09-26-soilkind-vs-geme/**",
+          // "**/2024-09-29-lomi-vs-geme/**",
+          // "**/2024-09-30-mill-vs-geme/**",
+          // "**/2024-10-16-reencle-vs-geme/**",
           "**/2023-07-07-redefine-garbage-we-can-do-better/**",
         ],
 
