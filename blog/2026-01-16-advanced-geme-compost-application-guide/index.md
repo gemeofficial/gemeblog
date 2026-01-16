@@ -10,6 +10,7 @@ keywords:
 slug: advanced-geme-compost-application-guide
 authors: [Dr. Kyung-Ryong.H]
 tags: [compost, sustainability, geme]
+image: https://www.geme.bio/_next/image?url=%2Fassets%2Fimages%2Fterra2-product-page-v2%2Fhero-section%2F3.webp&w=1920&q=75
 
 ---
 
@@ -39,9 +40,9 @@ To use this output safely and effectively, we must move beyond simply "dumping i
 
 4. **[Step 4: The "Wait & Watch" (Storage)](#4-the-wait--watch-storage)**
 
-5. **[Summary: The "Add & Forget" Philosophy Applied To Soil](#6-summary-the-add--forget-philosophy-applied-to-soil)**
+5. **[Summary: The "Add & Forget" Philosophy Applied To Soil](#5-summary-the-add--forget-philosophy-applied-to-soil)**
 
-6. **[Frequently Asked Questions](#7-frequently-asked-questions)**
+6. **[Frequently Asked Questions](#6-frequently-asked-questions)**
 
 <GemeTerra2CTA 
  imgSrc="/img/geme-terra-2.png"
@@ -122,13 +123,13 @@ If you have harvested more than you can use, proper storage is critical to keepi
 
   - **The Result**: If sealed too tight, the mix will go anaerobic and smell like rot. If allowed to breathe, it will continue to cure (mature) in the bag, becoming even better over time.
 
-## 6. Summary: The "Add & Forget" Philosophy Applied to Soil
+## 5. Summary: The "Add & Forget" Philosophy Applied to Soil
 
 The beauty of the GEME system is the "Add & Forget" convenience in the kitchen. By using the Screen-Mix-Cap method, you extend this ease to your garden.
 
 You are not just disposing of waste; you are managing a living biological cycle. Treat the output with the respect due to a potent fertilizer, and your garden will thrive.
 
-## 7. Frequently Asked Questions 
+## 6. Frequently Asked Questions 
 
 Q: **Why does GEME output look different from bag soil?**
 
