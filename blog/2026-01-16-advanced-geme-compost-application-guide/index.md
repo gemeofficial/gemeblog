@@ -27,7 +27,6 @@ This means that at any given moment, the machine contains material in various st
 
 To use this output safely and effectively, we must move beyond simply "dumping it in a pot." We need to apply standard agricultural practices: **Screening (Inoculation)** and **Soil Capping (Buffering)**. This guide will teach you how to protect your plants while maximizing the biological power of your GEME.
 
-![GEME Composter Doesn't Need Filter Replacements](./image/geme-compost-bin-filter-no-need-for-replacements.png)
 <!-- truncate -->
 
 <h2 class="jump-to">Jump To</h2>
@@ -54,7 +53,7 @@ To use this output safely and effectively, we must move beyond simply "dumping i
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=electric-compost-bin-filters-costs-comparison"
+  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=advanced-geme-compost-application-guide"
 />
 
 ## 1. The Harvest & Screening (The Inoculation Loop)
