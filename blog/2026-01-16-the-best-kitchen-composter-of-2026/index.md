@@ -8,7 +8,7 @@ keywords:
   - geme terra 2, 
   - kitchen compost bin
 slug: best-kitchen-composter-2026
-authors: [Dr. Kyung-Ryong.H]
+authors: [Moore]
 tags: [composter, sustainability, geme]
 image: https://www.geme.bio/_next/image?url=%2Fassets%2Fimages%2Fterra2-product-page-v2%2Fhero-section%2F3.webp&w=1920&q=75
 
