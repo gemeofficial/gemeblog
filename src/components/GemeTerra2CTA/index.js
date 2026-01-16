@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 export default function GemeTerra2CTA({
   className,
   href = "https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-eat-lychee-best-lychee-taste-guide",
-  imgSrc = "/img/geme-kitchen-composter.png",
+  imgSrc = "/img/geme-terra-2-composter.jpg",
   imgAlt = "GEME Kitchen Composter",
   productTitle = "GEME Terra 2, the Best Biowaste Composter",
   features = [
