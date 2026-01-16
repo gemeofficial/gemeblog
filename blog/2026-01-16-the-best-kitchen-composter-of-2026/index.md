@@ -78,7 +78,7 @@ This contrasts sharply with DIY bins, which often never get hot enough to kill p
 
   - **All-Scrap Capability**: Terra II digests 400+ kinds of bio-waste, including vegetables and animal products (meat, fish, eggs, dairy, bones). You can truly put any kitchen scrap in.
 
-  - **TSelf-Sustaining & Zero Filters**: The microbes are self-replicating, so after the starter pack there are **no ongoing refills or filter cartridges** to buy. [The permanent purification filter never needs replacement](https://www.digitaltrends.com/home/ifa-2024-best-smart-home).
+  - **Self-Sustaining & Zero Filters**: The microbes are self-replicating, so after the starter pack there are **no ongoing refills or filter cartridges** to buy. [The permanent purification filter never needs replacement](https://www.digitaltrends.com/home/ifa-2024-best-smart-home).
 
   - **95% Volume Reduction**: A full basket of food can be reduced to just a cup of soil in one cycle. This massive shrinkage means less frequent emptying – you can add scraps daily and only harvest compost every few months.
 
