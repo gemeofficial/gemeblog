@@ -45,7 +45,7 @@ To use this output safely and effectively, we must move beyond simply "dumping i
 6. **[Frequently Asked Questions](#6-frequently-asked-questions)**
 
 <GemeTerra2CTA 
- imgSrc="/img/geme-terra-2.png"
+ imgSrc="/img/geme-terra-2-composter.jpg"
  productTitle="GEME Terra II Composter"
  features={[
     "✅ Zero Filter Costs, No Refills",
