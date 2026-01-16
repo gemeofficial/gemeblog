@@ -131,12 +131,15 @@ You are not just disposing of waste; you are managing a living biological cycle.
 ## 7. Frequently Asked Questions 
 
 Q: **Why does GEME output look different from bag soil?**
+
 A: GEME output is a "continuous flow" product, meaning it contains mixed stages of breakdown. Unlike bagged soil which is chemically uniform, GEME compost is biologically diverse. This is why screening large chunks and returning them to the unit is recommended.
 
 Q: **Can I plant directly into GEME compost?**
+
 A: No. It is too nutrient-dense and may cause root burn. Always mix it at a 1:8 ratio with garden soil and use a 5cm soil cap (layer of plain soil) on top to protect roots and prevent pests.
 
 Q: **What do I do with the bones that didn't break down?**
+
 A: Put them back in the GEME. They act as microbial carriers, helping to break down new food waste faster in the next cycle.
 
 <RelatedArticles
