@@ -1,6 +1,6 @@
 ---
 title: "GEME Terra 2 vs Reencle Composter: Real Composting vs Automated Drying (2026 Comparison)"
-description: This article compares GEME Terra 2 vs Reencle from a practical, ownership-focused perspective: processing method, output type, daily usability, and long-term cost.
+description: "This article compares GEME Terra 2 vs Reencle from a practical, ownership-focused perspective: processing method, output type, daily usability, and long-term cost."
 keywords:
   - geme terra 2, 
   - geme composter, 
