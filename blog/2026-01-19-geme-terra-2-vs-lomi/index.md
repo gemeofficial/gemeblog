@@ -7,7 +7,7 @@ keywords:
   - best kitchen composters, 
   - geme terra 2, 
   - geme vs mill
-slug: geme-vs-mill-2026
+slug: geme-vs-mill-composter-2026
 authors: [Moore]
 tags: [composter, sustainability, geme]
 image: https://www.geme.bio/_next/image?url=%2Fassets%2Fimages%2Fterra2-product-page-v2%2Fhero-section%2F3.webp&w=1920&q=75
@@ -20,7 +20,7 @@ import ReactPlayer from 'react-player'
 
 Choosing a kitchen composter isn’t just about convenience — it’s about **capacity, output reality, and long-term cost**.
 
-This guide compares **GEME Terra 2 vs Mill (Gen 2)** using only published specifications and official support statements, so you can decide which system actually fits your kitchen and budget.
+This guide compares [**GEME Terra 2 vs Mill (Gen 2)**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-kitchen-composter-2026) using only published specifications and official support statements, so you can decide which system actually fits your kitchen and budget.
 
 ---
 
@@ -81,6 +81,12 @@ If you prefer **accumulating waste and processing it periodically**, Mill aligns
 ---
 
 ## Output Reality — Compost vs Food Grounds
+
+|                   | **Mill (2nd Gen.)**                                  | **GEME Terra 2**                             |
+|-------------------|--------------------------------------------------|------------------------------------------|
+| Output            | Dried "Food Grounds"                             | Bio-compost (up to 95% reduction)        |
+| Compost Status    | **"Food Grounds aren't compost."** It Needs pickup or further composting | **Ready for soil amendment**                 |
+| Harvest Frequency | When bucket fills / after each drying cycle      | Once every 1–2 months                    |
 
 ### What Does Mill Produce?
 
@@ -151,6 +157,8 @@ These costs vary by user, but they are part of Mill’s ecosystem-based model.
 If you prefer **predictable, one-time ownership**, Terra 2 is simpler.  
 If you’re comfortable with **service-based pricing**, Mill may fit your expectations.
 
+Mill involves potential recurring costs for rental (\$35/mo), filters (\$89), or pickups (\$192/yr). GEME has zero mandatory recurring fees. [Click here to **Calculate your cost**](https://www.geme.bio/cost-calculator/terra2-vs-mill?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-kitchen-composter-2026).
+
 ---
 
 ## Which One Fits Your Kitchen?
@@ -158,25 +166,13 @@ If you’re comfortable with **service-based pricing**, Mill may fit your expect
 ### Choose Mill if:
 - You want **Food Grounds + optional mail-back service**
 - You’re comfortable with **filters, rentals, or service fees**
-- Your food waste volume is relatively low and infrequent
+- You like the “fill over weeks” bucket model (6.5L / up to 4 weeks to fill).
 
 ### Choose GEME Terra 2 if:
 - You want **real compost output**
 - You cook often and generate daily food waste
 - You want **no subscriptions and minimal long-term cost**
-
----
-
-## Common Buyer Mistakes to Avoid
-
-### Confusing “Dehydration” with Composting
-Drying food waste reduces smell and volume — but it does not equal compost.
-
-### Ignoring Recurring Costs
-Filters and services may seem small monthly, but add up over time.
-
-### Mismatching Capacity Models
-Batch systems and continuous systems behave very differently in daily use.
+- You want long intervals between harvest (1–2 months) via **95% reduction**
 
 ---
 
@@ -189,24 +185,48 @@ Yes. GEME publishes **“up to 2kg/day”** as its daily processing capacity.
 No. Mill explicitly states that **Food Grounds are not compost**.
 
 ### Does GEME require filter replacements?
-No. GEME uses a **permanent metal-ion catalytic filter**.
+No. GEME uses a **permanent Metal-Ion Catalytic filter**. Unlike charcoal filters, it does not require periodic replacement. 
+
+### What are the annual costs for Mill?
+It depends on your plan. Rentals are ~$420/year ($35/mo). Filter replacements are listed at $89. Optional pickup service is $192/year. 
+
+### How often do I need to empty GEME?
+Official guidance states waste volume is reduced by 95%, allowing you to harvest compost just once every 1–2 months. 
 
 ### Is GEME suitable for apartments?
 Yes. It is floor-standing, quiet, and designed for indoor use.
 
----
+### Can I put bones in GEME?
+Small bones (chicken/fish) are accepted. Large beef/pork bones should be avoided as they take too long to break down biologically.
 
-## Final Decision Rule
-
-If your priority is **ownership, compost output, and zero recurring fees**,  
-**GEME Terra 2** is the clearer long-term solution.
-
-If your priority is **service convenience and managed waste logistics**,  
-**Mill** may better fit your lifestyle.
+### Does Mill require a subscription?
+You can buy the device upfront ($999+), but the ecosystem (pickups, filters) is designed around recurring services/purchases. 
 
 ---
 
-*Last verified: January 18, 2026*
+## Practical Decision Rules
+
+### 1. The “Output Truth” Rule
+If you specifically want “compost,” note Mill’s own definition: Food Grounds aren’t compost. If you want compost positioning + harvest intervals, Terra 2 states 95% reduction and 1–2 month harvest. 
+
+### 2. The “Fees Tolerance” Rule
+If recurring costs annoy you, audit the full stack: rental + filters + optional pickups. If you’re fine with that, Mill can make sense. 
+
+### 3. The “Capacity Model” Rule
+Terra 2 publishes a daily capacity (up to 2kg/day). Mill describes a bucket capacity that fills over weeks (6.5L; up to 4 weeks). Choose the model that matches your cooking rhythm. 
+
+---
+
+## Verified Sources
+Last Verified: Jan 18, 2026. Data derived strictly from public support pages.
+
+ 1. GEME — Terra 2 Home Bio-Composter (Specs: up to 2kg/day, Permanent Filter)
+ 2. GEME — FAQs (95% reduction; harvest every 1–2 months)
+ 3. Mill Support — "Food Grounds aren't compost"
+ 4. Mill Support — Pricing (Buy $999 / Rent $35/mo)
+ 5. Mill Support — Carbon filter replacement ($89)
+ 6. Mill Support — Pickup Service Pricing ($192/year)
+ 7. Mill — Food Recycler Page (6.5L capacity; up to 4 weeks to fill)
 
 
 
