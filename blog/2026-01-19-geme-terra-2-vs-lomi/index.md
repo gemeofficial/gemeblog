@@ -35,7 +35,7 @@ This guide compares **GEME Terra 2 vs Mill (Gen 2)** using only published specif
 | Subscription required | **No** | Optional / ecosystem-based |
 | Best for | Ownership, low maintenance | Service-based users |
 
----
+<!-- truncate -->
 
 ## What This Comparison Is (and Isn’t)
 
