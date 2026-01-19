@@ -22,7 +22,7 @@ Choosing a kitchen composter isn’t just about convenience — it’s about **c
 
 This guide compares [**GEME Terra 2 vs Mill (Gen 2)**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-kitchen-composter-2026) using only published specifications and official support statements, so you can decide which system actually fits your kitchen and budget.
 
-### The 90-Second Truth: The "Lazy" Owner vs. The Service Subscriber
+## The 90-Second Truth: The "Lazy" Owner vs. The Service Subscriber
 
 :::note
 "Lazy" here means you want a low-maintenance composter: less emptying, fewer extra costs, and minimal effort or restrictions.
@@ -34,9 +34,9 @@ This guide compares [**GEME Terra 2 vs Mill (Gen 2)**](https://www.geme.bio/prod
 
  3. GEME Terra 2 provides up to 2kg/day continuous capacity, with 95% waste reduction allowing harvest intervals of 1–2 months.
 
----
+<!-- truncate -->
 
-## Quick Verdict (TL;DR)
+## 1. Quick Verdict (TL;DR)
 
 | Feature | GEME Terra 2 | Mill (Gen 2) |
 |------|------------|--------------|
@@ -47,18 +47,27 @@ This guide compares [**GEME Terra 2 vs Mill (Gen 2)**](https://www.geme.bio/prod
 | Subscription required | **No** | Optional / ecosystem-based |
 | Best for | Ownership, low maintenance | Service-based users |
 
-<!-- truncate -->
+<GemeTerra2CTA 
+ imgSrc="/img/geme-terra-2-composter.jpg"
+ productTitle="GEME Terra II Composter"
+ features={[
+    "✅ Zero Filter Costs, No Refills",
+    "✅ Quiet, Odour-Free, Real Compost",
+    "✅ Rich Compost Output For Garden Soil & Plants",
+    "✅ Reduce Landfill Waste & Greenhouse Gases"
+ ]}
+buttonText="Get Your GEME Terra II"
+  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-kitchen-composter-2026"
+/>
 
-## What This Comparison Is (and Isn’t)
+### What This Comparison Is (and Isn’t)
 
 - ✅ Based on **official product pages & support documentation**
 - ✅ Focused on **real-world ownership and Total Cost of Ownership (TCO)**
 - ❌ Not sponsored
 - ❌ Not lab testing — specs and statements only
 
----
-
-## Capacity Model — Daily Throughput vs Batch Cycles
+## 2. Capacity Model — Daily Throughput vs Batch Cycles
 
 ### GEME Terra 2 Capacity
 
@@ -72,7 +81,6 @@ Key points:
 
 This model favors households that cook frequently or generate food waste daily.
 
----
 
 ### Mill Capacity
 
@@ -83,16 +91,14 @@ Mill uses a **batch-style bucket system**:
 
 Mill does not publish a daily throughput figure. Instead, capacity is described in terms of **container volume and fill time**.
 
----
 
 ### Capacity Verdict
 
 If you think in **daily food waste volume**, Terra 2’s model is clearer.  
 If you prefer **accumulating waste and processing it periodically**, Mill aligns better.
 
----
 
-## Output Reality — Compost vs Food Grounds
+## 3. Output Reality — Compost vs Food Grounds
 
 |                   | **Mill (2nd Gen.)**                                  | **GEME Terra 2**                             |
 |-------------------|--------------------------------------------------|------------------------------------------|
@@ -109,7 +115,6 @@ According to Mill’s own support documentation:
 
 The output is a dehydrated biomass intended for storage, pickup, or secondary use — **not finished compost**.
 
----
 
 ### What Does GEME Terra 2 Produce?
 
@@ -120,12 +125,53 @@ GEME Terra 2 produces **biologically reduced compost**:
 
 This distinction matters if your goal is **actual compost**, not just waste drying.
 
----
-
 ### Output Verdict
 
 - Want **soil-ready compost at home** → **GEME Terra 2**
 - Want **dehydrated waste for storage or pickup** → **Mill**
+
+
+## 4. Recurring Costs & Total Cost of Ownership (TCO)
+
+### Mill Ongoing Costs
+
+Depending on how Mill is used, ongoing costs may include:
+- **Rental plan:** ~\$35/month
+- **Carbon filter replacements:** \$89
+- **Optional pickup service:** ~\$192/year
+
+These costs vary by user, but they are part of Mill’s ecosystem-based model.
+
+
+### GEME Terra 2 Ongoing Costs
+
+- **One-time device purchase**
+- **Permanent catalytic filter**
+- **No required subscriptions**
+- **No mandatory recurring fees**
+
+
+### Cost Verdict
+
+If you prefer **predictable, one-time ownership**, Terra 2 is simpler.  
+If you’re comfortable with **service-based pricing**, Mill may fit your expectations.
+
+Mill involves potential recurring costs for rental (\$35/mo), filters (\$89), or pickups (\$192/yr). GEME has zero mandatory recurring fees. [Click here to **Calculate your cost**](https://www.geme.bio/cost-calculator/terra2-vs-mill?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-kitchen-composter-2026).
+
+---
+
+## 5. Which One Fits Your Kitchen?
+
+### Choose Mill if:
+- You want **Food Grounds + optional mail-back service**
+- You’re comfortable with **filters, rentals, or service fees**
+- You like the “fill over weeks” bucket model (6.5L / up to 4 weeks to fill).
+
+### Choose GEME Terra 2 if:
+- You want **real compost output**
+- You cook often and generate daily food waste
+- You want **no subscriptions and minimal long-term cost**
+- You want long intervals between harvest (1–2 months) via **95% reduction**
 
 <GemeTerra2CTA 
  imgSrc="/img/geme-terra-2-composter.jpg"
@@ -140,55 +186,7 @@ buttonText="Get Your GEME Terra II"
   href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-kitchen-composter-2026"
 />
 
----
-
-## Recurring Costs & Total Cost of Ownership (TCO)
-
-### Mill Ongoing Costs
-
-Depending on how Mill is used, ongoing costs may include:
-- **Rental plan:** ~\$35/month
-- **Carbon filter replacements:** \$89
-- **Optional pickup service:** ~\$192/year
-
-These costs vary by user, but they are part of Mill’s ecosystem-based model.
-
----
-
-### GEME Terra 2 Ongoing Costs
-
-- **One-time device purchase**
-- **Permanent catalytic filter**
-- **No required subscriptions**
-- **No mandatory recurring fees**
-
----
-
-### Cost Verdict
-
-If you prefer **predictable, one-time ownership**, Terra 2 is simpler.  
-If you’re comfortable with **service-based pricing**, Mill may fit your expectations.
-
-Mill involves potential recurring costs for rental (\$35/mo), filters (\$89), or pickups (\$192/yr). GEME has zero mandatory recurring fees. [Click here to **Calculate your cost**](https://www.geme.bio/cost-calculator/terra2-vs-mill?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-kitchen-composter-2026).
-
----
-
-## Which One Fits Your Kitchen?
-
-### Choose Mill if:
-- You want **Food Grounds + optional mail-back service**
-- You’re comfortable with **filters, rentals, or service fees**
-- You like the “fill over weeks” bucket model (6.5L / up to 4 weeks to fill).
-
-### Choose GEME Terra 2 if:
-- You want **real compost output**
-- You cook often and generate daily food waste
-- You want **no subscriptions and minimal long-term cost**
-- You want long intervals between harvest (1–2 months) via **95% reduction**
-
----
-
-## FAQ
+## 6. FAQ
 
 ### Is GEME Terra 2 really 2kg per day?
 Yes. GEME publishes **“up to 2kg/day”** as its daily processing capacity.
@@ -214,9 +212,8 @@ Small bones (chicken/fish) are accepted. Large beef/pork bones should be avoided
 ### Does Mill require a subscription?
 You can buy the device upfront (\$999+), but the ecosystem (pickups, filters) is designed around recurring services/purchases. 
 
----
 
-## Practical Decision Rules
+## 7. Practical Decision Rules
 
 ### 1. The “Output Truth” Rule
 If you specifically want “compost,” note Mill’s own definition: Food Grounds aren’t compost. If you want compost positioning + harvest intervals, Terra 2 states 95% reduction and 1–2 month harvest. 
@@ -227,13 +224,12 @@ If recurring costs annoy you, audit the full stack: rental + filters + optional 
 ### 3. The “Capacity Model” Rule
 Terra 2 publishes a daily capacity (up to 2kg/day). Mill describes a bucket capacity that fills over weeks (6.5L; up to 4 weeks). Choose the model that matches your cooking rhythm. 
 
----
 
 ## Verified Sources
 Last Verified: Jan 18, 2026. Data derived strictly from public support pages.
 
- 1. GEME — Terra 2 Home Bio-Composter (Specs: up to 2kg/day, Permanent Filter)
- 2. GEME — FAQs (95% reduction; harvest every 1–2 months)
+ 1. [GEME — Terra 2 Home Bio-Composter](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-kitchen-composter-2026) (Specs: up to 2kg/day, Permanent Filter)
+ 2. [GEME — FAQs](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-kitchen-composter-2026) (95% reduction; harvest every 1–2 months)
  3. Mill Support — "Food Grounds aren't compost"
  4. Mill Support — Pricing (Buy \$999 / Rent \$35/mo)
  5. Mill Support — Carbon filter replacement (\$89)
