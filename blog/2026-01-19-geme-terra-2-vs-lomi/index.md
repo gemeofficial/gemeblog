@@ -24,8 +24,8 @@ This guide compares [**GEME Terra 2 vs Mill (Gen 2)**](https://www.geme.bio/prod
 
 ### The 90-Second Truth: The "Lazy" Owner vs. The Service Subscriber
 
-::: Note
-By "Lazy", we mean low-maintenance: fewer trips to the bin, fewer fees, and fewer rules.
+:::note
+"Lazy" here means you want a low-maintenance composter: less emptying, fewer extra costs, and minimal effort or restrictions.
 :::
 
  1. Mill (2nd gen.) dries and grinds scraps into “Food Grounds.” Mill support explicitly states Food Grounds aren’t compost. 
