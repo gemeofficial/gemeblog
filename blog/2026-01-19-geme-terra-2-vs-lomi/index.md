@@ -30,7 +30,7 @@ By "Lazy", we mean low-maintenance: fewer trips to the bin, fewer fees, and fewe
 
  1. Mill (2nd gen.) dries and grinds scraps into “Food Grounds.” Mill support explicitly states Food Grounds aren’t compost. 
 
- 2. Mill pricing model includes purchase ($999+) or rental ($35/mo). Recurring costs include filters ($89) and optional pickups ($192/yr). 
+ 2. Mill pricing model includes purchase (\$999+) or rental (\$35/mo). Recurring costs include filters (\$89) and optional pickups (\$192/yr). 
 
  3. GEME Terra 2 provides up to 2kg/day continuous capacity, with 95% waste reduction allowing harvest intervals of 1–2 months.
 
