@@ -1,5 +1,5 @@
 ---
-title: "GEME Terra 2 vs Mill (2026): Specs, Real Compost Output & Total Cost Comparison"
+title: "GEME Terra 2 vs Mill Composter: The 2026 Decision Guide"
 description: This guide compares GEME Terra 2 vs Mill (Gen 2) using only published specifications and official support statements, so you can decide which system actually fits your kitchen and budget.
 keywords:
   - mill food recycler, 
@@ -21,6 +21,18 @@ import ReactPlayer from 'react-player'
 Choosing a kitchen composter isn’t just about convenience — it’s about **capacity, output reality, and long-term cost**.
 
 This guide compares [**GEME Terra 2 vs Mill (Gen 2)**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-kitchen-composter-2026) using only published specifications and official support statements, so you can decide which system actually fits your kitchen and budget.
+
+### The 90-Second Truth: The "Lazy" Owner vs. The Service Subscriber
+
+::: Note
+By "Lazy", we mean low-maintenance: fewer trips to the bin, fewer fees, and fewer rules.
+:::
+
+ 1. Mill (2nd gen.) dries and grinds scraps into “Food Grounds.” Mill support explicitly states Food Grounds aren’t compost. 
+
+ 2. Mill pricing model includes purchase ($999+) or rental ($35/mo). Recurring costs include filters ($89) and optional pickups ($192/yr). 
+
+ 3. GEME Terra 2 provides up to 2kg/day continuous capacity, with 95% waste reduction allowing harvest intervals of 1–2 months.
 
 ---
 
