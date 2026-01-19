@@ -1,13 +1,13 @@
 ---
-title: "GEME Terra 2 vs Reencle: Real Composting vs Automated Drying (2026 Comparison)"
-description: This guide compares GEME Terra 2 vs Mill (Gen 2) using only published specifications and official support statements, so you can decide which system actually fits your kitchen and budget.
+title: "GEME Terra 2 vs Reencle Composter: Real Composting vs Automated Drying (2026 Comparison)"
+description: This article compares GEME Terra 2 vs Reencle from a practical, ownership-focused perspective: processing method, output type, daily usability, and long-term cost.
 keywords:
-  - mill food recycler, 
-  - geme composter, 
-  - best kitchen composters, 
   - geme terra 2, 
-  - geme vs mill
-slug: geme-vs-mill-composter-2026
+  - geme composter, 
+  - reencle prime, 
+  - reencle composter, 
+  - geme vs reencle
+slug: geme-vs-reencle-composter-2026
 authors: [Moore]
 tags: [composter, sustainability, geme]
 image: https://www.geme.bio/_next/image?url=%2Fassets%2Fimages%2Fterra2-product-page-v2%2Fstep1.webp&w=1200&q=75
