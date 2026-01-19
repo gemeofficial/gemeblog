@@ -135,9 +135,9 @@ buttonText="Get Your GEME Terra II"
 ### Mill Ongoing Costs
 
 Depending on how Mill is used, ongoing costs may include:
-- **Rental plan:** ~$35/month
-- **Carbon filter replacements:** $89
-- **Optional pickup service:** ~$192/year
+- **Rental plan:** ~\$35/month
+- **Carbon filter replacements:** \$89
+- **Optional pickup service:** ~\$192/year
 
 These costs vary by user, but they are part of Mill’s ecosystem-based model.
 
@@ -188,7 +188,7 @@ No. Mill explicitly states that **Food Grounds are not compost**.
 No. GEME uses a **permanent Metal-Ion Catalytic filter**. Unlike charcoal filters, it does not require periodic replacement. 
 
 ### What are the annual costs for Mill?
-It depends on your plan. Rentals are ~$420/year ($35/mo). Filter replacements are listed at $89. Optional pickup service is $192/year. 
+It depends on your plan. Rentals are ~\$420/year (\$35/mo). Filter replacements are listed at \$89. Optional pickup service is \$192/year. 
 
 ### How often do I need to empty GEME?
 Official guidance states waste volume is reduced by 95%, allowing you to harvest compost just once every 1–2 months. 
@@ -200,7 +200,7 @@ Yes. It is floor-standing, quiet, and designed for indoor use.
 Small bones (chicken/fish) are accepted. Large beef/pork bones should be avoided as they take too long to break down biologically.
 
 ### Does Mill require a subscription?
-You can buy the device upfront ($999+), but the ecosystem (pickups, filters) is designed around recurring services/purchases. 
+You can buy the device upfront (\$999+), but the ecosystem (pickups, filters) is designed around recurring services/purchases. 
 
 ---
 
@@ -223,9 +223,9 @@ Last Verified: Jan 18, 2026. Data derived strictly from public support pages.
  1. GEME — Terra 2 Home Bio-Composter (Specs: up to 2kg/day, Permanent Filter)
  2. GEME — FAQs (95% reduction; harvest every 1–2 months)
  3. Mill Support — "Food Grounds aren't compost"
- 4. Mill Support — Pricing (Buy $999 / Rent $35/mo)
- 5. Mill Support — Carbon filter replacement ($89)
- 6. Mill Support — Pickup Service Pricing ($192/year)
+ 4. Mill Support — Pricing (Buy \$999 / Rent \$35/mo)
+ 5. Mill Support — Carbon filter replacement (\$89)
+ 6. Mill Support — Pickup Service Pricing (\$192/year)
  7. Mill — Food Recycler Page (6.5L capacity; up to 4 weeks to fill)
 
 
