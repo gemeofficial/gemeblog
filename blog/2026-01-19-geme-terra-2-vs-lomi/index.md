@@ -230,11 +230,11 @@ Last Verified: Jan 18, 2026. Data derived strictly from public support pages.
 
  1. [GEME — Terra 2 Home Bio-Composter](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-kitchen-composter-2026) (Specs: up to 2kg/day, Permanent Filter)
  2. [GEME — FAQs](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-kitchen-composter-2026) (95% reduction; harvest every 1–2 months)
- 3. Mill Support — "Food Grounds aren't compost"
- 4. Mill Support — Pricing (Buy \$999 / Rent \$35/mo)
- 5. Mill Support — Carbon filter replacement (\$89)
- 6. Mill Support — Pickup Service Pricing (\$192/year)
- 7. Mill — Food Recycler Page (6.5L capacity; up to 4 weeks to fill)
+ 3. <a href="https://www.mill.com/lp/food-grounds" rel="nofollow">Mill Support — "Food Grounds aren't compost"</a>
+ 4. <a href="https://support.mill.com/hc/en-us/articles/12517303784219-How-much-does-Mill-cost" rel="nofollow">Mill Support — Pricing (Buy \$999 / Rent \$35/mo)</a>
+ 5. <a href="https://support.mill.com/hc/en-us/articles/13772092617755-How-to-order-a-new-carbon-filter" rel="nofollow">Mill Support — Carbon filter replacement (\$89)</a>
+ 6. <a href="https://support.mill.com/hc/en-us/articles/24511986500123-What-do-Mill-pickups-cost" rel="nofollow">Mill Support — Pickup Service Pricing ($192/year)</a>
+ 7. <a href="https://www.mill.com/food-recycler" rel="nofollow">Mill — Food Recycler Page</a> (6.5L capacity; up to 4 weeks to fill)
 
 
 
