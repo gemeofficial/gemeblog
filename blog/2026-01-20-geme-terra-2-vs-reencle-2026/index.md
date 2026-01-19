@@ -106,26 +106,30 @@ Reencle uses a motion sensor for touchless entry. GEME uses a foot-touch switch 
 ## How fast does food waste disappear? (Decomposition Speed)
 
 ### Reencle Prime
-  • Standard cycle: ~24 Hours.
-  • Continuous processing.
+
+  - Standard cycle: ~24 Hours.
+  - Continuous processing.
 
 ### GEME Terra 2
-   • Rapid breakdown: 6–8 Hours.
-   • Continuous processing.
-   • Benefit: Faster turnover for next meal.
+
+  - Rapid breakdown: 6–8 Hours.
+  - Continuous processing.
+  - **Benefit**: Faster turnover for next meal.
 
 GEME Terra 2 is designed for a 6-8 hour visible breakdown cycle; Reencle operates on a standard 24-hour digestion cycle. Faster turnover means higher effective daily capacity.
 
 ## What powers the breakdown? (Biology)
 
 ### Reencle Prime
-  • Synthetic / Artificial microbes.
-  • Lab-formulated for home stability.
+
+  - Synthetic / Artificial microbes.
+  - Lab-formulated for home stability.
 
 ### GEME Terra 2
-  • Natural / Industrial-Verified Kobold.
-  • Adapted from large-scale biological treatment.
-  • Benefit: Robust digestion of tough scraps.
+
+  - Natural / Industrial-Verified Kobold.
+  - Adapted from large-scale biological treatment.
+  - **Benefit**: Robust digestion of tough scraps.
 
 Reencle uses synthetic biology; GEME uses industrial-grade natural microbes. If you want verified industrial power at home, GEME is the choice. [**Learn about Kobold →**](https://www.geme.bio/geme-kobold?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-kitchen-composter-2026)
 
@@ -162,11 +166,13 @@ For users without gardening needs, this may be sufficient, but it’s important 
 ### Continuous vs Batch Processing
 
 **GEME Terra 2**
+
 - Published capacity: **up to 2kg per day**
 - Waste can be added anytime
 - Designed for daily cooking households
 
 **Reencle**
+
 - Cycle-based processing
 - Waste is added, then processed as a batch
 - Less flexible during active cycles
@@ -197,11 +203,13 @@ Reencle user manuals recommend annual carbon filter replacement. GEME uses a per
 ## Which One Should You Choose?
 
 ### Choose Reencle if:
+
 - You want fast, automated drying
 - You don’t need finished compost
 - You prioritize convenience over compost quality
 
 ### Choose GEME Terra 2 if:
+
 - You want **real compost**, not just waste reduction
 - You cook often and generate daily food scraps
 - You prefer ownership without recurring fees
@@ -255,6 +263,7 @@ If your goal is **clean, fast waste reduction with automation**,
 **Reencle** may better match your expectations.
 
 ## Practical Decision Rules
+
  1. **The "Pet Owner" Rule**
  If you have pets in the kitchen, GEME's intentional foot-switch prevents accidental openings better than a motion sensor.
 
@@ -267,9 +276,13 @@ If your goal is **clean, fast waste reduction with automation**,
 ## Verified Sources (Pricing & Specs)
 
 [1] **Lid Mechanism Specs**. <a href="https://reencle.co/products/reencle-food-waste-composter" rel="nofollow">Reencle Prime product page (Motion Sensor)</a> vs GEME Terra 2 manual (Foot Switch). Accessed Jan 2026.
+
 [2] **Filter Maintenance**. <a href="https://help.reencle.co/en-US/reencle-instruction-manual-and-guidesheet-download-160282" rel="nofollow">Reencle User Manual (p.14: "Replace filter every 9-12 months")</a>. GEME Technology Page ("Permanent Filter"). Accessed Jan 2026.
+
 [3] **Physical Specs**. Net Weight: Reencle (~9kg) vs GEME (~12kg). Daily Capacity: Reencle (~0.7kg/1.5lb) vs GEME (~2kg). Accessed Jan 2026.
+
 [4] **Activation Process**. <a href="https://help.reencle.co/en-US/how-to-start-reencle-137605" rel="nofollow">Reencle Setup Guide (Water Mix Required)</a> vs GEME Quick Start (Dry Pour). Accessed Jan 2026.
+
 [5] **Breakdown Speed**. [GEME Technical Data Sheet (6-8 hours for visible reduction)](https://www.geme.bio/manual) vs Reencle Standard Cycle (~24 hours). Accessed Jan 2026.
 
 <RelatedArticles
