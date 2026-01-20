@@ -77,6 +77,14 @@ buttonText="Get Your GEME Terra II"
   href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=electric-compost-bin-filters-costs-comparison"
 />
 
+### Calculate Your Filter Costs
+
+ 1. [Click here to see **GEME Terra II vs Lomi**](https://www.geme.bio/cost-calculator/terra2-vs-lomi?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=electric-compost-bin-filters-costs-comparison)  
+
+ 2. [Click here to see **GEME Terra II vs Mill Food Recycler**](https://www.geme.bio/cost-calculator/terra2-vs-mill?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=electric-compost-bin-filters-costs-comparison)
+
+ 3. [Click here to see **GEME Terra II vs Reencle Composter**](https://www.geme.bio/cost-calculator/terra2-vs-reencle?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=electric-compost-bin-filters-costs-comparison)
+
 ## 2. Compost Bin Filters: Replacement Frequency and Impact
 
 Most kitchen compost bins and machines advertise an odorless operation, but few highlight the hidden upkeep. Compost bin filters (usually activated charcoal) trap smells but saturate over time. For example, Lomi’s support notes that the charcoal in its filters breaks down “a little quicker” with heavy use (reference: https://www.lomi.com/products/lomi-filter-refills-90-cycles), requiring more frequent changes. **Many users blindly subscribe to filter refills, unaware of the long-term costs**.
