@@ -49,7 +49,7 @@ GEME, the leader in the global bio-composting market, [launches the revolutionar
 </div>
 
 <GemeTerra2CTA 
- imgSrc="/img/geme-terra-2.png"
+ imgSrc="/img/geme-terra-2-composter.jpg"
  productTitle="GEME Terra II Composter"
  features={[
     "✅ Best Way Of Composting in Winter",
@@ -136,7 +136,7 @@ By making the device smaller, smarter, and more accessible, we are democratising
 | **Personalised Notifications** | Yes                           | No                       |
 
 <GemeTerra2CTA 
- imgSrc="/img/geme-terra-2.png"
+ imgSrc="img/geme-terra-2-composter.jpg"
  productTitle="GEME Terra II Composter"
  features={[
     "✅ Best Way Of Composting in Winter",

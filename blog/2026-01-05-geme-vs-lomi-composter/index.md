@@ -44,6 +44,19 @@ We’ve done the research on GEME vs Lomi – including user feedback and expert
 
 One reviewer, [**Helen Rosner from The New Yorker**](https://www.newyorker.com/culture/annals-of-gastronomy/the-promises-of-the-home-composting-machine) noted, Lomi’s output was **“dark-brown, crumbly dust”, “not compost, exactly”**. Lomi excels at reducing volume, but **[Terra II](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-vs-lomi)’s** biological process produces a nutrient-rich fertilizer you can mix straight into plants. Let’s compare their features head-to-head.
 
+<GemeTerra2CTA 
+ imgSrc="img/geme-terra-2-composter.jpg"
+ productTitle="GEME Terra II Composter"
+ features={[
+    "✅ Winner of GEME vs Lomi",
+    "✅ Quiet, Odour-Free, Real Compost",
+    "✅ Rich Compost Output For Garden Soil & Plants",
+    "✅ Reduce Landfill Waste & Greenhouse Gases"
+ ]}
+buttonText="Get Your GEME Terra II"
+  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-vs-lomi"
+/>
+
 ## 1. Key Differences: GEME vs Lomi 
 
 [**GEME Terra II**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-vs-lomi) uses live microbes and AI to turn food scraps into garden-ready soil in hours. It operates quietly (≤40 dB) and continuously: just toss in your scraps anytime and let its “Kobold” microbes go to work. By contrast, Lomi (shown above) uses heat to dehydrate waste. 
@@ -153,7 +166,7 @@ In summary, GEME Terra II not only handles more waste but also provides real com
 </table>
 
 <GemeTerra2CTA 
- imgSrc="/img/geme-terra-2.png"
+ imgSrc="img/geme-terra-2-composter.jpg"
  productTitle="GEME Terra II Composter"
  features={[
     "✅ Winner of GEME vs Lomi",
@@ -187,6 +200,19 @@ However, several drawbacks have also surfaced as [Riddley Gemperlein-Schirm from
 <span style={{ color: '#a0a0a0', fontStyle: 'italic' }}>(Image by By Ketti Wilhelm At TiltedMap)</span>
 
 In sum, Lomi can be a convenient trash-reduction tool, but its drawbacks, from the fiddly locking lid to the subscription refills, have led many reviewers to seek alternatives.
+
+<GemeTerra2CTA 
+ imgSrc="img/geme-terra-2-composter.jpg"
+ productTitle="GEME Terra II Composter"
+ features={[
+    "✅ Winner of GEME vs Lomi",
+    "✅ Quiet, Odour-Free, Real Compost",
+    "✅ Rich Compost Output For Garden Soil & Plants",
+    "✅ Reduce Landfill Waste & Greenhouse Gases"
+ ]}
+buttonText="Get Your GEME Terra II"
+  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-vs-lomi"
+/>
 
 ## 4. How GEME Terra II Works
 
