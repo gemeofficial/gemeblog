@@ -48,6 +48,19 @@ GEME, the leader in the global bio-composting market, [launches the revolutionar
       <ReactPlayer className="video__player" controls height="100%" url="https://youtu.be/13akndaR7RY" width="100%"/>
 </div>
 
+<GemeTerra2CTA 
+ imgSrc="/img/geme-terra-2.png"
+ productTitle="GEME Terra II Composter"
+ features={[
+    "✅ Best Way Of Composting in Winter",
+    "✅ Quiet, Odour-Free, Real Compost",
+    "✅ Rich Compost Output For Garden Soil & Plants",
+    "✅ Reduce Landfill Waste & Greenhouse Gases"
+ ]}
+buttonText="Get Your GEME Terra II"
+  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-debuts"
+/>
+
 ### GEME Terra 2 Fits 78% US Households
 
 According to [Statista's Household Size Survey](https://www.statista.com/statistics/242189/disitribution-of-households-in-the-us-by-household-size/), in 2024, more than 78% of U.S. households consisted of three people or fewer. That said, the smaller design of [**GEME Terra 2** can help over 78% of US households achieve better food waste management, leaving more space in their homes and thus reducing carbon footprint and cutting greenhouse gas emissions](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-debuts). 
@@ -121,6 +134,20 @@ By making the device smaller, smarter, and more accessible, we are democratising
 | **Child Lock**         | Yes                                   | No                       |
 | **Real-Time Monitor**  | Yes                                   | No                       |
 | **Personalised Notifications** | Yes                           | No                       |
+
+<GemeTerra2CTA 
+ imgSrc="/img/geme-terra-2.png"
+ productTitle="GEME Terra II Composter"
+ features={[
+    "✅ Best Way Of Composting in Winter",
+    "✅ Quiet, Odour-Free, Real Compost",
+    "✅ Rich Compost Output For Garden Soil & Plants",
+    "✅ Reduce Landfill Waste & Greenhouse Gases"
+ ]}
+buttonText="Get Your GEME Terra II"
+  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-debuts"
+/>
+
 
 ## 7. About GEME 
 
