@@ -45,7 +45,7 @@ We’ve done the research on GEME vs Lomi – including user feedback and expert
 One reviewer, [**Helen Rosner from The New Yorker**](https://www.newyorker.com/culture/annals-of-gastronomy/the-promises-of-the-home-composting-machine) noted, Lomi’s output was **“dark-brown, crumbly dust”, “not compost, exactly”**. Lomi excels at reducing volume, but **[Terra II](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-vs-lomi)’s** biological process produces a nutrient-rich fertilizer you can mix straight into plants. Let’s compare their features head-to-head.
 
 <GemeTerra2CTA 
- imgSrc="img/geme-terra-2-composter.jpg"
+ imgSrc="/img/geme-terra-2-composter.jpg"
  productTitle="GEME Terra II Composter"
  features={[
     "✅ Winner of GEME vs Lomi",
@@ -166,7 +166,7 @@ In summary, GEME Terra II not only handles more waste but also provides real com
 </table>
 
 <GemeTerra2CTA 
- imgSrc="img/geme-terra-2-composter.jpg"
+ imgSrc="/img/geme-terra-2-composter.jpg"
  productTitle="GEME Terra II Composter"
  features={[
     "✅ Winner of GEME vs Lomi",
@@ -202,7 +202,7 @@ However, several drawbacks have also surfaced as [Riddley Gemperlein-Schirm from
 In sum, Lomi can be a convenient trash-reduction tool, but its drawbacks, from the fiddly locking lid to the subscription refills, have led many reviewers to seek alternatives.
 
 <GemeTerra2CTA 
- imgSrc="img/geme-terra-2-composter.jpg" 
+ imgSrc="/img/geme-terra-2-composter.jpg" 
  productTitle="GEME Terra II Composter"
  features={[
     "✅ Winner of GEME vs Lomi",
