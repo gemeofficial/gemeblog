@@ -202,7 +202,7 @@ However, several drawbacks have also surfaced as [Riddley Gemperlein-Schirm from
 In sum, Lomi can be a convenient trash-reduction tool, but its drawbacks, from the fiddly locking lid to the subscription refills, have led many reviewers to seek alternatives.
 
 <GemeTerra2CTA 
- imgSrc="img/geme-terra-2-composter.jpg"
+ imgSrc="img/geme-terra-2-composter.jpg" 
  productTitle="GEME Terra II Composter"
  features={[
     "✅ Winner of GEME vs Lomi",

@@ -121,7 +121,7 @@ We hope this information helps you make an informed decision. GEME remains focus
 ![GEME Terra 2](./image/geme-terra-2-composter.png)
 
 <GemeTerra2CTA 
- imgSrc="img/geme-terra-2-composter.jpg"
+ imgSrc="img/geme-terra-2-composter.jpg" 
  productTitle="GEME Terra II Composter"
  features={[
     "✅ Zero Filter Costs, No Refills",
