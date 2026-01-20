@@ -129,6 +129,19 @@ The beauty of the GEME system is the "Add & Forget" convenience in the kitchen. 
 
 You are not just disposing of waste; you are managing a living biological cycle. Treat the output with the respect due to a potent fertilizer, and your garden will thrive.
 
+<GemeTerra2CTA 
+ imgSrc="/img/geme-terra-2-composter.jpg"
+ productTitle="GEME Terra II Composter"
+ features={[
+    "✅ Zero Filter Costs, No Refills",
+    "✅ Quiet, Odour-Free, Real Compost",
+    "✅ Rich Compost Output For Garden Soil & Plants",
+    "✅ Reduce Landfill Waste & Greenhouse Gases"
+ ]}
+buttonText="Get Your GEME Terra II"
+  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=advanced-geme-compost-application-guide"
+/>
+
 ## 6. Frequently Asked Questions 
 
 Q: **Why does GEME output look different from bag soil?**

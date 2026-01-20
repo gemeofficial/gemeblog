@@ -127,6 +127,19 @@ GEME Terra II represents the cutting-edge of kitchen recycling. By harnessing **
 
 Ready to make every meal waste count? [Pre-order the GEME Terra II today and **turn your kitchen scraps into black gold**](https://www.geme.bio/blog/geme-terra-2-debuts). For technical readers, our downloadable whitepaper (see sidebar) dives deep into the **biochemistry and engineering** behind the Kobold microbes. Don’t miss the chance to equip your home with **the best electric composter of 2026** – your garden (and the planet) will thank you.
 
+<GemeTerra2CTA 
+ imgSrc="/img/geme-terra-2-composter.jpg"
+ productTitle="GEME Terra II Composter"
+ features={[
+    "✅ Zero Filter Costs, No Refills",
+    "✅ Quiet, Odour-Free, Real Compost",
+    "✅ Rich Compost Output For Garden Soil & Plants",
+    "✅ Reduce Landfill Waste & Greenhouse Gases"
+ ]}
+buttonText="Get Your GEME Terra II"
+  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-kitchen-composter-2026"
+/>
+
 **Sources**: Credible industry reviews and GEME’s own technical materials were used throughout this article. Each claim about Terra II’s performance is backed by official specifications and expert coverage. (For more in-depth data, consult GEME’s technical whitepaper.)
 
 1. [**Digital Trends**: The Best Smart Home Tech OF IFA 2024](ps://www.digitaltrends.com/home/ifa-2024-best-smart-home)
