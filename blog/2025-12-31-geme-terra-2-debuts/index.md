@@ -88,7 +88,7 @@ Still, the GEME Terra 2 retains its energy-saving, silent, and odour-free proper
 Considering the safety of children, GEME Terra 2 features a Child Lock, ensuring a safe composting process for families. Another new feature is the Digital Display, which provides easy-to-read information on composting status and alerts, keeping you informed at just a glance.
 
 <GemeTerra2CTA 
- imgSrc="/img/geme-terra-2.png"
+ imgSrc="img/geme-terra-2-composter.jpg"
  productTitle="GEME Terra II Composter"
  features={[
     "✅ Best Way Of Composting in Winter",
