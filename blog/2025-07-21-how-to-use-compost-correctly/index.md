@@ -17,6 +17,7 @@ image: https://www.geme.bio/assets/images/how-to-use-compost-51e511afb82172ef674
 ---
 
 import GemeComposterCTA from '@site/src/components/GemeComposterCTA'
+import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
 
 ## Introduction to Compost
 
@@ -26,7 +27,18 @@ Compost is decomposed organic matter from kitchen scraps, garden clippings, leav
 
 Through natural decomposition processes involving microbes, heat, and moisture, compost turns waste into nutrient-rich humus that's ready to nurture plants.
 
-![Science Behind Using Compost](./img/science-behind-using-compost.jpg)
+<GemeTerra2CTA 
+ imgSrc="/img/geme-terra-2-composter.jpg"
+ productTitle="GEME Terra II Composter"
+ features={[
+    "✅ Best Way Of Composting in Winter",
+    "✅ Quiet, Odour-Free, Real Compost",
+    "✅ Rich Compost Output For Garden Soil & Plants",
+    "✅ Reduce Landfill Waste & Greenhouse Gases"
+ ]}
+buttonText="Get Your GEME Terra II"
+  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-use-compost-correctly"
+/>
 
 ### Benefits of Using Compost
 
@@ -85,7 +97,17 @@ To keep compost usable:
 
 - Cover outdoor compost piles with a tarp to prevent nutrient leaching.
 
-![Can Compost Expire?](./img/does-compost-expire.jpg)
+<GemeTerra2CTA 
+ imgSrc="/img/geme-terra-2-composter.jpg"
+ productTitle="GEME Terra II Composter"
+ features={[
+    "✅ Best Way Of Composting in Winter",
+    "✅ Quiet, Odour-Free, Real Compost",
+    "✅ Rich Compost Output For Garden Soil & Plants",
+    "✅ Reduce Landfill Waste & Greenhouse Gases"
+ ]}
+buttonText="Get Your GEME Terra II"
+  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-use-compost-correctly"
 
 ## 2. How to Use Compost in Your Garden
 
@@ -151,6 +173,18 @@ Compost works well when combined with:
 - Vermiculite or perlite (for drainage)
 
 - Worm castings (for added nutrients)
+
+<GemeTerra2CTA 
+ imgSrc="/img/geme-terra-2-composter.jpg"
+ productTitle="GEME Terra II Composter"
+ features={[
+    "✅ Best Way Of Composting in Winter",
+    "✅ Quiet, Odour-Free, Real Compost",
+    "✅ Rich Compost Output For Garden Soil & Plants",
+    "✅ Reduce Landfill Waste & Greenhouse Gases"
+ ]}
+buttonText="Get Your GEME Terra II"
+  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-use-compost-correctly"
 
 ## 5. Compost for Potting Soil and Plants
 
@@ -221,6 +255,18 @@ Unfinished compost can rob your soil of nitrogen. If it smells sour or has large
 - Avoid breathing in mold spores from old compost piles.
 
 ![How To Apply Compost to Your Garden](./img/how-to-use-compost.jpg)
+
+<GemeTerra2CTA 
+ imgSrc="/img/geme-terra-2-composter.jpg"
+ productTitle="GEME Terra II Composter"
+ features={[
+    "✅ Best Way Of Composting in Winter",
+    "✅ Quiet, Odour-Free, Real Compost",
+    "✅ Rich Compost Output For Garden Soil & Plants",
+    "✅ Reduce Landfill Waste & Greenhouse Gases"
+ ]}
+buttonText="Get Your GEME Terra II"
+  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-use-compost-correctly"
 
 ## 9. Compost and Soil Health: The Science Behind It
 

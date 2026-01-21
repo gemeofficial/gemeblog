@@ -12,7 +12,7 @@ authors: [Moore]
 tags: [foodwaste, sustainability, recycling, compost]
 image: https://www.geme.bio/assets/images/how-to-store-strawberries-40a914c57913f9dcb2294ea9e1c07788.jpg
 ---
-
+import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
 import GemeComposterCTA from '@site/src/components/GemeComposterCTA' 
 import RelatedArticles from '@site/src/components/RelatedArticles'
 
@@ -54,7 +54,18 @@ The tips below (**drawn from USDA and university extension guidance**) will help
 
 Because of these factors, fresh strawberries last only a few days without special care. However, by controlling temperature, humidity, and moisture, you can extend their shelf life.
 
-![Why Strawberries Spoil Quickly?](./img/how-to-keep-strawberry-fresh.jpg)
+<GemeTerra2CTA 
+ imgSrc="/img/geme-terra-2-composter.jpg"
+ productTitle="GEME Terra II Composter"
+ features={[
+    "✅ Best Way Of Composting in Winter",
+    "✅ Quiet, Odour-Free, Real Compost",
+    "✅ Rich Compost Output For Garden Soil & Plants",
+    "✅ Reduce Landfill Waste & Greenhouse Gases"
+ ]}
+buttonText="Get Your GEME Terra II"
+  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-way-to-store-strawberries"
+/>
 
 ## 2. How Long Do Strawberries Last in the Fridge (vs. Room Temp)?
 

@@ -16,6 +16,7 @@ showBlackFridayModal: true
 ---
 
 import GemeComposterCTA from '@site/src/components/GemeComposterCTA'
+import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
 
 Popcorn is one of the world’s favourite snacks, but it raises a common question: Can Popcorn expire? Does popcorn expire? Does popcorn go bad? While it might not spoil like milk or bread, popcorn does have a shelf life. Whether you’re dealing with unpopped kernels, microwave bags, or a bowl of buttery popped goodness, how you store your popcorn plays a big role in how long the popcorn lasts.
 
@@ -47,6 +48,19 @@ That tiny bit of moisture (about 14%) is essential — it's what makes the kerne
 
 ![Does popcorn expire?](./img/does-popcorn-expire.jpg)
 
+<GemeTerra2CTA 
+ imgSrc="/img/geme-terra-2-composter.jpg"
+ productTitle="GEME Terra II Composter"
+ features={[
+    "✅ Best Way Of Composting in Winter",
+    "✅ Quiet, Odour-Free, Real Compost",
+    "✅ Rich Compost Output For Garden Soil & Plants",
+    "✅ Reduce Landfill Waste & Greenhouse Gases"
+ ]}
+buttonText="Get Your GEME Terra II"
+  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=can-popcorn-expire"
+/>
+
 ### Factors affecting popcorn’s shelf stability
 
 Several elements impact how long your popcorn lasts:
@@ -66,7 +80,6 @@ Several elements impact how long your popcorn lasts:
 
 ### Signs your unpopped kernels have gone bad
 - They no longer pop
-
 - Kernels smell rancid
 - Visible mold or discolouration
 - Dry and cracked surfaces
@@ -76,34 +89,41 @@ Several elements impact how long your popcorn lasts:
 
 ### Freshly popped popcorn:
 - Open air: 1–2 days before it gets stale
-
 - Airtight container: 1–2 weeks
 - Vacuum-sealed: up to 2 months
 
 ### What makes popped popcorn stale or unsafe?
 - Exposure to air = loss of crispness
-
 - Butter and flavourings = spoilage
 - Humidity = mold risk
 
-![Does popcorn go bad?](./img/does-popcorn-go-bad.jpg)
 
 ## Does Microwave Popcorn Go Bad?
  Ingredients that expire first.
 ### Microwave popcorn contains:
 - Butter/oil-based flavourings (can turn rancid)
-
 - Preservatives (eventually lose effectiveness)
 - Salt and seasonings (can degrade in taste)
  How to assess quality after the expiration date
+
 ### If it:
 - Smells off or like chemicals—compost it
-
 - Has mold spots—compost it
-
 - Feels greasy or unusually soft—don’t eat it
 
-![moldy popcorn, popcorn has gone bad](./img/moldy-popcorn.jpg)
+
+<GemeTerra2CTA 
+ imgSrc="/img/geme-terra-2-composter.jpg"
+ productTitle="GEME Terra II Composter"
+ features={[
+    "✅ Best Way Of Composting in Winter",
+    "✅ Quiet, Odour-Free, Real Compost",
+    "✅ Rich Compost Output For Garden Soil & Plants",
+    "✅ Reduce Landfill Waste & Greenhouse Gases"
+ ]}
+buttonText="Get Your GEME Terra II"
+  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=can-popcorn-expire"
+/>
 
 ## How to Properly Store Popcorn
  Best containers and environments

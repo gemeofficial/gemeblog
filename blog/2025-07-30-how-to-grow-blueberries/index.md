@@ -16,6 +16,7 @@ image: https://www.geme.bio/assets/images/how-do-blueberries-grow-23e19370b8248d
 ---
 
 import GemeComposterCTA from '@site/src/components/GemeComposterCTA'
+import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
 
 ## Growing Blueberries: Introduction
 
@@ -60,7 +61,18 @@ Blueberries require very acidic soil – ideally a pH between 4.5 and 5.5. Test 
 
 Another key requirement is high organic matter. Blueberries grow best in soils rich in compost and organic matter. [**Before planting, mix several inches of well-aged compost into the top 8–12 inches of soil**](https://www.geme.bio/blog/how-to-use-compost-correctly). This lowers the soil pH and provides nutrients and moisture retention. Avoid adding any lime or dolomite (which would raise pH) to the soil mixture. A layered soil with compost also keeps the root zone slightly acidic.
 
-![Blueberry soil pH](./img/best-fertilizer-for-blueberries.jpg)
+<GemeTerra2CTA 
+ imgSrc="/img/geme-terra-2-composter.jpg"
+ productTitle="GEME Terra II Composter"
+ features={[
+    "✅ Best Way Of Composting in Winter",
+    "✅ Quiet, Odour-Free, Real Compost",
+    "✅ Rich Compost Output For Garden Soil & Plants",
+    "✅ Reduce Landfill Waste & Greenhouse Gases"
+ ]}
+buttonText="Get Your GEME Terra II"
+  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-grow-blueberries"
+/>
 
 If your native soil is poor or too alkaline, consider planting blueberries on mounds or in large containers with an acidic potting mix. Gardeners in high-pH regions (like parts of eastern US and Europe) often grow blueberries in raised beds filled with a custom mix of compost. This ensures a stable acidic environment. Always keep the soil moist and mulched; blueberry roots are shallow and can dry out quickly.
 
@@ -154,6 +166,19 @@ Proper care keeps blueberry plants healthy year-round. Key tasks include water, 
 4. **Fertilization schedule**: After the first year, fertilize lightly in early spring and again in late spring (e.g. two equal doses), then stop by midsummer. Excess fall fertilizing can stimulate late growth that may not harden off before winter.
 
 By following these care steps, your blueberry bushes will grow vigorously and produce abundant fruit.
+
+<GemeTerra2CTA 
+ imgSrc="/img/geme-terra-2-composter.jpg"
+ productTitle="GEME Terra II Composter"
+ features={[
+    "✅ Best Way Of Composting in Winter",
+    "✅ Quiet, Odour-Free, Real Compost",
+    "✅ Rich Compost Output For Garden Soil & Plants",
+    "✅ Reduce Landfill Waste & Greenhouse Gases"
+ ]}
+buttonText="Get Your GEME Terra II"
+  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-grow-blueberries"
+/>
 
 ## 7. Harvesting Blueberries
 

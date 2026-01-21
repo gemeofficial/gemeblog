@@ -14,6 +14,7 @@ image: https://www.geme.bio/assets/images/how-to-cook-brown-rice-b902419b49ada3d
 ---
 
 import GemeComposterCTA from '@site/src/components/GemeComposterCTA'
+import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
 
 ## Introduction to Brown Rice
 
@@ -67,7 +68,17 @@ Brown rice is rich in lignans and phenolic acids, which are linked to reduced in
 ![Brown Rice Nutrition](./img/brown-rice-nutrition.jpg)
 
 The takeaway? Brown rice is nutritionally superior by a long shot.
-
+ imgSrc="/img/geme-terra-2-composter.jpg"
+ productTitle="GEME Terra II Composter"
+ features={[
+    "✅ Best Way Of Composting in Winter",
+    "✅ Quiet, Odour-Free, Real Compost",
+    "✅ Rich Compost Output For Garden Soil & Plants",
+    "✅ Reduce Landfill Waste & Greenhouse Gases"
+ ]}
+buttonText="Get Your GEME Terra II"
+  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=is-brown-rice-healthy"
+/>
 
 <h2 className="jump-to">Jump To</h2>
 
@@ -283,7 +294,17 @@ Brown rice is naturally gluten-free, vegan, and rich in plant-based nutrients—
 **Paleo and Keto Considerations**
 
 Brown rice is not Paleo or Keto-friendly due to its carb content. Those on low-carb diets should avoid it or consume it in moderation.
-
+ imgSrc="/img/geme-terra-2-composter.jpg"
+ productTitle="GEME Terra II Composter"
+ features={[
+    "✅ Best Way Of Composting in Winter",
+    "✅ Quiet, Odour-Free, Real Compost",
+    "✅ Rich Compost Output For Garden Soil & Plants",
+    "✅ Reduce Landfill Waste & Greenhouse Gases"
+ ]}
+buttonText="Get Your GEME Terra II"
+  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=is-brown-rice-healthy"
+/>
 
 ## People Also Ask about Brown Rice
 

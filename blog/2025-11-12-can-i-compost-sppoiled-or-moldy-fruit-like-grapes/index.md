@@ -15,6 +15,7 @@ image: https://www.geme.bio/assets/images/grapes-cc3165848eb60e3d1c1edaa7e7a7355
 ---
 
 import GemeComposterCTA from '@site/src/components/GemeComposterCTA' 
+import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
 import RelatedArticles from '@site/src/components/RelatedArticles'
 
 Grapes are a delicious and nutritious fruit, but they can spoil quickly if not handled properly. And, of course, you can compost spoiled or moldy fruits like grapes. 
@@ -75,7 +76,18 @@ Composting moldy fruit recycles nutrients back into the soil and is generally sa
 
 - **Cover compost properly in a pile**. Fresh fruit scraps should be buried in your compost under a layer of "browns" (leaves, straw, newspaper) to deter pests and flies. However, using a home electric composter like the GEME composter can avoid the annoying pests or flies that usually are attracted to open food waste.
 
-![Spoiled or moldy grapes](./img/mold-on-grapes.jpg)
+<GemeTerra2CTA 
+ imgSrc="/img/geme-terra-2-composter.jpg"
+ productTitle="GEME Terra II Composter"
+ features={[
+    "✅ Best Way Of Composting in Winter",
+    "✅ Quiet, Odour-Free, Real Compost",
+    "✅ Rich Compost Output For Garden Soil & Plants",
+    "✅ Reduce Landfill Waste & Greenhouse Gases"
+ ]}
+buttonText="Get Your GEME Terra II"
+  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=can-i-compost-moldy-grapes"
+/>
 
 The key idea: **adding moldy fruits can actually help your compost**. Mold and fungi are important decomposers; they break down tough plant material and feed other microbes. 
 
@@ -95,7 +107,7 @@ If you throw grapes in the composter, follow the composting rules (see below) an
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Use GEME Kitchen Composter to Reduce Food Waste"
-  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=compost-pile-vs-electric-composter"
+  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=can-i-compost-moldy-grapes"
 />
 
 ## 3. Composting Grapes: Best Practices

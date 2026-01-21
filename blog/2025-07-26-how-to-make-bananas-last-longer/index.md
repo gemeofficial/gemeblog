@@ -15,6 +15,7 @@ showBlackFridayModal: true
 ---
 
 import GemeComposterCTA from '@site/src/components/GemeComposterCTA'
+import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
 
 Bananas are a convenient, nutrient-rich fruit, but they ripen and spoil quickly at home. On average, a bunch of bananas left out on the counter will only stay fresh for a few days before turning brown and mushy. By understanding what causes bananas to ripen and using smart storage techniques, we can significantly extend their shelf life. 
 
@@ -51,7 +52,19 @@ Banana shelf life depends on ripeness, temperature, and storage method. Fresh gr
 
 Southern Living concurs that “once you bring home your bananas, they'll last for about six days or so” at room temperature. The key is that time ranges vary with conditions. Cool, dry, shaded storage slows ripening. For example, storing green bananas in a room at the [**USDA-recommended 60–70°F**](https://fns-prod.azureedge.us/sites/default/files/resource-files/storage.pdf) keeps them fresh longer. However, temperatures below about 55°F can cause *chilling injury*, giving bananas a bitter taste and soft texture.
 
-![How Long Do Bananas Last?](./img/how-to-make-bananas-last-longer.png)
+
+<GemeTerra2CTA 
+ imgSrc="/img/geme-terra-2-composter.jpg"
+ productTitle="GEME Terra II Composter"
+ features={[
+    "✅ Best Way Of Composting in Winter",
+    "✅ Quiet, Odour-Free, Real Compost",
+    "✅ Rich Compost Output For Garden Soil & Plants",
+    "✅ Reduce Landfill Waste & Greenhouse Gases"
+ ]}
+buttonText="Get Your GEME Terra II"
+  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-make-bananas-last-longer"
+/>
 
 ## 2. How to Make Bananas Last Longer: Storage Tips
 
@@ -86,6 +99,20 @@ However, **keep in mind**: the cold will **darken the peel** quickly. After a fe
 Instead of tossing spent bananas, an eco-friendly solution is to compost the peels. **Yes, banana peels are fully compostable and even beneficial for plants**. They break down quickly and add valuable nutrients to the compost. According to [**Mississippi State University Extension**](http://extension.msstate.edu/news/southern-gardening/2011/organic-fertilizer-ideal-gardens), banana peels decompose rapidly and enrich soil with [*phosphorus*](https://en.wikipedia.org/wiki/Phosphorus) and [*potassium*](https://ods.od.nih.gov/factsheets/Potassium-HealthProfessional/) – the same nutrients that make bananas good for us. Similarly, gardening experts note that banana peels are rich in potassium (and also contain magnesium, phosphorus, calcium, etc.), nutrients vital for plant growth.
 
 ![Can I Compost Banana Peels?](./img/can-i-compost-bananas.jpg)
+
+
+<GemeTerra2CTA 
+ imgSrc="/img/geme-terra-2-composter.jpg"
+ productTitle="GEME Terra II Composter"
+ features={[
+    "✅ Best Way Of Composting in Winter",
+    "✅ Quiet, Odour-Free, Real Compost",
+    "✅ Rich Compost Output For Garden Soil & Plants",
+    "✅ Reduce Landfill Waste & Greenhouse Gases"
+ ]}
+buttonText="Get Your GEME Terra II"
+  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-make-bananas-last-longer"
+/>
 
 To compost banana peels, simply cut or tear them into smaller pieces and add them to your home electric biowaste composter. This speeds up decomposition and produces the best quality of compost to use. You can also use **banana peel compost** for tomatoes, peppers, and other veggies – it acts like an organic fertilizer. One study says plants love banana peels' nutrients; for example, peels make excellent side-dressings or amendments in the planting hole.
 

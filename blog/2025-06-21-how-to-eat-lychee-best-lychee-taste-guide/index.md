@@ -13,6 +13,7 @@ image: https://www.geme.bio/assets/images/how-to-eat-lychee-9a5bf35daf874ce74329
 ---
 
 import GemeComposterCTA from '@site/src/components/GemeComposterCTA'
+import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
 
 Imagine a captivating blend of floral sweetness and tropical tang, like a cross between a grape and a rose, with hints of strawberry and watermelon. Mouthwatering! And this is what lychee tastes like. Today, we're going to learn about -- Lychee! 
 
@@ -55,7 +56,18 @@ How to eat lychee begins with choosing the best fruit. Look for:
 - **Weight**: Heavy for its size, indicating juiciness.
 
 
----
+<GemeTerra2CTA 
+ imgSrc="/img/geme-terra-2-composter.jpg"
+ productTitle="GEME Terra II Composter"
+ features={[
+    "✅ Best Way Of Composting in Winter",
+    "✅ Quiet, Odour-Free, Real Compost",
+    "✅ Rich Compost Output For Garden Soil & Plants",
+    "✅ Reduce Landfill Waste & Greenhouse Gases"
+ ]}
+buttonText="Get Your GEME Terra II"
+  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-eat-lychee-for-best-lychee-taste"
+/>
 
 ![how to select perfect lychees](./img/how-to-store-lychees.jpg)
 
@@ -197,6 +209,18 @@ What does lychee taste like when it's poorly handled? Medicinal or *bitter*. Thi
 
 - Pair with citrus (lime, lemon) or herbs (basil, rosemary) to amplify their floral notes.  
 
+<GemeTerra2CTA 
+ imgSrc="/img/geme-terra-2-composter.jpg"
+ productTitle="GEME Terra II Composter"
+ features={[
+    "✅ Best Way Of Composting in Winter",
+    "✅ Quiet, Odour-Free, Real Compost",
+    "✅ Rich Compost Output For Garden Soil & Plants",
+    "✅ Reduce Landfill Waste & Greenhouse Gases"
+ ]}
+buttonText="Get Your GEME Terra II"
+  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-eat-lychee-for-best-lychee-taste"
+/>
 
 ---
 ## FAQs About Lychee Taste and Consumption

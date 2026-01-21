@@ -15,6 +15,7 @@ image: https://www.geme.bio/assets/images/epa-composting-graphic2_0-6d5d76b2058e
 ---
 
 import GemeComposterCTA from '@site/src/components/GemeComposterCTA' 
+import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
 import RelatedArticles from '@site/src/components/RelatedArticles'
 
 Composting is nature’s recycling. It uses microorganisms to turn organic waste (kitchen scraps, yard trimmings, etc.) into nutrient-rich soil amendments. This managed, aerobic process (requiring air) feeds beneficial microbes that break down “greens” (nitrogen-rich) and “browns” (carbon-rich) materials, releasing heat and nutrients. An actively maintained compost pile can reach 130–160°F during decomposition, killing pathogens and weed seeds as it cooks. The final product is dark, crumbly compost that enriches garden soil. 
@@ -68,6 +69,19 @@ The ingredients for composting include a proper balance of the following materia
 - Air (oxygen).
 
 ![Benefits of Composting Food Waste](./img/epa-composting-graphic2_0.png)
+
+<GemeTerra2CTA 
+ imgSrc="/img/geme-terra-2-composter.jpg"
+ productTitle="GEME Terra II Composter"
+ features={[
+    "✅ Best Way Of Composting in Winter",
+    "✅ Quiet, Odour-Free, Real Compost",
+    "✅ Rich Compost Output For Garden Soil & Plants",
+    "✅ Reduce Landfill Waste & Greenhouse Gases"
+ ]}
+buttonText="Get Your GEME Terra II"
+  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=compost-pile-vs-electric-composter"
+/>
 
 ## 2. What Can You Add to a Backyard Compost Pile / an Electric Composter?
 

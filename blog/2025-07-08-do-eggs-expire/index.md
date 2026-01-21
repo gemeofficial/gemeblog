@@ -15,6 +15,7 @@ image: https://www.geme.bio/assets/images/eggs-gone-bad-ca5340da8acf0206ac2653e9
 ---
 
 import GemeComposterCTA from '@site/src/components/GemeComposterCTA'
+import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
 
 Eggs are one of the most versatile and affordable kitchen staples, but have you ever wondered: *do eggs expire?* *how long do eggs last in the fridge?* Whether you're preparing a weekend breakfast or baking a cake, using fresh eggs is essential — not just for flavor, but for food safety, too.
 
@@ -65,7 +66,18 @@ Several factors influence how long eggs remain fresh:
 In the U.S., refrigeration is a must due to washing and sanitization practices. At room temperature, eggs spoil much quicker — often in just 1–2 weeks. In contrast, refrigerated eggs can last 4–5 weeks or longer past the pack date.
 
 ![How long do eggs last in the fridge?](./img/how-long-do-eggs-last-in-the-fridge.jpg)
-
+<GemeTerra2CTA 
+ imgSrc="/img/geme-terra-2-composter.jpg"
+ productTitle="GEME Terra II Composter"
+ features={[
+    "✅ Best Way Of Composting in Winter",
+    "✅ Quiet, Odour-Free, Real Compost",
+    "✅ Rich Compost Output For Garden Soil & Plants",
+    "✅ Reduce Landfill Waste & Greenhouse Gases"
+ ]}
+buttonText="Get Your GEME Terra II"
+  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=do-eggs-expire"
+/>
 
 ## 2. Do Eggs Expire? Myths vs. Facts
 
@@ -117,7 +129,19 @@ Expired eggs don't necessarily turn toxic overnight. Over time, moisture and gas
 - Mold or powdery residue
 - Unusual yolk colors (e.g., green, grey)
  
-  ---
+<GemeTerra2CTA 
+ imgSrc="/img/geme-terra-2-composter.jpg"
+ productTitle="GEME Terra II Composter"
+ features={[
+    "✅ Best Way Of Composting in Winter",
+    "✅ Quiet, Odour-Free, Real Compost",
+    "✅ Rich Compost Output For Garden Soil & Plants",
+    "✅ Reduce Landfill Waste & Greenhouse Gases"
+ ]}
+buttonText="Get Your GEME Terra II"
+  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=do-eggs-expire"
+/>
+
 
 ![How to know when eggs are bad](./img/how-to-know-when-eggs-go-bad.jpg)
 
@@ -213,26 +237,21 @@ Using the GEME composter ensures your waste turns into something beneficial for 
 
 2. **Can you eat eggs that float in water?**
 
-
    Floating eggs are likely spoiled. It's best to discard them.
 
 3. **What happens if you eat a bad egg?**
-
 
    You risk food poisoning with symptoms like nausea, vomiting, and diarrhea.
 
 4. **Can you compost raw eggs?**
 
-
    Yes! Just make sure they're composted properly to avoid odors and pests.
 
 5. **Is it safe to compost eggshells?**
-
  
    Absolutely. Eggshells are calcium-rich and beneficial for compost.
 
 6. **What makes the GEME composter better for eggs?**
-
  
    It processes eggs quickly, contains odor, and produces nutrient-rich compost safely and efficiently.
 

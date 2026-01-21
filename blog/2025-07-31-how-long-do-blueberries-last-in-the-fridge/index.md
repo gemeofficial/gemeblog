@@ -16,6 +16,7 @@ showBlackFridayModal: true
 ---
 
 import GemeComposterCTA from '@site/src/components/GemeComposterCTA'
+import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
 
 ## How Long Do Blueberries Last? A Complete Guide to Storing Blueberries for Freshness
 
@@ -83,6 +84,18 @@ If stored properly, blueberries last 7 to 14 days in the fridge. To maximize fre
 
 Spread blueberries out on a paper towel in a shallow container to absorb excess moisture. Cover loosely to allow air circulation.
 
+<GemeTerra2CTA 
+ imgSrc="/img/geme-terra-2-composter.jpg"
+ productTitle="GEME Terra II Composter"
+ features={[
+    "✅ Best Way Of Composting in Winter",
+    "✅ Quiet, Odour-Free, Real Compost",
+    "✅ Rich Compost Output For Garden Soil & Plants",
+    "✅ Reduce Landfill Waste & Greenhouse Gases"
+ ]}
+buttonText="Get Your GEME Terra II"
+  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-do-blueberries-last-in-fridge"
+/>
 ![How long do Blueberries last in the fridge](./img/how-long-do-blueberries-last-in-the-fridge.jpg)
 
 ## 3. How Long Do Washed Blueberries Last in the Fridge?
@@ -221,6 +234,19 @@ A: Yes, vacuum sealing can extend shelf life by reducing air exposure, but berri
 | Refrigerator | Daily snacking & baking | 7–14 days (unwashed) | Use paper towels & breathable container |
 | Freezer | Long-term storage | Up to 12 months | Freeze individually, store in bags |
 | Room Temp | Same-day use | 1–2 days | Avoid moisture & heat |
+
+<GemeTerra2CTA 
+ imgSrc="/img/geme-terra-2-composter.jpg"
+ productTitle="GEME Terra II Composter"
+ features={[
+    "✅ Best Way Of Composting in Winter",
+    "✅ Quiet, Odour-Free, Real Compost",
+    "✅ Rich Compost Output For Garden Soil & Plants",
+    "✅ Reduce Landfill Waste & Greenhouse Gases"
+ ]}
+buttonText="Get Your GEME Terra II"
+  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-do-blueberries-last-in-fridge"
+/>
 
 ## Final Thoughts
 

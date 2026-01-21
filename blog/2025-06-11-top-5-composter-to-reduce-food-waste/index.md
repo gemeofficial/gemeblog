@@ -25,6 +25,8 @@ image: https://www.geme.bio/assets/images/geme-kitchen-composter-02-ce606b7710ee
 </head>
 
 import GemeComposterCTA from '@site/src/components/GemeComposterCTA'
+import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
+
 
 Food waste is a big problem. It hurts our wallets and the environment. But there's a simple solution: **kitchen composters**. These handy devices turn your food waste into nutrient-rich compost, reducing landfills and creating valuable fertilizer for your plants.
 
@@ -61,7 +63,19 @@ In this article, we'll explore the **top 5 kitchen composters** on the market.
 | **Bacteria Killing (e.g. Salmonella)** | Yes, up to 75°C as [**FDA/CDC**](https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures) recommended to kill harmful bacteria                                                                                    | No data                                   | No data                                                                                          | No data                                                                                     | No data                                                                                     |
 | **Cooling System**             | Yes                                                                                       | No data                                                                                               | No data                                                                                          | No data                                                                                     | No data                                                                                     |
 
----
+<GemeTerra2CTA 
+ imgSrc="/img/geme-terra-2-composter.jpg"
+ productTitle="GEME Terra II Composter"
+ features={[
+    "✅ Best Way Of Composting in Winter",
+    "✅ Quiet, Odour-Free, Real Compost",
+    "✅ Rich Compost Output For Garden Soil & Plants",
+    "✅ Reduce Landfill Waste & Greenhouse Gases"
+ ]}
+buttonText="Get Your GEME Terra II"
+  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=hthe-best-composter-to-reduce-food-waste"
+/>
+
 
 <font color="gray">*Last Update Time: June 11th, 2025.*</font>
 
@@ -144,6 +158,19 @@ Using a **kitchen composter** offers numerous benefits:
 - **Saves money**: Reduces the need to buy chemical fertilizers which might hurt your garden soil.
 - **Environmentally friendly**: Promotes sustainable living and reduces your carbon footprint.
 - **Convenient**: Makes composting accessible to those without outdoor space.
+
+<GemeTerra2CTA 
+ imgSrc="/img/geme-terra-2-composter.jpg"
+ productTitle="GEME Terra II Composter"
+ features={[
+    "✅ Best Way Of Composting in Winter",
+    "✅ Quiet, Odour-Free, Real Compost",
+    "✅ Rich Compost Output For Garden Soil & Plants",
+    "✅ Reduce Landfill Waste & Greenhouse Gases"
+ ]}
+buttonText="Get Your GEME Terra II"
+  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=hthe-best-composter-to-reduce-food-waste"
+/>
 
 ## 7. How to Choose the Right Kitchen Composter
 

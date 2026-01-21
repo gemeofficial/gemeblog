@@ -17,6 +17,7 @@ showBlackFridayModal: true
 ---
 
 import GemeComposterCTA from '@site/src/components/GemeComposterCTA'
+import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
 
 A fresh, whole apple is safe to store at room temperature for about one week, but once you cut it, it must be refrigerated, unless it is cooked into a pie. Then you can store it at room temperature for up to two days.
 
@@ -37,6 +38,19 @@ These varying storage conditions for fresh produce are dependent on several thin
 2. Specific varieties like Granny Smith, Fuji, McIntosh, and Cosmic Crisp often hold up well for **2 to 3 months** when conditions are ideal.
 3. On the countertop, apples typically remain fresh for about **1–2 weeks** before becoming soft or mealy.
 4. Cut apples should go into an airtight container, be lightly coated with lemon juice to prevent browning, and be consumed within **3–5 days** with optimal freshness.
+
+<GemeTerra2CTA 
+ imgSrc="/img/geme-terra-2-composter.jpg"
+ productTitle="GEME Terra II Composter"
+ features={[
+    "✅ Best Way Of Composting in Winter",
+    "✅ Quiet, Odour-Free, Real Compost",
+    "✅ Rich Compost Output For Garden Soil & Plants",
+    "✅ Reduce Landfill Waste & Greenhouse Gases"
+ ]}
+buttonText="Get Your GEME Terra II"
+  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-do-apples-last-in-the-fridge"
+/>
 
 ## 🍏 Overview Table: Storage Life by Apple Type & Situation
 
@@ -132,7 +146,18 @@ If it's only slightly soft, you can cut away the bad part and cook or bake it. I
 
 An 18th-century layering method uses a ventilated basket with sawdust or dry sand, plus wrapped apples, keeping freshness for 4–6 months.
 
-![Keep apples fresh for months](./img/keep-apples-fresh-for-months.jpg)
+<GemeTerra2CTA 
+ imgSrc="/img/geme-terra-2-composter.jpg"
+ productTitle="GEME Terra II Composter"
+ features={[
+    "✅ Best Way Of Composting in Winter",
+    "✅ Quiet, Odour-Free, Real Compost",
+    "✅ Rich Compost Output For Garden Soil & Plants",
+    "✅ Reduce Landfill Waste & Greenhouse Gases"
+ ]}
+buttonText="Get Your GEME Terra II"
+  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-do-apples-last-in-the-fridge"
+/>
 
 ## How to Keep Apples Fresh for Months
 

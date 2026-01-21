@@ -12,6 +12,7 @@ tags: [foodwaste, composting, sustainability]
 image: https://www.geme.bio/assets/images/what-happens-if-you-eat-moldy-bread-0d4410d8bbf61d82993cc4d76341b4a9.jpg 
 ---
 
+import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
 import GemeComposterCTA from '@site/src/components/GemeComposterCTA' 
 import RelatedArticles from '@site/src/components/RelatedArticles'
 import ReactPlayer from 'react-player'
@@ -84,6 +85,19 @@ A GEME Composter uses heat + continuous mixing + living microbes to digest food 
 - works even for small indoor spaces
 
 Because bread can attract pests and spoil anaerobically in traditional piles, indoor electric composting is the cleanest, fastest option.
+
+<GemeTerra2CTA 
+ imgSrc="/img/geme-terra-2-composter.jpg"
+ productTitle="GEME Terra II Composter"
+ features={[
+    "✅ Best Way Of Composting in Winter",
+    "✅ Quiet, Odour-Free, Real Compost",
+    "✅ Rich Compost Output For Garden Soil & Plants",
+    "✅ Reduce Landfill Waste & Greenhouse Gases"
+ ]}
+buttonText="Get Your GEME Terra II"
+  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=can-you-compost-moldy-bread"
+/>
 
 ![Countertop Composter GEME composter](./img/compost-step-1.gif)
 ![Countertop Composter GEME composter](./img/compost-step-2.gif)
