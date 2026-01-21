@@ -108,6 +108,7 @@ To keep compost usable:
  ]}
 buttonText="Get Your GEME Terra II"
   href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-use-compost-correctly"
+/>
 
 ## 2. How to Use Compost in Your Garden
 
@@ -185,6 +186,7 @@ Compost works well when combined with:
  ]}
 buttonText="Get Your GEME Terra II"
   href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-use-compost-correctly"
+/>
 
 ## 5. Compost for Potting Soil and Plants
 
@@ -267,6 +269,7 @@ Unfinished compost can rob your soil of nitrogen. If it smells sour or has large
  ]}
 buttonText="Get Your GEME Terra II"
   href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-use-compost-correctly"
+/>
 
 ## 9. Compost and Soil Health: The Science Behind It
 
