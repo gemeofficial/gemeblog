@@ -98,6 +98,7 @@ The takeaway? Brown rice is nutritionally superior by a long shot.
  ]}
 buttonText="Get Your GEME Terra II"
   href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-use-compost-correctly"
+/>
 
 ![Is Brown Rice Good For You?](./img/is-brown-rice-good-for-you.jpg)
 
@@ -258,6 +259,7 @@ Use almond milk, honey, cinnamon, and raisins for a delicious dessert.
   ]}
 buttonText="Get Your GEME Composter For Tomato Plants"
   href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=is-brown-rice-healthy"
+/>
 />
 
 ### Dos and Don’ts

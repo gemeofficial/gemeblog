@@ -78,6 +78,7 @@ Choosing a [**GEME electric composter**](https://www.geme.bio/product/geme) help
   ]}
 buttonText="Get Your GEME Composter For Tomato Plants"
   href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=full-moon-july-2025-affects-plant-growth"
+/>
 
 ### Practical Gardening Tips for July 2025 Gardeners
 

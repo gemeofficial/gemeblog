@@ -100,6 +100,7 @@ Avoid composting meat, dairy, or anything oily. **For the best quality of compos
   ]}
 buttonText="Get Your GEME Composter For Tomato Plants"
   href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=are-tomatoes-safe-to-eat-now"
+/>
 
 ### Planting Tomato Seeds or Seedlings
 

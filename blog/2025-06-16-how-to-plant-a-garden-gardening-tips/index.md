@@ -174,6 +174,7 @@ Use a balanced, slow-release fertiliser or organic compost to give your garden p
   ]}
 buttonText="Get Your GEME Composter For Tomato Plants"
   href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-plant-a-garden-best-gardening-guide-for-beginners"
+/>
 
 ![How to plant a garden gardening tips 7](./img/how-to-plant-a-garden-gardening-tips-07.jpg)
 

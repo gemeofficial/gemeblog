@@ -194,6 +194,7 @@ Yes! Composting spoiled apples is eco-friendly and safe with the GEME home compo
   ]}
 buttonText="Get Your GEME Composter For Tomato Plants"
   href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-do-apples-last-in-the-fridge"
+/>
 
 You might be wondering if the spoiled or mouldy apples would interfere with the Kobold microbes? Bacteria are so tiny that the GEME composter capacity is large enough (19L) for them to coexist. It's like putting two groups of ants in a forest full of food. They don't even have a chance to meet.
 

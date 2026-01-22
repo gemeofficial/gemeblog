@@ -66,6 +66,7 @@ According to the U.S. Department of Agriculture (USDA), cooked poultry should be
  ]}
 buttonText="Get Your GEME Terra II"
   href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-can-cooked-chicken-last-in-the-fridge"
+/>
 
 ## 2. The Ideal Temperature for Storing Cooked Chicken
 
@@ -125,6 +126,7 @@ Avoid refreezing chicken once it’s been thawed and reheated. The constant temp
  ]}
 buttonText="Get Your GEME Terra II"
   href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-can-cooked-chicken-last-in-the-fridge"
+/>
 
 ## 5. Best Practices for Storing Cooked Chicken
 
@@ -217,6 +219,7 @@ Take **GEME** for example, you can slice the cooked chicken that has gone bad in
   ]}
 buttonText="Get Your GEME Composter For Tomato Plants"
   href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-can-cooked-chicken-last-in-the-fridge"
+/>
 
 ## FAQs: Cooked Chicken Storage and Safety
 

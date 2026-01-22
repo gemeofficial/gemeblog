@@ -214,6 +214,7 @@ Using the GEME composter ensures your waste turns into something beneficial for 
   ]}
 buttonText="Get Your GEME Composter For Tomato Plants"
   href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=do-eggs-expire"
+/>
 
 ## 6. Food Safety Tips for Egg Storage
 

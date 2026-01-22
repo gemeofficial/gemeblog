@@ -107,6 +107,7 @@ However, GEME kitchen composter is the only one on the market that reaches the h
   ]}
 buttonText="Get Your GEME Composter For Tomato Plants"
   href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=the-best-composter-to-reduce-food-waste"
+/>
 
 It utilizes a combination of heat, drying, cooling, and grinding to transform food waste into full, dry, nutrient-rich, and bacteria-free compost that can be used to improve the health of your garden soil.
 
