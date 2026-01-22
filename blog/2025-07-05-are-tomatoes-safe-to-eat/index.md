@@ -13,6 +13,7 @@ image: https://www.geme.bio/assets/images/is-it-safe-to-eat-tomato-now-f8c682345
 ---
 
 import GemeComposterCTA from '@site/src/components/GemeComposterCTA'
+import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA'
 
 ## Are Tomatoes Safe to Eat Now? A Look at Food Safety Concerns
 
