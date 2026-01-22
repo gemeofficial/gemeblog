@@ -55,7 +55,7 @@ This distinction matters for soil health, sustainability, cost, and environmenta
 
 **Why It Leads in 2026**
 
-- Only countertop system producing real compost
+- Only kitchen system producing real compost
 - Handles meat, bones, and dairy safely
 - No ongoing filter replacement costs
 - No subscriptions
@@ -88,7 +88,7 @@ buttonText="Get Your GEME Terra II"
 
 ### Performance
 
- Terra II excels where others struggle. It heats waste up to ~75°C (killing pathogens), so you can compost meat, fish, bones, even moldy food – most other countertop units can’t.  In side-by-side comparisons, Terra II outperformed standard “smart bins” (which only handle dry waste) by actually fermenting scraps into humus-like soil.  As one GEME expert put it, Terra II “turns waste into nutrients… making traditional yard composting a thing of the past”.  Customer demand has been high – pre-orders for Terra II sold out in hours – a testament to how well this world’s first AI-powered kitchen composter meets real needs.
+ Terra II excels where others struggle. It heats waste up to ~75°C (killing pathogens), so you can compost meat, fish, bones, even moldy food that most other countertop units can’t.  In side-by-side comparisons, Terra II outperformed standard “smart bins” (which only handle dry waste) by actually fermenting scraps into humus-like soil.  As one GEME expert put it, Terra II “turns waste into nutrients… making traditional yard composting a thing of the past”.  Customer demand has been high – pre-orders for Terra II sold out in hours – a testament to how well this world’s first AI-powered kitchen composter meets real needs.
 
 ### Why It’s Top Rated
 
