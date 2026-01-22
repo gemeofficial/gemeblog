@@ -52,7 +52,7 @@ That tiny bit of moisture (about 14%) is essential — it's what makes the kerne
  imgSrc="/img/geme-terra-2-composter.jpg"
  productTitle="GEME Terra II Composter"
  features={[
-    "✅ Best Way Of Composting in Winter",
+    "✅ Best Way Of Composting At Home",
     "✅ Quiet, Odour-Free, Real Compost",
     "✅ Rich Compost Output For Garden Soil & Plants",
     "✅ Reduce Landfill Waste & Greenhouse Gases"
@@ -116,7 +116,7 @@ Several elements impact how long your popcorn lasts:
  imgSrc="/img/geme-terra-2-composter.jpg"
  productTitle="GEME Terra II Composter"
  features={[
-    "✅ Best Way Of Composting in Winter",
+    "✅ Best Way Of Composting At Home",
     "✅ Quiet, Odour-Free, Real Compost",
     "✅ Rich Compost Output For Garden Soil & Plants",
     "✅ Reduce Landfill Waste & Greenhouse Gases"
@@ -223,7 +223,7 @@ Refrigerating unpopped kernels can cause moisture imbalance, leading to poor pop
  imgSrc="/img/geme-terra-2-composter.jpg"
  productTitle="GEME Terra II Composter"
  features={[
-    "✅ Best Way Of Composting in Winter",
+    "✅ The Best Kitchen Composter",
     "✅ Quiet, Odour-Free, Real Compost",
     "✅ Rich Compost Output For Garden Soil & Plants",
     "✅ Reduce Landfill Waste & Greenhouse Gases"

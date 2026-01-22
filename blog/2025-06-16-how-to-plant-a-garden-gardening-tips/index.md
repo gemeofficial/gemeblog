@@ -94,7 +94,7 @@ Healthy soil means healthy plants. Clear your patch of weeds, rocks, or debris. 
  imgSrc="/img/geme-terra-2-composter.jpg"
  productTitle="GEME Terra II Composter"
  features={[
-    "✅ Best Way Of Composting in Winter",
+    "✅ Best Way Of Composting At Home",
     "✅ Quiet, Odour-Free, Real Compost",
     "✅ Rich Compost Output For Garden Soil & Plants",
     "✅ Reduce Landfill Waste & Greenhouse Gases"

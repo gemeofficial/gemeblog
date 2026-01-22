@@ -60,7 +60,7 @@ How to eat lychee begins with choosing the best fruit. Look for:
  imgSrc="/img/geme-terra-2-composter.jpg"
  productTitle="GEME Terra II Composter"
  features={[
-    "✅ Best Way Of Composting in Winter",
+    "✅ Best Way Of Composting At Home",
     "✅ Quiet, Odour-Free, Real Compost",
     "✅ Rich Compost Output For Garden Soil & Plants",
     "✅ Reduce Landfill Waste & Greenhouse Gases"
@@ -213,7 +213,7 @@ What does lychee taste like when it's poorly handled? Medicinal or *bitter*. Thi
  imgSrc="/img/geme-terra-2-composter.jpg"
  productTitle="GEME Terra II Composter"
  features={[
-    "✅ Best Way Of Composting in Winter",
+    "✅ Best Way Of Composting At Home",
     "✅ Quiet, Odour-Free, Real Compost",
     "✅ Rich Compost Output For Garden Soil & Plants",
     "✅ Reduce Landfill Waste & Greenhouse Gases"

@@ -57,7 +57,7 @@ Southern Living concurs that “once you bring home your bananas, they'll last f
  imgSrc="/img/geme-terra-2-composter.jpg"
  productTitle="GEME Terra II Composter"
  features={[
-    "✅ Best Way Of Composting in Winter",
+    "✅ Best Way Of Composting At Home",
     "✅ Quiet, Odour-Free, Real Compost",
     "✅ Rich Compost Output For Garden Soil & Plants",
     "✅ Reduce Landfill Waste & Greenhouse Gases"
@@ -105,7 +105,7 @@ Instead of tossing spent bananas, an eco-friendly solution is to compost the pee
  imgSrc="/img/geme-terra-2-composter.jpg"
  productTitle="GEME Terra II Composter"
  features={[
-    "✅ Best Way Of Composting in Winter",
+    "✅ Best Way Of Composting At Home",
     "✅ Quiet, Odour-Free, Real Compost",
     "✅ Rich Compost Output For Garden Soil & Plants",
     "✅ Reduce Landfill Waste & Greenhouse Gases"

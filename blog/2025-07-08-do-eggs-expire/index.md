@@ -70,7 +70,7 @@ In the U.S., refrigeration is a must due to washing and sanitization practices. 
  imgSrc="/img/geme-terra-2-composter.jpg"
  productTitle="GEME Terra II Composter"
  features={[
-    "✅ Best Way Of Composting in Winter",
+    "✅ Best Way Of Composting At Home",
     "✅ Quiet, Odour-Free, Real Compost",
     "✅ Rich Compost Output For Garden Soil & Plants",
     "✅ Reduce Landfill Waste & Greenhouse Gases"
@@ -133,7 +133,7 @@ Expired eggs don't necessarily turn toxic overnight. Over time, moisture and gas
  imgSrc="/img/geme-terra-2-composter.jpg"
  productTitle="GEME Terra II Composter"
  features={[
-    "✅ Best Way Of Composting in Winter",
+    "✅ Best Way Of Composting At Home",
     "✅ Quiet, Odour-Free, Real Compost",
     "✅ Rich Compost Output For Garden Soil & Plants",
     "✅ Reduce Landfill Waste & Greenhouse Gases"
