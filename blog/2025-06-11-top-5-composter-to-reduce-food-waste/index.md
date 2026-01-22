@@ -63,11 +63,17 @@ In this article, we'll explore the **top 5 kitchen composters** on the market.
 | **Bacteria Killing (e.g. Salmonella)** | Yes, up to 75°C as [**FDA/CDC**](https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures) recommended to kill harmful bacteria                                                                                    | No data                                   | No data                                                                                          | No data                                                                                     | No data                                                                                     |
 | **Cooling System**             | Yes                                                                                       | No data                                                                                               | No data                                                                                          | No data                                                                                     | No data                                                                                     |
 
+
+<font color="gray">*Last Update Time: June 11th, 2025.*</font>
+
+
+    <font color="gray">*Data collected from each brand's official website.*</font>
+
 <GemeTerra2CTA 
  imgSrc="/img/geme-terra-2-composter.jpg"
  productTitle="GEME Terra II Composter"
  features={[
-    "✅ Best Way Of Composting in Winter",
+    "✅ The Best Kitchen Composter",
     "✅ Quiet, Odour-Free, Real Compost",
     "✅ Rich Compost Output For Garden Soil & Plants",
     "✅ Reduce Landfill Waste & Greenhouse Gases"
@@ -75,13 +81,6 @@ In this article, we'll explore the **top 5 kitchen composters** on the market.
 buttonText="Get Your GEME Terra II"
   href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=hthe-best-composter-to-reduce-food-waste"
 />
-
-
-<font color="gray">*Last Update Time: June 11th, 2025.*</font>
-
-
-    <font color="gray">*Data collected from each brand's official website.*</font>
-
 
 ## 1. GEME Kitchen Composter
 
@@ -97,7 +96,17 @@ In 2025, the culprit of [**FDA Food Recalls**](/blog/fda-tomato-recall-salmonell
 
 However, GEME kitchen composter is the only one on the market that reaches the high temperature of up to 70+ to [kill Salmonella by integrated UV-C Light and Kobold heating system(fermentation)](/blog/egg-recall-salmonella-2025-best-way-to-kill-salmonella-in-eggs-recalled). This is not only for your family’s safety concerns, but also for your garden health and public health. 
 
-<GemeComposterCTA className="custom-styles" />
+<GemeComposterCTA 
+ imgSrc="/img/geme-bio-composter.jpg"
+ productTitle="GEME Bio Composter"
+ features={[
+    "✅ Best Way Of Composting At Home",
+    "✅ Produce Soil-Ready Compost For Garden",
+    "✅ Quiet, Odor-Free, Quick(6-8 hours)",
+    "✅ Large Capacity (19 L) For Daily Waste"
+  ]}
+buttonText="Get Your GEME Composter For Tomato Plants"
+  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=the-best-composter-to-reduce-food-waste"
 
 It utilizes a combination of heat, drying, cooling, and grinding to transform food waste into full, dry, nutrient-rich, and bacteria-free compost that can be used to improve the health of your garden soil.
 
@@ -163,7 +172,7 @@ Using a **kitchen composter** offers numerous benefits:
  imgSrc="/img/geme-terra-2-composter.jpg"
  productTitle="GEME Terra II Composter"
  features={[
-    "✅ Best Way Of Composting in Winter",
+    "✅ Best Way Of Composting At Home",
     "✅ Quiet, Odour-Free, Real Compost",
     "✅ Rich Compost Output For Garden Soil & Plants",
     "✅ Reduce Landfill Waste & Greenhouse Gases"

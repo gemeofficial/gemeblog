@@ -68,17 +68,6 @@ Brown rice is rich in lignans and phenolic acids, which are linked to reduced in
 ![Brown Rice Nutrition](./img/brown-rice-nutrition.jpg)
 
 The takeaway? Brown rice is nutritionally superior by a long shot.
- imgSrc="/img/geme-terra-2-composter.jpg"
- productTitle="GEME Terra II Composter"
- features={[
-    "✅ Best Way Of Composting in Winter",
-    "✅ Quiet, Odour-Free, Real Compost",
-    "✅ Rich Compost Output For Garden Soil & Plants",
-    "✅ Reduce Landfill Waste & Greenhouse Gases"
- ]}
-buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=is-brown-rice-healthy"
-/>
 
 <h2 className="jump-to">Jump To</h2>
 
@@ -98,7 +87,17 @@ buttonText="Get Your GEME Terra II"
 
 8. **[Is Brown Rice Suitable For Everyone?](#8-is-brown-rice-suitable-for-everyone)**
 
-
+<GemeTerra2CTA 
+ imgSrc="/img/geme-terra-2-composter.jpg"
+ productTitle="GEME Terra II Composter"
+ features={[
+    "✅ Best Way Of Composting At Home",
+    "✅ Quiet, Odour-Free, Real Compost",
+    "✅ Rich Compost Output For Garden Soil & Plants",
+    "✅ Reduce Landfill Waste & Greenhouse Gases"
+ ]}
+buttonText="Get Your GEME Terra II"
+  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-use-compost-correctly"
 
 ![Is Brown Rice Good For You?](./img/is-brown-rice-good-for-you.jpg)
 
@@ -248,7 +247,18 @@ Use almond milk, honey, cinnamon, and raisins for a delicious dessert.
 
 - Cooked rice: Can attract pests and mold. **Best composted in a home electric composter**. 
 
-<GemeComposterCTA className="custom-styles" />
+<GemeComposterCTA 
+ imgSrc="/img/geme-bio-composter.jpg"
+ productTitle="GEME Bio Composter"
+ features={[
+    "✅ Best Way Of Composting At Home",
+    "✅ Produce Soil-Ready Compost For Garden",
+    "✅ Quiet, Odor-Free, Quick(6-8 hours)",
+    "✅ Large Capacity (19 L) For Daily Waste"
+  ]}
+buttonText="Get Your GEME Composter For Tomato Plants"
+  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=is-brown-rice-healthy"
+/>
 
 ### Dos and Don’ts
 
@@ -297,7 +307,7 @@ Brown rice is not Paleo or Keto-friendly due to its carb content. Those on low-c
  imgSrc="/img/geme-terra-2-composter.jpg"
  productTitle="GEME Terra II Composter"
  features={[
-    "✅ Best Way Of Composting in Winter",
+    "✅ Best Way Of Composting At Home",
     "✅ Quiet, Odour-Free, Real Compost",
     "✅ Rich Compost Output For Garden Soil & Plants",
     "✅ Reduce Landfill Waste & Greenhouse Gases"

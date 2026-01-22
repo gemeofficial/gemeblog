@@ -203,7 +203,17 @@ The GEME composter is ideal for food waste like bad eggs. It:
 
 Using the GEME composter ensures your waste turns into something beneficial for your garden or plants.
 
-<GemeComposterCTA className="custom-styles" />
+<GemeComposterCTA 
+ imgSrc="/img/geme-bio-composter.jpg"
+ productTitle="GEME Bio Composter"
+ features={[
+    "✅ Best Way Of Composting At Home",
+    "✅ Produce Soil-Ready Compost For Garden",
+    "✅ Quiet, Odor-Free, Quick(6-8 hours)",
+    "✅ Large Capacity (19 L) For Daily Waste"
+  ]}
+buttonText="Get Your GEME Composter For Tomato Plants"
+  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=do-eggs-expire"
 
 ## 6. Food Safety Tips for Egg Storage
 

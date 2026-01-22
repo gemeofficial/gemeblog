@@ -152,7 +152,17 @@ Absolutely! The best way to deal with expired popcorn is to compost it rather to
 
 ### 🛒 Get Your GEME Composter Now
 
-<GemeComposterCTA className="custom-styles" />
+<GemeComposterCTA 
+ imgSrc="/img/geme-bio-composter.jpg"
+ productTitle="GEME Bio Composter"
+ features={[
+    "✅ Best Way Of Composting At Home",
+    "✅ Produce Soil-Ready Compost For Garden",
+    "✅ Quiet, Odor-Free, Quick(6-8 hours)",
+    "✅ Large Capacity (19 L) For Daily Waste"
+  ]}
+buttonText="Get Your GEME Composter For Tomato Plants"
+  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=can-popcorn-expire"
 
 It's the most **efficient, odour-free and eco-friendly** method for urban homes. The compost output is also fully matured and nutrient-rich to **improve your garden plants' health** 🌱. 
 
@@ -207,6 +217,19 @@ Instead of opening a large container every time, divide your kernels into smalle
 Refrigerating unpopped kernels can cause moisture imbalance, leading to poor popping results. Room temperature is best—cool, dry, and dark locations are ideal.
 
 ![Can popcorn goes bad?](./img/expired-popcorn.jpg)
+
+<GemeTerra2CTA 
+ imgSrc="/img/geme-terra-2-composter.jpg"
+ productTitle="GEME Terra II Composter"
+ features={[
+    "✅ Best Way Of Composting in Winter",
+    "✅ Quiet, Odour-Free, Real Compost",
+    "✅ Rich Compost Output For Garden Soil & Plants",
+    "✅ Reduce Landfill Waste & Greenhouse Gases"
+ ]}
+buttonText="Get Your GEME Terra II"
+  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=can-popcorn-expire"
+/>
 
 ## Fun Fact: The $64,000 Question of Popcorn
 Did you know that popcorn was once the star of quiz shows! The phrase "$64,000 Question" became iconic in the 1950s TV quiz program, where answering complex questions earned big prizes. And while popcorn's longevity may not earn you a fortune, knowing how to keep it fresh could save you money (and snack disappointment).

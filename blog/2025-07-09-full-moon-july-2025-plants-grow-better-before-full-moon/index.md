@@ -67,7 +67,17 @@ Biodynamic gardeners have long advised using finished compost just before a full
 
 Choosing a [**GEME electric composter**](https://www.geme.bio/product/geme) helps you have nutrient-rich compost ready exactly when planting time approaches. The GEME composter accelerates breakdown using heat and aeration control — ideal for aligning with lunar sowing plans.
 
-<GemeComposterCTA className="custom-styles" />
+<GemeComposterCTA 
+ imgSrc="/img/geme-bio-composter.jpg"
+ productTitle="GEME Bio Composter"
+ features={[
+    "✅ Best Way Of Composting At Home",
+    "✅ Produce Soil-Ready Compost For Garden",
+    "✅ Quiet, Odor-Free, Quick(6-8 hours)",
+    "✅ Large Capacity (19 L) For Daily Waste"
+  ]}
+buttonText="Get Your GEME Composter For Tomato Plants"
+  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=full-moon-july-2025-affects-plant-growth"
 
 ### Practical Gardening Tips for July 2025 Gardeners
 

@@ -116,6 +116,19 @@ Refrigeration is strongly advised for any cut or hulled berries. The USDA notes:
 
 :::
 
+<GemeTerra2CTA 
+ imgSrc="/img/geme-terra-2-composter.jpg"
+ productTitle="GEME Terra II Composter"
+ features={[
+    "✅ Zero Filter Costs, No Refills",
+    "✅ Quiet, Odour-Free, Real Compost",
+    "✅ Rich Compost Output For Garden Soil & Plants",
+    "✅ Reduce Landfill Waste & Greenhouse Gases"
+ ]}
+buttonText="Get Your GEME Terra II"
+  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-way-to-store-strawberries"
+/>
+
 ![How to Store Strawberries](./img/best-way-to-store-strawberries.jpg)
 
 ## 4. Do’s and Don’ts of Washing and Prep

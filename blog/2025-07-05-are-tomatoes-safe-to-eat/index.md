@@ -45,6 +45,20 @@ Besides, there's something deeply satisfying about nurturing a seed into a flour
 
 ![is it safe to eat tomato now?](./img/is-it-safe-to-eat-tomato-now.jpg)
 
+ 
+<GemeTerra2CTA 
+ imgSrc="/img/geme-terra-2-composter.jpg"
+ productTitle="GEME Terra II Composter"
+ features={[
+    "✅ Best Way Of Composting in Winter",
+    "✅ Quiet, Odour-Free, Real Compost",
+    "✅ Rich Compost Output For Garden Soil & Plants",
+    "✅ Reduce Landfill Waste & Greenhouse Gases"
+ ]}
+buttonText="Get Your GEME Terra II"
+  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=are-tomatoes-safe-to-eat-now"
+/>
+
 ## How to Grow Tomatoes: Step-by-Step Gardening Guide
 
 Ready to roll up your sleeves? Here’s your complete step-by-step guide on how to grow tomatoes like a pro—even if you're a total beginner.
@@ -75,7 +89,17 @@ For container gardening, cherry or grape tomatoes are compact and incredibly pro
 
 Avoid composting meat, dairy, or anything oily. **For the best quality of compost for daily use, you can choose a home electric composter like GEME, which turns your kitchen/yard waste into rich compost within 6-8 hours**.
 
-<GemeComposterCTA className="custom-styles" />
+<GemeComposterCTA 
+ imgSrc="/img/geme-bio-composter.jpg"
+ productTitle="GEME Bio Composter"
+ features={[
+    "✅ Best Way Of Composting At Home",
+    "✅ Produce Soil-Ready Compost For Garden",
+    "✅ Quiet, Odor-Free, Quick(6-8 hours)",
+    "✅ Large Capacity (19 L) For Daily Waste"
+  ]}
+buttonText="Get Your GEME Composter For Tomato Plants"
+  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=are-tomatoes-safe-to-eat-now"
 
 ### Planting Tomato Seeds or Seedlings
 
@@ -147,7 +171,17 @@ Absolutely! The best way to deal with bad tomatoes is to compost it. Use the com
 
 ### 🛒 Get Your GEME Composter Now
 
-<GemeComposterCTA className="custom-styles" />
+<GemeComposterCTA 
+ imgSrc="/img/geme-bio-composter.jpg"
+ productTitle="GEME Bio Composter"
+ features={[
+    "✅ Best Way Of Composting At Home",
+    "✅ Produce Soil-Ready Compost For Garden",
+    "✅ Quiet, Odor-Free, Quick(6-8 hours)",
+    "✅ Large Capacity (19 L) For Daily Waste"
+  ]}
+buttonText="Get Your GEME Composter For Tomato Plants"
+  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=are-tomatoes-safe-to-eat-now"
 
 It's the most **efficient, odour-free and eco-friendly** method for urban homes. The compost output is also fully matured and nutrient-rich to **improve your garden plants' health** 🌱. 
 

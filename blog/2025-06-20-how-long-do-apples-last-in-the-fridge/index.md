@@ -183,7 +183,17 @@ Yes! Composting spoiled apples is eco-friendly and safe with the GEME home compo
 
 ### 🛒 Get Your GEME Composter Now
 
-<GemeComposterCTA className="custom-styles" />
+<GemeComposterCTA 
+ imgSrc="/img/geme-bio-composter.jpg"
+ productTitle="GEME Bio Composter"
+ features={[
+    "✅ Best Way Of Composting At Home",
+    "✅ Produce Soil-Ready Compost For Garden",
+    "✅ Quiet, Odor-Free, Quick(6-8 hours)",
+    "✅ Large Capacity (19 L) For Daily Waste"
+  ]}
+buttonText="Get Your GEME Composter For Tomato Plants"
+  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-do-apples-last-in-the-fridge"
 
 You might be wondering if the spoiled or mouldy apples would interfere with the Kobold microbes? Bacteria are so tiny that the GEME composter capacity is large enough (19L) for them to coexist. It's like putting two groups of ants in a forest full of food. They don't even have a chance to meet.
 
@@ -224,6 +234,19 @@ Apples can be a safe, nutritious snack for dogs if prepared correctly. Remove se
 When handled properly, apple slices can even support dental health and hydration.
 
 ![Is apple bad for dogs to eat?](./img/is-apple-bad-for-dogs-to-eat.jpg)
+
+<GemeTerra2CTA 
+ imgSrc="/img/geme-terra-2-composter.jpg"
+ productTitle="GEME Terra II Composter"
+ features={[
+    "✅ Best Way Of Composting in Winter",
+    "✅ Quiet, Odour-Free, Real Compost",
+    "✅ Rich Compost Output For Garden Soil & Plants",
+    "✅ Reduce Landfill Waste & Greenhouse Gases"
+ ]}
+buttonText="Get Your GEME Terra II"
+  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-do-apples-last-in-the-fridge"
+/>
 
 #### Benefits of apples for dogs:
 

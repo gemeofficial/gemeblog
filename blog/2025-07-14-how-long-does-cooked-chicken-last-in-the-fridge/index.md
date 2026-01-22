@@ -14,6 +14,7 @@ image: https://www.geme.bio/assets/images/how-long-is-cooked-chicken-good-for-in
 ---
 
 import GemeComposterCTA from '@site/src/components/GemeComposterCTA'
+import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
 
 ## How Long Can Cooked Chicken Stay in the Fridge?
 
@@ -53,6 +54,18 @@ Cooked chicken, like any meat, is a perishable food. When left at room temperatu
 ### USDA Recommendations for Cooked Poultry
 
 According to the U.S. Department of Agriculture (USDA), cooked poultry should be stored in the refrigerator within 2 hours of cooking. Once refrigerated at the right temperature (we’ll get to that soon), it can stay safe for up to 4 days. After this period, the risk of spoilage and foodborne illness increases significantly.
+
+<GemeTerra2CTA 
+ imgSrc="/img/geme-terra-2-composter.jpg"
+ productTitle="GEME Terra II Composter"
+ features={[
+    "✅ Best Way Of Composting At Home",
+    "✅ Quiet, Odour-Free, Real Compost",
+    "✅ Rich Compost Output For Garden Soil & Plants",
+    "✅ Reduce Landfill Waste & Greenhouse Gases"
+ ]}
+buttonText="Get Your GEME Terra II"
+  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-can-cooked-chicken-last-in-the-fridge"
 
 ## 2. The Ideal Temperature for Storing Cooked Chicken
 
@@ -100,6 +113,18 @@ Freezing cooked chicken can extend its life up to six months, but for best taste
 ### Reheating and Refreezing Considerations
 
 Avoid refreezing chicken once it’s been thawed and reheated. The constant temperature changes can increase bacterial risk.
+
+<GemeTerra2CTA 
+ imgSrc="/img/geme-terra-2-composter.jpg"
+ productTitle="GEME Terra II Composter"
+ features={[
+    "✅ Best Way Of Composting At Home",
+    "✅ Quiet, Odour-Free, Real Compost",
+    "✅ Rich Compost Output For Garden Soil & Plants",
+    "✅ Reduce Landfill Waste & Greenhouse Gases"
+ ]}
+buttonText="Get Your GEME Terra II"
+  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-can-cooked-chicken-last-in-the-fridge"
 
 ## 5. Best Practices for Storing Cooked Chicken
 
@@ -181,7 +206,17 @@ However, technology makes revolution, even in composting. So, **yes, you can com
 
 Take **GEME** for example, you can slice the cooked chicken that has gone bad into smaller pieces, then just put them in the GEME electric composter. Within 8 hours, that spoiled chicken will be fully composted. 
 
-<GemeComposterCTA className="custom-styles" />
+<GemeComposterCTA 
+ imgSrc="/img/geme-bio-composter.jpg"
+ productTitle="GEME Bio Composter"
+ features={[
+    "✅ Best Way Of Composting At Home",
+    "✅ Produce Soil-Ready Compost For Garden",
+    "✅ Quiet, Odor-Free, Quick(6-8 hours)",
+    "✅ Large Capacity (19 L) For Daily Waste"
+  ]}
+buttonText="Get Your GEME Composter For Tomato Plants"
+  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-can-cooked-chicken-last-in-the-fridge"
 
 ## FAQs: Cooked Chicken Storage and Safety
 

@@ -15,6 +15,7 @@ image: https://www.geme.bio/assets/images/how-to-grow-tomatoes-69732d63007fcbc53
 ---
 
 import GemeComposterCTA from '@site/src/components/GemeComposterCTA'
+import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
 
 Growing your tomatoes can be one of the most rewarding gardening experiences. But did you know that your juicy tomatoes could carry harmful bacteria like Salmonella if not done carefully? With reports like the [**Salmonella outbreak tomatoes in the US and the UK**](https://www.geme.bio/blog/are-tomatoes-safe-to-eat-now), understanding how to grow tomatoes safely is more important than ever.
 
@@ -218,6 +219,19 @@ Let compost sit at least 70°C for 6-8 hours to kill pathogens. While there are 
 
 Mix the matured compost into soil well before planting.
 
+<GemeTerra2CTA 
+ imgSrc="/img/geme-terra-2-composter.jpg"
+ productTitle="GEME Terra II Composter"
+ features={[
+    "✅ Best Way Of Composting At Home",
+    "✅ Quiet, Odour-Free, Real Compost",
+    "✅ Rich Compost Output For Garden Soil & Plants",
+    "✅ Reduce Landfill Waste & Greenhouse Gases"
+ ]}
+buttonText="Get Your GEME Terra II"
+  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-grow-tomatoes-safely"
+/>
+
 ## 6. Tomato Plant Care for Maximum Health
 
 ### Pruning and Supporting Plants
@@ -339,6 +353,19 @@ Yes, when grown with clean practices. Organic methods reduce chemical and bacter
 Growing your own tomatoes is incredibly satisfying, and with the right techniques, also very safe. By understanding the risks, using proper hygiene, and following best practices, you can avoid issues like the "Salmonella outbreak tomato" concerns and grow a bountiful, healthy harvest. 
 
 Follow these tips and enjoy safe, delicious tomatoes from your garden to your plate.
+
+<GemeTerra2CTA 
+ imgSrc="/img/geme-terra-2-composter.jpg"
+ productTitle="GEME Terra II Composter"
+ features={[
+    "✅ Best Way Of Composting Indoors",
+    "✅ Quiet, Odour-Free, Real Compost",
+    "✅ Rich Compost Output For Garden Soil & Plants",
+    "✅ Reduce Landfill Waste & Greenhouse Gases"
+ ]}
+buttonText="Get Your GEME Terra II"
+  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-grow-tomatoes-safely"
+/>
 
 
 ## Related Articles
