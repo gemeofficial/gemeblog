@@ -183,6 +183,7 @@ Absolutely! The best way to deal with bad tomatoes is to compost it. Use the com
   ]}
 buttonText="Get Your GEME Composter For Tomato Plants"
   href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=are-tomatoes-safe-to-eat-now"
+/>
 
 It's the most **efficient, odour-free and eco-friendly** method for urban homes. The compost output is also fully matured and nutrient-rich to **improve your garden plants' health** 🌱. 
 
