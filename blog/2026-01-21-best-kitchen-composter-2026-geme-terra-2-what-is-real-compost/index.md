@@ -10,7 +10,7 @@ keywords:
 slug: best-kitchen-composter-in-2026-geme-terra-2
 authors: [Moore]
 tags: [composter, compost, composting, sustainability, geme]
-image: https://www.geme.bio/_next/image?url=%2Fassets%2Fimages%2Fterra2-product-page-v2%2Fstep1.webp&w=1200&q=75
+image: https://www.geme.bio/assets/images/geme-terra-2-on-digital-trends-bbe9464370d7bb12d9d22d56fe8144bf.png
 
 ---
 
