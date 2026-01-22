@@ -529,9 +529,9 @@ Then a dehydrator simply isn’t enough. GEME Terra II doesn’t prepare waste f
 
 If we define best composter honestly—not by marketing claims but by biology—then the conclusion is clear:
 
-- Best electric composter: GEME Terra II
-- Best kitchen composter: GEME Terra II
-- Most future-proof composter: GEME Terra II
+ - **Best electric composter**: GEME Terra II
+ - **Best kitchen composter**: GEME Terra II
+ - **Most future-proof composter**: GEME Terra II
 
 Because in 2026, the best composters don’t just reduce waste. They return nutrients to the earth.
 
