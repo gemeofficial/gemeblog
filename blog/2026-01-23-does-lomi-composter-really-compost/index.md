@@ -28,6 +28,8 @@ Along the way we cite verified sources (official specs and expert reviews) to cl
 **Not all kitchen composters actually compost**.
 :::
 
+<!-- truncate -->
+
 ## Comparison Table: Real Compost vs Dehydrated Waste
 
 | Feature                     | [**GEME Terra II**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=5-best-kitchen-composters-in-2026) | [**GEME Pro**](https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=5-best-kitchen-composters-in-2026) | Lomi    | Mill    | Reencle |
@@ -39,7 +41,6 @@ Along the way we cite verified sources (official specs and expert reviews) to cl
 | Ongoing filter cost         | $0            | $0       | High    | Medium  | Medium  |
 | Final output usable in soil | ✅             | ✅        | ❌       | ❌       | ❌       |
 
-<!-- truncate -->
 
 ## 1. What Is the Lomi “Composter”?
 
@@ -160,7 +161,7 @@ Sources verified by Jan 23, 2026.
 
 1. [Lomi Official Website](https://lomi.com/products/lomi-2){rel="nofollow"}
 
-2. [Bon Appétit: Does the $499 Lomi Composter Actually Work?](https://www.bonappetit.com/story/lomi-food-composter) 
+2. [Bon Appétit: Does the \$499 Lomi Composter Actually Work?](https://www.bonappetit.com/story/lomi-food-composter) 
 
 3. [Bio-Composting Breakthroughs: GEME Terra 2 Debuts, An Easier & Smarter Way To Compost At Home](https://www.geme.bio/blog/geme-terra-2-debuts)
 
@@ -186,7 +187,7 @@ buttonText="Get Your GEME Terra II"
 
 <RelatedArticles
   slugs={[
-  "5-best-kitchen-composters-in-2026"
+  "5-best-kitchen-composters-in-2026",
   "best-kitchen-composter-in-2026-geme-terra-2",
   "geme-vs-reencle-composter-2026",
   "geme-vs-mill-composter-2026",
