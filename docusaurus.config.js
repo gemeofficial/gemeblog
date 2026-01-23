@@ -711,20 +711,7 @@ const config = {
     [
       "@docusaurus/plugin-client-redirects",
       {
-        redirects: [
-          {
-            to: "/blog/the-best-composter-to-reduce-food-waste",
-            from: "/blog/5-best-composters-to-reduce-food-waste",
-          },
-          {
-            to: "/blog/recovery-guide-after-floods",
-            from: "/blog/2025/07/11/ugent-tips-for-recovery-after-texas-floods",
-          },
-          {
-            to: "/blog/how-long-can-cooked-chicken-last-in-the-fridge",
-            from: "/blog/how-long-does-cooked-chicken-last-in-the-fridge",
-          },
-        ],
+        redirects: [],
       },
     ],
     [
