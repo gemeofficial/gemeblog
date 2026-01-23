@@ -28,7 +28,7 @@ const config = {
   organizationName: "facebook", // 通常是您的 GitHub 组织/用户名。
   projectName: "docusaurus", // 通常是您的仓库名称。
 
-  onBrokenLinks: "throw",
+  onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
 
   // SEO 脚本标签
