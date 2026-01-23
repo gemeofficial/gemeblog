@@ -1,6 +1,6 @@
 ---
 title: "Does the Lomi Composter Really Compost? Lomi vs GEME Terra 2"
-description: "Find out if the Lomi composter truly composts or just dehydrates your scraps. We compare it with GEME Terra 2 – an AI-powered electric kitchen composter that produces real compost – helping zero-waste families choose the best kitchen composter."
+description: "Does the Lomi composter actually create compost? No, it just dehydrates your scraps. We compare it with GEME Terra 2 – an AI-powered electric kitchen composter that produces real compost – helping zero-waste families choose the best kitchen composter."
 keywords:
   - lomi composter
   - geme terra 2, 
