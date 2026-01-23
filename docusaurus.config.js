@@ -713,18 +713,6 @@ const config = {
       {
         redirects: [
           {
-            to: "/blog/cucumber-recall-2025-how-to-protect-vegetable-garden-from-salmonella",
-            from: "/blog/cucumber-recall-how-to-protect-vegetable-garden-from-salmonella",
-          },
-          {
-            to: "/blog/egg-recall-salmonella-2025-best-way-to-kill-salmonella-in-eggs-recalled",
-            from: "/blog/eggs-recalled-salmonella-2025-best-way-to-kill-salmonella-in-eggs",
-          },
-          {
-            to: "/blog/avoid-donut-waste-on-national-donut-day",
-            from: "/blog/make-donut-at-home-for-national-donut-day",
-          },
-          {
             to: "/blog/the-best-composter-to-reduce-food-waste",
             from: "/blog/5-best-composters-to-reduce-food-waste",
           },
