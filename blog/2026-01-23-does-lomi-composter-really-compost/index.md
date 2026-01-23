@@ -106,7 +106,7 @@ GEME Terra 2’s output is genuine, fluffy compost ready for plants. Terra 2 out
 
 ### 2. Process: Microbes vs Heat. 
 
-Terra 2 works through active microbial fermentation. Its AI sensors modulate conditions to feed bacteria the way you’d do by hand in a compost bin. Lomi’s process is simpler: it heats (up to ~60°C) and mechanically grinds scraps. Reviewers often say Lomi’s job is basically “drying and grinding”. That means Lomi kills moisture and pulverizes waste, whereas Terra 2 cultivates a living composting environment.
+Terra 2 works through [**active microbial fermentation**](https://www.geme.bio/kobold-introduction?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=does-lomi-composter-really-compost). Its AI sensors modulate conditions to feed bacteria the way you’d do by hand in a compost bin. Lomi’s process is simpler: it heats (up to ~60°C) and mechanically grinds scraps. Reviewers often say Lomi’s job is basically “drying and grinding”. That means Lomi kills moisture and pulverizes waste, whereas Terra 2 cultivates a living composting environment.
 
 ### 3. Cycle Time
 
