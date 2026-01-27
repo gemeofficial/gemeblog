@@ -36,7 +36,7 @@ In this guide, we’ll explore how to reduce food waste effectively, compare lea
 | True microbial composting   | ✅             | ✅        | ❌       | ❌       | ❌       |
 | Produces real compost       | ✅             | ✅        | ❌       | ❌       | ❌       |
 | Handles meat & dairy        | ✅             | ✅        | Limited | Limited | Limited |
-| AI condition control        | ✅             | ✅        | ❌       | ❌       | ❌       |
+| AI condition control        | ✅             | ❌        | ❌       | ❌       | ❌       |
 | Ongoing filter cost         | $0            | $0       | High    | Medium  | Medium  |
 | Final output usable in soil | ✅             | ✅        | ❌       | ❌       | ❌       |
 
