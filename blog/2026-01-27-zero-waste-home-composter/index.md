@@ -130,6 +130,8 @@ GEME Terra 2 digests 400+ kinds of biowaste, including vegetables, dairy, meats,
 
 Terra 2 uses a permanent metal-ion purification system — no charcoal filter replacements or consumables required. This means zero ongoing odor control costs, making it a smart investment for a zero-waste kitchen.
 
+[**Calculate Your Filter Costs -->**](https://www.geme.bio/cost-calculator/terra2-vs-lomi?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=zero-waste-home-kitchen-composter)
+
 4. Rapid Turnaround
 
 In roughly 6–8 hours, Terra 2 transforms food scraps into dark, soil-like compost — ready to use straight from the machine.
@@ -173,6 +175,8 @@ The Mill Food Recycler is another high-tech kitchen device aimed at food waste m
 
 Mill is a great solution for volume reduction and odor control, but its dried grounds are not a finished soil amendment until they undergo further composting.
 
+[**See GEME vs Mill Food Recycler** -->](https://www.geme.bio/compare/geme-vs-mill?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=zero-waste-home-kitchen-composter)
+
 ### Lomi Composter: Dehydration & Grinding vs True Compost
 
 The Lomi composter by Pela is another countertop solution designed to shrink kitchen waste and reduce frequency of trash trips. It heats, grinds, and dehydrates scraps — producing an output known as “pre-compost” or dry organic material. This approach makes food scraps lighter and more manageable, and Lomi markets its output as garden-ready after mixing with soil.
@@ -188,6 +192,8 @@ However, verified expert reviews clarify that Lomi does not complete biological 
  - Output may require further decomposition outside the machine.
 
  - Best suited to those who want odor control and waste reduction but do not necessarily need finished compost.
+
+[**See GEME vs Lomi Composter** -->](https://www.geme.bio/compare/geme-vs-lomi?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=zero-waste-home-kitchen-composter)
 
 ## 4. How GEME Terra 2 Supports a Zero Waste Lifestyle
 
