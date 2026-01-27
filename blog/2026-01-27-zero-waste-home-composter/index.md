@@ -231,6 +231,19 @@ If your goal is to close the kitchen waste loop, reduce greenhouse gas emissions
 
 Ready to turn scraps into soil? Discover GEME Terra 2 and make every meal a part of your sustainability journey.
 
+<GemeTerra2CTA 
+ imgSrc="/img/geme-terra-2-composter.jpg"
+ productTitle="GEME Terra II: The Real Kitchen Composter"
+ features={[
+    "✅ Zero Waste Kitchen Composter",
+    "✅ Quiet, Odour-Free, Real Compost",
+    "✅ Zero Filter Costs, No Refills",
+    "✅ Reduce Landfill Waste & Greenhouse Gases"
+ ]}
+buttonText="Get Your GEME Terra II"
+  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=zero-waste-home-kitchen-composter"
+/>
+
 
 ## 7. Verified Source Citations
 
@@ -249,20 +262,6 @@ Sources verified by Jan 27, 2026.
 6. [PR Newswire: Revolutionizing Home Sustainability GEME Debuts the Future of Composting at IFA Berlin 2024](https://www.prnewswire.com/news-releases/revolutionizing-home-sustainability-geme-debuts-the-future-of-composting-at-ifa-berlin-2024-302228430.html)
 
 7. <a href="https://lomi.com/products/lomi-filter-refills-90-cycles" rel="nofollow">Lomi Filter Refills 90 Cycles</a>
-
-<GemeTerra2CTA 
- imgSrc="/img/geme-terra-2-composter.jpg"
- productTitle="GEME Terra II: The Real Kitchen Composter"
- features={[
-    "✅ Zero Waste Kitchen Composter",
-    "✅ Quiet, Odour-Free, Real Compost",
-    "✅ Zero Filter Costs, No Refills",
-    "✅ Reduce Landfill Waste & Greenhouse Gases"
- ]}
-buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=zero-waste-home-kitchen-composter"
-/>
-
 
 <RelatedArticles
   slugs={[
