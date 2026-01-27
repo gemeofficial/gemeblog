@@ -39,7 +39,7 @@ This distinction matters for soil health, sustainability, cost, and environmenta
 | True microbial composting   | ✅             | ✅        | ❌       | ❌       | ❌       |
 | Produces real compost       | ✅             | ✅        | ❌       | ❌       | ❌       |
 | Handles meat & dairy        | ✅             | ✅        | Limited | Limited | Limited |
-| AI condition control        | ✅             | ✅        | ❌       | ❌       | ❌       |
+| AI condition control        | ✅             | ❌        | ❌       | ❌       | ❌       |
 | Ongoing filter cost         | $0            | $0       | High    | Medium  | Medium  |
 | Final output usable in soil | ✅             | ✅        | ❌       | ❌       | ❌       |
 
