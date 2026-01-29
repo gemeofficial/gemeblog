@@ -9,7 +9,7 @@ keywords:
 slug: composting-in-winter
 authors: [Moore]
 tags: [composter composting, sustainability, geme]
-
+image: https://www.geme.bio/assets/images/how-do-i-turn-my-frozen-compost-pile-a1f95b6c2619c11dc4d635995a078a2c.webp 
 ---
 
 import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
@@ -22,7 +22,7 @@ The winter of 2026 is rewriting the record books. A historic bomb cyclone has un
 A recent, poignant Reddit post titled ["**How do I turn my frozen compost pile**?"](https://www.reddit.com/r/composting/comments/1qppv27/how_do_i_turn_my_frozen_compost_pile/) captures the universal struggle. The user describes outdoor temperatures plunging between -10°F to 15°F (-23°C to -9°C) for weeks, rendering their pitchfork useless against a solidly frozen mass. This isn't just an inconvenience; it's a complete halt to the natural process of decomposition.
 
 ![Freeze Warning Florida](./image/freeze-warning-florida.jpeg)
-(Image: NWS [*While cold weather is currently impacting east central Florida, even colder conditions are forecast to start February. There is increasing potential for hard freeze conditions across east central Florida both Sunday and Monday mornings (Feb 1-2)*](https://x.com/NWSMelbourne/status/2016299436041703697).)
+(Image: NWS, Jan 27, 2026. [*While cold weather is currently impacting east central Florida, even colder conditions are forecast to start February. There is increasing potential for hard freeze conditions across east central Florida both Sunday and Monday mornings (Feb 1-2)*](https://x.com/NWSMelbourne/status/2016299436041703697).)
 
 This article is your definitive guide to navigating composting in winter. We'll dissect the science of why frozen piles fail, explore traditional methods for winterizing outdoor bins, and make a compelling case for the most reliable solution for serious composters: transitioning to a controlled, efficient indoor composter.
 
@@ -36,11 +36,11 @@ To understand the crisis sparked by the 2026 bomb cyclone, we must first underst
 
 ### The Science of the "Cold Pile"
 
-These microbes are temperature-sensitive. According to the comprehensive composting guidelines from the United States Composting Council (USCC), optimal microbial activity occurs between 135°F and 160°F (57°C and 71°C). This is the "hot compost" zone where decomposition is rapid, and pathogens and weed seeds are destroyed.
+These microbes are temperature-sensitive. According to the comprehensive composting guidelines from the [**United States Composting Council (USCC)**](https://www.compostingcouncil.org/page/TMECC), optimal microbial activity occurs between 135°F and 160°F (57°C and 71°C). This is the "hot compost" zone where decomposition is rapid, and pathogens and weed seeds are destroyed.
 
 When external temperatures plummet during a freeze warning event, maintaining this heat becomes a battle against physics. A pile must be sufficiently large (generally a minimum of 1 cubic yard/meter) and rich in nitrogen "greens" to self-insulate. The 2026 bomb cyclone conditions, with prolonged sub-freezing temperatures and wind chill, actively steal this vital heat energy. The outer layers freeze, insulating the core from necessary oxygen exchange. Microbial activity slows to a near standstill, creating what's known as a "cold" or "static" pile.
 
-As noted by the University of Illinois Extension, in a cold pile, "decomposition occurs very slowly, and may stop completely in winter." The Reddit user's impenetrable pile is a perfect example; the process isn't just slow, it's inactive. The organic matter is preserved in ice, not decomposing, which can lead to a significant backlog and extended composting timelines—potentially adding months to the process.
+As noted by the [**University of Illinois Extension**](https://extension.illinois.edu/composting/composting-homepage), in a cold pile, "**decomposition occurs very slowly, and may stop completely in winter**." The Reddit user's impenetrable pile is a perfect example; the process isn't just slow, it's inactive. The organic matter is preserved in ice, not decomposing, which can lead to a significant backlog and extended composting timelines—potentially adding months to the process.
 
 ### The Practical Problems of a Frozen Pile
 
