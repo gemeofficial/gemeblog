@@ -17,7 +17,7 @@ import GemeComposterCTA from '@site/src/components/GemeComposterCTA'
 import RelatedArticles from '@site/src/components/RelatedArticles'
 import ReactPlayer from 'react-player'
 
-So, [**McDonald's is giving away fancy caviar kits for Valentine's Day**](https://www.tastingtable.com/1924690/mcdonalds-leftover-food/). Yes, you read that right. For a limited time, you can snag a kit pairing their iconic Chicken McNuggets with a tin of premium Baerii Sturgeon caviar from [Paramount Caviar](https://www.tastingtable.com/1924690/mcdonalds-leftover-food/). It’s a clever, buzz-worthy stunt that perfectly captures our love for “affordable luxury” and shareable moments.
+So, [**McDonald's is giving away fancy caviar kits for Valentine's Day**](https://corporate.mcdonalds.com/corpmcd/our-stories/article/mcdonalds-mcnugget-caviar-valentines-day.html). Yes, you read that right. For a limited time, you can snag a kit pairing their iconic Chicken McNuggets with a tin of premium Baerii Sturgeon caviar from [Paramount Caviar](https://www.foxbusiness.com/fox-news-food-drink/mcdonalds-offers-free-mcnugget-caviar-kits-valentines-day-celebration). It’s a clever, buzz-worthy stunt that perfectly captures our love for “affordable luxury” and shareable moments.
 
 But once the last salty pearl is scooped and the social media buzz fades, most of us are left with the same old reality in our kitchens: a small bin full of food scraps. This fun promotion inadvertently shines a light on a much more persistent, less glamorous part of our daily lives: food waste.
 
@@ -169,10 +169,17 @@ buttonText="Get Your GEME Terra II"
 
 ## Verified Source Citations
 
-1. [**the U.S. Environmental Protection Agency's (EPA) Food Recovery Hierarchy**](https://catalog.data.gov/dataset/recipients-of-excess-food-by-county-us-and-territories-2018-epa-region-95)
-2. [**McDonald's has promised 100% renewable packaging by 2025**](https://www.weforum.org/stories/2018/02/mcdonalds-has-promised-100-renewable-packaging-by-2025/)
-3. [**What Does McDonald's Do With Leftover Food?**](https://www.tastingtable.com/1924690/mcdonalds-leftover-food/)
-4. [**McDonald's Blog: On World Environmental Health Day, we renew our commitment to Replace > Recycle > Reuse > Reduce**](https://mcdonaldsblog.in/2025/09/on-world-environmental-health-day-we-renew-our-commitment-to-replace-recycle-reuse-reduce/page/3/)
+ 1. [**McDonald’s Debuts Exclusive McNugget® Caviar Just in Time for Valentine’s Day – at No Cost to Fans**](https://corporate.mcdonalds.com/corpmcd/our-stories/article/mcdonalds-mcnugget-caviar-valentines-day.html)
+
+ 2. [**McDonald's offers free McNugget caviar kits for Valentine's Day celebration**](https://www.foxbusiness.com/fox-news-food-drink/mcdonalds-offers-free-mcnugget-caviar-kits-valentines-day-celebration)
+
+ 3. [**the U.S. Environmental Protection Agency's (EPA) Food Recovery Hierarchy**](https://catalog.data.gov/dataset/recipients-of-excess-food-by-county-us-and-territories-2018-epa-region-95)
+
+ 4. [**McDonald's has promised 100% renewable packaging by 2025**](https://www.weforum.org/stories/2018/02/mcdonalds-has-promised-100-renewable-packaging-by-2025/)
+
+ 5. [**What Does McDonald's Do With Leftover Food?**](https://www.tastingtable.com/1924690/mcdonalds-leftover-food/)
+
+ 6. [**McDonald's Blog: On World Environmental Health Day, we renew our commitment to Replace > Recycle > Reuse > Reduce**](https://mcdonaldsblog.in/2025/09/on-world-environmental-health-day-we-renew-our-commitment-to-replace-recycle-reuse-reduce/page/3/)
 
 
 <RelatedArticles
