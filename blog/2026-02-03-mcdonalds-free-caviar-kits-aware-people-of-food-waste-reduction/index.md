@@ -9,7 +9,7 @@ keywords:
 slug: free-mcnugget-caviar-raises-food-waste-concerns
 authors: [Moore]
 tags: [food waste, composter, sustainability, geme]
-
+image: https://www.geme.bio/assets/images/caviar-mcnuggets-mcdonalds-d971158179259cf328507ca3b49dde70.webp
 ---
 
 import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
