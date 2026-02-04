@@ -1,5 +1,5 @@
 ---
-title: "McDonald’s Free Caviar Kits Raises Concerns of Food Waste | 2026 Composting Insights"
+title: "McDonald’s Free Caviar Kits Raise Concerns of Food Waste | 2026 Composting Insights"
 description: "McDonald's free Valentine's Day McNugget caviar kits are fun, but they spotlight a bigger issue: what happens to our daily food scraps? Explore the EPA's waste hierarchy, why real composting at home matters, and how a true indoor composter like GEME Terra II tackles waste right in your kitchen."
 keywords:
   - mcnugget caviar
