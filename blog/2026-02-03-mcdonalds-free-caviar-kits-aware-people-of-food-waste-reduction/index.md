@@ -78,8 +78,6 @@ Enter the new category of electric kitchen composters. Promising to eliminate od
 [**Most popular countertop appliances are not composters. They are dehydrators and grinders**.](https://www.geme.bio/blog/5-best-kitchen-composters-in-2026)
 :::
 
-![See How GEME Terra II Reduces Food Waste](./image/geme-terra-2-is-a-real-composter.png)
-
 They use high heat to dry out and chop up your food waste. The output is a preserved, shelf-stable material that has not undergone true biological decomposition. As one leading brand explicitly states, its output ["**Food Grounds aren't compost**"](https://www.geme.bio/blog/geme-vs-mill-composter-2026). This material often needs to be mixed into a traditional compost pile or buried in soil to finish breaking down, which defeats the purpose of an "all-in-one" kitchen appliance.
 
 This is the key distinction for anyone wanting to truly close the loop at home:
@@ -87,6 +85,8 @@ This is the key distinction for anyone wanting to truly close the loop at home:
  - **A Dehydrator/Grinder**: Preserves and shrinks waste. Output is dry, ground-up food.
 
  - **A True Composter**: Uses microbes to biologically break down waste. Output is soil-ready, nutrient-rich compost for plants.
+
+![See How GEME Terra II Reduces Food Waste](./image/geme-terra-2-is-a-real-composter.png)
 
 [**See a detailed comparison between Real Compost & Dehydrated Waste** -->](https://www.geme.bio/compare/real-compost-vs-dehydrated-scraps?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=free-mcnugget-caviar-raises-food-waste-concerns)
 
@@ -117,7 +117,7 @@ Think of it as a miniature, high-tech compost bin optimized for your countertop.
 
 Here’s a quick comparison of what this means in practice:
 
-| **Feature**              | **Typical Kitchen Dehydrator/Grinder**                     | **GEME Terra II (True Indoor Composter)**                   |
+| **Feature**              | **Typical Kitchen Dehydrator/Grinder**                     | [**GEME Terra II (True Indoor Composter)**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=free-mcnugget-caviar-raises-food-waste-concerns)                   |
 |--------------------------|------------------------------------------------------------|-------------------------------------------------------------|
 | **Core Process**         | Dries and grinds with heat.                                | Microbial fermentation & decomposition.                     |
 | **Final Output**         | Dehydrated "food grounds" – not finished compost.          | Real, ready-to-use compost rich in microbes.                |
@@ -125,7 +125,7 @@ Here’s a quick comparison of what this means in practice:
 | **Soil Benefit**         | Output must be composted further or used as a soil mix-in. | Compost can be directly added to plants as a soil amendment.|
 | **Long-term Cost**       | Often requires recurring filter purchases.                 | Uses a permanent metal-ion filter; no recurring filter costs. |
 
-The result? You can add your daily coffee grounds, eggshells, vegetable peels, and even leftover bits of cooked food. In about 6-8 hours, the Terra II transforms it into a small amount of dark, earthy, genuine compost. It reduces waste volume by up to 95%, meaning you only empty the finished compost every month or two. [For over 78% of U.S. households (with 3 or fewer people), its capacity is a perfect fit.](https://www.geme.bio/blog/geme-terra-2-debuts)
+The result? You can add your daily coffee grounds, eggshells, vegetable peels, and even leftover bits of cooked food. In about 6-8 hours, the [**Terra II**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=free-mcnugget-caviar-raises-food-waste-concerns) transforms it into a small amount of dark, earthy, genuine compost. It reduces waste volume by up to 95%, meaning you only empty the finished compost every month or two. [For over 78% of U.S. households (with 3 or fewer people), its capacity is a perfect fit.](https://www.geme.bio/blog/geme-terra-2-debuts)
 
 <GemeTerra2CTA 
  imgSrc="/img/geme-terra-2-composter.jpg"
@@ -148,7 +148,7 @@ McDonald's Valentine's Day caviar kit is a moment of playful, sustainable indulg
 
 We can adopt the same thoughtful hierarchy at home. The first step is always to reduce what we buy and waste. For the scraps we can't avoid, true composting at home is the gold standard—it returns nutrients to the earth and keeps organic matter out of methane-producing landfills.
 
-The GEME Terra II indoor composter makes this achievable for modern, space-limited households. It tackles the problem right where it’s created: in your kitchen. It’s not about a one-day luxury treat; it’s about building a daily, impactful habit.
+The [**GEME Terra II indoor composter**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=free-mcnugget-caviar-raises-food-waste-concerns) makes this achievable for modern, space-limited households. It tackles the problem right where it’s created: in your kitchen. It’s not about a one-day luxury treat; it’s about building a daily, impactful habit.
 
 So, after you enjoy that luxurious nugget-and-caviar combo, consider the simpler, ongoing treat you can give your household and the planet: turning every coffee ground and apple core into black gold for your plants. That’s a sustainable love story that lasts all year long.
 
