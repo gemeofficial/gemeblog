@@ -8,7 +8,7 @@ keywords:
   - how to compost at home
 slug: composting-in-winter
 authors: [Moore]
-tags: [composter composting, sustainability, geme]
+tags: [composter, composting, sustainability, geme]
 image: https://www.geme.bio/assets/images/how-do-i-turn-my-frozen-compost-pile-a1f95b6c2619c11dc4d635995a078a2c.webp 
 ---
 
