@@ -27,13 +27,29 @@ import ReactPlayer from 'react-player'
 
 The headlines are constant, yet the problem persists. From fast-food giants phasing out plastics to [holiday-focused guides on mindful consumption](https://www.todaysdietitian.com/small-changes-for-a-healthier-and-more-sustainable-holiday-season/), food waste news consistently underscores a global crisis. [In the United States alone, food accounts for **24% of landfill material**, where it decomposes anaerobically, making it a top source of methane emissions, a greenhouse gas far more potent than carbon dioxide.](https://www.epa.gov/sustainable-management-food/wasted-food-scale) While corporate sustainability efforts are commendable, the most impactful food waste management frontier is often the most personal: **our own kitchens**.
 
-For the scraps we cannot prevent—peels, cores, spoiled leftovers, and bones—composting is the gold standard for food waste management, closing the loop by returning nutrients to the soil. [Yet, for many households, traditional composting is hindered by space, time, odor, and complexity](https://www.sciencedirect.com/science/article/abs/pii/S2589014X25002476).
+In homes, significant contributors include:
 
-Today's food waste news isn't just about the problem; it's about the technological evolution of the solution. The question is no longer "why" we should reduce food waste, but "how" we can do it seamlessly within our modern lives. The answer lies in redefining what a kitchen appliance can do.
+ - **unused leftovers**
+
+ - **spoiled produce**
+
+ - **kitchen peelings and scraps**
+
+This isn’t just lost food — it’s lost money and embedded environmental impact. Recent food waste news highlights just how big this problem has become:
+
+ - In the United States, [**nearly 33% of all produced food goes uneaten, equivalent to 80 billion pounds annually**](https://www.usda.gov/about-food/food-safety/food-loss-and-waste/food-waste-faqs), contributing significantly to [**greenhouse gas emissions**](https://www.epa.gov/smm/resources-waste-and-greenhouse-gas-emissions).
+
+ - Across the European Union, [**about 88 million tonnes of food waste is generated yearly**](https://environment.ec.europa.eu/topics/waste-and-recycling_en) — roughly 20% of all food produced and valued at €143 billion.
 
 ![EPA: How To Reduce Food Waste](./image/how-to-reduce-food-waste-by-epa.jpg)
 
 <!-- truncate -->
+
+Understanding the environmental stakes is crucial. Sending organic waste to a landfill isn't a neutral act. In that oxygen-poor environment, food scraps generate methane, which accounts for 58% of all landfill methane emissions to the atmosphere. The EPA states this pathway has "[**the largest environmental impacts and has limited potential for circularity**](https://www.epa.gov/sustainable-management-food/wasted-food-scale)".
+
+For the scraps we cannot prevent—peels, cores, spoiled leftovers, and bones—composting is the gold standard for food waste management, closing the loop by returning nutrients to the soil. [Yet, for many households, traditional composting is hindered by space, time, odor, and complexity](https://www.sciencedirect.com/science/article/abs/pii/S2589014X25002476).
+
+Today's food waste news isn't just about the problem; it's about the technological evolution of the solution. The question is no longer "why" we should reduce food waste, but "how" we can do it seamlessly within our modern lives. The answer lies in redefining what a kitchen appliance can do.
 
 ## 1. How to Reduce Food Waste: Practical Strategies
 
