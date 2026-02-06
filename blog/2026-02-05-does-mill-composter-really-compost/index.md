@@ -57,7 +57,7 @@ Mill’s site markets these grounds as usable:
 
 However, **Mill itself states that this process is not composting**:
 
- “Composting… takes weeks or months, not hours or days… the food recycler isn’t a composting device.” — Official Mill support documentation.
+ “Composting… takes weeks or months, not hours or days… the food recycler isn’t a composting device.” — Official Mill support documentation. **However, it's compost pile that takes months of composting. This is why technology steps in and eventually finds out new microbial fermentation can speed up the breakdown to hours or days**. 
 
 ## Mill Composter Process Overview
 
