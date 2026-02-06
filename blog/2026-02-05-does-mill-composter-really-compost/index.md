@@ -210,13 +210,13 @@ Choosing the right appliance ensures your money goes toward actual compost, not 
 
  ✔ Reduces trash volume significantly
 
- ✔ Works with meat, bones, dairy
-
 ### Mill Limitations
 
  ❌ Does not produce compost
 
  ❌ Grounds still need further breakdown
+
+ ❌ Does not support meat, dairy, or bones
 
  ❌ <a href="https://www.mill.com/blog/what-do-food-recyclers-actually-do-and-why-do-they-matter" rel="nofollow">Subscription costs for pickup may apply</a>
 
