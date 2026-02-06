@@ -9,7 +9,7 @@ keywords:
 slug: does-mill-composter-really-compost
 authors: [Moore]
 tags: [composter, compost, sustainability, geme]
-
+image: https://www.geme.bio/assets/images/does-mill-composter-really-compost-48f7082503dcb33c3a6a09f396ea841f.png
 ---
 
 import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
