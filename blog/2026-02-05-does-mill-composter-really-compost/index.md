@@ -21,7 +21,7 @@ import ReactPlayer from 'react-player'
 
 ### Quick Answer:
 
-The Mill composter is an electric food recycler that dehydrates and grinds kitchen scraps into dry “food grounds,” but it does not biologically compost them into real compost</a>. By contrast, [**GEME Terra 2 uses microbial composting to produce genuine soil-ready compost right in your kitchen**, making it the best kitchen composter available today](/blog/best-kitchen-composter-2026/).
+The Mill composter is an electric food recycler that dehydrates and grinds kitchen scraps into dry “food grounds,” but it does not biologically compost them into real compost. By contrast, [**GEME Terra 2 uses microbial composting to produce genuine soil-ready compost right in your kitchen**, making it the best kitchen composter available today](/blog/best-kitchen-composter-2026).
 
 ### Why This Matters to You
 
