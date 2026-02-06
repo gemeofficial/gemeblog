@@ -72,13 +72,13 @@ However, **Mill itself states that this process is not composting**:
 | Capacity            | Large (many lbs)                       |
 | Best for            | Waste volume reduction                 |
 
-The Mill device excels at reducing the volume of kitchen scraps and eliminating smell, but this is not biological composting, which involves microbes breaking down organics into stable soil matter.
+The Mill device excels at reducing the volume of kitchen scraps and eliminating smell, but **this is not biological composting, which involves microbes breaking down organics into stable soil matter**.
 
 <GemeTerra2CTA 
  imgSrc="/img/geme-terra-2-composter.jpg"
  productTitle="GEME Terra II: Best Kitchen Composter"
  features={[
-    "✅ True Composter to Reduce Food Waste",
+    "✅ AI-Powered Microbial Composter",
     "✅ Quiet, Odour-Free, Real Compost",
     "✅ Zero Filter Costs, No Refills",
     "✅ Reduce Landfill Waste & Greenhouse Gases"
@@ -147,7 +147,7 @@ The GEME Terra 2 is engineered on a foundational principle: to bring the authent
  imgSrc="/img/geme-terra-2-composter.jpg"
  productTitle="GEME Terra II: Best Kitchen Composter"
  features={[
-    "✅ True Composter to Reduce Food Waste",
+    "✅ AI-Powered Microbial Composter",
     "✅ Quiet, Odour-Free, Real Compost",
     "✅ Zero Filter Costs, No Refills",
     "✅ Reduce Landfill Waste & Greenhouse Gases"
@@ -205,14 +205,19 @@ Choosing the right appliance ensures your money goes toward actual compost, not 
 ### Mill Strengths
 
  ✔ High capacity for large households
+
  ✔ Excellent odor control
+
  ✔ Reduces trash volume significantly
+
  ✔ Works with meat, bones, dairy
 
 ### Mill Limitations
 
  ❌ Does not produce compost
+
  ❌ Grounds still need further breakdown
+
  ❌ <a href="https://www.mill.com/blog/what-do-food-recyclers-actually-do-and-why-do-they-matter" rel="nofollow">Subscription costs for pickup may apply</a>
 
 Even <a href="https://www.mill.com/blog/what-do-food-recyclers-actually-do-and-why-do-they-matter" rel="nofollow">**Mill’s official support**</a> notes it’s designed for convenience, **not biological compost**, highlighting that users should understand this before purchase.
@@ -235,7 +240,7 @@ It’s the best kitchen composter for people who don’t just want to shrink tra
  imgSrc="/img/geme-terra-2-composter.jpg"
  productTitle="GEME Terra II: Best Kitchen Composter"
  features={[
-    "✅ True Composter to Reduce Food Waste",
+    "✅ AI-Powered Microbial Composter",
     "✅ Quiet, Odour-Free, Real Compost",
     "✅ Zero Filter Costs, No Refills",
     "✅ Reduce Landfill Waste & Greenhouse Gases"
