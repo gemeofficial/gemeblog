@@ -1,5 +1,5 @@
 ---
-title: "How to Reduce Holiday Food Waste with Ease: A Sustainable Spring Festival Guide"
+title: "How to Reduce Food Waste During Holiday: A Sustainable Spring Festival Guide"
 description: "Celebrating the Spring Festival? Learn how to reduce food waste during the holidays with practical tips and discover how to compost at home effortlessly with smart technology. Turn your food waste into a resource, not a burden."
 keywords:
   - spring festival
