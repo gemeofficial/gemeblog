@@ -10,7 +10,7 @@ keywords:
 slug: how-to-reduce-food-waste-during-spring-festival
 authors: [Moore]
 tags: [composting, food waste, sustainability, geme]
-
+image: https://www.geme.bio/assets/images/spring-festival-61095adac8959dbfd401edcc4d377abf.jpg
 
 ---
 
@@ -33,15 +33,15 @@ Reducing holiday food waste isn't about eating less; it's about planning smarter
 
 The most effective way to handle waste is to not create it in the first place. Before the shopping frenzy begins, a little strategy goes a long way in how to reduce food waste.
 
- 1. The Smarter Shopping List:
+ ### 1. The Smarter Shopping List:
 
  Resist the urge to buy "just in case." Plan your meals for the key festive days. Take inventory of your pantry and fridge before heading to the market. When writing your list, quantify ingredients with specific amounts (e.g., "500g of pork for dumplings," "6 oranges for dessert"), which prevents over-purchasing. Consider the shelf life of items; buy longer-lasting staples early and fresh perishables like vegetables and fish just a day or two before the big meal.
 
- 2. Embrace "Potluck" and Portion Control:
+ ### 2. Embrace "Potluck" and Portion Control:
 
  If hosting a large family gathering, don't shoulder all the cooking. Make it a collaborative feast where each family brings a signature dish. This not only adds variety but naturally controls the quantity of food prepared in one kitchen. When serving, use smaller plates for the initial round. People can always go back for seconds, but this dramatically reduces the amount of untouched food that gets scraped off overloaded plates into the bin.
 
- 3. Creative Leftover Blueprint:
+ ### 3. Creative Leftover Blueprint:
 
  Plan for leftovers before they exist. That whole steamed fish from the reunion dinner? Flake it for congee or fish cakes the next day. The roast chicken carcass is the perfect start for a hearty soup. Having a "Leftover Remix Day" (like the second day of the Spring Festival) is a delightful tradition that challenges your culinary creativity and ensures every morsel is enjoyed.
 
@@ -51,17 +51,17 @@ The most effective way to handle waste is to not create it in the first place. B
 
 Despite our best plans, some food scraps are inevitable: vegetable peels from all that chopping, fruit skins from festive platters, bones, and unavoidable plate scraps. This is where traditional waste systems fail, but your sustainable home system can shine.
 
- 1. The Sorting Station:
+ ### 1. The Sorting Station:
 
  Set up a simple sorting area in your kitchen with two bins: one for general dry trash and one dedicated to all food waste. This includes everything that often causes hesitation: citrus peels, onion skins, cooked food, meat bones, and oily leftovers. Educating the whole family on what goes into the food waste bin during the holidays is the first step to empowerment.
 
- 2. The Limitations of Traditional "Solutions":
+ ### 2. The Limitations of Traditional "Solutions":
 
- **The Trash Can**: Sending nutrient-rich organic waste to the landfill is the worst outcome. In anaerobic conditions, it generates methane, a potent greenhouse gas, and wastes a valuable resource.
+ - **The Trash Can**: Sending nutrient-rich organic waste to the landfill is the worst outcome. In anaerobic conditions, it generates methane, a potent greenhouse gas, and wastes a valuable resource.
 
- **The Outdoor Compost Pile (for those who have one)**: During the cold Spring Festival period, microbial activity in outdoor piles grinds to a halt. Adding a large volume of holiday scraps, especially oils and meats, can attract pests, create odors, and overwhelm the system, leading to a slow, frozen, and unmanaged mess.
+ - **The Outdoor Compost Pile (for those who have one)**: During the cold Spring Festival period, microbial activity in outdoor piles grinds to a halt. Adding a large volume of holiday scraps, especially oils and meats, can attract pests, create odors, and overwhelm the system, leading to a slow, frozen, and unmanaged mess.
 
- **The Stockpot**: While making stock from bones is excellent, it only addresses a fraction of the total scrap volume.
+ - **The Stockpot**: While making stock from bones is excellent, it only addresses a fraction of the total scrap volume.
 
 This is where modern home technology provides a perfect, hygienic, and efficient answer to how to compost at home, especially during the hectic holiday season.
 
