@@ -29,7 +29,7 @@ Today we’re pitting two microbial composters against each other:
 
 This showdown isn’t just about specs — it’s about real results, ownership costs, kitchen convenience, and long-term sustainability. Let’s dive in.
 
-![Reencle Composter Doesn't Produce Real Compost](./image/reencle-composter-vs-geme-terra-2-composter.jpg)
+![Reencle Composter Doesn't Produce Real Compost](./image/the-best-electric-composter-for-kitchen-2026-geme-terra-2.jpg)
 
 <!-- truncate -->
 
