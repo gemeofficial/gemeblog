@@ -9,7 +9,7 @@ keywords:
 slug: the-best-composter-for-kitchen
 authors: [Moore]
 tags: [composter, composting, sustainability, geme]
-image: https://www.geme.bio/assets/images/spring-festival-61095adac8959dbfd401edcc4d377abf.jpg
+image: https://www.geme.bio/assets/images/the-best-composter-for-kitchen-e93dfb26fc74075f308068f7c68d003c.jpg
 
 ---
 
