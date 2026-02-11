@@ -53,7 +53,7 @@ This article cuts through the noise and gives you a data-grounded comparison of 
 | Output              | Fermented pre-compost requiring curing  | Ready-to-use compost in 6-8h               | GEME wins — no extra steps             |
 | Continuous Feed     | Yes                                                           | Yes                                                               | Tie                                    |
 | Odor Management     | Carbon filters (replaceable)           | Permanent metal-ion filter, no replacements  | GEME wins — zero recurring costs       |
-| Capacity (Daily)    | ~1.0–1.5 kg (approx)                | ~2 kg+ (continuous)                        | GEME wins — larger throughput          |
+| Capacity (Daily)    | ~1.0 kg (approx)                | ~2 kg+ (continuous)                        | GEME wins — larger throughput          |
 | Real Compost Output | Yes (needs curing)                   | Yes (finished)                            | GEME wins — direct garden usage        |
 | Best for            | Kitchen beginners wanting low odor                            | True waste-to-soil conversion                                     | GEME wins overall                      |
 
@@ -242,7 +242,7 @@ That’s a big deal if you care about long-term sustainability and predictable h
 
 ### 3. Which one handles more waste daily?
 
- GEME Terra 2 generally handles more continuous waste (~2 kg/day) than the standard Reencle models (~1.5–2.2 lbs/day).
+ GEME Terra 2 generally handles more continuous waste (~2 kg/day) than the standard Reencle models (~1.5–2.0 lbs/day).
 
 ### 4. Do I need to replace filters or microbes for GEME?
 
