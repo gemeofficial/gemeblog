@@ -235,7 +235,7 @@ The best composter isn’t the one with the prettiest marketing or the celebrity
 
 5. [**Digital Trends**: GEME Terra 2 named among top smart home innovations](https://www.digitaltrends.com/home/ifa-2024-best-smart-home-tech/)
 
-6. [**Amazon (Lomi Reviews): Verified complaints regarding counter space and noise levels](https://www.amazon.ae/product-reviews/B0B3FSQTRS/ref=zg_bs_g_12148530031_d_sccl_29_cr/260-7624195-6046715)
+6. [**Amazon (Lomi Reviews)**: Verified complaints regarding counter space and noise levels](https://www.amazon.ae/product-reviews/B0B3FSQTRS/ref=zg_bs_g_12148530031_d_sccl_29_cr/260-7624195-6046715)
 
 7. [**GEME TrustPilot / Reviews**: Verified user feedback on 35dB low noise level and continuous feed capability](https://www.trustpilot.com/review/geme.bio)
 
