@@ -99,7 +99,7 @@ buttonText="Get Your GEME Terra II"
 
 ### Table 2: The True Cost of Ownership (The "Subscription Trap")
 
-This is where things get spicy. A $500 machine is an investment. But a $500 machine that requires $50 refills every few months is a subscription you didn’t sign up for.
+This is where things get spicy. A \$500 machine is an investment. But a \$500 machine that requires \$50 refills every few months is a subscription you didn’t sign up for.
 
 Lomi requires two specific consumables to function effectively:
 
@@ -116,7 +116,7 @@ Lomi requires two specific consumables to function effectively:
 | **Total 3-Year Investment**         | \$1,099                 | \$549                          |
 | **Resale Value**                    | Low (E-waste)          | High (Durable goods)          |
 
-**The Verdict**: You pay $50 more upfront for the GEME, but you save $550 over three years. That’s the kind of math that makes accountants cry (happy tears).
+**The Verdict**: You pay $50 more upfront for the GEME, but you save \$550 over three years. That’s the kind of math that makes accountants cry (happy tears).
 
 [**Calculate the hidden costs: Terra 2 Vs. Lomi** -->](https://www.geme.bio/cost-calculator/terra2-vs-lomi?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-indoor-composter-for-apartment-geme-vs-lomi)
 
