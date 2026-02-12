@@ -19,7 +19,7 @@ import GemeComposterCTA from '@site/src/components/GemeComposterCTA'
 import RelatedArticles from '@site/src/components/RelatedArticles'
 import ReactPlayer from 'react-player'
 
-Let’s be honest. You want to save the planet, but you don’t want your 500-square-foot apartment smelling like a dumpster behind a seafood restaurant. You want to how to compost at home without actually "composting"—you know, the turning, the worms, the backyard you don’t have.
+Let’s be honest. You want to save the planet, but you don’t want your 500-square-foot apartment smelling like a dumpster behind a seafood restaurant. You want to compost at home without actually "composting", you know, the turning, the worms, the backyard you don’t have.
 
 I get it. I’ve been there.
 
@@ -33,7 +33,7 @@ Today, we are looking at the two biggest names in the game: [**the Lomi (by Pela
 
 ## Why Your Apartment Is Begging for a Composter?
 
-If you live in a high-rise or a walk-up, you know the struggle. You can’t just toss scraps in the backyard. You either let them rot in a plastic bag under the sink (inviting a fruit fly rave) or you freeze them like a serial killer storing evidence. This is why the kitchen composter category has exploded.
+If you live in a high-rise or a walk-up, you know the struggle. You can’t just toss scraps in the backyard. You either let them rot in a plastic bag under the sink (inviting a fruit fly rave) or you freeze them like a storing evidence. This is why the kitchen composter category has exploded.
 
 However, how to compost at home in an apartment requires a specific kind of magic. It needs to be:
 
