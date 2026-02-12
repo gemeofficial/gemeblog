@@ -220,6 +220,8 @@ The best composter isn’t the one with the prettiest marketing or the celebrity
 
 [**Get your GEME Terra 2 today and start growing, not just grinding**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-indoor-composter-for-apartment-geme-vs-lomi).
 
+![best composter for apartments: geme terra 2 vs. lomi 3](./image/lomi3_vs_geme_terra2_1to1.png)
+
 
 ## Verified Source Citations
 
