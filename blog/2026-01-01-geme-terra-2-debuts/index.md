@@ -127,7 +127,7 @@ By making the device smaller, smarter, and more accessible, we are democratising
 | **Weight**             | 13 kg                                 | 30.8 kg                  |
 | **Capacity**           | 14 L                                  | 6.5 L                    |
 | **Households**         | 1–3 persons                           | Above 4 persons          |
-| **Power Consumption**  | 117 Wh                                | 700 Wh                   |
+| **Power Consumption**  | 58.3 Wh                                | 700 Wh                   |
 | **Composting Method**  | Microorganic Composting                | Dehydrating              |
 | **Composting Cycle**   | 6–8 hours                             | 3–6 hours                |
 | **Output**             | Real, ready-to-use compost            | Dehydrated waste         |

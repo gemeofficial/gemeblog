@@ -120,7 +120,7 @@ Terra 2 completes its composting in 6–8 hours (with added microbes and heat). 
 
 ### 4. Energy Use
 
-Terra 2 is extremely efficient (about 117 Wh per cycle). [Lomi’s Grow cycle uses roughly **1,000 Wh** (roughly equivalent to a dishwasher’s energy)](https://www.bonappetit.com/story/lomi-food-composter). So Terra 2 composts on a fraction of the power.
+Terra 2 is extremely efficient (about 58.3 Wh per hour). [Lomi’s Grow cycle uses roughly **1,000 Wh** (roughly equivalent to a dishwasher’s energy)](https://www.bonappetit.com/story/lomi-food-composter). So Terra 2 composts on a fraction of the power.
 
 ### 5. User Experience: Both appliances aim for ease of use. 
 

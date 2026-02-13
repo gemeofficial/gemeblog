@@ -105,7 +105,7 @@ By contrast, standard composter reviews (e.g. home compost tips) still caution a
 | **Composting Method** | Microbial (aerobic fermentation)   | Heat/dehydration (no microbes)             |
 | **Cycle Time**        | 6–8 hours                          | ~3–6 hours (but yields only dried waste)   |
 | **Output**            | Living compost (ready-to-use soil) | Dried, dusty residue (not true compost)    |
-| **Energy Use**        | ~117 Wh per cycle                  | ~700 Wh or more (heavy power draw)         |
+| **Energy Use**        | ~58.3 Wh                  | ~700 Wh or more (heavy power draw)         |
 | **Capacity**          | 14 L (suitable for 1–3 people)     | ~6.5 L (enough for very small loads)       |
 | **Filter/Refills**    | [Permanent filter, no refills](https://www.geme.bio/blog/electric-compost-bin-filters-costs-comparison)       | Carbon filters, enzyme packs (~$200+/yr)   |
 | **Noise & Odor**      | Quiet (&lt;40 dB), odor-free          | Varies; often needs external vents/filters |
