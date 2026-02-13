@@ -93,7 +93,7 @@ buttonText="Get Your GEME Terra II"
 | **Can it handle meat/dairy?** | Yes (Up to 3kg)                             | Limited (Grease issues reported)           |
 | **Noise Level**          | 35–40 dB (Whisper quiet)                      | 60+ dB (Comparable to a blender)           |
 | **Filter System**        | Permanent Metal-Ion (No replacement)          | Charcoal Filters (Replace every 3-6 months)|
-| **Energy Consumption**   | ~117Wh (Like a laptop)                        | ~500Wh - 1kWh (Like an oven)               |
+| **Energy Consumption**   | ~58Wh (Like a laptop)                        | ~500Wh - 1kWh (Like an oven)               |
 | **App/Smart Features**   | AI Optimization                               | Smart Cycle Tracking                       |
 | **Availability**         | Available Globally                            | Halted in U.S. (as of April 2024)          |
 
@@ -103,7 +103,7 @@ This is where things get spicy. A \$500 machine is an investment. But a \$500 ma
 
 Lomi requires two specific consumables to function effectively:
 
- - **LomiPods**: Microbe tablets to aid breakdown (**~\$50 for 45 cycles**).
+ - **LomiPods**: Microbe tablets to aid breakdown (**~\$53.99 for 90 cycles**).
 
  - **Charcoal Filters**: To control odor (**~\$20-30 every 3 months**).
 
