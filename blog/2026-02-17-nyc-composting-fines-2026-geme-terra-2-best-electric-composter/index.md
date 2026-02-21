@@ -73,6 +73,19 @@ According to DSNY's 311 portal, the following items must go into the brown compo
 
 **Food-soiled paper**: Greasy pizza boxes, uncoated paper plates, napkins, paper towels
 
+<GemeTerra2CTA 
+ imgSrc="/img/geme-terra-2-composter.jpg"
+ productTitle="GEME Terra II: Best Kitchen Composter"
+ features={[
+    "✅ Turn Food Waste Into Compost Effortlessly",
+    "✅ Quiet, Odour-Free, Real Compost",
+    "✅ Zero Filter Costs, No Refills",
+    "✅ Reduce Landfill Waste & Greenhouse Gases"
+ ]}
+buttonText="Get Your GEME Terra II"
+  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=nyc-composting-fines-2026-geme-terra-2-best-electric-compost"
+/>
+
 ## Why "Just Use a Bucket" Doesn't Work in an Apartment
 
 If you've never lived in a New York apartment, let me paint you a picture. Your kitchen is roughly the size of a walk-in closet. You share a trash room with 50 other people. And in the summer, your apartment hits 85 degrees with 70% humidity.
