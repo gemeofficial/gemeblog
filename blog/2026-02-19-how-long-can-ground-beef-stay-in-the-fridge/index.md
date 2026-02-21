@@ -276,7 +276,7 @@ References: Authoritative sources and references used above include US and Canad
 
 <RelatedArticles
   slugs={[
-  "nyc-composting-fines-2026-geme-terra-2-best-electric-compost"
+  "nyc-composting-fines-2026-geme-terra-2-best-electric-compost",
   "best-indoor-composter-for-apartment-geme-vs-lomi",
   "the-best-composter-for-kitchen",
   "how-to-reduce-food-waste-during-spring-festival",
