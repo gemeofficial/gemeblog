@@ -7,7 +7,7 @@ keywords:
   - best composter
   - how to compost at home
   - kitchen composter
-  - GEME Terra 2ome
+  - GEME Terra 2
 slug: nyc-composting-fines-2026-geme-terra-2-best-electric-compost
 authors: [Moore]
 tags: [food waste, composting, sustainability, geme]
