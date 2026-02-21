@@ -11,7 +11,7 @@ keywords:
 slug: nyc-composting-fines-2026-geme-terra-2-best-electric-compost
 authors: [Moore]
 tags: [food waste, composting, sustainability, geme]
-
+image: https://www.geme.bio/assets/images/nyc-food-waste-fines-9fe8d58de74fd4c1a5e115c2d6523fe7.jpg
 
 ---
 
