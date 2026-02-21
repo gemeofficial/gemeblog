@@ -157,7 +157,7 @@ buttonText="Get Your GEME Terra II"
 | **Operation**               | Continuous feed (add anytime)                    | Batch cycle (locked during run)               |
 | **Noise**                   | 35–40 dB (whisper quiet)                         | 60+ dB (blender volume)                      |
 | **Filters**                 | Permanent metal-ion (no replacement)             | Charcoal filters (replace every 3–6 months)  |
-| **Energy Use**              | ~58.3Wh per hour(like a laptop)                           | ~500Wh–1kWh (like an oven)                   |
+| **Energy Use**              | ~117Wh (like a laptop)                           | ~500Wh–1kWh (like an oven)                   |
 | **Can handle meat/dairy?**  | Yes                                              | Limited                                      |
 | **Annual consumable cost**  | \$0                                               | \$100–\$200                                    |
 
@@ -231,7 +231,7 @@ And when the city hosts "Compost Giveback Events" where residents can claim free
 | Dehydrator composter       | \$100–\$200 (filters + pods)    | Sterile dust       | ✅                       |
 | GEME Terra 2               | \$0 consumables                | Living compost     | ✅                       |
 
-**The Verdict**: Over three years, a dehydrator costs \$300–\$600 in filters and additives alone. GEME costs zero. And you get real soil instead of dust.
+**The Verdict**: Over three years, a dehydrator costs $300–$600 in filters and additives alone. GEME costs zero. And you get real soil instead of dust.
 
 <GemeTerra2CTA 
  imgSrc="/img/geme-terra-2-composter.jpg"
