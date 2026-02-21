@@ -116,7 +116,7 @@ This means Terra 2 is uniquely capable of composting things even traditional com
 | **Accepted Waste**             | All food scraps (vegetables, fruits, meat, fish, bones, dairy) | Primarily vegetable/fruit peels; **no** meat or oily foods |
 | **Odor & Filtration**          | Permanent metal-ion filter; odor-free                          | Needs activated charcoal filter; odors possible            |
 | **Adding Waste**               | Continuous, 24/7 – toss anytime                                | Batch process – must load and run cycles                   |
-| **Noise Level**                | Quiet (≈25–40 dB, whisper-quiet in improved model)             | Louder (often 60+ dB)                                      |
+| **Noise Level**                | Quiet (≈35–40 dB, whisper-quiet in improved model)             | Louder (often 60+ dB)                                      |
 | **Filter Replacement**         | Never – permanent filter (lifetime)                            | Frequent (charcoal pads ~3 months)                         |
 | **Energy Use**                 | Low (about 1.4 kWh/day)                                    | High (comparable to 500W+ appliance)                       |
 | **Size & Capacity**            | ~14L chamber; handles ~2 kg/day of waste                       | Smaller (3-4L);  less daily throughput                     |
@@ -139,7 +139,7 @@ This table highlights why GEME Terra 2 stands out. A standard “electric compos
 
 **The result**: living compost full of nutrients, not just dried flakes.
 
-In practice, this means no more throwing meat or bones in the trash. Terra 2 even handles pet food waste and cooking fats that dehydrators cannot digest. The permanent filter system in Terra 2 also ensures no odor or replacement costs, unlike dehydrators which need frequent charcoal filter changes. As one GEME comparison notes, over three years a typical dehydrator plus filter subscriptions can cost ~$1099, whereas Terra II is a one-time $549 purchase with zero recurring consumable costs. In short, GEME Terra 2 is built for real composting, convenience, and long-term savings.
+In practice, this means no more throwing meat or bones in the trash. Terra 2 even handles pet food waste and cooking fats that dehydrators cannot digest. The permanent filter system in Terra 2 also ensures no odor or replacement costs, unlike dehydrators which need frequent charcoal filter changes. As one GEME comparison notes, over three years a typical dehydrator plus filter subscriptions can cost ~\$1099, whereas Terra II is a one-time \$549 purchase with zero recurring consumable costs. In short, GEME Terra 2 is built for real composting, convenience, and long-term savings.
 
 [**Calculate the hidden costs: Terra 2 Vs. Lomi** -->](https://www.geme.bio/cost-calculator/terra2-vs-lomi?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=ow-long-can-ground-beef-stay-in-the-fridge)
 
