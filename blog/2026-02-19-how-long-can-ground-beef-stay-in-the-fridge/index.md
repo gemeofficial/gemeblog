@@ -8,7 +8,7 @@ keywords:
 slug: how-long-can-ground-beef-stay-in-the-fridge
 authors: [Moore]
 tags: [food waste, composting, sustainability, geme]
-
+image: https://www.geme.bio/assets/images/how-long-does-ground-beef-last-in-the-fridge-90e0e270819e484c78a271d41409576b.jpg
 
 ---
 
