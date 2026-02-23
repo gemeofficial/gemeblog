@@ -142,7 +142,7 @@ If you're not certain about any of these factors, stick to the 3-to-4-day window
 | Cooked chicken                     | 3–4 days (up to 7 days in ideal conditions)  | 3–4 months for best quality         |
 | Rotisserie chicken (store-bought)  | 3–4 days                                     | 3–4 months                          |
 
-![How Long Can Raw Chicken Stay In the Fridge](./image/how-long-can-raw-chicken-stay-in-the-fridge​%20%20.jpg)
+![How Long Can Raw Chicken Stay In the Fridge](./image/how-long-can-raw-chicken-stay-in-the-fridge.jpg)
 
 ## 3. How to Know When Chicken Is Bad
 
