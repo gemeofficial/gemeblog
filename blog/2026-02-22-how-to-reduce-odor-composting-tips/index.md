@@ -1,6 +1,6 @@
 ---
 title: "How to Reduce Odor: Practical Tips for Indoor Composting That Actually Work"
-description: "TDiscover proven strategies to eliminate smells from your indoor compost bin. From the freezer trick to browns layering, learn how to compost at home without offending your nose, or your neighbors."
+description: "Discover proven strategies to eliminate smells from your indoor compost bin. From the freezer trick to browns layering, learn how to compost at home without offending your nose, or your neighbors."
 keywords:
   - how to compost at home
   - indoor compost bin
