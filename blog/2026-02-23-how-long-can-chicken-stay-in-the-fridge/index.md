@@ -8,7 +8,7 @@ keywords:
 slug: how-long-can-chicken-stay-in-the-fridge
 authors: [Moore]
 tags: [composting, food waste, sustainability, geme]
-
+image: https://www.geme.bio/assets/images/how-long-can-uncooked-chicken-stay-in-the-fridge-830489e17bb72e8b6d1695a1047141a3.jpg
 
 ---
 
