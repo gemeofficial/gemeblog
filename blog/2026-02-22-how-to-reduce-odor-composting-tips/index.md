@@ -8,7 +8,7 @@ keywords:
 slug: how-to-reduce-odor-indoor-composting-tips
 authors: [Moore]
 tags: [composting, sustainability, geme]
-image: https://www.geme.bio/assets/images/how-long-does-ground-beef-last-in-the-fridge-90e0e270819e484c78a271d41409576b.jpg
+image: https://www.geme.bio/assets/images/how-to-reduce-odor-when-composting-39693ce93e0bb82210f4d111dd79f962.jpg
 
 ---
 
