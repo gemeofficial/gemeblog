@@ -264,6 +264,7 @@ At these temperatures, "most disease-causing organisms" are killed while "good b
  ]}
 buttonText="Get Your GEME Terra II"
   href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-can-chicken-stay-in-the-fridge"
+/>
 
 ### Method 1: Backyard Hot Composting
 
@@ -463,6 +464,7 @@ Never thaw chicken on the counter at room temperature. This allows bacteria to m
  ]}
 buttonText="Get Your GEME Terra II"
   href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-can-chicken-stay-in-the-fridge"
+/>
 
 ## 6. Frequently Asked Questions
 
