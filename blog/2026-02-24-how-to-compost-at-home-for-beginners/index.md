@@ -511,7 +511,7 @@ Whatever path you choose, you're doing something meaningful. You're keeping meth
 
 ### For Your Wallet
 
-If you're composting the old-fashioned way, your only cost is time. But if you want convenience, beware the "subscription trap." Many electric composters lock you into filter replacements costing $100–$200 annually.
+If you're composting the old-fashioned way, your only cost is time. But if you want convenience, beware the "subscription trap." Many electric composters lock you into filter replacements costing \$100–\$200 annually.
 
 The GEME Terra 2 costs \$549 upfront, **but zero dollars after that**. Over three years, that's **\$550 cheaper than a dehydrator like Lomi**. And you get real compost instead of sterile dust.
 
