@@ -7,7 +7,7 @@ keywords:
 slug: how-to-compost-at-home-beginners-guide
 authors: [Moore]
 tags: [composting, food waste, composter, sustainability, geme]
-
+image: https://www.geme.bio/assets/images/how-to-compost-at-home-beginner-guide-ad58419153d94c08fe094e8cfb25aca4.jpg
 
 ---
 
