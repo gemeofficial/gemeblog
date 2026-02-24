@@ -38,7 +38,7 @@ Before we dive into the how, let's talk about the why. Because honestly, if you'
 
 ### The Landfill Problem
 
-When food waste goes to landfill, something terrible happens. Buried under tons of trash, deprived of oxygen, it decomposes anaerobically—and releases methane, a greenhouse gas 25 times more potent than carbon dioxide. In South Australia, around 40% of waste placed in landfill bins is food and other compostable items . The numbers are similar worldwide.
+When food waste goes to landfill, something terrible happens. Buried under tons of trash, deprived of oxygen, it decomposes anaerobically, and releases methane, a greenhouse gas 25 times more potent than carbon dioxide. In South Australia, around 40% of waste placed in landfill bins is food and other compostable items. The numbers are similar worldwide.
 
 ### The Compost Solution
 
@@ -52,7 +52,7 @@ When you compost the same scraps at home, the process is aerobic (with oxygen). 
 
  - **Less trash**: your bin won't fill up as fast
 
-As the WWF puts it, ["Without healthy soil we would be unable to grow plants and food, putting life at risk"](https://www.wwf.org.uk/challenges/feed-soil-feed-plants). Composting helps nurture the organisms—from worms to bacteria—that keep soil healthy.
+As the WWF puts it, ["Without healthy soil we would be unable to grow plants and food, putting life at risk"](https://www.wwf.org.uk/challenges/feed-soil-feed-plants). Composting helps nurture the organisms from worms to bacteria that keep soil healthy.
 
 ### The Apartment Solution
 
@@ -158,7 +158,7 @@ For beginners, a simple plastic bin that sits on the soil is ideal. It's cheap, 
 
 ### Pest-Proofing Your Bin
 
-Nobody wants rats in the garden. Here's how to keep critters out :
+Nobody wants rats in the garden. Here's how to keep critters out:
 
  - Clear a flat spot of earth
 
@@ -188,7 +188,7 @@ Nature does most of the work. If you want faster compost, use a compost turner (
 
 #### Step 5: Harvest your "black gold"
 
-When the bin is full, let it rest for about three months. Then dig out the finished compost from the bottom. It should look like dark, crumbly soil. Don't worry if you still see eggshells or avocado pits—they'll continue breaking down in your garden.
+When the bin is full, let it rest for about three months. Then dig out the finished compost from the bottom. It should look like dark, crumbly soil. Don't worry if you still see eggshells or avocado pits, they'll continue breaking down in your garden.
 
 ### Timeline Expectations
 
@@ -228,7 +228,7 @@ No yard? No problem. You've got options.
 
 ### Option A: Vermicomposting (Worm Bins)
 
-Yes, worms. Red wigglers, specifically. They eat your scraps and poop out castings—one of the best plant fertilizers on earth.
+Yes, worms. Red wigglers, specifically. They eat your scraps and poop out castings, one of the best plant fertilizers on earth.
 
 **What you need**:
 
@@ -236,7 +236,7 @@ Yes, worms. Red wigglers, specifically. They eat your scraps and poop out castin
 
  - Bedding (shredded newspaper, cardboard)
 
- - Red wiggler worms (not earthworms—they won't work)
+ - Red wiggler worms (not earthworms, they won't work)
 
  - Food scraps (avoid citrus, garlic, onions)
 
@@ -256,7 +256,7 @@ Worms eat the scraps. They produce castings. You harvest the castings every few 
 
 This is where technology saves the day. Electric kitchen composter machines have exploded in popularity, but not all are created equal.
 
-#### 1. Dehydrators (e.g., Lomi)
+#### 1. Dehydrators (e.g., **Lomi**)
 
 These machines grind and heat your food until it becomes dry dust. [**They're essentially high-tech food dehydrators**](https://www.geme.bio/blog/best-indoor-composter-for-apartment-geme-vs-lomi).
 
@@ -266,9 +266,9 @@ These machines grind and heat your food until it becomes dry dust. [**They're es
 
  - **Cons**: Not real compost; can not handle meat or diary; **requires expensive filters and pods**; output can't be used directly on plants 
 
-As Wired bluntly put it, Lomi is "a grinder-and-dryer" . The New Yorker described its output as "dark-brown, crumbly dust"—not compost, exactly .
+As Wired bluntly put it, Lomi is "a grinder-and-dryer". The New Yorker described its output as "dark-brown, crumbly dust"—not compost, exactly.
 
-#### 2. Microbial Composters (e.g., **GEME Terra 2**)
+#### 2. Microbial Composters (e.g., [**GEME Terra 2**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home-beginners-guide))
 
 These use live microorganisms to actually digest your waste. The GEME Terra 2 is the world's first AI-powered kitchen composter, and it's in a class of its own.
 
@@ -331,7 +331,7 @@ With so many options, how do you pick? Let's break it down by lifestyle.
 | Compost tumbler      | 4+ sq ft       | 4–8 weeks                   | \$100–\$400        | Gardeners wanting faster results            |
 | Vermicomposting      | 2 sq ft        | 3–6 months                  | \$50–\$150         | Apartment dwellers who like worms           |
 | Bokashi             | 1 sq ft        | 2–4 weeks (plus burial)     | \$50–\$100         | Apartments           |
-| **Dehydrator (Lomi)**   | Counter space  | 3–20 hours                  | **\$500 + ongoing**   | **Waste reduction only (no soil needed)**       |
+| **Dehydrator (Lomi)**   | Counter space  | 3–20 hours                  | **\$500 + ongoing**   | **Not compost; Waste reduction only (no soil needed)**       |
 | **Microbial (GEME)**    | Counter/corner | 6–8 hours                   | **$549 (no ongoing)**| **Real compost, apartments, zero waste**        |
 
 ### Quick Decision Guide
@@ -372,13 +372,13 @@ Choose [**GEME Terra 2**](https://www.geme.bio/product/terra2?utm_medium=blog&ut
 
  - You want to compost meat, bones, and dairy safely
 
- - ou value quiet operation and minimal maintenance
+ - You value quiet operation and minimal maintenance
 
 Choose a **dehydrator** if:
 
  - You only care about volume reduction
 
- - ou don't garden and won't use the output
+ - You don't garden and won't use the output
 
  - You're okay with expensive ongoing filter purchases
 
@@ -404,14 +404,14 @@ After months of waiting (or hours with GEME), you finally have compost. Now what
 
 Finished compost looks like dark, crumbly soil. ["When you look at compost, what you should not be able to see is, oh, there's a leaf. There's that carrot top that I put in there 10 months ago. You shouldn't be able to discern what the material is," says composting expert Bob Shaffer](https://apnews.com/article/compost-climate-emissions-landfills-greenhouse-gas-1ee0bffa41abdc9ed5b70adae92d3e42).
 
-A few eggshell fragments or avocado pits are fine—they'll continue breaking down in soil.
+A few eggshell fragments or avocado pits are fine, they'll continue breaking down in soil.
 
 ### How to Use It
 
 | Use              | How Much                        | Tips                                       |
 |------------------|---------------------------------|--------------------------------------------|
 | Garden beds      | 1–2 inches mixed into topsoil   | Apply in spring or fall                    |
-| Potted plants    | 1 part compost : 8 parts soil   | Don't use pure compost—it's too strong     |
+| Potted plants    | 1 part compost : 8 parts soil   | Don't use pure compost, it's too strong     |
 | Lawn top-dressing| Thin layer raked in             | Feeds grass naturally                      |
 | Mulch            | 2-inch layer around plants      | Suppresses weeds, retains moisture         |
 | Compost tea      | Steep compost in water          | Makes liquid fertilizer                    |
@@ -441,11 +441,11 @@ buttonText="Get Your GEME Terra II"
 
 ### Q: What is the best composter for beginners?
 
-> A: For outdoor beginners, a simple plastic bin with a lid is perfect—cheap and forgiving . For indoor beginners who want real compost with minimal effort, the GEME Terra 2 is the top choice .
+> A: For outdoor beginners, a simple plastic bin with a lid is perfect, cheap and forgiving. For indoor beginners who want real compost with minimal effort, the GEME Terra 2 is the top choice.
 
 ### Q: Can I compost in winter?
 
-> A: Yes! Outdoor piles slow down but don't stop. Insulate with straw or leaves. Tumblers may freeze solid—move them to a sheltered spot. Indoor methods (worms, GEME) work year-round.
+> A: Yes! Outdoor piles slow down but don't stop. Insulate with straw or leaves. Tumblers may freeze solid, move them to a sheltered spot. Indoor methods (worms, GEME) work year-round.
 
 ### Q: How long does composting take?
 
@@ -499,7 +499,7 @@ buttonText="Get Your GEME Terra II"
 
 **"When in doubt, add more browns."**
 
-Browns (carbon) fix almost every problem: smell, moisture, pests, slow breakdown. Keep a bag of shredded cardboard or dead leaves next to your bin, and toss some in every time you add scraps .
+Browns (carbon) fix almost every problem: smell, moisture, pests, slow breakdown. Keep a bag of shredded cardboard or dead leaves next to your bin, and toss some in every time you add scraps.
 
 ## Conclusion: Start Small, Dream Big
 
@@ -517,7 +517,7 @@ The GEME Terra 2 costs \$549 upfront, **but zero dollars after that**. Over thre
 
 ### For The Planet
 
-[**The EPA estimates that food waste is the single most common material landfilled**](https://apnews.com/article/compost-climate-emissions-landfills-greenhouse-gas-1ee0bffa41abdc9ed5b70adae92d3e42). Every pound you compost is a pound not producing methane. When you use a system that creates living soil rather than dried waste, you're not just reducing trash—you're regenerating resources.
+[**The EPA estimates that food waste is the single most common material landfilled**](https://apnews.com/article/compost-climate-emissions-landfills-greenhouse-gas-1ee0bffa41abdc9ed5b70adae92d3e42). Every pound you compost is a pound not producing methane. When you use a system that creates living soil rather than dried waste, you're not just reducing trash, you're regenerating resources.
 
 ### The Final Word
 
@@ -525,7 +525,7 @@ You now know how to compost at home. You know the greens from the browns, the tu
 
 The only question left is: **When will you start?**
 
-Choose your method. Get your bin. And join the composting revolution—one banana peel at a time.
+Choose your method. Get your bin. And join the composting revolution: one banana peel at a time.
 
 <GemeTerra2CTA 
  imgSrc="/img/geme-terra-2-composter.jpg"
