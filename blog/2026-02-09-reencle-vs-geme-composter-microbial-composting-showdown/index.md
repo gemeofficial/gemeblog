@@ -10,7 +10,7 @@ keywords:
 slug: does-reencle-composter-produce-real-compost
 authors: [Moore]
 tags: [composter, compost, sustainability, geme]
-
+image: https://www.geme.bio/assets/images/reencle-composter-vs-geme-terra-2-composter-e867d026bdc5fef0d2368be00d537e68.jpg
 
 ---
 
