@@ -237,19 +237,19 @@ Reencle user manuals recommend annual carbon filter replacement. GEME uses a per
 
 ## Which One Should You Choose?
 
-### Choose Reencle if:
+### Choose Reencle if you're OK with:
 
- - You want fast, automated drying
+ - Hundreds of dollars filter costs
 
- - You don’t need finished compost
+ - Taking care of your composter all the time
 
- - You prioritize convenience over compost quality
+ - Lab-constrained microbes rather than a living system
 
 ### Choose GEME Terra 2 if:
 
- - You want **real compost**, not just waste reduction
+ - You want **fast & real compost**
 
- - You cook often and generate daily food scraps
+ - You want the "Add & Forget" style, then AI finish the rest
 
  - You prefer ownership without recurring fees
 
