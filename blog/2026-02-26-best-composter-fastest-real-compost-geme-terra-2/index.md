@@ -429,7 +429,7 @@ Still unsure which best composter fits your life? Use this flowchart:
 
 ### Q: How much electricity does GEME use?
 
-> A: GEME uses dynamic cycling, minimal power to maintain temperatures, ramping up only when new waste is detected. It's approximately 114 kWh per day for GEME Terra II, comparable to running a laptop.
+> A: GEME uses dynamic cycling, minimal power to maintain temperatures, ramping up only when new waste is detected. It's approximately 1.4 kWh per day for GEME Terra II, comparable to running a laptop.
 
 ### Q: Can I use GEME compost immediately on plants?
 
