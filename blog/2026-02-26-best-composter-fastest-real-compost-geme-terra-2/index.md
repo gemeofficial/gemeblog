@@ -8,6 +8,7 @@ keywords:
 slug: best-composter-fastest-real-compost-geme-terra-2
 authors: [Moore]
 tags: [composter, sustainability, geme]
+image: https://www.geme.bio/assets/images/the-best-composter-for-fastest-compost-2026-8b5434fc81917c5ce5f9e5bde78e54ad.png
 
 ---
 
@@ -477,8 +478,8 @@ Every pound of food waste you compost instead of landfilling eliminates methane 
 
 Don't settle for a machine that dries your garbage. Demand one that brings it back to life. Choose real compost. Choose faster, smarter sustainability.
 
-👉 [Order Your GEME Terra II Now]
-👉 [Explore GEME Pro for Large Households]
+👉 [Order Your GEME Terra II Now](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-fastest-real-compost-geme-terra-2)
+👉 [Explore GEME Pro for Large Households](https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-fastest-real-compost-geme-terra-2)
 
 
 <GemeTerra2CTA 
