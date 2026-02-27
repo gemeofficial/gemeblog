@@ -38,7 +38,7 @@ When we talk about the best composter for fastest REAL compost, we're measuring 
 
 With that framework, let's meet the winner.
 
-![The best composter for fastest compost: GEME Terra 2](./image/the-best-electric-composter-for-kitchen-2026-geme-terra-2.jpg)
+![The best composter for fastest compost: GEME Terra 2](./image/the-best-composter-for-fastest-compost-2026.png)
 
 <!-- truncate -->
 
@@ -527,7 +527,7 @@ buttonText="Get Your GEME Pro For Fastest Compost"
 
 <RelatedArticles
   slugs={[
-  "how-to-compost-at-home-beginners-guide"
+  "how-to-compost-at-home-beginners-guide",
   "how-long-can-chicken-stay-in-the-fridge",
   "how-to-reduce-odor-indoor-composting-tips",
   "how-long-can-ground-beef-stay-in-the-fridge",
