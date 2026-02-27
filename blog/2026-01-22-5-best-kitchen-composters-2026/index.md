@@ -36,7 +36,7 @@ This distinction matters for soil health, sustainability, cost, and environmenta
 
 | Feature                     | [**GEME Terra II**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=5-best-kitchen-composters-in-2026) | [**GEME Pro**](https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=5-best-kitchen-composters-in-2026) | Lomi    | Mill    | Reencle |
 | --------------------------- | ------------- | -------- | ------- | ------- | ------- |
-| True microbial composting   | ✅             | ✅        | ❌       | ❌       | ❌       |
+| True microbial composting   | ✅             | ✅        | ❌       | ❌       | ✅       |
 | Produces real compost       | ✅             | ✅        | ❌       | ❌       | ❌       |
 | Handles meat & dairy        | ✅             | ✅        | Limited | Limited | Limited |
 | AI condition control        | ✅             | ❌        | ❌       | ❌       | ❌       |
