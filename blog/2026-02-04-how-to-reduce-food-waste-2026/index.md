@@ -179,7 +179,7 @@ To understand why the GEME Terra 2 represents a leap forward in food waste manag
 
 | Feature                     | [**GEME Terra II**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-reduce-food-waste-at-home-2026) | [**GEME Pro**](https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-reduce-food-waste-at-home-2026) | Lomi    | Mill    | Reencle |
 | --------------------------- | ------------- | -------- | ------- | ------- | ------- |
-| True microbial composting   | ✅             | ✅        | ❌       | ❌       | ❌       |
+| True microbial composting   | ✅             | ✅        | ❌       | ❌       | ✅       |
 | Produces real compost       | ✅             | ✅        | ❌       | ❌       | ❌       |
 | Handles meat & dairy        | ✅             | ✅        | Limited | Limited | Limited |
 | AI condition control        | ✅             | ❌        | ❌       | ❌       | ❌       |

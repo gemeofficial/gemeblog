@@ -33,7 +33,7 @@ In this guide, we’ll explore how to reduce food waste effectively, compare lea
 
 | Feature                     | [**GEME Terra II**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=zero-waste-home-kitchen-composter) | [**GEME Pro**](https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=zero-waste-home-kitchen-composter) | Lomi    | Mill    | Reencle |
 | --------------------------- | ------------- | -------- | ------- | ------- | ------- |
-| True microbial composting   | ✅             | ✅        | ❌       | ❌       | ❌       |
+| True microbial composting   | ✅             | ✅        | ❌       | ❌       | ✅       |
 | Produces real compost       | ✅             | ✅        | ❌       | ❌       | ❌       |
 | Handles meat & dairy        | ✅             | ✅        | Limited | Limited | Limited |
 | AI condition control        | ✅             | ❌        | ❌       | ❌       | ❌       |

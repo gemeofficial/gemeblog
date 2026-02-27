@@ -352,13 +352,12 @@ Its output is not compost and requires off-site handling.
 
 **Category**: Hybrid processor
 
-**Technology**: Heat + mechanical mixing
+**Technology**: Heat + microbial mixing
 
 **Produces real compost**: ❌ No
 
-Reencle produces dried organic matter that resembles soil but:
+Reencle produces pre-compost that needs further curing but:
 
-- Lacks microbial activity
 - Requires annual filter replacements
 - Cannot complete the composting cycle independently
 
@@ -368,7 +367,7 @@ Reencle produces dried organic matter that resembles soil but:
 
  According to Wired, Reencle ships with a starter mix called ReencleMicrobe, composed of charcoal, wood pellets, glucose, and multiple microbial strains that initiate biological breakdown inside the unit.
 
- Unlike dehydrators, Reencle’s process aims to partially digest organic matter, producing a soil- and sawdust-like output that can be cured into usable compost with minimal additional steps.
+ Unlike dehydrators, Reencle’s process aims to partially digest organic matter, producing a soil-like and sawdust-like output that can be cured into usable compost with minimal additional steps.
 
 ### Features: Broad Feedstock Acceptance and Hands-Free Design
 

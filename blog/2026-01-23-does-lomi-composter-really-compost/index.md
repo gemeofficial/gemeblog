@@ -34,7 +34,7 @@ Along the way we cite verified sources (official specs and expert reviews) to cl
 
 | Feature                     | [**GEME Terra II**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=does-lomi-composter-really-compost) | [**GEME Pro**](https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=does-lomi-composter-really-compost) | Lomi    | Mill    | Reencle |
 | --------------------------- | ------------- | -------- | ------- | ------- | ------- |
-| True microbial composting   | ✅             | ✅        | ❌       | ❌       | ❌       |
+| True microbial composting   | ✅             | ✅        | ❌       | ❌       | ✅       |
 | Produces real compost       | ✅             | ✅        | ❌       | ❌       | ❌       |
 | Handles meat & dairy        | ✅             | ✅        | Limited | Limited | Limited |
 | AI condition control        | ✅             | ❌        | ❌       | ❌       | ❌       |
