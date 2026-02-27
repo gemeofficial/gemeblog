@@ -364,37 +364,37 @@ Still unsure which best composter fits your life? Use this flowchart:
 
 1. Do you want REAL compost or just less trash?
 
-**Real compost** → **GEME Terra II**, **GEME Pro**, HOTBIN, worms
+  **Real compost** → **GEME Terra II**, **GEME Pro**, HOTBIN, worms
 
-**Just less trash** → Dehydrator (Lomi, etc.)
+  **Just less trash** → Dehydrator (Lomi, etc.)
 
 2. Do you have enough outdoor space?
 
-**Yes** → Consider HOTBIN, tumbler, or worms
+  **Yes** → Consider HOTBIN, tumbler, or worms
 
-**No** → **GEME Terra II**, **GEME Pro** (indoor, odor-free)
+  **No** → **GEME Terra II**, **GEME Pro** (indoor, odor-free)
 
 3. How fast do you need results?
 
-**Hours** → **GEME Terra II or GEME Pro**
+  **Hours** → **GEME Terra II or GEME Pro**
 
-**Weeks** → HOTBIN or tumbler
+  **Weeks** → HOTBIN or tumbler
 
-**Months** → Worms or cold pile
+  **Months** → Worms or cold pile
 
 4. How much waste do you generate?
 
-Light (1–3 people) → **GEME Terra II**
+  Light (1–3 people) → **GEME Terra II**
 
-Heavy (4+ people, cooking daily) → **GEME Pro**
+  Heavy (4+ people, cooking daily) → **GEME Pro**
 
-Garden waste + kitchen scraps → **GEME Terra II**, **GEME Pro**, HOTBIN or tumbler
+  Garden waste + kitchen scraps → **GEME Pro**, HOTBIN or tumbler
 
 5. Do you hate ongoing costs?
 
-**Yes** → GEME (zero consumables)
+  **Yes** → GEME (zero consumables)
 
-**Okay with expensive filters** → Reencle, Lomi
+  **Okay with expensive filters** → Reencle, Lomi
 
 
 ## 7. Frequently Asked Questions
