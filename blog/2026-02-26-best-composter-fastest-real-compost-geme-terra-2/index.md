@@ -470,7 +470,7 @@ After comparing every major option on the market, one truth stands out:
 
 For large households, GEME Pro scales that same proven technology to handle anything you throw at it.
 
-A dehydrator like Lomi costs $1,099 over three years after filters and pods. GEME Terra II costs $549 in total. That's $550 back in your pocket. Money you can spend on plants for all that beautiful compost you're making.
+A dehydrator like Lomi costs \$1,099 over three years after filters and pods. GEME Terra II costs \$549 in total. That's \$550 back in your pocket. Money you can spend on plants for all that beautiful compost you're making.
 
 Every pound of food waste you compost instead of landfilling eliminates methane emissions 25 times more potent than CO₂. When you use a system that creates living soil rather than sterile dust, you're not just reducing waste, you're regenerating resources.
 
