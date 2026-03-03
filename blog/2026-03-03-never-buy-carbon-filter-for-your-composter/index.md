@@ -8,6 +8,7 @@ keywords:
 slug: never-buy-carbon-filter-for-your-composter
 authors: [Moore]
 tags: [composter, sustainability, geme]
+image: https://www.geme.bio/assets/images/geme-composter-no-need-for-carbon-filter-replacements-25d7b2a89db43f6f6692a666d683bda7.png
 
 ---
 
