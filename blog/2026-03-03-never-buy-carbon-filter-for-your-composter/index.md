@@ -70,7 +70,7 @@ In a nutshell, if you’re looking for a way to truly compost your food waste an
 
 Imagine for a moment that you never had to worry about buying a carbon filter again. Sounds like a dream, right? Well, with the GEME Terra 2, that dream becomes a reality. Here’s why:
 
- - **Cost Savings**: Over the years, those replacement filters add up. With GEME Terra 2, there are no hidden costs ever. The system runs without the need for replacement filters, which means your savings pile up as time goes on.
+ - **Cost Savings**: Over the years, those replacement filters add up. With GEME Terra 2, there are no hidden costs ever. The system runs without the need for replacement filters, which means your savings pile up as time goes on. Check this post: [**Electric Compost Bin Filters Cost: GEME vs Lomi vs Mill vs Reencle**](/blog/electric-compost-bin-filters-costs-comparison)
 
  - **Convenience**: No more running to the store every few months to buy a new filter. GEME Terra 2’s lifetime odor control means that once you’ve made your purchase, you’re done.
 
