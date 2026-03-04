@@ -29,7 +29,7 @@ Those fragile shells are actually **garden gold in disguise**. Packed with calci
 
 The question "**can you compost eggshells**?" has a simple answer: **absolutely yes**. But the how matters tremendously. Toss whole shells into your garden, and they'll sit there for years, mocking your efforts. Prepare them correctly, and you'll unlock one of the most sustainable, cost-effective soil amendments available.
 
-And if you really want to accelerate the process? The**GEME Terra II**, the world's first AI-powered kitchen composter, can **turn your eggshells into living, biologically active compost base in just days**, not months.
+And if you really want to accelerate the process? The **GEME Terra II**, the world's first AI-powered kitchen composter, can **turn your eggshells into living, biologically active compost base in just days**, not months.
 
 In this comprehensive guide, we'll cover everything from proper preparation techniques to which plants thrive with eggshells, and critically, **what plants don't like eggshells**. By the time you finish your next dozen eggs, you'll be an eggshell expert ready to supercharge your garden.
 
