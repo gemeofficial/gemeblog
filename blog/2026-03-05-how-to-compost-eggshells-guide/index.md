@@ -10,7 +10,7 @@ keywords:
 slug: how-to-compost-eggshells-guide-geme
 authors: [Moore]
 tags: [compost, food waste, composter, composting, geme]
-
+image: https://www.geme.bio/assets/images/eggshells-for-plants-ab5aadd34a7872bad196cdd99886b502.jpg
 
 ---
 
@@ -287,7 +287,7 @@ buttonText="Get Your GEME Terra II"
 
 #### Table: Eggshell Breakdown: Traditional vs. GEME
 
-| **Aspect**               | **Traditional Composting**                  | **Vermicomposting**             | **GEME Terra II**                        |
+| **Aspect**               | **Traditional Composting**                  | **Vermicomposting**             | [**GEME Terra II**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-eggshells-guide-geme)                        |
 |--------------------------|---------------------------------------------|----------------------------------|-------------------------------------------|
 | **Time to breakdown**    | 6-12 months                                | 3-6 months                       | Days                                      |
 | **Preparation needed**   | Fine grinding essential                     | Moderate grinding                | Minimal crushing                          |
@@ -296,20 +296,7 @@ buttonText="Get Your GEME Terra II"
 | **Odor control**         | Variable                                    | Minimal                          | Permanent filter                          |
 | **Output**               | Compost with visible fragments              | Castings + fragments             | Fully integrated living compost           |
 
-Unlike dehydrators that simply dry and grind eggshells into sterile dust, GEME's microbial system creates **living, biologically active compost** where eggshell calcium is fully integrated and plant-available.
-
-<GemeTerra2CTA 
- imgSrc="/img/geme-terra-2-composter.jpg"
- productTitle="GEME Terra II: Best Kitchen Composter"
- features={[
-    "✅ Best Tool To Compost Eggshells",
-    "✅ Quiet, Odour-Free, Real Compost",
-    "✅ Zero Filter Costs, No Refills",
-    "✅ Reduce Landfill Waste & Greenhouse Gases"
- ]}
-buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-eggshells-guide-geme"
-/>
+Unlike dehydrators that simply dry and grind eggshells into sterile dust, [GEME's microbial system creates **living, biologically active compost**](https://www.geme.bio/kobold-introduction?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-eggshells-guide-geme) where eggshell calcium is fully integrated and plant-available.
 
 ## 7. Troubleshooting Eggshells in Compost
 
@@ -419,19 +406,6 @@ buttonText="Get Your GEME Terra II"
 ### Q: Is GEME Terra II worth it for eggshell composting?
 
 > A: If you compost regularly and want real, living compost without the months of waiting or the expense of ongoing filter replacements, **absolutely**. GEME turns your eggshells (and all kitchen scraps) into garden-ready compost in days, with **zero consumable costs**.
-
-<GemeTerra2CTA 
- imgSrc="/img/geme-terra-2-composter.jpg"
- productTitle="GEME Terra II: Best Kitchen Composter"
- features={[
-    "✅ Best Tool To Compost Eggshells",
-    "✅ Quiet, Odour-Free, Real Compost",
-    "✅ Zero Filter Costs, No Refills",
-    "✅ Reduce Landfill Waste & Greenhouse Gases"
- ]}
-buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-eggshells-guide-geme"
-/>
 
 ## 11. Conclusion: From Kitchen Scrap to Garden Gold with GEME
 
