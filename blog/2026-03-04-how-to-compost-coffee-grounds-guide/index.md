@@ -3,7 +3,9 @@ title: "How to Compost Coffee Grounds: The Ultimate Guide for Your Garden"
 description: "Learn how to compost coffee grounds the right way. From green-brown ratios to which plants benefit most, discover are coffee grounds good for plants and how to turn your morning brew into garden gold with GEME Terra 2."
 keywords:
   - how to compost coffee grounds
+  - compost from coffee grounds
   - coffee grounds plants
+  - coffee grounds as compost
   - are coffee grounds good for plants
 slug: how-to-compost-coffee-grounds-guide
 authors: [Moore]
