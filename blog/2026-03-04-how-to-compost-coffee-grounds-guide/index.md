@@ -106,6 +106,19 @@ Good news: **paper coffee filters can be composted too**. They count as a "brown
 
 The composted grounds can then be spread lightly over your garden or substituted for **up to 10% of your raised bed soil**.
 
+<GemeTerra2CTA 
+ imgSrc="/img/geme-terra-2-composter.jpg"
+ productTitle="GEME Terra II: Best Kitchen Composter"
+ features={[
+    "✅ Best Tool To Compost Coffee Grounds",
+    "✅ Quiet, Odour-Free, Real Compost",
+    "✅ Zero Filter Costs, No Refills",
+    "✅ Reduce Landfill Waste & Greenhouse Gases"
+ ]}
+buttonText="Get Your GEME Terra II"
+  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-coffee-grounds-guide"
+/>
+
 ## 3. Coffee Grounds Plants: Who Loves Them and Who Doesn't
 
 Not all plants respond the same way to coffee grounds. Here's your comprehensive guide to coffee grounds plants that thrive with this treatment.
