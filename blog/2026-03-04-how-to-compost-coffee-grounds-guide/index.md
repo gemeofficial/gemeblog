@@ -8,7 +8,7 @@ keywords:
 slug: how-to-compost-coffee-grounds-guide
 authors: [Moore]
 tags: [compost, food waste, composter, composting, geme]
-
+image: https://www.geme.bio/assets/images/the-best-tool-to-compost-coffee-grounds-fbecea56abe01390c16ec283d8d11980.jpg
 
 ---
 
