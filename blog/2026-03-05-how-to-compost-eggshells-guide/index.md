@@ -153,7 +153,7 @@ When eggshells go through the GEME Terra II, they emerge as part of a living, bi
 
  3. The compost improves soil structure, not just nutrition
 
-![What Plants Don't Like Eggshells?](./image/what-plants-don't-like-eggshells.jpg)
+![What Plants Don't Like Eggshells?](./image/what-plants-dont-like-eggshells.jpg)
 
 ## 4.What Plants Don't Like Eggshells: The Critical List
 
