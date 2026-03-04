@@ -312,6 +312,8 @@ For coffee lovers who generate daily grounds and want to close the loop without 
 
 > A: Add used grounds to your compost bin as a "green" material. Mix with 2-3 times the volume of "browns" (leaves, shredded paper). Limit to 20-30% of total compost volume. Turn regularly and keep moist.
 
+>  However, if you use [**GEME Terra II**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-coffee-grounds-guide), all you need to do is add the coffee grounds into the machine, and let GEME finish all the rest for you. With [**GEME's Kobold**](https://www.geme.bio/kobold-introduction?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-coffee-grounds-guide), coffee grounds can be broken down in 6-8 hours. 
+
 ### Q: Are coffee grounds good for plants?
 
 > A: Yes, when composted first. They contain nitrogen, potassium, phosphorus, and micronutrients. Fresh grounds can harm plants due to caffeine and tannins.
