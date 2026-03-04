@@ -322,15 +322,11 @@ False. Used eggshells are close to neutral (pH 5.5-6.8) and won't dramatically c
 
 False. As we've covered extensively, acid-loving plants suffer from eggshell addition. Know your plants before amending.
 
-### Myth 4: Boiled Eggshells Work the Same as Raw
-
-Questionable. Some sources suggest boiled eggshells lose nutritional value. Stick with raw eggshells to be safe.
-
-### Myth 5: You Can't Compost Eggshells at All
+### Myth 4: You Can't Compost Eggshells at All
 
 False. Multiple authoritative sources confirm eggshells are excellent compost additions. The key is proper preparation.
 
-### Myth 6: Electric Composters All Handle Eggshells Equally
+### Myth 5: Electric Composters All Handle Eggshells Equally
 
 False. Dehydrators (like Lomi) simply dry and grind shells into dust—sterile, biologically dead material. GEME Terra II's microbial system creates living compost with fully integrated calcium.
 
