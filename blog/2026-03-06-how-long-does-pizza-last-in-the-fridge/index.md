@@ -10,7 +10,7 @@ keywords:
 slug: how-long-does-pizza-last-in-fridge-guide
 authors: [Moore]
 tags: [food waste, composter, composting, geme]
-image: https://www.geme.bio/assets/images/eggshells-for-plants-ab5aadd34a7872bad196cdd99886b502.jpg
+image: https://www.geme.bio/assets/images/how-long-is-pizza-good-for-in-the-fridge-5946cda6d5141b752a7433caba84b9f9.jpg
 
 ---
 
