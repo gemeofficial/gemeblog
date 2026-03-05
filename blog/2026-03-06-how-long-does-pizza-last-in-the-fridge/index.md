@@ -183,7 +183,7 @@ The pizza box belongs in recycling, not your refrigerator. Cardboard doesn't sea
 |---------------------------|-----------------|-------------------|-------------------------------------------|
 | Airtight container        | 3–4 days        | Excellent         | High                                      |
 | Plastic wrap + foil       | 2–3 days        | Good              | Moderate                                  |
-| Left in cardboard box     | 1–2 days        | Poor              | Low—absorbs moisture and odors            |
+| Left in cardboard box     | 1–2 days        | Poor              | Low, absorbs moisture and odors            |
 
 #### Rule 4: Stack Smart
 
