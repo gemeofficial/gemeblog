@@ -41,15 +41,15 @@ In this comprehensive guide, we'll cover everything from proper preparation tech
 
 Yes. Full stop.
 
-According to the University of Florida's Institute of Food and Agricultural Sciences, **egg shells can absolutely be put into compost**, they're a great source of calcium for the soil. The Arizona Department of Environmental Quality confirms this, listing crushed eggshells as "OK to Compost" for static composting, vermicomposting, and even Bokashi methods.
+According to [the University of Florida's Institute of Food and Agricultural Sciences, **egg shells can absolutely be put into compost**, they're a great source of calcium for the soil](https://soils.ifas.ufl.edu/experiential-learning-laboratory/demonstration-areas/composting/composting-faqs/#content). The Arizona Department of Environmental Quality confirms this, listing crushed eggshells as "OK to Compost" for static composting and vermicomposting.
 
 ### Why Eggshells Belong in Compost
 
 | **Benefit**            | **Why It Matters**                                             |
 |------------------------|---------------------------------------------------------------|
-| Calcium content        | Eggshells are 93% calcium carbonate                           |
+| Calcium content        | [Eggshells are 93% calcium carbonate](https://alaskamastergardener.community.uaf.edu/2012/08/10/garbage-for-your-garden/)                           |
 | Slow-release structure | Provides calcium steadily over time, not all at once           |
-| Worm benefit           | Worms need grit to digest food—eggshells provide it            |
+| Worm benefit           | [Worms need grit to digest food, eggshells provide it](https://www.idealhome.co.uk/garden/garden-advice/where-to-never-used-eggshells-in-the-garden)            |
 | Waste reduction        | Keeps kitchen scraps out of methane-producing landfills         |
 | GEME compatibility     | Perfect for microbial composting systems                        |
 
@@ -65,10 +65,11 @@ Here's where most gardeners go wrong. Tossing whole eggshells into your compost 
 
 ### The Science of Slow Breakdown
 
-A study found that **eggshells crushed by hand "were not much better than nothing at all"** when it came to releasing calcium into soil. Whole shells can take **more than a year to break down outdoors**. In compost piles, they're often "the only raw ingredient left visible after the rest of the compost is finished".
+A study found that [**eggshells crushed by hand "were not much better than nothing at all"** when it came to releasing calcium into soil. Whole shells can take **more than a year to break down outdoors**](https://www.bhg.com/eggshells-for-plants-8780655). In compost piles, they're often ["the only raw ingredient left visible after the rest of the compost is finished"](https://www.gurneys.com/pages/ybyg-lots-of-plants-besides-tomatoes-love-eggshells-slugs-dont).
 
 
 ### The Grinding Solution
+
 To make eggshells work for you, you need to grind them into a fine powder.
 
 | **Method**           | **Effectiveness**                                 | **Effort**    | **Note**                       |
@@ -79,13 +80,13 @@ To make eggshells work for you, you need to grind them into a fine powder.
 | Blender          | Excellent for bulk processing                 | Easy      | Excellent                                |
 | GEME Terra II    | Complete microbial breakdown                  | Minimal   | Shells fully integrated into compost      |
 
-Paris Lalicata, plant expert at The Sill, explains: "Grinding the shells into a fine powder helps the calcium get into the soil and the plant faster". The study mentioned above confirmed that finely ground eggshells performed as well as pure calcium when it came to adding this nutrient to garden soil.
+[Paris Lalicata, plant expert at The Sill, explains: "Grinding the shells into a fine powder helps the calcium get into the soil and the plant faster". The study mentioned above confirmed that finely ground eggshells performed as well as pure calcium when it came to adding this nutrient to garden soil.](https://www.bhg.com/eggshells-for-plants-8780655)
 
 ### Step-by-Step Preparation Guide
 
 1. Rinse thoroughly, remove all egg white residue
 
-2. Dry completely, spread on a baking sheet for 24-48 hours, or bake at 200°C for 20 minutes to make them more brittle
+2. [Dry completely, spread on a baking sheet for 24-48 hours, or bake at 200°C for 20 minutes to make them more brittle](https://www.gartenzauber.com/en/blogs/praxis/diy-fluessigduenger-aus-eierschalen-selber-herstellen)
 
 3. Grind to powder, use a coffee grinder, blender, or mortar and pestle
 
@@ -114,7 +115,7 @@ buttonText="Get Your GEME Terra II"
 
 ## 3. Eggshells for Plants: Who Loves Them
 
-Now that you know how to compost eggshells properly, let's talk about which plants will thank you.
+Now that you know how to compost eggshells properly, let's talk about which plants will love them.
 
 ### The Calcium-Loving All-Stars
 
@@ -141,7 +142,7 @@ Tomatoes deserve special mention. Placing crushed eggshells in the planting hole
 
  2. **Enhances flavor**: calcium helps develop the complex volatile oils that give heirlooms their distinctive taste
 
-"Over the years, I've found crushed eggshells to be the perfect way to supply this calcium," notes one gardening expert. "The shells release their calcium slowly over the season, providing a nice steady supply of the nutrient".
+["Over the years, I've found crushed eggshells to be the perfect way to supply this calcium," notes one gardening expert. "The shells release their calcium slowly over the season, providing a nice steady supply of the nutrient".](https://www.gurneys.com/pages/ybyg-lots-of-plants-besides-tomatoes-love-eggshells-slugs-dont)
 
 ### How GEME-Processed Eggshells Supercharge Results
 
@@ -157,7 +158,7 @@ When eggshells go through the GEME Terra II, they emerge as part of a living, bi
 
 ## 4.What Plants Don't Like Eggshells: The Critical List
 
-Here's where many gardeners unintentionally harm their plants. **What plants don't like eggshells**? The answer is straightforward: **acid-loving plants (ericaceous plants)**.
+Here's where many gardeners unintentionally harm their plants. [**What plants don't like eggshells**? The answer is straightforward: **acid-loving plants (ericaceous plants)**](https://enviroliteracy.org/animals/what-plants-dont-like-eggshells/).
 
 Eggshells are alkaline and raise soil pH. For plants that thrive in acidic conditions, this is disastrous.
 
@@ -177,7 +178,7 @@ Eggshells are alkaline and raise soil pH. For plants that thrive in acidic condi
 
 ### What Happens When Acid-Loving Plants Get Eggshells?
 
-"Using eggshells around them can lead to yellowing leaves and poor growth because the plants won't be able to get the nutrients that they need from the soil," explains Julian Palphramand, head of plants at British Garden Centres.
+["Using eggshells around them can lead to yellowing leaves and poor growth because the plants won't be able to get the nutrients that they need from the soil," explains Julian Palphramand, head of plants at British Garden Centres](https://www.idealhome.co.uk/garden/garden-advice/where-to-never-used-eggshells-in-the-garden).
 
 In acidic soil, essential nutrients like iron, manganese, and zinc are readily available. When pH rises due to eggshells, these nutrients become less soluble and harder for plants to access. The result is nutrient deficiency despite the nutrients being present in the soil.
 
@@ -203,7 +204,7 @@ Eggshells offer benefits beyond soil nutrition. Let's explore other uses for egg
 
 The theory: Crushed eggshells create sharp edges that deter slugs and snails from crossing. Some gardeners swear by this method.
 
-The reality: "Studies have shown it has little to no effect," says Ashley Edwards, head gardener from Crocus. Slugs are remarkably resilient creatures, and light scattering of shells won't stop determined mollusks.
+The reality: ["Studies have shown it has little to no effect," says Ashley Edwards, head gardener from Crocus](https://www.idealhome.co.uk/garden/garden-advice/where-to-never-used-eggshells-in-the-garden). Slugs are remarkably resilient creatures, and light scattering of shells won't stop determined mollusks.
 
 If you want to try this method:
 
@@ -231,7 +232,7 @@ Eggshell halves can serve as biodegradable seed starters for small plants. Howev
 
 These plants need more root space and will become crowded quickly.
 
-## 6. Eggshell Compost—Methods and Best Practices
+## 6. Eggshell Compost: Methods and Best Practices
 
 Now let's dive deep into eggshell compost techniques for different composting systems, and how GEME Terra II outperforms them all.
 
@@ -239,9 +240,9 @@ Now let's dive deep into eggshell compost techniques for different composting sy
 
 | **Step**       | **Recommendation**                                         |
 |----------------|-----------------------------------------------------------|
-| Preparation    | Crush or grind shells before adding                        |
+| Preparation    | [Crush or grind shells before adding](https://ask.extension.org/kb/faq.php?id=899895)                        |
 | Washing        | Rinse to remove residue and prevent pests                  |
-| Quantity       | No strict limit—eggshells are safe in any reasonable amount|
+| Quantity       | No strict limit, eggshells are safe in any reasonable amount|
 | Placement      | Mix into pile, don't leave on surface                      |
 | Timeline       | Even crushed, expect several months for full breakdown     |
 
@@ -255,7 +256,7 @@ Worms love eggshells! Here's why:
 
  - Ground shells mix well into castings
 
-The Arizona DEQ confirms eggshells (crushed) are perfectly acceptable for vermicomposting. Just ensure they're ground reasonably fine.
+[The Arizona DEQ confirms eggshells (crushed) are perfectly acceptable for vermicomposting](https://azdeq.gov/compost-guide-can-and-cant-compost). Just ensure they're ground reasonably fine.
 
 ### The GEME Terra II Advantage: Fastest Eggshell Composting
 
@@ -296,7 +297,7 @@ buttonText="Get Your GEME Terra II"
 | **Odor control**         | Variable                                    | Minimal                          | Permanent filter                          |
 | **Output**               | Compost with visible fragments              | Castings + fragments             | Fully integrated living compost           |
 
-Unlike dehydrators that simply dry and grind eggshells into sterile dust, [GEME's microbial system creates **living, biologically active compost**](https://www.geme.bio/kobold-introduction?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-eggshells-guide-geme) where eggshell calcium is fully integrated and plant-available.
+Unlike dehydrators that simply dry and grind eggshells into sterile dust, [GEME's microbial system creates **living, biologically active compost**](https://www.geme.bio/kobold-introduction?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-eggshells-guide-geme) where [eggshell calcium is fully integrated and plant-available](https://www.bhg.com/eggshells-for-plants-8780655).
 
 ## 7. Troubleshooting Eggshells in Compost
 
@@ -324,7 +325,7 @@ False. As we've covered extensively, acid-loving plants suffer from eggshell add
 
 ### Myth 4: You Can't Compost Eggshells at All
 
-False. Multiple authoritative sources confirm eggshells are excellent compost additions. The key is proper preparation.
+False. [Multiple authoritative sources confirm eggshells are excellent compost additions](https://soils.ifas.ufl.edu/experiential-learning-laboratory/demonstration-areas/composting/composting-faqs/#content). The key is proper preparation.
 
 ### Myth 5: Electric Composters All Handle Eggshells Equally
 
@@ -407,7 +408,7 @@ buttonText="Get Your GEME Terra II"
 
 You'll never look at an eggshell the same way again.
 
-Those fragile fragments—once destined for the landfill—are now a gateway to healthier plants, richer soil, and a more sustainable lifestyle. By mastering how to compost eggshells, and leveraging the power of GEME Terra II, you're not just reducing waste; you're participating in one of nature's most elegant cycles.
+Those fragile fragments, once destined for the landfill, are now a gateway to healthier plants, richer soil, and a more sustainable lifestyle. By mastering how to compost eggshells, and leveraging the power of GEME Terra II, you're not just reducing waste; you're participating in one of nature's most elegant cycles.
 
 ### The Golden Rules of Eggshell Composting
 
@@ -425,7 +426,7 @@ Those fragile fragments—once destined for the landfill—are now a gateway to 
 
 When you compost eggshells instead of trashing them:
 
- - You reduce landfill waste—food scraps are the single most common material landfilled
+ - You reduce landfill waste. Food scraps are the single most common material landfilled
 
  - You avoid methane emissions from anaerobic decomposition
 
