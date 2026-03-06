@@ -417,8 +417,6 @@ buttonText="Get Your GEME Terra II"
 
 **GEME's input philosophy**: **Accept kitchen organics and food scraps, including small bones and plant-based pet waste**. Avoid large bones, shells, and non-organics. This balanced approach maximizes usability while maintaining biological efficiency.
 
-![How to compost bad pizza?](./image/the-best-composter-for-fastest-compost-2026.png)
-
 ## 9. The GEME Terra 2 Advantage: Why It's Different
 
 Let's dive deeper into what makes GEME Terra 2 the best composter for discerning users.
