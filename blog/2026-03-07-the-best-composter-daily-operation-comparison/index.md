@@ -23,9 +23,9 @@ Picture this: It's 8 a.m. on a Tuesday.
 
 Kitchen A: A **Lomi** owner wakes up to a countertop machine that finished its 5-hour cycle overnight. They open the lid to find fine, dry granules what Lomi calls "Lomi Earth." It looks like dirt, but they know it's not quite compost. They'll store it in a container until they can drop it off at a community garden.
 
-Kitchen B: A **Mill** owner hears the soft whir of their floor-standing unit doing its morning grind. Last night's chicken bones, stale bread, and veggie peels have been transformed into dry "Food Grounds." They scoop some into a jar for the backyard compost pile; the rest will be bagged for Mill's mail-back service (**$192/year**).
+Kitchen B: A **Mill** owner hears the soft whir of their floor-standing unit doing its morning grind. Last night's chicken bones, stale bread, and veggie peels have been transformed into dry "Food Grounds." They scoop some into a jar for the backyard compost pile; the rest will be bagged for Mill's mail-back service (**\$192/year**).
 
-Kitchen C: A **Reencle** user waves a hand to open the lid and adds coffee grounds to the warm, earthy-smelling medium inside. The microbes are already at work, and they know that in 24 hours, most of what they added will be broken down into something resembling real soil. They make a mental note: **the carbon filter and mesh filter will need replacing in about 9–12 months, at a cost of roughly $47 combined**.
+Kitchen C: A **Reencle** user waves a hand to open the lid and adds coffee grounds to the warm, earthy-smelling medium inside. The microbes are already at work, and they know that in 24 hours, most of what they added will be broken down into something resembling real soil. They make a mental note: **the carbon filter and mesh filter will need replacing in about 9–12 months, at a cost of roughly \$47 combined**.
 
 Kitchen D: A [**GEME Terra 2**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme) owner does exactly what they did yesterday: they kick the bottom-front panel to open the lid, toss in this morning's scraps, and close it. No measuring, no bagging, no storing. The machine runs continuously, quietly digesting waste. They haven't thought about filters or subscriptions in months, because there aren't any. They'll harvest rich, living compost from their 14L chamber in another few weeks.
 
@@ -53,13 +53,13 @@ But here's the critical truth: **Lomi produces dehydrated scraps, not compost**.
 
 ### Mill
 
-Mill takes a different approach. It's a floor-standing unit that looks more like a high-tech trash can. It dries and grinds scraps into "Food Grounds," which can be used in various ways, including [Mill's mail-back program](https://www.goodhousekeeping.com/appliances/a65782961/mill-food-recycler-review/) that turns them into chicken feed (**$192/year**). Mill's own support documentation is refreshingly honest: "**Food Grounds aren't compost**".
+Mill takes a different approach. It's a floor-standing unit that looks more like a high-tech trash can. It dries and grinds scraps into "Food Grounds," which can be used in various ways, including [Mill's mail-back program](https://www.goodhousekeeping.com/appliances/a65782961/mill-food-recycler-review/) that turns them into chicken feed (**\$192/year**). Mill's own support documentation is refreshingly honest: "**Food Grounds aren't compost**".
 
 ### Reencle
 
 Reencle stands apart from the dehydrator crowd. It uses actual microorganisms, [Bacillus strains](https://techspymagazine.com/2026/02/22/reencle-food-waste-composter-review/), to break down waste aerobically. You add a starter culture, and the microbes do the work, sustained by a carefully controlled environment of heat, oxygen, and moisture. This is genuine biological processing, not just drying.
 
-However, Reencle requires ongoing maintenance costs: **a carbon filter ($35) and a mesh filter ($12) every 9–12 months**. Over three years, that adds $141–$188 in consumables beyond the initial purchase.
+However, Reencle requires ongoing maintenance costs: **a carbon filter (\$35) and a mesh filter (\$12) every 9–12 months**. Over three years, that adds \$141–\$188 in consumables beyond the initial purchase.
 
 ### GEME Terra 2
 
