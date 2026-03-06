@@ -9,7 +9,7 @@ keywords:
 slug: best-composter-daily-operation-comparison-lomi-mill-reencle-geme
 authors: [Moore]
 tags: [food waste, composter, composting, geme]
-
+image: https://www.geme.bio/assets/images/the-best-composter-geme-terra-2-11e68c17ddaef0a6ffd01af0b7b56649.png
 ---
 
 import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
@@ -75,8 +75,8 @@ According to [GEME's official specifications](https://www.geme.bio/gk?utm_medium
 | **Output**          | "Lomi Earth" (dried scraps)     | "Food Grounds" (dried)       | Compost-like material              | **Active compost base**          |
 | **Is it real compost?** | ❌ No                       | ❌ No                        | ⚠️ Partial, need curing                         | ✅ Yes                      |
 | **Continuous Feed?**| ❌ Batch cycles                 | ❌ Batch cycles              | Yes                                | Yes                         |
-| **Filter Cost**     | $20-30 every 3 months           | $89 per replacement          | $35 (carbon) + $12 (mesh) every 9-12 months | $0 (lifetime)             |
-| **Price Range**     | $499                            | $999+                        | ~$500                              | $549                        |
+| **Filter Cost**     | \$20-30 every 3 months           | \$89 per replacement          | \$35 (carbon) + \$12 (mesh) every 9-12 months | \$0 (lifetime)             |
+| **Price Range**     | \$499                            | \$999+                        | ~\$500                              | \$549                        |
 
 ![The Best Kitchen Composter: GEME Vs. Lomi](./image/the-best-composter-geme-terra-2-vs-lomi.png)
 
