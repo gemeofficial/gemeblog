@@ -49,6 +49,8 @@ Lomi is arguably the most recognizable name in countertop composting. It's a sle
 
 But here's the critical truth: **Lomi produces dehydrated scraps, not compost**. As [Serious Eats](https://www.seriouseats.com/lomi-composter-review-11889800) put it after six months of testing, "The Lomi 3 Food Recycler is more of a scraps dehydrator than a countertop composter". Wired bluntly called it "a grinder-and-dryer".
 
+![The Best Kitchen Composter: GEME Vs. Lomi](./image/the-best-composter-geme-terra-2-vs-lomi.png)
+
 ### Mill
 
 Mill takes a different approach. It's a floor-standing unit that looks more like a high-tech trash can. It dries and grinds scraps into "Food Grounds," which can be used in various ways, including [Mill's mail-back program](https://www.goodhousekeeping.com/appliances/a65782961/mill-food-recycler-review/) that turns them into chicken feed (**$192/year**). Mill's own support documentation is refreshingly honest: "**Food Grounds aren't compost**".
@@ -78,7 +80,18 @@ According to [GEME's official specifications](https://www.geme.bio/gk?utm_medium
 | **Filter Cost**     | \$20-30 every 3 months           | \$89 per replacement          | \$35 (carbon) + \$12 (mesh) every 9-12 months | \$0 (lifetime)             |
 | **Price Range**     | \$499                            | \$999+                        | ~\$500                              | \$549                        |
 
-![The Best Kitchen Composter: GEME Vs. Lomi](./image/the-best-composter-geme-terra-2-vs-lomi.png)
+<GemeTerra2CTA 
+ imgSrc="/img/geme-terra-2-composter.jpg"
+ productTitle="GEME Terra II: Best Kitchen Composter"
+ features={[
+    "✅ Best Tool To Compost at Home",
+    "✅ Quiet, Odour-Free, Real Compost",
+    "✅ Zero Filter Costs, No Refills",
+    "✅ Reduce Landfill Waste & Greenhouse Gases"
+ ]}
+buttonText="Get Your GEME Terra II"
+  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme"
+/>
 
 ## 2. Daily Operation: What It's Really Like
 
