@@ -39,7 +39,7 @@ If you're searching for the best compost bins or the best kitchen composter, you
 
 In this guide, we're pulling back the curtain on daily operation. We'll compare Lomi, Mill, Reencle, and GEME Terra 2 based on what it's actually like to use them day after day, meal after meal. Because **the best composter isn't just about marketing claims; it's about what fits your life, your kitchen, and your definition of "compost"**.
 
-## 1. The Four Contenders—A Quick Introduction
+## 1. The Four Contenders: A Quick Introduction
 
 Before we dive into daily life, let's meet the players.
 
