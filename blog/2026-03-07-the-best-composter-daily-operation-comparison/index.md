@@ -27,7 +27,7 @@ Kitchen B: A **Mill** owner hears the soft whir of their floor-standing unit doi
 
 Kitchen C: A **Reencle** user waves a hand to open the lid and adds coffee grounds to the warm, earthy-smelling medium inside. The microbes are already at work, and they know that in 24 hours, most of what they added will be broken down into something resembling real soil. They make a mental note: **the carbon filter and mesh filter will need replacing in about 9–12 months, at a cost of roughly $47 combined**.
 
-Kitchen D: A **GEME Terra 2** owner does exactly what they did yesterday: they kick the bottom-front panel to open the lid, toss in this morning's scraps, and close it. No measuring, no bagging, no storing. The machine runs continuously, quietly digesting waste. They haven't thought about filters or subscriptions in months, because there aren't any. They'll harvest rich, living compost from their 14L chamber in another few weeks.
+Kitchen D: A [**GEME Terra 2**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme) owner does exactly what they did yesterday: they kick the bottom-front panel to open the lid, toss in this morning's scraps, and close it. No measuring, no bagging, no storing. The machine runs continuously, quietly digesting waste. They haven't thought about filters or subscriptions in months, because there aren't any. They'll harvest rich, living compost from their 14L chamber in another few weeks.
 
 ![The Best Composter: GEME Terra II](./image/the-best-composter-geme-terra-2.png)
 
@@ -98,13 +98,13 @@ You add coffee grounds and eggshells to Mill's 6.5L bucket, using the foot pedal
 
 You wave your hand, the motion sensor opens the lid. You put the coffee grounds and eggshells into the 14L chamber. The rotating paddle mixes them into the existing composting medium. The microbes immediately get to work. You close the lid and move on with your day. **The system runs continuously**, so there's no "cycle" to schedule.
 
-#### GEME Terra 2 User:
+#### [GEME Terra 2 User](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme):
 
 You slightly kick the foot-touch sensor, the lid opens. No motion sensor, no buttons, you toss your scraps into the 14L chamber. The **Kobold microbes are always active, continuously digesting whatever you add**. The system maintains **optimal conditions (temperature, moisture, oxygen, pH) automatically**. You never think about cycles or schedules.
 
 ### Table: Daily Operation Comparison
 
-| **Aspect**                         | **Lomi**                               | **Mill**                                    | **Reencle**                   | **GEME Terra 2**         |
+| **Aspect**                         | **Lomi**                               | **Mill**                                    | **Reencle**                   | [**GEME Terra 2**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme)         |
 |------------------------------------|----------------------------------------|---------------------------------------------|-------------------------------|--------------------------|
 | **Adding Scraps**                  | Fill bucket, then run cycle            | Fill bucket, machine decides when to run    | Wave sensor, add anytime      | Open lid, add anytime    |
 | **Cycle Management**               | Must schedule cycles; lid locks during operation | App-controlled scheduling; cannot add during cycle | No cycles, continuous feeding    | No cycle managements, continuous feeding    |
@@ -173,7 +173,7 @@ Reencle's microbial process produces something much closer to real compost. The 
 
 ### GEME Terra 2's Output: Active Compost Base
 
-GEME Terra 2 produces "active compost base", a moist, microbe-active material ready for soil amendment. According to GEME's official specifications:
+[GEME Terra 2](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme) produces "active compost base", a moist, microbe-active material ready for soil amendment. According to GEME's official specifications:
 
  - **Volume reduction**: 95% of mass is biologically mineralized to CO₂ and water vapor
 
@@ -265,13 +265,13 @@ The metal-ion filter is engineered for the machine's lifetime. Unlike charcoal f
 
 ### Table: 3-Year Total Cost of Ownership
 
-| **Cost Category**      | **Lomi**         | **Mill**                       | **Reencle**     | **GEME Terra 2** |
+| **Cost Category**      | **Lomi**         | **Mill**                       | **Reencle**     | [**GEME Terra 2**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme) |
 |------------------------|------------------|-------------------------------|-----------------|------------------|
 | **Upfront Cost**           | \$499             | \$999+                         | ~\$500           | \$549             |
 | **Annual Consumables**     | \$100–200         | \$89 (filters) + optional pickup| \$47–\$63         | \$0               |
 | **3-Year Total**           | \$799–\$1,099      | \$1,266+ (purchase + filters)  | \$641–\$689       | \$549             |
 
-The math is compelling: GEME costs \$50 more upfront than Lomi or Reencle but **saves \$250–550 over three years compared to Lomi, \$100–140 compared to Reencle, and even more compared to Mill**.
+The math is compelling: [GEME Terra II](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme) costs \$50 more upfront than Lomi or Reencle but **saves \$250–550 over three years compared to Lomi, \$100–140 compared to Reencle, and even more compared to Mill**.
 
 ## 5. The "Is It Compost?" Question: Why It Matters
 
