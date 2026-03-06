@@ -17,7 +17,7 @@ import GemeComposterCTA from '@site/src/components/GemeComposterCTA'
 import RelatedArticles from '@site/src/components/RelatedArticles'
 import ReactPlayer from 'react-player'
 
-## Introduction: The Morning After—Four Kitchens, Four Experiences
+## Introduction: The Morning After Four Kitchens, Four Experiences
 
 Picture this: It's 8 a.m. on a Tuesday.
 
