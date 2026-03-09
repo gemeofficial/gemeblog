@@ -173,6 +173,7 @@ This is why white hydrangeas stay white: **they lack the pigment entirely**.
  ]}
 buttonText="Get Your GEME Terra II"
   href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-care-for-hydrangeas-and-change-colors"
+/>
 
 ## 4. How to Make Hydrangeas Blue (Lower Soil pH)
 
@@ -180,7 +181,7 @@ If you're dreaming of blue hydrangea flowers, your mission is to create acidic s
 
 ### The Classic Method: Aluminum Sulfate
 
-For plants at least 2-3 years old, the [New York Botanical Garden](https://libanswers.nybg.org/faq/222707) recommends :
+For plants at least 2-3 years old, the [New York Botanical Garden](https://libanswers.nybg.org/faq/222707) recommends:
 
  1. Add 1/2 oz. of aluminum sulfate per gallon of water throughout the growing season
 
