@@ -549,18 +549,15 @@ Let's recap the essentials:
 
 Store-bought soil amendments add up quickly. Aluminum sulfate, garden lime, and commercial compost all cost money, and you need to buy them year after year.
 
-The GEME Terra 2 costs \$549 upfront, but \$0 after that. No filter subscriptions. No ongoing consumables. Your coffee grounds and eggshells become free, unlimited soil amendments for life.
+The **GEME Terra 2 costs \$549 upfront, but \$0 after that**. No filter subscriptions. No ongoing consumables. Your coffee grounds and eggshells become free, unlimited soil amendments for life.
 
-Every pound of coffee grounds and eggshells you compost instead of landfilling eliminates methane emissions 25 times more potent than CO₂. When you use a microbial system like GEME, you're not just making beautiful hydrangeas, you're actively fighting climate change.
+Every pound of coffee grounds and eggshells you compost instead of **landfilling eliminates methane emissions 25 times more potent than CO₂**. When you use a microbial system like GEME, you're not just making beautiful hydrangeas, **you're actively fighting climate change**.
 
 Whether you're cultivating a row of electric blue mopheads, a romantic hedge of soft pink lacecaps, or a whimsical mix of purple shades, you now have the knowledge to succeed.
 
 And with GEME Terra 2 by your side, you have the power to turn your daily kitchen scraps into the very soil that feeds your garden's most spectacular display.
 
 Start your hydrangea color journey today. Your garden will make every breathtaking bloom for you.
-
-👉 [Learn More About GEME Terra 2]
-👉 [Download Our Free Hydrangea Color Guide]
 
 👉 [Learn More About GEME Terra II](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-care-for-hydrangeas-and-change-colors)
 
