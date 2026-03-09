@@ -105,6 +105,16 @@ This is where most confusion begins. The ability to change flower color based on
 
 ### Hydrangeas That CAN Change Color
 
+Here are some of [**the most popular hydrangea varieties that can change colors**](https://www.facebook.com/share/p/18KvqrhRJG/):
+
+ 1. Endless Summer® Series Includes 'Bloomstruck', 'Pop Star', 'Blushing Bride', 'Bailmer'
+
+ 2. Let's Dance® Series Includes 'Rhythmic Blue', 'Big Easy'
+
+ 3. Nikko Blue
+
+ 4. All Summer Beauty
+
 According to the Royal Horticultural Society, the color-changing magic works for:
 
  - Hydrangea macrophylla (Bigleaf Hydrangea): both mophead and lacecap cultivars
