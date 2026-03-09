@@ -12,7 +12,7 @@ keywords:
 slug: how-to-care-for-hydrangeas-and-change-colors
 authors: [Moore]
 tags: [gardening, compost, composting, geme]
-
+image: https://www.geme.bio/assets/images/blue-hydrangea-flowers-a8a3d7c342a114bee0df1dc1c8e2de0b.jpg
 ---
 
 import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
@@ -477,73 +477,7 @@ buttonText="Get Your GEME Terra II"
   href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-care-for-hydrangeas-and-change-colors"
 />
 
-## 10. Decision Guide: Which Composter Fits Your Life?
-
-### Choose Lomi If:
-
- - You have counter space and want a sleek appliance
-
- - You're willing to manage batch cycles
-
- - You don't mind ongoing filter costs
-
- - You might use the output for something other than direct soil amendment
-
- - You're interested in processing certain bioplastics
-
-### Choose Mill If:
-
- - You want a floor-standing unit with foot-pedal operation
-
- - You're comfortable with a service-based model (filters + optional pickups)
-
- - You like tracking your impact through an app
-
- - You're willing to pay premium prices for convenience
-
- - You don't need actual compost, **Food Grounds** are acceptable
-
-### Choose Reencle If:
-
- - You want a microbial system with hand-wave operation
-
- - You're willing to manage moisture and occasionally add carbon sources
-
- - You want real compost but don't mind some time for further curing
-
- - You're okay with replacing filters at \$47/year
-
- - You have counter space for an 18" tall unit
-
-### Choose GEME Terra 2 If:
-
- - You want **real, living compost**, not dehydrated scraps
-
- - You cook daily and generate consistent food waste
-
- - You hate subscriptions and want **zero ongoing costs**
-
- - You value **continuous feeding anytime**, no locked lids
-
- - You want **permanent odor control with no filter replacements**
-
- - You appreciate engineering designed for **long-term ownership**
-
- - You want a 14L chamber that handles up to 2kg/day
-
-### Table: Quick Decision Matrix
-
-| **Your Priority**                | **Best Choice**  |
-|----------------------------------|------------------|
-| Lowest long-term cost            | GEME Terra 2     |
-| Real compost output              | GEME Terra 2     |
-| No filter subscriptions          | GEME Terra 2     |
-| Continuous feed operation        | GEME Terra 2     |
-| Mail-back service option         | Mill             |
-| Smallest counter footprint       | Lomi             |
-| Highest daily capacity           | GEME Terra 2     |
-
-## 11. Frequently Asked Questions
+## 10. Frequently Asked Questions
 
 ### Q: How to care for hydrangeas in pots?
 
