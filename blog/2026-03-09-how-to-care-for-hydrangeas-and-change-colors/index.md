@@ -30,15 +30,15 @@ But here's the catch: not all hydrangeas can change color. And even among those 
 
 In this comprehensive guide, we'll cover everything you need to know about how to care for hydrangeas and unlock their color-changing potential. You'll learn:
 
-1. Which hydrangea varieties can change color—and which cannot
+1. **Which hydrangea varieties can change color, and which cannot**
 
-2. The science behind blue hydrangea flowers and pink hydrangeas
+2. **The science behind blue hydrangea flowers and pink hydrangeas**
 
-3. How to create purple hydrangea blooms (the perfect middle ground)
+3. **How to create purple hydrangea blooms** (the perfect middle ground)
 
-4. Natural methods using coffee grounds and eggshells to adjust soil pH
+4. **Natural methods using coffee grounds and eggshells to adjust soil pH**
 
-5. How GEME Terra 2 transforms your kitchen scraps into powerful, soil-enhancing compost
+5. **How GEME Terra 2 transforms your kitchen scraps into powerful, soil-enhancing compost**
 
 Whether you're a seasoned gardener or just starting your hydrangea journey, this guide will give you the confidence to care for these magnificent plants and unlock their full color potential.
 
