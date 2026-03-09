@@ -421,10 +421,10 @@ buttonText="Get Your GEME Terra II"
 | Fruit/Vegetable Scraps   | ✅                       | ✅                          | ✅                        | ✅                            |
 | Coffee Grounds           | ✅                       | ✅                          | ✅                        | ✅                            |
 | Eggshells                | ✅                       | ✅                          | ✅                        | ✅                            |
-| Meat/Poultry             | Limited                  | ✅                          | ✅                        | ✅               |
-| Fish Bones               | ❌                       | ✅                          | ✅                        | ✅                            |
+| Meat/Poultry             | Limited                  | Limited                          | ✅                        | ✅               |
+| Fish Bones               | ❌                       | ❌                          | ✅                        | ✅                            |
 | Large Bones (beef/pork)  | ❌                       | ❌          | ❌                        | ❌                            |
-| Dairy                    | Limited                  | ✅ (strain liquid)           | ✅                        | ✅                            |
+| Dairy                    | Limited                  | Limited            | Limited                        | ✅                            |
 | Oils/Fats                | ❌                       | ❌                          | ❌                        | ✅ (Moderate)                            |
 | Pet Waste                | ❌                       | ❌                          | ❌                        | ✅                            |
 
