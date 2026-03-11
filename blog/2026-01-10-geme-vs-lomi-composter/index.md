@@ -1,6 +1,6 @@
 ---
 title: "Geme Terra 2 vs Lomi: Which Countertop Composter Is Better for a Zero Waste Home?"
-description: Geme Terra 2 vs Lomi: compare a countertop composter for real microbial composting versus a grind-and-dry food recycler. See features, capacity, zero waste benefits, and which fits your home best. GEME Terra II is the best Lomi composter alternative for eco-conscious families and apartment dwellers.
+description: "Geme Terra 2 vs Lomi: compare a countertop composter for real microbial composting versus a grind-and-dry food recycler. See features, capacity, zero waste benefits, and which fits your home best. GEME Terra II is the best Lomi composter alternative for eco-conscious families and apartment dwellers."
 keywords:
   - Geme Terra 2
   - Lomi 
