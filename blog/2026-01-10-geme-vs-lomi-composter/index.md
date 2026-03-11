@@ -73,7 +73,7 @@ That is why choosing the right **countertop composter** or **kitchen composter**
 | **Claimed chamber/capacity** | 14L chamber; up to 2kg/day | 3L capacity |
 | **Output positioning** | Soil-like amendment / real microbial composting approach | “Pre-compost” / Lomi Earth / Not Compost |
 | **Filters** | Permanent filter | Filters included for about 45 cycles |
-| **Noise** | 35–40 dB | Lomi 3 <45 dB |
+| **Noise** | 35–40 dB | Lomi 3: 45 dB |
 | **Best fit** | Higher-volume daily kitchen scrap handling | Small-batch food waste reduction |
 
 Sources: GEME product pages and Lomi official product page.
