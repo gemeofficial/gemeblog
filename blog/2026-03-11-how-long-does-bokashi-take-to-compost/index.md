@@ -176,9 +176,10 @@ General composting resources such as [Cornell’s compost methods guide](https:/
  productTitle="GEME Terra II: Best Kitchen Composter"
  features={[
     "✅ Best Tool To Make Compost at Home",
+    "✅ Biologically Active Composting System",
     "✅ Quiet, Odour-Free, Real Compost",
     "✅ Zero Filter Costs, No Refills",
-    "✅ Reduce Landfill Waste & Greenhouse Gases"
+    "✅ Reduces Composting Time to Days"
  ]}
 buttonText="Get Your GEME Terra II"
   href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-does-bokashi-take-to-compost"
