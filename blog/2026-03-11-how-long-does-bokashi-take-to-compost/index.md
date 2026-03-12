@@ -175,7 +175,7 @@ General composting resources such as [Cornell’s compost methods guide](https:/
  imgSrc="/img/geme-terra-2-composter.jpg"
  productTitle="GEME Terra II: Best Kitchen Composter"
  features={[
-    "✅ Best Tool To Make Compost at Home",
+    "✅ Best Tool For Bokashi Secondary Breakdown",
     "✅ Biologically Active Composting System",
     "✅ Quiet, Odour-Free, Real Compost",
     "✅ Zero Filter Costs, No Refills",
