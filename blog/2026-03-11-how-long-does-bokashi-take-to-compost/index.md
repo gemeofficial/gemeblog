@@ -8,7 +8,7 @@ keywords:
 slug: how-long-does-bokashi-take-to-compost
 authors: [Moore]
 tags: [gardening, compost, composting, geme]
-image: https://www.geme.bio/assets/images/blue-hydrangea-flowers-a8a3d7c342a114bee0df1dc1c8e2de0b.jpg
+image: https://www.geme.bio/assets/images/Bokashi-bin-e722189d30baa3ee79ea9baab2c87fa3.jpeg
 ---
 
 import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
@@ -169,6 +169,20 @@ The [NC State Extension](https://beaufort.ces.ncsu.edu/news/bokashi-composting-a
 ### Comparison With Conventional Composting
 
 General composting resources such as [Cornell’s compost methods guide](https://blogs.cornell.edu/soilnow/compost/compost-methods-a-quick-how-to-guide/) explain that conventional systems depend heavily on oxygen, structure, and feedstock balance. Those systems can produce excellent compost, but the timeline may be longer and the acceptable inputs may be narrower. In that sense, **bokashi composting** is often especially attractive for food scraps that are harder to manage in ordinary open piles.
+
+
+<GemeTerra2CTA 
+ imgSrc="/img/geme-terra-2-composter.jpg"
+ productTitle="GEME Terra II: Best Kitchen Composter"
+ features={[
+    "✅ Best Tool To Make Compost at Home",
+    "✅ Quiet, Odour-Free, Real Compost",
+    "✅ Zero Filter Costs, No Refills",
+    "✅ Reduce Landfill Waste & Greenhouse Gases"
+ ]}
+buttonText="Get Your GEME Terra II"
+  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-does-bokashi-take-to-compost"
+/>
 
 ## Common Misunderstanding: Bokashi Compost Is Not Always Finished Compost
 
