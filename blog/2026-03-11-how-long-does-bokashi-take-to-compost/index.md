@@ -56,7 +56,7 @@ The first part of the **Bokashi Composting Timeline** is the filling stage. Duri
 
 The length of this stage varies significantly. A household that produces a large volume of food scraps may fill a container quickly, while a smaller household may need one or more weeks. Because of this variability, some guides do not include bucket filling when they state how long bokashi takes. Instead, they start the clock only once the bucket is full and the uninterrupted fermentation stage begins.
 
-From a strictly practical standpoint, however, the filling stage is still part of the real-life process. A neutral article should therefore note that timing claims about bokashi may exclude or include this stage depending on context.
+From a strictly practical standpoint, however, the filling stage is still part of the real-life process. Note that timing claims about bokashi may exclude or include this stage depending on context.
 
 #### Why Timing Can Seem Inconsistent Across Different Guides
 
