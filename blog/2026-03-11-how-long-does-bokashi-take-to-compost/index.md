@@ -112,7 +112,19 @@ A more neutral and scientifically careful explanation makes clear that bokashi i
 
 Without the second stage, the material remains only partially processed relative to what is usually meant by mature compost.
 
-![Bokashi](./image/Bokashi-bin.jpeg)
+<GemeTerra2CTA 
+ imgSrc="/img/geme-terra-2-composter.jpg"
+ productTitle="GEME Terra II: Best Kitchen Composter"
+ features={[
+    "✅ Best Tool For Bokashi Secondary Breakdown",
+    "✅ Biologically Active Composting System",
+    "✅ Quiet, Odour-Free, Real Compost",
+    "✅ Zero Filter Costs, No Refills",
+    "✅ Reduces Composting Time to Days"
+ ]}
+buttonText="Get Your GEME Terra II"
+  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-does-bokashi-take-to-compost"
+/>
 
 ## How Long Does Bokashi Take in Total?
 
@@ -134,7 +146,9 @@ This fuller description aligns with public educational materials such as [NC Sta
 
 The common claim that bokashi takes two weeks is not necessarily wrong. It is simply incomplete. It accurately describes the fermentation stage for many systems. What it leaves out is that fermentation alone does not usually equal finished compost.
 
-For that reason, a neutral article should avoid presenting the two-week figure as the whole story. The more accurate answer is that bokashi takes about **two weeks to ferment**, followed by another **two to four weeks to finish decomposing in soil or another biologically active system like [GEME Terra II](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-does-bokashi-take-to-compost)**.
+For that reason, the more accurate answer is that bokashi takes about **two weeks to ferment**, followed by another **two to four weeks to finish decomposing in soil or another biologically active system like [GEME Terra II](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-does-bokashi-take-to-compost)**.
+
+![Bokashi](./image/Bokashi-bin.jpeg)
 
 ## Factors That Affect the Bokashi Composting Timeline
 
