@@ -8,6 +8,7 @@ keywords:
 slug: how-to-compost-cut-flowers-guide
 authors: [Moore]
 tags: [gardening, compost, composting, geme]
+image: https://www.geme.bio/assets/images/flowers-compost-9190e4f53d96a03aeb44acf8efd1cbff.jpg
 
 ---
 
@@ -69,7 +70,7 @@ Flowers themselves aren't the problem. It's the method. When you give flowers th
 That's where the GEME Terra II comes in, but we'll get to that in a bit.
 First, let's talk about what you need to remove before composting anything.
 
-## 1. What to Strip Off Before Composting
+## 2. What to Strip Off Before Composting
 
 Before you toss that bouquet anywhere, take five minutes to deconstruct it. Store-bought flowers come with a bunch of stuff that does NOT belong in compost.
 
@@ -88,7 +89,7 @@ Once everything non-organic is removed, you're left with the good stuff: petals,
 
 ![Can I Compost Cut Flowers?](./image/can-you-compost-cut-flowers.jpg)
 
-## 2. How to Prep Flowers So They Actually Break Down
+## 3. How to Prep Flowers So They Actually Break Down
 
 This is the step everyone skips, and it's why most people end up frustrated.
 If you throw a whole rose stem into your compost, it's going to sit there for a year looking the same. Maybe longer. Those thick stems are tough and fibrous. They resist breaking down.
@@ -129,7 +130,7 @@ buttonText="Get Your GEME Terra II"
   href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-cut-flowers-guide"
 />
 
-## 3. What Happens to Flowers in a Regular Compost Bin
+## 4. What Happens to Flowers in a Regular Compost Bin
 
 Let's be real about what traditional composting looks like.
 
@@ -164,7 +165,7 @@ But it's not your only option anymore.
 
 ![GEME Terra II: The Best Composter to Compost Cut Flowers](./image/geme-terra-2-compost-cut-flowers.jpg)
 
-## 4. How GEME Terra II Fixes Everything
+## 5. How GEME Terra II Fixes Everything
 
 The GEME Terra II is basically a cheat code for composting. It's the world's first AI-powered kitchen composter, and it handles flowers completely differently than anything else out there.
 
@@ -209,7 +210,9 @@ Don't toss these out. Don't get frustrated. Sift them out and throw them right b
 
 Why? Because those partially decomposed pieces are loaded with the most active heat-loving microbes in your whole system. Returning them is like adding a super booster pack to your next batch. It speeds everything up.
 
-## 4. Step-by-Step Composting Your Bouquet With GEME
+![How to Compost Flowers](./image/how-to-compost-flowers.jpg)
+
+## 6. Step-by-Step Composting Your Bouquet With GEME
 
 Let me walk you through exactly what this looks like in real life.
 
@@ -264,7 +267,7 @@ What you've got now is an active compost base. It's moist and soil-like and full
 
 Spread it around your garden. Watch things grow.
 
-## 5. The Numbers If You Like That Sort of Thing
+## 7. The Numbers If You Like That Sort of Thing
 
 Some people want hard specs. Here they are straight from GEME's official documentation:
 
@@ -296,7 +299,7 @@ buttonText="Get Your GEME Terra II"
   href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-cut-flowers-guide"
 />
 
-## 6. What About the Compost You Make
+## 8. What About the Compost You Make
 
 Okay, so you've got this bag of compost base from all your wilted bouquets. Now, use it to grow more flowers, obviously.
 
@@ -316,7 +319,7 @@ For existing plants, dig a shallow ring around the base a few inches away from t
 
 For potted plants, just mix it into your potting soil at the same ratio. Never use it straight.
 
-## 7. Flowers That Need Extra Caution
+## 9. Flowers That Need Extra Caution
 
 Most cut flowers are totally fine to compost. But a few things deserve special mention.
 
@@ -340,9 +343,9 @@ Commercially grown flowers sometimes have pesticide residues. If this worries yo
 
 If your flowers look diseased with spots or mold, it's safer to trash them. Some plant diseases can survive composting and spread to your garden later. Not worth the risk.
 
-![How to Compost Cut Flowers](./image/compost-cut-flowers.jpg)
+![How to Compost Cut Flowers](./image/cut-flowers-compost.jpg)
 
-## 8. FAQ (Answered)
+## 10. FAQ (Answered)
 
 ### Q: Can cut flowers be composted if they're in floral foam?
 
