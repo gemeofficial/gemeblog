@@ -531,7 +531,7 @@ buttonText="Get Your GEME Terra II"
 
 ### Q: Do I need to buy microbes for GEME?
 
-> A: You purchase Kobold starter culture once. The microbes are self-replicating under proper conditions, so you never have to buy more. But, you could purchase more Kobold depending on your personal needs. 
+> A: You purchase Kobold starter culture once. The microbes are self-replicating under proper conditions. You only need to replace the entire microbe pack if and when you observe that waste is breaking down much slower than usual. But, you could purchase more Kobold for constant high-speed decomposition depending on your personal needs. 
 
 ## 11. Conclusion: Master the Art of Hydrangea Color
 
