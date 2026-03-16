@@ -1,5 +1,5 @@
 ---
-title: "Can I Compost Cut Flowers??"
+title: "Can I Compost Cut Flowers?"
 description: "Can you compost cut flowers? Yes, but throwing them in a backyard bin is a recipe for stinky disasters. Here's how to do it without attracting flies or waiting a year, and why GEME Terra II changes everything."
 keywords:
   - can cut flowers be composted
