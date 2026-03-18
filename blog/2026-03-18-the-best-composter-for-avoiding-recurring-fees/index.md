@@ -11,6 +11,7 @@ keywords:
 slug: best-composter-avoid-recurring-fees-geme-terra-2
 authors: [Moore]
 tags: [composter, composting, geme]
+image: https://www.geme.bio/assets/images/geme-terra-2-b780b8c6c655d5e0f17e9ca908bd7549.jpg
 
 ---
 
