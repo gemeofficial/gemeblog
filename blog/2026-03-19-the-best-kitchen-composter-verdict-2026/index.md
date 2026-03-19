@@ -11,7 +11,7 @@ keywords:
 slug: best-kitchen-composter-verdict-2026
 authors: [Moore]
 tags: [composter, composting, geme]
-
+image: https://www.geme.bio/assets/images/the-best-kitchen-composter-geme-terra-2-2a693a2a0c05bfa0698cd0a70e2350bb.png
 
 ---
 
