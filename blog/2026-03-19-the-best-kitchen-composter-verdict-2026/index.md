@@ -41,7 +41,7 @@ By contrast, other kitchen composters fall into two camps:
 
  - **Dehydrator-style systems** (e.g. Lomi, Mill) that heat and grind waste into dried “crumbs” but still require carbon filters and sometimes membership fees. [They speed up waste reduction but produce a sterilized output, not live compost](https://illinoiscomposts.org/education-and-outreach/debunking-the-myth-food-scrap-dehydrators-are-not-composters/).
 
- - **Microbial composters** (e.g. Reencle, GEME) that leverage bacteria/fungi. Even among these, only GEME’s AI-managed design produces finished compost without waiting or extra charges. Others, like Reencle, use microbes but still need occasional filter/microbe refills and their output often needs a curing step.
+ - **Microbial composters** (e.g. Reencle, GEME) that leverage bacteria/fungi. Even among these, only GEME’s AI-managed design produces compost without waiting or extra charges. Others, like Reencle, use microbes but still need occasional filter/microbe refills and their output often needs a curing step.
 
 In this guide, we compare the best kitchen composters, focusing on long-term cost and performance. We’ll spotlight differences in technology (dehydration vs biology), user workflow, and of course recurring fees. Look for tables tracking 5-year ownership costs, and a timeline chart of expenses, all demonstrating how GEME’s “one and done” purchase yields the highest value. Let’s dive in: your compost bin should help you save money and the planet, not just eat into your wallet.
 
@@ -53,7 +53,7 @@ First, let’s clarify composting science. True composting is a biological proce
 
 This matters for gardeners. Dried waste often needs burying or further composting to be safe and effective (high salt levels can harm soil). In fact, California’s recycling agency bluntly states “dried food waste isn’t compost”, true compost requires a slower, microbe-driven process. The table below outlines these key differences:
 
-| Feature              | Dehydrator (Lomi, Mill, etc.)                          | Microbial Composter (Reencle, GEME Terra 2)                         |
+| Feature              | Dehydrator (Lomi, Mill, etc.)                          | Microbial Composter (GEME Terra 2)                         |
 |----------------------|--------------------------------------------------------|---------------------------------------------------------------------|
 | **Method**           | High heat (often >100°C) to evaporate moisture         | Warm, aerobic (40–60°C) environment for microbes                    |
 | **Output**           | <a href="https://www.seriouseats.com/lomi-composter-review-11889800#:~:text=Straight%20to%20the%20Point" rel="nofollow">Dried crumbs (“pre-compost”)</a>                           | Fully decomposed, living compost ready to use                       |
@@ -205,7 +205,7 @@ Let’s recap why [Terra II](https://www.geme.bio/product/terra2?utm_medium=blog
 
  - **No Recurring Costs**: Unlike all others, Terra II truly has no cartridges, pods, or filters to buy. The microbes and filters are built to last. The initial \$549 covers everything. As GEME’s own comparison emphasizes, the 3-year operating cost for a typical competitor is ~\$1,099 vs. just \$549 for Terra II.
 
- - **Real Compost, Fast**: GEME delivers finished compost in 6–8 hours, ready for plants. You get actual waste-to-soil conversion immediately, not a bag of dried crumbs that you still have to manage.
+ - **Real Compost, Fast**: GEME delivers active compost base in 6–8 hours, ready for plants. You get actual waste-to-soil conversion immediately, not a bag of dried crumbs that you still have to manage.
 
  - **Continuous Convenience**: Terra II is truly “drop-and-go.” Its continuous-feed design means you never wait around, just toss scraps anytime, and the AI does the rest. No more stacking up leftovers until a batch finishes.
 
