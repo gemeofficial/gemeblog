@@ -306,6 +306,7 @@ buttonText="Get Your GEME Pro"
 
 <RelatedArticles
   slugs={[
+  "best-composter-avoid-recurring-fees-geme-terra-2",
   "how-to-compost-cut-flowers-guide",
   "how-long-does-bokashi-take-to-compost",
   "how-to-care-for-hydrangeas-and-change-colors",
