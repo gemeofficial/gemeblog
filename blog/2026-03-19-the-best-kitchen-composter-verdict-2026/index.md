@@ -193,14 +193,14 @@ buttonText="Get Your GEME Terra II"
 | **Subscription** | Filter membership \$120/yr               | Rental \$35/mo (includes filters) or buy \$999           | Optional membership \$34/mo (refills included)             | None                                 |
 | **Filter**     | Charcoal (replaceable)                    | Charcoal (replaceable)                                  | Carbon filter (replaceable)                                | Metal-ion (permanent)                |
 | **Cycle**      | Batch (3–17h modes)                       | Batch overnight (3–16h)                                 | Continuous (cycles ~24h)                                   | Continuous (6–8h compost cycles)     |
-| **Output Use** | Pre-compost (“Lomi Earth”)                | Shipped away or soil amendment (but NOT complete compost)| Pre-compost (best after curing)                            | Finished compost (no curing needed)  |
-| **Energy**     | ~1 kWh/cycle                              | ~1 kWh/cycle (heat+grind)                               | ~2 kWh/day (stir/heating)                                  | ~0.5 kWh/cycle (AI-regulated)          |
+| **Output Use** | Pre-compost (“Lomi Earth”)                | Shipped away or soil amendment (but NOT complete compost)| Pre-compost (need curing)                            | Ready-to-use compost |
+| **Energy**     | ~1 kWh/cycle                              | ~1 kWh/cycle (heat+grind)                               | ~2 kWh/day (stir/heating)                                  | ~1.4 kWh per day (AI-regulated)          |
 
 | **Cost Category**    | **Lomi 3**                                      | **Mill Kitchen Bin**                                     | **Reencle Prime**                         | **GEME Terra II**         |
 |----------------------|-------------------------------------------------|----------------------------------------------------------|-------------------------------------------|---------------------------|
 | **Initial Price**    | \$549 (no subs)                                 | \$999 (white)                                            | \$499                                    | \$549                     |
-| **Filter/Pod Cost**  | \$120/yr (membership) <br> or \$30/pack         | \$89/yr (if owned)<br>or included in \$420/yr plan       | \$35/yr                                  | \$0 (permanent)           |
-| **Other Consumables**| Composting capsule (\$20) – optional, boosts compost (LomiPod) | None (grounds shipped off)                      | Compost starter pack \$65 (one-time)      | None                      |
+| **Filter/Pod Cost**  | \$120/yr (membership) or \$30/pack         | \$89/yr (if owned) or included in \$420/yr plan       | \$35 every 9-12 months                                  | \$0 (permanent)           |
+| **Other Consumables**| Composting capsule (\$20), optional, boosts compost (LomiPod) | None (grounds shipped off)                      | Compost starter pack \$65 (one-time)      | None                      |
 | **Total 3-yr Cost**  | ~\$909 (incl. 3x filters)                       | ~\$1,266 (incl. 3 filters)                               | ~\$604 (incl. 3 filters)                  | \$549 (no extras)         |
 
 Table: Feature and cost comparisons of leading kitchen composters.
