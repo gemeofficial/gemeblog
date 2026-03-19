@@ -101,14 +101,7 @@ Sources: Manufacturer specs and reviews.
 
 To illustrate the cost advantage, the timeline below shows total ownership cost over 5 years (purchase + estimated annual fees):
 
-%% 5-Year Total Cost of Ownership Timeline (USD)
-timeline
-    title 5-Year Total Cost of Ownership (USD)
-    2026 : GEME Terra II $549::green, Lomi $549::blue, Reencle $499::orange, Mill $999::red
-    2027 : GEME Terra II $549::green, Lomi $669::blue, Reencle $534::orange, Mill $1,088::red
-    2028 : GEME Terra II $549::green, Lomi $789::blue, Reencle $569::orange, Mill $1,177::red
-    2029 : GEME Terra II $549::green, Lomi $909::blue, Reencle $604::orange, Mill $1,266::red
-    2030 : GEME Terra II $549::green, Lomi $1,029::blue, Reencle $639::orange, Mill $1,355::red
+![The Best Kitchen Composter Costs](./image/kitchen-composter-costs.png)
 
 As the chart shows, by Year 2 GEME’s line is flat while the others climb as filters/subscriptions add up. Over 5 years, GEME Terra II’s ownership is roughly \$550–\$800 cheaper than rivals, exactly as GEME advertises. And importantly, GEME delivers real compost instead of dehydrated mulch.
 
