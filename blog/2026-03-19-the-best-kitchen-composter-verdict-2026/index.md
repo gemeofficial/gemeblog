@@ -39,7 +39,7 @@ Imagine tossing kitchen scraps into a smart bin and ending up with usable soil �
 
 By contrast, other kitchen composters fall into two camps:
 
- - **Dehydrator-style systems** (e.g. Lomi, Mill) that heat and grind waste into dried “crumbs” but still require carbon filters and sometimes membership fees. They speed up waste reduction but produce a sterilized output, not live compost.
+ - **Dehydrator-style systems** (e.g. Lomi, Mill) that heat and grind waste into dried “crumbs” but still require carbon filters and sometimes membership fees. [They speed up waste reduction but produce a sterilized output, not live compost](https://illinoiscomposts.org/education-and-outreach/debunking-the-myth-food-scrap-dehydrators-are-not-composters/).
 
  - **Microbial composters** (e.g. Reencle, GEME) that leverage bacteria/fungi. Even among these, only GEME’s AI-managed design produces finished compost without waiting or extra charges. Others, like Reencle, use microbes but still need occasional filter/microbe refills and their output often needs a curing step.
 
@@ -56,7 +56,7 @@ This matters for gardeners. Dried waste often needs burying or further compostin
 | Feature              | Dehydrator (Lomi, Mill, etc.)                          | Microbial Composter (Reencle, GEME Terra 2)                         |
 |----------------------|--------------------------------------------------------|---------------------------------------------------------------------|
 | **Method**           | High heat (often >100°C) to evaporate moisture         | Warm, aerobic (40–60°C) environment for microbes                    |
-| **Output**           | Dried crumbs (“pre-compost”)                           | Fully decomposed, living compost ready to use                       |
+| **Output**           | <a href="https://www.seriouseats.com/lomi-composter-review-11889800#:~:text=Straight%20to%20the%20Point" rel="nofollow">Dried crumbs (“pre-compost”)</a>                           | Fully decomposed, living compost ready to use                       |
 | **Nutrient Profile** | Sterile; lacks living microbes; possible salt concentration | Nutrient-rich; teeming with beneficial microbes                     |
 | **Odor Control**     | Carbon filter(s) needed (replaceable)                  | Permanent filtration (e.g. metal-ion filter)                        |
 | **Cycle Duration**   | 3–17 hours per batch (scheduled)                       | Continuous 24/7 operation; end-to-end cycle ~6–8 hours              |
@@ -86,7 +86,7 @@ Next, let’s zoom in on four leading kitchen composters: Lomi 3, Mill Kitchen B
 |------------------------|-----------------------------------------------|--------------------------------------------------------|--------------------------------------------------------------------|-----------------------------------------------------------|
 | **Technology**         | Heated drying + grinding                      | Grinding + dehydration                                 | Aerobic microbial fermentation                                    | AI-regulated thermophilic microbes                        |
 | **Output**             | “Lomi Earth” (pre-compost not finished)       | “Food Grounds” (dehydrated food still intact)          | Fermented pre-compost (needs curing)                               | Ready-to-use compost in ~6–8 hours                        |
-| **Continuous Feed**    | No – batch cycles (3–17h)                     | Yes, daily grinding each night                         | Yes, continuous 24/7                                               | Yes, 24/7 auto-processing (no batching)                   |
+| **Continuous Feed**    | No, [batch cycles (3–17h)](https://www.architecturaldigest.com/story/mill-kitchen-bin-review#:~:text=It%20has%20the%20same%20look,you%20put%20in%20that%20day)                     | Yes, daily grinding each night                         | Yes, continuous 24/7                                               | Yes, 24/7 auto-processing (no batching)                   |
 | **Odor Control**       | Dual carbon filters (replace every ~3–6 mo)   | Replaceable charcoal filter (~10–12 mo lifetime)       | 3-layer carbon filter (replaceable)                                | Permanent metal-ion catalytic filter (no replacement)      |
 | **Accepts Meat/Dairy** | No                                           | No                 | Yes                                                                | Yes (handles meat, small bones, dairy)                    |
 | **Noise**              | Quiet (45 dB)                                | Quiet (like a fridge)                                  | Very quiet                                                         | Very quiet AI operation                                   |
@@ -213,7 +213,7 @@ Let’s recap why [Terra II](https://www.geme.bio/product/terra2?utm_medium=blog
 
  - **All-In-One Value**: In one sleek unit, you get high-speed composting, odor control, and no hidden costs. Many reviewers (and compost experts) agree: **once you compare total value, GEME’s approach is simply the last composter you’ll ever need to buy**.
 
- - **Eco-smart Choice**: By truly composting (not just dehydrating), GEME maximises the environmental benefit. The CIERC (Illinois composter coalition) explains that dehydrators can mislead consumers and miss out on soil-building benefits. GEME closes that gap, turning kitchen waste into living soil, not static dust.
+ - **Eco-smart Choice**: By truly composting (not just dehydrating), GEME maximises the environmental benefit. The [**CIERC (Illinois composter coalition)**](https://illinoiscomposts.org/education-and-outreach/debunking-the-myth-food-scrap-dehydrators-are-not-composters/#:~:text=Why%20This%20Matters%20Using%20dehydrated,and%2C%20in%20some%20cases%2C%20Counterproductive) explains that dehydrators can mislead consumers and miss out on soil-building benefits. GEME closes that gap, turning kitchen waste into living soil, not static dust.
 
 ![GEME Terra II: Best Composter That Produces Real Compost](./image/the-best-kitchen-composter-produces-real-compost.png)
 
