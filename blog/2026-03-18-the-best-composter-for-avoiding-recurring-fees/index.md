@@ -215,7 +215,7 @@ buttonText="Get Your GEME Terra II"
 
 ## 9. FAQ (Answered)
 
-### Q: oes GEME really have zero filter costs?
+### Q: Does GEME really have zero filter costs?
 
 > A: Yes. The metal-ion oxidation catalyst is permanent. You never replace it.
 
