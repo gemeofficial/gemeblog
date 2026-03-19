@@ -91,9 +91,9 @@ Next, let’s zoom in on four leading kitchen composters: Lomi 3, Mill Kitchen B
 | **Accepts Meat/Dairy** | No                                           | No                 | Yes                                                                | Yes (handles meat, small bones, dairy)                    |
 | **Noise**              | Quiet (45 dB)                                | Quiet (like a fridge)                                  | Very quiet                                                         | Very quiet AI operation                                   |
 | **User Involvement**   | Add waste + press start; remove output later  | Load scraps; auto-process nightly; ship out grounds    | Toss scraps anytime; remove output + sift                           | Toss scraps anytime; remove compost any time              |
-| **Purchase Price (USD)**| ~$549 (no warranty)                          | ~$999 (white; premium colors $1,149–$1,199)            | ~$499 purchase                                                      | ~$549 (pre-order price)                                   |
-| **Subscription/Filters**| Annual filter subscription $120 (or $30/pk)  | ~$420/year rental (includes filters); filter ~$89/yr if owned | Filter ~$35/yr; optional microbe pack $65                        | None, filters are permanent                               |
-| **3-Year Total Cost**  | ~$909 ($549+$120×3)                           | ~$1,257 ($999+$89×3) if bought; or ~$1,260 rental (36×$35) | ~$604 ($499+$35×3) (microbe included initially)               | $549 (no add-ons ever)                                    |
+| **Purchase Price (USD)**| ~\$549 (no warranty)                          | ~\$999 (white; premium colors \$1,149–\$1,199)            | ~\$499 purchase                                                      | ~\$549 (pre-order price)                                   |
+| **Subscription/Filters**| Annual filter subscription \$120 (or \$30/pk)  | ~\$420/year rental (includes filters); filter ~\$89/yr if owned | Filter ~\$35/yr; optional microbe pack \$65                        | None, filters are permanent                               |
+| **3-Year Total Cost**  | ~\$909 (\$549+\$120×3)                           | ~\$1,257 (\$999+\$89×3) if bought; or ~\$1,260 rental (36×\$35) | ~\$604 (\$499+\$35×3) (microbe included initially)               | \$549 (no add-ons ever)                                    |
 
 Sources: Manufacturer specs and reviews.
 
