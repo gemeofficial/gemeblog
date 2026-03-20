@@ -174,10 +174,15 @@ buttonText="Get Your GEME Pro"
 ### Pros & Cons At‑A‑Glance
 
 ✔️ Produces real compost suitable for gardens
+
 ✔️ No filter replacements = lower ongoing cost
+
 ✔️ Large capacity and quiet operation
+
 ✔️ Easy to use even for beginners
+
 ❌ Requires occasional cleaning and maintenance
+
 ❌ A little more expensive up‑front (but saves later)
 
 ![GEME Composter GEME Pro](./image/geme-composter-output.png)
