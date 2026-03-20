@@ -247,7 +247,7 @@ buttonText="Get Your GEME Terra II"
 
 ### Q: What about composting meat and dairy?
 
-> A: Most modern composters can handle meat, bones (small), dairy, oils, etc., although manufacturers often advise small amounts. Lomi and Mill allow most food waste, but limited in meat and dairy. Reencle and GEME explicitly process all food scraps, including meat and dairy, tough items like poultry bones and cheese are also fine thanks to their microbial action. The only exclusion is large non-food items or raw bones bigger than a few cm. The bottom line: [**with GEME and Reencle, yes, you can compost meat/dairy without extra steps (unlike a home backyard bin)**]((https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-kitchen-composter-verdict-2026)).
+> A: Most modern composters can handle meat, bones (small), dairy, oils, etc., although manufacturers often advise small amounts. Lomi and Mill allow most food waste, but limited in meat and dairy. Reencle and GEME explicitly process all food scraps, including meat and dairy, tough items like poultry bones and cheese are also fine thanks to their microbial action. The only exclusion is large non-food items or raw bones bigger than a few cm. The bottom line: [**with GEME and Reencle, yes, you can compost meat/dairy without extra steps (unlike a home backyard bin)**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-kitchen-composter-verdict-2026).
 
 ### Q: How much power do they use?
 
@@ -259,7 +259,7 @@ buttonText="Get Your GEME Terra II"
 
 ### Q: Can I stop buying filters if I pause membership?
 
-> A: With Lomi/Mill you can use the units without subscription, but then you must manually buy filters to keep it odor-free. Reencle offers a “purchase” option where you get the machine and can simply buy filters/pods on your own schedule. [**GEME requires no subscription at all**]((https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-kitchen-composter-verdict-2026)).
+> A: With Lomi/Mill you can use the units without subscription, but then you must manually buy filters to keep it odor-free. Reencle offers a “purchase” option where you get the machine and can simply buy filters/pods on your own schedule. [**GEME requires no subscription at all**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-kitchen-composter-verdict-2026).
 
 ### Q: What is the warranty?
 
