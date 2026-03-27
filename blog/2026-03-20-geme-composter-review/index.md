@@ -104,7 +104,6 @@ Thanks to industrial metal‑ion catalytic odor neutralization, you don’t have
 
 Running at approximately 35–45 dB, this machine hums along quietly, comparable to a quiet conversation.
 
-![The Best Kitchen Composter: GEME Composter](./image/geme-kitchen-composter.png)
 <GemeComposterCTA 
  imgSrc="/img/geme-bio-composter.jpg"
  productTitle="GEME Pro Composter"

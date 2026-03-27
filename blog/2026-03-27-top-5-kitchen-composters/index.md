@@ -9,7 +9,7 @@ keywords:
 slug: top-5-kitchen-composters-pros-and-cons
 authors: [Moore]
 tags: [composter, composting, geme]
-
+image: https://www.geme.bio/assets/images/geme-terra-2-7dfc9cf6e9fc5e0fa44a11db548e0a15.png 
 ---
 
 import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
@@ -180,7 +180,6 @@ Same as Terra 2, but with a larger chamber (19 L) and higher throughput. It uses
 
 Large families (4+ people). People who cook every meal at home. Small restaurants or cafes. Community gardens. Anyone who generates serious food waste and wants real compost from it.
 
-![The Best Kitchen Composter: GEME Composter](./image/geme-kitchen-composter.png)
 <GemeComposterCTA 
  imgSrc="/img/geme-bio-composter.jpg"
  productTitle="GEME Pro Composter"
@@ -267,8 +266,8 @@ According to Mill's own support documentation: "Food Grounds aren't compost." Th
 | Bucket Size  | 6.5 liters                  |
 | Fills Over   | Up to 4 weeks               |
 | Noise Level  | Up to 60 dB                 |
-| Filter Cost  | $89 per year                |
-| Pricing      | $999+ purchase or \$35/month rental |
+| Filter Cost  | \$89 per year                |
+| Pricing      | \$999+ purchase or \$35/month rental |
 
 Pros of Mill Food ReCycler
 
@@ -357,7 +356,6 @@ People who want a quiet microbial composter and don't mind the filter costs. Sin
 | Continuous Feed                | ✅ Yes                   | ❌ Batch only      | ❌ Batch only      | ✅ Yes           |
 | Maintenance                    | Low            | Moderate          | Moderate          | Moderate          |
 | Noise Level                    | 35–45 dB                | 60+ dB             | 45 dB             | 60 dB             |
-| Cost Efficiency (5-year total) | High                    | Medium            | Medium            | Low               |
 | Suitable for Meat & Dairy      | Yes               | Limited           | Limited           | Limited           |
 
 <GemeTerra2CTA 
