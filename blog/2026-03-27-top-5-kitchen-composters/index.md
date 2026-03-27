@@ -149,7 +149,7 @@ Same as Terra 2, but with a larger chamber (19 L) and higher throughput. It uses
 | Spec           | Value               |
 |----------------|---------------------|
 | Daily Capacity | Up to 5 kg          |
-| Chamber Size   | 19.5 liters         |
+| Chamber Size   | 19 liters         |
 | Noise Level    | 35–40 dB            |
 | Filter Cost    | $0 (permanent)      |
 | Energy Use     | ~1.85 kWh/day       |
