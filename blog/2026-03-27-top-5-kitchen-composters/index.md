@@ -355,7 +355,7 @@ People who want a quiet microbial composter and don't mind the filter costs. Sin
 | Daily Waste Capacity           | ~5 kg                   | ~3 kg             | ~3 kg             | ~4 kg             |
 | Continuous Feed                | ✅ Yes                   | ❌ Batch only      | ❌ Batch only      | ✅ Yes           |
 | Maintenance                    | Low            | Moderate          | Moderate          | Moderate          |
-| Noise Level                    | 35–45 dB                | 60+ dB             | 45 dB             | 60 dB             |
+| Noise Level                    | 35–40 dB                | 60+ dB             | 45 dB             | 60 dB             |
 | Suitable for Meat & Dairy      | Yes               | Limited           | Limited           | Limited           |
 
 <GemeTerra2CTA 
