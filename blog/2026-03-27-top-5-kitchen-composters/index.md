@@ -490,6 +490,7 @@ buttonText="Get Your GEME Pro"
 
 <RelatedArticles
   slugs={[
+  "geme-composter-review-2026",
   "best-kitchen-composter-verdict-2026",
   "best-composter-avoid-recurring-fees-geme-terra-2",
   "how-to-compost-cut-flowers-guide",
