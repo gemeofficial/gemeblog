@@ -153,7 +153,7 @@ This contrasts with popular dehydrator‑style machines that often lack true com
 | Daily Waste Capacity           | ~5 kg                   | ~3 kg             | ~3 kg             | ~4 kg             |
 | Continuous Feed                | ✅ Yes                   | ❌ Batch only      | ❌ Batch only      | ✅ Yes           |
 | Maintenance                    | Low            | Moderate          | Moderate          | Moderate          |
-| Noise Level                    | 35–45 dB                | 50 dB             | 45 dB             | 48 dB             |
+| Noise Level                    | 35–40 dB                | 60+ dB             | 45 dB             | 60 dB             |
 | Cost Efficiency (5-year total) | High                    | Medium            | Medium            | Low               |
 | Suitable for Meat & Dairy      | Yes               | Limited           | Limited           | Limited           |
 
