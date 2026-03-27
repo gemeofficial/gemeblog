@@ -269,7 +269,7 @@ According to Mill's own support documentation: "Food Grounds aren't compost." Th
 | Filter Cost  | \$89 per year                |
 | Pricing      | \$999+ purchase or \$35/month rental |
 
-Pros of Mill Food ReCycler
+### Pros of Mill Food ReCycler
 
 1. **Big capacity**: It takes weeks to fill, so you're not emptying constantly.
 
@@ -320,7 +320,7 @@ Reencle produces compost-like material. It's not sterile like Lomi or Mill. But 
 | Filter Cost     | ~\$47/year (carbon + mesh)               |
 | Motion Sensor   | Yes (foot or hand wave)                 |
 
-Pros of Reencle Composter
+### Pros of Reencle Composter
 
 1. **Quiet**: 45 dB is at a low noise level. 
 
