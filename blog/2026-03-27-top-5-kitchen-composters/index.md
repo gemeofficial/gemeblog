@@ -205,7 +205,7 @@ You fill the 3-liter bucket, choose a mode, and the machine grinds and heats you
 
 According to soil scientists, Lomi Earth is organic matter, not soil. It lacks the living biology that defines real compost. If you sprinkle it directly on plants, it can actually harm them by robbing nitrogen as it continues to decompose.
 
-[**Epic Gardening**](https://www.epicgardening.com/lomi-compost/) tested it and found that the output is "not actually dirt" by soil science standards.
+[**Epic Gardening**](https://www.epicgardening.com/lomi-compost/) tested it and found that the output is "not actually dirt" by soil science standards. It's better descibed as "organic matter", while it looks like dirt.
 
 | Spec           | Value                         |
 | -------------- | ---------------------------- |
