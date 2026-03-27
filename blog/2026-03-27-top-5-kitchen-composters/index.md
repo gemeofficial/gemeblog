@@ -316,7 +316,7 @@ Reencle produces compost-like material. It's not sterile like Lomi or Mill. But 
 | Spec            | Value                                  |
 |-----------------|----------------------------------------|
 | Daily Capacity  | Up to 0.68 kg (optimum), 1 kg (max)    |
-| Noise Level     | 28 dB (quietest on the market)          |
+| Noise Level     | 45 dB           |
 | Filter Cost     | ~\$47/year (carbon + mesh)               |
 | Motion Sensor   | Yes (foot or hand wave)                 |
 
