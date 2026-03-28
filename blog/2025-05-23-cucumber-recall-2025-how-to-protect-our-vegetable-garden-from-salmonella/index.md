@@ -57,15 +57,14 @@ As a gardening enthusiast, I’m really concerned about how salmonella intrudes 
 1. **Soil Testing**: Regularly test your garden soil to check for the presence of harmful bacteria. Soil testing kits are available at most garden centers.
 
 2. **Composting Practices**:
-We recommend utilizing Composter with high-temperature phased aerobic fermentation technology like a home electric compoter, which achieves efficient pathogen elimination through the following mechanisms:
+   We recommend utilizing Composter with high-temperature phased aerobic fermentation technology like a home electric compoter, which achieves efficient pathogen elimination through the following mechanisms:
 
 - **Intelligent Oxygen Control System**:
   Automatic turning ensures uniform oxygen penetration throughout the compost pile, eliminating anaerobic dead zones and continuously activating thermophilic microbial activity.
 - **High-Temperature Pathogen Inactivation**:
   Microbial metabolic bioheat elevates internal pile temperatures to over 70°C, with sustained high temperatures maintained for 72+ hours, effectively destroying Salmonella cell structures.
-- **Kobold Heating Facts**: Composter can completely simulate the whole process of natural composting but improve and speed up the composting process by providing the most suitable conditions for Kobold to grow and degrade. Kobold is a pure natural high-temperature resistant composite microorganism. The fermentation heat can reach up to over 70°C during the fermentation process. **[As recommended by FDA and CDC, it meets the conditions to kill Salmonella](https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures)**.
-- **Photocatalytic Synergistic Enhancement**:
-  The built-in UV-C photocatalyst system (253.7 nm wavelength) triggers catalytic reactions to degrade bacterial DNA and organic toxins, forming a dual sterilization barrier (thermal + photocatalytic).
+- **Optimal Thermal Environment:** GEME is engineered to replicate and accelerate the natural composting process by providing ideal conditions for Kobold—a robust, high-temperature resistant microbial composite. During the decomposition phase, the biological activity can naturally generate temperatures exceeding 70°C. This thermophilic stage ensures a high-standard, professional-grade organic transformation, effectively breaking down food waste into clean, nutrient-rich compost.
+- **Advanced Catalytic Maintenance System:** The integrated UV light and photocatalyst system (253.7 nm wavelength) work in synergy to trigger a catalytic reaction that effectively breaks down organic odor molecules and impurities. Combined with the natural heat of fermentation, this dual-action system (thermal + photocatalytic) maintains a fresh and hygienic internal environment throughout the entire cycle.
 
 3. **Hot Composting (Thermophilic Composting)**: This method involves maintaining high temperatures to kill pathogens. Use a compost thermometer to monitor the temperature.
 
