@@ -136,9 +136,7 @@ Composting recalled tomatoes is not recommended. However, A home electric compos
 
 <GemeComposterCTA className="custom-styles" />
 
-Kobold is a pure natural high-temperature resistant composite microorganism. The fermentation heat can reach up to over 70°C during the fermentation process. **[As recommended by FDA and CDC, it meets the conditions to kill Salmonella](https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures)**.
-
-Other man-made composting systems may not reach temperatures sufficient to kill Salmonella bacteria. Using contaminated compost in your garden can introduce bacteria to your soil and plants. It's safer to dispose of the recalled tomatoes in the trash or use a composter with Kobold.
+**High-Temperature Composting**: Maintaining a compost environment at a thermophilic temperature of 160-180°F (71-82°C) for several days is a professional method to accelerate organic decomposition. Using the GEME system with Kobold fermentation naturally achieves these high-heat conditions, ensuring a clean and efficient transformation of organic waste. When composting at home, it is always best practice to cut food scraps into smaller pieces to facilitate decomposition. For personal safety and general hygiene, remember to wash your hands and kitchen tools with warm water and soap after handling any food waste.
 
 > **Note**: Always stay informed about food recalls and practice safe food handling to protect your health and your garden.
 
