@@ -128,14 +128,14 @@ Use well-drained, loamy soil enriched with compost. Test for pathogens and avoid
 
 The best compost should be transformed from your daily waste, including yard waste and kitchen food waste. Use an electric bio composter to make better compost before planting the tomato seedlings. 
 
-**A bio composter can kill any harmful bacteria or pathogens, like Salmonella, using hot composting methods (up to 75-80°C when composting with Kobold fermentation)**. 
+**Optimal Composting Environment: GEME creates a high-temperature composting environment (reaching 70-80°C with Kobold fermentation). This thermophilic stage accelerates the natural breakdown of organic matter, ensuring a clean and efficient transformation of food waste into nutrient-rich compost.**. 
 
 <GemeComposterCTA 
  imgSrc="/img/geme-bio-composter.jpg"
  productTitle="GEME Bio Composter"
  features={[
-    "✅ Heat Compost Kills Harmful Pathogens",
-    "✅ Better and Safer Compost For Plant Growth",
+    "✅ High-Temperature Composting System ",
+    "✅ Better and Safer Compost For Plants",
     "✅ Quiet, Odor-Free, Quick(6-8 hours)",
     "✅ Large Capacity (19 L) For Daily Waste"
   ]}
@@ -152,8 +152,6 @@ Tomatoes thrive in full sun (6–8 hours daily). Space plants 18–24 inches apa
 ### Best Potting Mix for Tomatoes
 
 Choose a high-quality, sterile potting mix with peat, perlite, and compost. Avoid using garden soil directly in pots as it may harbor harmful bacteria or pathogens like Salmonella. 
-
-Use a bio composter with a hot composting method to kill harmful bacteria or pathogens. And your compost output will be totally safe to use.
 
 ![Add GEME Safe Compost to Garden Soil](./img/add-compost-to-soil.jpg)
 
@@ -212,10 +210,6 @@ Install fencing to keep animals away. Cover plants with netting if birds or pets
 #### Safe Compost Materials
 
 Use only fully decomposed compost. Avoid adding dairy or pet waste to your home electric composter.
-
-### How to Use Compost Without Risks
-
-Let compost sit at least 70°C for 6-8 hours to kill pathogens. While there are quite a few composting methods and electric composters for you to choose from, the only one that meets [the CDC conditions to kill harmful pathogens](https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures) is GEME composter. 
 
 Mix the matured compost into soil well before planting.
 

@@ -9,7 +9,7 @@ keywords:
 - Egg Recall 2025
 - cdc.gov egg recall
 - how to kill salmonella
-slug: egg-recall-salmonella-2025-best-way-to-kill-salmonella-in-eggs-recalled
+slug: egg-recall-salmonella-2025
 authors: [Moore]
 tags: [food waste, sustainability, compost]
 image: https://www.geme.bio/assets/images/eggs-recall-salmonella-cedbf638bc4fe8a89fd47efc943f7a05.png 
@@ -237,25 +237,19 @@ While proper disposal and cleaning are essential steps in dealing with **eggs re
 
  ![Kobold Heating Compost to Kill Salmonella in Eggs Recalled](./img/kobold-heating-compost-to-kill-salmonella-in-eggs-recalled.jpg)
 
-3. **UV-C Light**: It utilizes a photocatalytic and metal ion catalytic oxidation purification system. Salmonella, being a Gram-negative bacterium with a thin cell wall, is particularly sensitive to UV-C light.
+3. **Insulated Design**: This electric composters feature insulated designs that help retain heat and maintain consistent temperatures throughout the composting process.
 
-4. **Insulated Design**: This electric composters feature insulated designs that help retain heat and maintain consistent temperatures throughout the composting process.
+4. **Efficient Aeration**: Proper aeration is essential for maintaining high temperatures in compost. The home electric composters are designed to provide efficient aeration, ensuring that the compost pile remains oxygenated and active.
 
-5. **Efficient Aeration**: Proper aeration is essential for maintaining high temperatures in compost. The home electric composters are designed to provide efficient aeration, ensuring that the compost pile remains oxygenated and active.
-
-6. **Closed-Loop System**: Our home composters are often designed as closed-loop systems, which prevent the escape of odors and pathogens, making them safe for use in residential areas.
-
- 
+5. **Closed-Loop System**: Our home composters are often designed as closed-loop systems, which prevent the escape of odors and pathogens, making them safe for use in residential areas.
 
 ### Benefits of Composting Eggs Recalled
 
-1. **Effective Salmonella Elimination**: Our composter reliably kills Salmonella and other harmful bacteria, ensuring that the resulting compost is safe to use in your garden.
+1. **Environmentally Responsible Disposal**: Composting **eggs that are recalled** reduces landfill waste and creates valuable compost for your plants.
 
-2. **Environmentally Responsible Disposal**: Composting **eggs that are recalled** reduces landfill waste and creates valuable compost for your plants.
+2. **Convenient and Odorless**: Composters here are designed to be convenient and odor-free, making them suitable for indoor or outdoor use.
 
-3. **Convenient and Odorless**: Composters here are designed to be convenient and odor-free, making them suitable for indoor or outdoor use.
-
-4. **Reduces the Risk of Spreading Salmonella**: By **effectively killing Salmonella** in the compost, we reduces the risk of spreading the bacteria to your garden or other areas.
+3. **High-Temperature Composting**: Maintaining a compost environment at a thermophilic temperature of 160-180°F (71-82°C) for several days is a professional method to accelerate organic decomposition. Using the GEME system with Kobold fermentation naturally achieves these high-heat conditions, ensuring a clean and efficient transformation of organic waste. When composting at home, it is always best practice to cut food scraps into smaller pieces to facilitate decomposition. For personal safety and general hygiene, remember to wash your hands and kitchen tools with warm water and soap after handling any food waste.
 
 ### How to Compost the Recalled Eggs:
 

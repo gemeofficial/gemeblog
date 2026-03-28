@@ -92,7 +92,7 @@ To eliminate Salmonella from food:
 
 ### In gardens:
 - **Use Clean Water**: Irrigate with potable water to prevent introducing contaminants.
-- **Compost Properly**: Ensure compost reaches temperatures that kill pathogens before applying to gardens. Please check this guide to see how to compost suspected tomatoes or other vegetables contaminated with Salmonella: [FDA Cucumber Recall 2025 - Heat Composting](https://www.geme.bio/blog/cucumber-recall-2025-how-to-protect-vegetable-garden-from-salmonella#how-to-kill-salmonella)
+- **High-Temperature Composting**: Maintaining a compost environment at a thermophilic temperature of 160-180°F (71-82°C) for several days is a professional method to accelerate organic decomposition. Using the GEME system with Kobold fermentation naturally achieves these high-heat conditions, ensuring a clean and efficient transformation of organic waste. When composting at home, it is always best practice to cut food scraps into smaller pieces to facilitate decomposition. For personal safety and general hygiene, remember to wash your hands and kitchen tools with warm water and soap after handling any food waste.
 - **Control Animal Access**: Prevent animals from entering garden areas to reduce contamination risks.
 
 <GemeComposterCTA className="custom-styles" />
@@ -145,8 +145,6 @@ Salmonella, a harmful bacterium, can contaminate vegetables through various mean
 - **Practice Good Hygiene**: Regularly wash hands, utensils, and surfaces.
 
 - **Use Clean Water**: Irrigate gardens with potable water to prevent contamination.
-
-- **Avoid Using composter without heating system to compost Recalled Produce**: Home composting may not eliminate pathogens effectively, only by composter with kobold could it reach the high temperature to inactivate Salmonella.
 
 By understanding the causes and prevention methods of Salmonella contamination, individuals can take proactive steps to protect their health and maintain safe gardening practices.
 

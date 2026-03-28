@@ -217,7 +217,7 @@ No, mouldy or sour apples can carry harmful moulds or bacteria. Drop them in the
 
 ### 3. Composting vs. Feeding Bad Apples to Animals
 
-Composting is best. GEME is the world's first biowaste composter, integrated with UV-C light and processing with Kobold Heating Fermentation, which kills most harmful bacteria, including Salmonella.
+Composting is best. GEME is the world's first biowaste composter, integrated with UV-C light and processing with Kobold Heating Fermentation.
 
 ### 4. Apple Use-By Timetable
 
