@@ -1,6 +1,6 @@
 ---
 title: "Top 5 Kitchen Composters: Pros and Cons"
-description: "Shopping for a kitchen composter? We break down the pros and cons of GEME Terra 2, Lomi, Mill, and Reencle. Find out which one produces real compost and which ones just dry your scraps."
+description: "Shopping for a kitchen composter? We break down the pros and cons of GEME Terra 2, Geme Composter Pro, Lomi, Mill, and Reencle. Find out which one produces real compost and which ones just dry your scraps."
 keywords:
   - geme composter
   - best composter
