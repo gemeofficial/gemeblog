@@ -40,7 +40,7 @@ Before we dive deep, here's how the five stack up against each other.
 | Feature                | GEME Terra 2    | GEME Pro          | Lomi               | Mill                | Reencle        |
 |------------------------|-----------------|-------------------|--------------------|---------------------|---------------|
 | **Technology**         | Microbial + AI  | Microbial         | Grind + Heat       | Grind + Dry         | Microbial      |
-| **Produces Real Compost?** | Yes         | Yes               | No                 | No                  | No            |
+| **Produces Real Compost?** | Yes         | Yes               | No                 | No                  | No，pre-compost            |
 | **Handles Meat & Dairy?**  | Yes         | Yes               | Limited            | Limited             | Limited       |
 | **Continuous Feed?**   | Yes             | Yes               | No (batch)         | No (batch)          | Yes           |
 | **Noise Level**        | 35–40 dB        | 35–40 dB          | 60+ dB             | Up to 60 dB         | 45 dB         |
@@ -350,10 +350,10 @@ People who want a quiet microbial composter and don't mind the filter costs. Sin
 
 | Feature / Model                | [**GEME Composter**](https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=top-5-kitchen-composters-pros-and-cons)  | Lomi Composter    | Reencle Composter | Mill Composter    |
 | ------------------------------ | ----------------------- | ----------------- | ----------------- | ----------------- |
-| True Compost Output            | ✅ Yes                   | ❌ No              | ❌ No              | ✅ Yes              |
+| True Compost Output            | ✅ Yes                   | ❌ No              | ❌ No, pre-compost              | ❌ No              |
 | Odor Control                   | ✅ Permanent, no filters | ✅ Requires filter | ✅ Requires filter | ✅ Requires filter |
 | Daily Waste Capacity           | ~5 kg                   | ~3 kg             | ~3 kg             | ~4 kg             |
-| Continuous Feed                | ✅ Yes                   | ❌ Batch only      | ❌ Batch only      | ✅ Yes           |
+| Continuous Feed                | ✅ Yes                   | ❌ Batch only      | ✅ Yes      | ❌ Batch only           |
 | Maintenance                    | Low            | Moderate          | Moderate          | Moderate          |
 | Noise Level                    | 35–40 dB                | 60+ dB             | 45 dB             | 60 dB             |
 | Suitable for Meat & Dairy      | Yes               | Limited           | Limited           | Limited           |

@@ -147,10 +147,10 @@ This contrasts with popular dehydrator‑style machines that often lack true com
 
 | Feature / Model                | [**GEME Composter**](https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-composter-review-2026)  | Lomi Composter    | Reencle Composter | Mill Composter    |
 | ------------------------------ | ----------------------- | ----------------- | ----------------- | ----------------- |
-| True Compost Output            | ✅ Yes                   | ❌ No              | ❌ No              | ✅ Yes              |
+| True Compost Output            | ✅ Yes                   | ❌ No              | ❌ No, pre-compost              | ❌ No              |
 | Odor Control                   | ✅ Permanent, no filters | ✅ Requires filter | ✅ Requires filter | ✅ Requires filter |
 | Daily Waste Capacity           | ~5 kg                   | ~3 kg             | ~3 kg             | ~4 kg             |
-| Continuous Feed                | ✅ Yes                   | ❌ Batch only      | ❌ Batch only      | ✅ Yes           |
+| Continuous Feed                | ✅ Yes                   | ❌ Batch only      | ✅ Yes      | ❌ Batch only           |
 | Maintenance                    | Low            | Moderate          | Moderate          | Moderate          |
 | Noise Level                    | 35–40 dB                | 60+ dB             | 45 dB             | 60 dB             |
 | Suitable for Meat & Dairy      | Yes               | Limited           | Limited           | Limited           |
