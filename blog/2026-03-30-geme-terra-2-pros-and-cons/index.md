@@ -256,7 +256,7 @@ The GEME composter costs more upfront than Lomi and Reencle. But after three yea
 
 ### Q: How often do I empty it?
 
-> A: About once every one to two months, depending on how much waste you generate. The machine reduces volume by 95%, so you're not constantly emptying it.
+> A: About once every 3 to 6 months, depending on how much waste you generate. The machine reduces volume by 95%, so you're not constantly emptying it.
 
 ### Q: Is it easy to clean?
 
