@@ -22,6 +22,7 @@ Let me start with something that might surprise you. Most kitchen composters are
 
 The GEME Terra 2 is different. It uses **live microorganisms actually to digest your food waste**. Think of it less like a food processor and more like a tiny, hungry ecosystem living on your kitchen floor.
 
+### Spec Sheet of GEME Terra II
 | Spec           | Value                       |
 |----------------|----------------------------|
 | Daily Capacity | Up to 2 kg                 |
