@@ -260,7 +260,7 @@ The GEME composter costs more upfront than Lomi and Reencle. But after three yea
 
 ### Q: Is it easy to clean?
 
-> A: Yes. The inner bucket is removable. GEME recommends a deep clean every three to six months, depending on use.
+> A: Yes. GEME recommends a deep clean every three to six months, depending on use.
 
 ### Q: What's the daily capacity?
 
