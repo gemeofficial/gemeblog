@@ -8,7 +8,7 @@ keywords:
 slug: geme-terra-2-pros-and-cons
 authors: [Moore]
 tags: [composter, composting, geme]
-
+image: https://www.geme.bio/assets/images/geme-terra-2-e0cfe351ded6e7e619b72d21d2d65d30.png
 ---
 
 import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
