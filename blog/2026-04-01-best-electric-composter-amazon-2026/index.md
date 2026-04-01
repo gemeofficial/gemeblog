@@ -387,6 +387,7 @@ buttonText="Get Your GEME Pro"
 
 <RelatedArticles
   slugs={[
+  "geme-terra-2-pros-and-cons",
   "top-5-kitchen-composters-pros-and-cons",
   "geme-composter-review-2026",
   "best-kitchen-composter-verdict-2026",
