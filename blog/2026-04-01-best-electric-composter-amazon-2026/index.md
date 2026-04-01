@@ -213,7 +213,7 @@ buttonText="Get Your GEME Pro"
 
 **Best for**: Small kitchens and households with limited countertop space
 
-The Food Cycler Eco 5 is a compact electric composter with a 5-liter capacity and a patented Vortech grinding system. It reduces waste by up to 90% in a matter of hours and uses a refillable carbon filter for odor control。
+The Food Cycler Eco 5 is a compact electric composter with a 5-liter capacity and a patented Vortech grinding system. It reduces waste by up to 90% in a matter of hours and uses a refillable carbon filter for odor control. However, **Food Cycler is also a dehydrator, like Lomi, it doesn't compost**.
 
 ### How the Food Cycler Works
 
