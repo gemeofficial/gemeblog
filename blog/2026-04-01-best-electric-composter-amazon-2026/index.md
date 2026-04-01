@@ -56,7 +56,7 @@ The output is an active compost base: moist, soil-like, and full of living micro
 | Capacity             | 19 liters                                     |
 | Daily Throughput     | Up to 5 kg/day                                |
 | Processing Time      | 6–8 hours for soft waste; stems and bones take a bit longer |
-| Noise Level          | 35–45 dB (quieter than a refrigerator)        |
+| Noise Level          | 35–40 dB (quieter than a refrigerator)        |
 | Filter Cost          | $0 (permanent metal-ion catalyst)             |
 | Harvest Frequency    | Every 1–2 months                              |
 
