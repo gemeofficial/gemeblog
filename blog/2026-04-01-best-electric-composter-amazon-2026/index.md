@@ -35,7 +35,7 @@ Let’s break down the top five contenders so you can make a choice that doesn�
 
 **Rating**: 4.3 stars 
 
-[**Price**: \$799.99](https://www.amazon.com/GEME-Composter-Real-Composting-Electric/dp/B0BV31KTCN?maas=maas_adg_DE9092514960BF966A5D7E4A3FAD83E9_afap_abs&ref_=aa_maas&tag=maas)
+[**Price**: \$899](https://www.amazon.com/GEME-Composter-Real-Composting-Electric/dp/B0BV31KTCN?maas=maas_adg_DE9092514960BF966A5D7E4A3FAD83E9_afap_abs&ref_=aa_maas&tag=maas)
 
 **Best for**: Large households, daily cooks, gardeners, and anyone who hates subscriptions
 
@@ -247,7 +247,7 @@ If counter space is your biggest constraint and you’re okay with a dehydrator-
 | Noise Level             | 35–40 dB     | 60+ dB         | 45 dB        | Up to 60 dB    | N/A            |
 | Filter Cost (Annual)    | \$0           | \$150–200       | ~\$47         | \$89            | N/A       |
 | 3-Year Filter Total     | \$0           | \$450–600       | ~\$141        | \$267+          | N/A       |
-| Upfront Price           | ~\$799        | \$499           | ~\$500        | \$999+          | ~\$509          |
+| Upfront Price           | ~\$899        | \$499           | ~\$500        | \$999+          | ~\$509          |
 
 ### The Cost of Ownership: What You Actually Pay
 
@@ -255,7 +255,7 @@ Upfront price is only half the story. Here’s what these machines cost to own o
 
 | Brand       | Upfront   | Annual Filters | 3-Year Filter Total | Total After 3 Years |
 |-------------|-----------|---------------|---------------------|---------------------|
-| GEME Pro    | ~\$799     | \$0            | \$0                  | ~\$799               |
+| GEME Pro    | ~\$899     | \$0            | \$0                  | ~\$899               |
 | Reencle     | ~\$500     | ~\$47          | ~\$141               | ~\$641               |
 | Lomi        | \$499      | \$150–200      | \$450–600            | \$949–\$1,099         |
 | Food Cycler | ~\$509     | N/A           | N/A                 | N/A                 |
