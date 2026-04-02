@@ -35,9 +35,19 @@ Let’s break down the top five contenders so you can make a choice that doesn�
 
 **Rating**: 4.3 stars 
 
-[**Price**: \$899](https://www.amazon.com/GEME-Composter-Real-Composting-Electric/dp/B0BV31KTCN?maas=maas_adg_DE9092514960BF966A5D7E4A3FAD83E9_afap_abs&ref_=aa_maas&tag=maas)
+[**Price**: \$899](https://www.amazon.com/GEME-Composter-Real-Composting-Electric/dp/B0BV31KTCN?maas=maas_adg_DE9092514960BF966A5D7E4A3FAD83E9_afap_abs&ref_=aa_maas&tag=maas)(**\$849 when using discount code**)
+
+[**Discount**：\$50 off](#geme-composter-discount-code) during April 2nd and May 3rd in 2026 
 
 **Best for**: Large households, daily cooks, gardeners, and anyone who hates subscriptions
+
+### GEME Composter Discount Code
+
+Copy the following discount code when ordering your GEME composter on Amazon, you'll have \$50 saved. 
+
+| **Code**      | Status  | Note              | Time                     |
+|-----------|---------|-------------------|--------------------------|
+| <span style={{fontWeight: 'bold', color: '#20732d'}}><b>ZPQSXLD4</b></span>  | Active  | Spring Sale 2026  | April 2nd - May 3rd      |
 
 If you want an electric composter that actually produces real compost instead of dried garbage, the GEME Pro is the one. This machine uses a proprietary blend of microorganisms called Kobold to digest your food waste biologically. It’s not a dehydrator. It doesn’t just grind and dry your scraps. It actually eats them.
 
