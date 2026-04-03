@@ -9,7 +9,7 @@ keywords:
 slug: top-5-electric-composters-on-amazon-2026
 authors: [Moore]
 tags: [composter, composting, geme]
-image: https://www.geme.bio/assets/images/geme-composter-5c56677a836b124fa7f6bd0f002af9b3.png
+image: https://www.geme.bio/assets/images/geme-composter-a3e27f3adf29d0d50b6c5493a4255518.png
 ---
 
 import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
@@ -105,7 +105,7 @@ buttonText="Get Your Discount Code Before Ordering GEME Pro"
   href="https://www.amazon.com/GEME-Composter-Real-Composting-Electric/dp/B0BV31KTCN?maas=maas_adg_DE9092514960BF966A5D7E4A3FAD83E9_afap_abs&ref_=aa_maas&tag=maas"
 />
 
-## Lomi Composter: The Dehydrator That Will Cost You Year After Year
+## 2. Lomi Composter: The Dehydrator That Will Cost You Year After Year
 
 **Rating**: 4.0 stars (model dependent)
 
@@ -318,7 +318,7 @@ One reviewer summed it up: “Yesterday I put mozzarella balls and shredded carr
 
 ![GEME Composter Can Handle Almost Everything](./image/geme-composter-geme-pro.png)
 
-## 5. FAQ (Answered)
+## 8. FAQ (Answered)
 
 ### Q: What is the best electric composter on Amazon? 
 
