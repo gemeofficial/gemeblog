@@ -9,7 +9,7 @@ keywords:
 slug: countertop-composter-misnomer-floor-standing-electric-composter
 authors: [Moore]
 tags: [composter, composting, geme]
-
+image: https://www.geme.bio/assets/images/geme-terra-2-193727af7f1653e6d6fecef0a9aaeb42.png
 ---
 
 import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
