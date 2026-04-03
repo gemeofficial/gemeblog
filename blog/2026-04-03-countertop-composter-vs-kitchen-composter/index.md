@@ -55,23 +55,23 @@ When the device doesn’t “belong” in the kitchen’s natural waste flow (bi
 
 ## 2. Decision: We design for the “bin zone,” not the countertop fantasy
 
-We made a deliberate design choice: GEME Pro and Terra 2 are meant to live where waste naturally lives—not where food is plated.
+We made a deliberate design choice: GEME Pro and Terra 2 are meant to live where waste naturally lives, not where food is plated.
 
 That means three non-negotiables:
 
- 1. Floor / under-counter friendly placement
+ **1. Floor / under-counter friendly placement**
  
- A composter should integrate into the same ecosystem as the trash/recycling/compost bins, not compete with countertop appliances.
+ >A composter should integrate into the same ecosystem as the trash/recycling/compost bins, not compete with countertop appliances.
 
- 2. Close-and-forget behavior (no “babysitting”)
+ **2. Close-and-forget behavior (no “babysitting”)**
  
- A kitchen habit sticks when the user can drop scraps in and return to cooking—without fiddling, aligning, or forcing a lid.
+ >A kitchen habit sticks when the user can drop scraps in and return to cooking—without fiddling, aligning, or forcing a lid.
  
- 3. Hands-free loading for messy moments
+ **3. Hands-free loading for messy moments**
  
- In real cooking, hands are wet, oily, or holding a bowl. Terra 2’s foot-touch open → auto-close is built around that reality: one touch, open; step away, close—no “two hands + perfect alignment” ritual.
+ >In real cooking, hands are wet, oily, or holding a bowl. Terra 2’s foot-touch open → auto-close is built around that reality: one touch, open; step away, close—no “two hands + perfect alignment” ritual.
 
-Beyond placement, the bigger everyday difference is workflow. GEME Pro and Terra 2 support continuous input—you can drop scraps in as you cook and move on, instead of storing waste inside the device and processing it as discrete batches. Many dehydrator-style systems are described—and even instructed—as “batch” workflows (e.g., “add one on top of your batch… and run your Lomi”). That matters because kitchens don’t generate waste in neat cycles; they generate it in moments.
+Beyond placement, the bigger everyday difference is workflow. GEME Pro and Terra 2 support continuous input, you can drop scraps in as you cook and move on, instead of storing waste inside the device and processing it as discrete batches. Many dehydrator-style systems are described and even instructed as “batch” workflows (e.g., “add one on top of your batch… and run your Lomi”). That matters because kitchens don’t generate waste in neat cycles; they generate it in moments.
 
 Just as important: continuous systems shouldn’t demand constant cleaning. With GEME Pro and Terra 2, the goal is a stable aerobic process you maintain, not a container you have to “reset” after each run. When scraps sit inside a bucket between cycles, odor control becomes more dependent on user timing and cleaning cadence. [Lomi](https://lomi.com/blogs/news/lomi-dos-and-donts) itself warns that you may “waft up some unwanted smells when you open the lid” and specifically doesn’t suggest letting scraps sit inside for more than two days. And their own troubleshooting advice includes routine bucket cleaning (e.g., “clean your bucket thoroughly every 3 cycles”), a reasonable requirement, but still a friction point that many real kitchens won’t keep up with. 
 
@@ -89,7 +89,7 @@ buttonText="Get Your GEME Terra II"
   href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=countertop-composter-misnomer-floor-standing-electric-composter"
 />
 
-## 3. Evidence: Real-world signals show countertop placement often fails—friction shows up as “where do I put it?” and “can I close it?”
+## 3. Evidence: Real-world signals show countertop placement often fails, friction shows up as “where do I put it?” and “can I close it?”
 
  - **Many owners don’t keep it on the counter because it’s too big (and the counter is sacred)**.
  
@@ -120,20 +120,21 @@ buttonText="Get Your GEME Terra II"
 
 If you’re shopping or reconfiguring your setup, ask these four questions:
 
-1. Where will it live?
+**1. Where will it live?**
 
-If the honest answer isn’t “near my bin zone,” the habit will break.
+>If the honest answer isn’t “near my bin zone,” the habit will break.
 
-2. Can I load it with one hand—or none?
+**2. Can I load it with one hand—or none?**
 
-This is why hands-free open/close matters. It’s not a gimmick; it’s habit insurance.
-3. Does the lid close reliably when the rim is messy?
+>This is why hands-free open/close matters. It’s not a gimmick; it’s habit insurance.
 
-Food scraps aren’t clean. Your interface must tolerate real life. 
+**3. Does the lid close reliably when the rim is messy?**
 
-4. Does the product teach boundaries clearly?
+>Food scraps aren’t clean. Your interface must tolerate real life. 
 
-Oil, salt, and liquids don’t require myths; they require boundaries and methods. [We publish ours in GK](https://www.geme.bio/gk).
+**4. Does the product teach boundaries clearly?**
+
+>Oil, salt, and liquids don’t require myths; they require boundaries and methods. [We publish ours in GK](https://www.geme.bio/gk).
 
 ## 5. Next steps
 
