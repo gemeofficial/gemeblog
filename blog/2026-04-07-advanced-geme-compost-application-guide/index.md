@@ -10,7 +10,7 @@ keywords:
 slug: advanced-geme-compost-application-guide
 authors: [Moore]
 tags: [composter, composting, geme]
-image: https://www.geme.bio/assets/images/geme-terra-2-193727af7f1653e6d6fecef0a9aaeb42.png
+image: https://www.geme.bio/assets/images/geme-composter-output-816b28cdf5f8df703fd76d4bb9a9f417.png
 ---
 
 import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
