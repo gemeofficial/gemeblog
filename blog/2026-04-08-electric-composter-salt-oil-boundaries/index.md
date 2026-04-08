@@ -10,7 +10,7 @@ keywords:
 slug: electric-composter-salt-oil-boundaries
 authors: [Moore]
 tags: [composter, composting, geme]
-
+image: https://www.geme.bio/assets/images/composting-soil-and-oil-boundaries-165a65ac461dd80a58ae1e3624215838.jpg
 ---
 
 import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
