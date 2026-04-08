@@ -8,7 +8,7 @@ keywords:
 slug: why-composter-filters-only-last-3-months
 authors: [Moore]
 tags: [composter, composting, geme]
-
+image: https://www.geme.bio/assets/images/lomi-composter-carbon-filter-c077604484209bf7e7b2075bf3ea77b1.jpg
 ---
 
 import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
