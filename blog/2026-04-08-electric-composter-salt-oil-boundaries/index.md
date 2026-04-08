@@ -120,7 +120,7 @@ Oil/fat can:
 
 Again: **composting can still happen if oxygen pathways are protected**.
 
-![How to use GEME compost correctly](./image/geme-compost-application-guide.png)
+![How to compost salt and oil leftovers](./image/compost-soil-and-oil.jpg)
 
 ## 4. The boundary: what we recommend (clear, honest, kitchen-executable)
 
