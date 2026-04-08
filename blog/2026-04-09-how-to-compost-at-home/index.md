@@ -13,7 +13,7 @@ keywords:
 slug: how-to-compost-at-home
 authors: [Moore]
 tags: [composter, composting, geme]
-image: https://www.geme.bio/assets/images/can-you-compost-meat-and-bones-f21f56b1327a99eb65ec7aa2015866a7.jpg
+image: https://www.geme.bio/assets/images/how-to-compost-at-home-8b541e63f3e208817e87194d9ef0c80b.png
 ---
 
 import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
@@ -213,19 +213,7 @@ Here's the truth that many composting guides won't tell you. Traditional compost
 
 I've talked to so many people who tried traditional composting, got overwhelmed or frustrated, and gave up. The guilt of throwing away food scraps came right back. That's where a better solution comes in.
 
-<GemeTerra2CTA 
- imgSrc="/img/geme-terra-2-composter.jpg"
- productTitle="GEME Terra II: Best Kitchen Composter"
- features={[
-    "✅ Best Tool to Make Compost at Home",
-    "✅ Biologically Active Composting System",
-    "✅ Quiet, Odour-Free, Real Compost",
-    "✅ Zero Filter Costs, No Refills",
-    "✅ Reduces Composting Time to Days"
- ]}
-buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home"
-/>
+![The best composter at home](./image/how-to-use-compost.png)
 
 ### Method 2: Composting with GEME (The Modern Solution)
 
@@ -296,8 +284,6 @@ Here's what makes GEME the best choice for most modern households.
 | **Daily attention needed**      | Yes (monitoring, turning)                     | No (just add scraps)                      |
 | **Filter costs**                | None                                          | \$0 (permanent metal-ion catalyst)         |
 
-![The best composter at home](./image/how-to-use-compost.png)
-
 #### No Hidden Costs
 
 One of the things I appreciate most about GEME is that there are no recurring fees. Many electric composters require you to buy charcoal filters every few months. Those costs add up.
@@ -343,8 +329,6 @@ buttonText="Get Your GEME Terra II"
 ##### The Only Downside
 
 GEME costs more upfront than a plastic compost bin. You're paying for technology and convenience. But when you factor in the time you save, the year-round operation, and the fact that you never buy filters, many people find it's well worth the investment.
-
-![What can be composted?](./image/how-to-use-compost.png)
 
 ## 4. Which Composting Method Is Right for You
 
