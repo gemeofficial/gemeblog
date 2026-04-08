@@ -71,6 +71,20 @@ And honestly, there's something satisfying about closing the loop. You grow food
 
 [**See How GEME Composter Works** -->](https://www.geme.bio/how-it-works)
 
+<GemeTerra2CTA 
+ imgSrc="/img/geme-terra-2-composter.jpg"
+ productTitle="GEME Terra II: Best Kitchen Composter"
+ features={[
+    "✅ Best Tool to Make Compost at Home",
+    "✅ Biologically Active Composting System",
+    "✅ Quiet, Odour-Free, Real Compost",
+    "✅ Zero Filter Costs, No Refills",
+    "✅ Reduces Composting Time to Days"
+ ]}
+buttonText="Get Your GEME Terra II"
+  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home"
+/>
+
 ## 2. What Can You Compost
 
 Knowing what to put in your compost is half the battle. Let me break it down simply.
@@ -296,6 +310,10 @@ When we talk about a 6 to 8 hour GEME breakdown cycle, it needs to be more speci
 
 The machine runs continuously, so you add new waste whenever you have it. When you harvest after a month or two, you'll have a mix of fully broken down compost and a few larger pieces. Those larger pieces can simply be returned to the machine to continue breaking down. This is called the "sift and return" principle, and it's a normal part of how the system works.
 
+👉 [Learn More About GEME Terra II](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home)
+
+👉 [Explore GEME Pro for Big Households/Plant Shops/Restaurants](https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home)
+
 #### Who Is GEME For
 
 GEME is perfect for:
@@ -382,7 +400,11 @@ The choice is yours. But either way, start composting today.
 
 - Methods & boundaries → [**Open GK Verification**](https://www.geme.bio/gk)
 
-- Ready for the kitchen workflow? → [**Shop Terra 2**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=what-can-you-put-in-electric-composter-meat-dairy-bones)
+- Ready for the kitchen workflow? → [**Shop Terra 2**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home)
+
+👉 [Learn More About GEME Terra II](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home)
+
+👉 [Explore GEME Pro for Big Households/Plant Shops/Restaurants](https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home)
 
 <GemeTerra2CTA 
  imgSrc="/img/geme-terra-2-composter.jpg"
@@ -397,6 +419,20 @@ The choice is yours. But either way, start composting today.
 buttonText="Get Your GEME Terra II"
   href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home"
 />
+
+<GemeComposterCTA 
+ imgSrc="/img/geme-bio-composter.jpg"
+ productTitle="GEME Pro Composter"
+ features={[
+    "✅ Best Composter With No Hidden Costs",
+    "✅ Produce Soil-Ready Compost For Plant Growth",
+    "✅ Quiet, Odor-Free, Quick(6-8 hours)",
+    "✅ Large Capacity (19 L) For Daily Waste"
+  ]}
+buttonText="Get Your GEME Pro"
+  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home"
+/>
+
 
 ## Sources & References
 
