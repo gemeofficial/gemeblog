@@ -320,7 +320,7 @@ Here's what makes GEME the best choice for most modern households.
 | **Daily attention needed**      | Yes (monitoring, turning)                     | No (just add scraps)                      |
 | **Filter costs**                | None                                          | \$0 (permanent metal-ion catalyst)         |
 
-Check the pros & cons of GEME composter: [**GEME Terra II Pros & Cons](https://www.geme.bio/blog/geme-terra-2-pros-and-cons)
+Check the pros & cons of GEME composter: [**GEME Terra II Pros & Cons**](https://www.geme.bio/blog/geme-terra-2-pros-and-cons)
 
 ![How to start composting](./image/how-to-start-composting.png)
 
