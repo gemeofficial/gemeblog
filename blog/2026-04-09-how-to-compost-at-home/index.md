@@ -35,6 +35,28 @@ By the end, you'll know exactly which composting approach works for your life.
 
 <!-- truncate -->
 
+## Table Of Content 
+
+1. [**What Is Composting**](#1-what-is-composting)
+
+ - [How Composting Actually Works](#how-composting-actually-works)
+ - [Why Bother Composting](#why-bother-composting)
+
+2. [**What Can You Compost**](#2-what-can-you-compost)
+
+ - [The Greens (Nitrogen-Rich Materials)](#the-greens-nitrogen-rich-materials)
+ - [The Browns (Carbon-Rich Materials)](#the-browns-carbon-rich-materials)
+ - [The Golden Rule of Composting](#the-golden-rule-of-composting)
+ - [What NOT to Put in a Basic Compost Pile](#what-not-to-put-in-a-basic-compost-pile)
+
+3. [**How to Start Composting**](#3-how-to-start-composting)
+
+ - [Method 1: Traditional Backyard Composting](#method-1-traditional-backyard-composting)
+ - [Method 2: Composting with GEME (The Modern Solution)](#method-2-composting-with-geme-the-modern-solution)
+
+4. [**Which Composting Method Is Right for You**](#4-which-composting-method-is-right-for-you)
+
+
 ## 1. What Is Composting
 
 Before we get into the how, let's talk about the what.
@@ -297,6 +319,8 @@ Here's what makes GEME the best choice for most modern households.
 | **Pests and odors**             | Highly-potential problem if not managed              | Sealed system, permanent odor control     |
 | **Daily attention needed**      | Yes (monitoring, turning)                     | No (just add scraps)                      |
 | **Filter costs**                | None                                          | \$0 (permanent metal-ion catalyst)         |
+
+![How to start composting](./image/how-to-start-composting.png)
 
 #### No Hidden Costs
 
