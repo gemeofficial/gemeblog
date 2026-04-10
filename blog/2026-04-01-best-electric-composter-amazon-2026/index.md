@@ -49,7 +49,7 @@ Letâ€™s break down the top five contenders so you can make a choice that doesnâ€
 
 | **Code**      | Status  | Note              | Time                     |
 |-----------|---------|-------------------|--------------------------|
-| <span style={{fontWeight: 'bold', color: '#20732d'}}><b>8U26IIGT</b></span>  | Active  | GEME Spring Sale 2026 For European  | April 10th      |
+| <span style={{fontWeight: 'bold', color: '#20732d'}}><b>8U26IIGT</b></span>  | Active  | GEME Spring Sale 2026 For Europe  | April 10th      |
 
 <GemeComposterCTA 
  imgSrc="/img/geme-bio-composter.jpg"
