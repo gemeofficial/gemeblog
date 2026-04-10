@@ -45,7 +45,7 @@ Letâ€™s break down the top five contenders so you can make a choice that doesnâ€
 
 ### GEME Composter Discount Code
 
-1. For **European users**, copy the following discount code when ordering your [GEME composter on **Amazon**](https://www.amazon.de/GEME-Elektrischer-Dauerhafter-Kompostierung-Kompostbeh%C3%A4lter/dp/B0CJY4K9J3?maas=maas_adg_D9C157C31F6A55BC314A0DE4E4BCD268_afap_abs&ref_=aa_maas&tag=maas), you'll have 10% saved. 
+1. For **European users**, copy the following discount code before ordering your [GEME composter on **Amazon**](https://www.amazon.de/GEME-Elektrischer-Dauerhafter-Kompostierung-Kompostbeh%C3%A4lter/dp/B0CJY4K9J3?maas=maas_adg_D9C157C31F6A55BC314A0DE4E4BCD268_afap_abs&ref_=aa_maas&tag=maas), you'll have 10% saved. 
 
 | **Code**      | Status  | Note              | Time                     |
 |-----------|---------|-------------------|--------------------------|
@@ -64,7 +64,7 @@ buttonText="Copy Your Discount Code Before Ordering GEME Pro"
   href="https://www.amazon.de/GEME-Elektrischer-Dauerhafter-Kompostierung-Kompostbeh%C3%A4lter/dp/B0CJY4K9J3?maas=maas_adg_D9C157C31F6A55BC314A0DE4E4BCD268_afap_abs&ref_=aa_maas&tag=maas"
 />
 
-2. For **North American users**, copy the following discount code when ordering your [GEME composter on **Amazon**](https://www.amazon.com/GEME-Composter-Real-Composting-Electric/dp/B0BV31KTCN?maas=maas_adg_DE9092514960BF966A5D7E4A3FAD83E9_afap_abs&ref_=aa_maas&tag=maas), you'll have \$45 saved. 
+2. For **North American users**, copy the following discount code before ordering your [GEME composter on **Amazon**](https://www.amazon.com/GEME-Composter-Real-Composting-Electric/dp/B0BV31KTCN?maas=maas_adg_DE9092514960BF966A5D7E4A3FAD83E9_afap_abs&ref_=aa_maas&tag=maas), you'll have \$45 saved. 
 
 | **Code**      | Status  | Note              | Time                     |
 |-----------|---------|-------------------|--------------------------|
