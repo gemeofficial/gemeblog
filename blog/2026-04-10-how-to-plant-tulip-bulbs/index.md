@@ -9,7 +9,7 @@ keywords:
   - when to plant tulip bulbs
 slug: how-to-plant-tulip-bulbs-in-spring-guide
 authors: [Moore]
-tags: [composter, composting, geme]
+tags: [gardening, compost, geme]
 image: https://www.geme.bio/assets/images/how-to-plant-tulips-94eccd2c51f7b959454a30f8ac4a094c.jpg
 ---
 
