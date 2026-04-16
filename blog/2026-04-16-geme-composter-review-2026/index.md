@@ -70,7 +70,7 @@ The Backyard Farmer review of the GEME electric composter highlighted a few thin
 
 4. **Continuous feed is a game changer**. “I can’t overstate how convenient this is. With batch machines, you have to fill the bucket and then wait hours for a cycle to finish. With GEME, you just lift the lid and toss them in. Anytime.”
 
-5. **No recurring costs**. “This is huge. Lomi owners spend an average of $150–$200 per year on filters. GEME costs $0.” The output is genuine compost with active microorganisms that plants can use immediately.
+5. **No recurring costs**. “This is huge. Lomi owners spend an average of \$150–\$200 per year on filters. GEME costs \$0.” The output is genuine compost with active microorganisms that plants can use immediately.
 
 <GemeComposterCTA 
  imgSrc="/img/geme-bio-composter.jpg"
@@ -201,7 +201,7 @@ There's no need to push any buttons to start the cycle. Simply open the lid and 
 
 | **Cons**                | **Details**                                                                              |
 |-------------------------|------------------------------------------------------------------------------------------|
-| Higher upfront cost     | More expensive than basic composters, but the value justifies the investment             |
+| Higher upfront cost     | More expensive than basic dehydrators, but the value justifies the investment             |
 | Floor-standing design   | Needs dedicated kitchen floor space; may not fit on a countertop                         |
 
 ### How GEME Composter Compares to Other Electric Composters
@@ -290,7 +290,7 @@ For most home gardeners, a combination works best. Use GEME for your daily kitch
 
 ### Q: How loud is it?
 
-> A: CAbout 35 to 40 decibels. That's quieter than a refrigerator. You can run it in an open kitchen without annoying anyone.
+> A: About 35 to 40 decibels. That's quieter than a refrigerator. You can run it in an open kitchen without annoying anyone.
 
 ### Q: How often do I empty it?
 
