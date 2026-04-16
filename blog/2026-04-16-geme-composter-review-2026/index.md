@@ -60,7 +60,7 @@ One reviewer from Backyard Farmer put it this way: “The GEME produces genuine 
 
 ### Real User Experiences (From the Backyard Farmer Review)
 
-The Backyard Farmer review of the GEME electric composter highlighted a few things that match what other users say.
+[**The Backyard Farmer review**]((https://backyard-farmer.com/geme-electric-compost-bin-review/)) of the GEME electric composter highlighted a few things that match what other users say.
 
 1. **The smell is the first thing you notice, or rather, the lack of it**. “When you open a traditional kitchen bin, you brace yourself. With GEME, there’s nothing to brace for.”
 
