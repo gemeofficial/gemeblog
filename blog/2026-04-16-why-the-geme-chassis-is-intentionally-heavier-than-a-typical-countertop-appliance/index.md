@@ -71,7 +71,7 @@ Answer these three questions before you read the rest.
 
 - More throughput / longer maintenance interval → GEME Pro fit
 
-- Not sure yet → jump to #cards
+- Not sure yet → jump to [**Practical Drecision Rules**](#8-practical-decision-rules)
 
 One-line takeaway: **choose by daily capacity, floor/room context, and headroom, not by the emotional shorthand of “light” or “heavy.”**
 
