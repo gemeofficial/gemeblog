@@ -11,7 +11,7 @@ keywords:
 slug: how-to-fertilise-your-plants-in-spring
 authors: [Moore]
 tags: [gardening, compost, geme]
-
+image: https://www.geme.bio/assets/images/best-fertilizer-for-garden-in-spring-317ba92b7c05eec08b2558cdf15ed8ae.jpg
 ---
 
 import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
