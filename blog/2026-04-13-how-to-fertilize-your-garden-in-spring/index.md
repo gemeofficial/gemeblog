@@ -8,10 +8,10 @@ keywords:
   - compost for garden
   - compost for raised bed garden
   - how to use geme compost
-slug: how-to-fertilize-your-plants-in-spring
+slug: how-to-fertilise-your-plants-in-spring
 authors: [Moore]
 tags: [gardening, compost, geme]
-image: https://www.geme.bio/assets/images/best-fertilizer-for-garden-in-spring-317ba92b7c05eec08b2558cdf15ed8ae.jpg
+
 ---
 
 import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
@@ -69,7 +69,7 @@ In this guide, I'll walk you through everything you need to know about spring ga
   - [Why GEME Compost Is Perfect for Raised Bed Gardens](#why-geme-compost-is-perfect-for-raised-bed-gardens)
   - [Harvesting and Using Your GEME Compost](#harvesting-and-using-your-geme-compost)
 
-6. [**Step-by-Step Spring Garden Fertility Plan**](#6-step-by-step-spring-garden-fertility-plan)
+6. [**WStep-by-Step Spring Garden Fertility Plan**](#6-step-by-step-spring-garden-fertility-plan)
 
   - [Week 1-2: Soil Testing and Preparation](#week-1-2-soil-testing-and-preparation)
   - [Week 2-3: Add Compost](#week-2-3-add-compost)
