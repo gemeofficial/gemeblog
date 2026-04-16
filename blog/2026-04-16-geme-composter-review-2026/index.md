@@ -89,7 +89,7 @@ buttonText="Get Your GEME Pro"
 
 The GEME is a floor-standing, 19-liter electric kitchen composter that uses live microorganisms to break down food waste. Unlike popular brands that essentially dehydrate and grind your scraps, GEME is a Continuous Aerobic Bio-processor. It provides a controlled environment where specially selected bacteria eat your food waste, turning it into nutrient-rich compost.
 
-Made from durable materials, the GEME boasts a 19-liter capacity, making it ideal for families of up to three. It works quietly, fits neatly into a corner of your kitchen, and requires very little hands-on effort. It's designed to be a permanent solution, not a temporary appliance.
+Made from durable materials, the GEME boasts a 19-liter capacity, making it ideal for families of three or more. It works quietly, fits neatly into a corner of your kitchen, and requires very little hands-on effort. It's designed to be a permanent solution, not a temporary appliance.
 
 ![GEME Composter: The Best Electric Kitchen Composter](./image/geme-composter.png)
 
