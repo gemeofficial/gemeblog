@@ -56,7 +56,7 @@ In this guide, I’ll walk you through exactly how each method works, what they 
 
 9. [**Who Should Choose Each Method**?](#9-who-should-choose-each-method)
 
-## 1. What Is GEME? (The Electric Composter)
+## 1. What Is GEME Composter? (The Electric Composter)
 
 GEME composter is a floor-standing electric kitchen composter that uses live microorganisms to actually digest your food waste. Unlike popular brands that dehydrate and grind your scraps into dried dust, GEME composter is what engineers call a Continuous Aerobic Bio-processor.
 
