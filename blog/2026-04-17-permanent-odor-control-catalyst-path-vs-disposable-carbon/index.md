@@ -63,14 +63,14 @@ Answer these three questions before you read the rest.
 - Cleaning after every use
 - Managing batch cycles and cooldowns
 
-If any of those sound annoying, jump to Choose GEME
+If any of those sound annoying, jump to [**Choose GEME**](#choose-geme-if)
 
 ### Q2. What kind of scraps do you generate most often?
 
 - Ordinary daily peels and leftovers
 - Frequent soups, sauces, and very wet waste
 
-If you often generate very wet waste, jump to Practical Rules.
+If you often generate very wet waste, jump to [**Practical Rules**](#7-practical-decision-rules).
 
 ### Q3. What do you want from odor control?
 
@@ -79,7 +79,7 @@ If you often generate very wet waste, jump to Practical Rules.
 
 If you want low-maintenance first, read the next section.
 
-If you want the mechanism, jump to #cards.
+If you want the mechanism, jump to [**How GEME Works**](https://www.geme.bio/how-it-works).
 
 One-line takeaway: **the main GEME promise is not “perfect odor in fantasy conditions.” It is less daily odor-management work in real kitchens**.
 
