@@ -9,7 +9,7 @@ keywords:
 slug: permanent-odor-control-catalyst-path-vs-disposable-carbon
 authors: [Moore]
 tags: [composter, composting, geme]
-image: https://www.geme.bio/assets/images/geme-terra-2-3fa3f8d5a51ce48d8e19c99448eba4a4.png
+image: https://www.geme.bio/assets/images/geme-composter-pro-adb6629bdc98a34710b15c1a234f041f.png
 ---
 
 import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
