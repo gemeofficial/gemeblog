@@ -38,7 +38,7 @@ In this guide, I’ll walk you through exactly how each method works, what they 
 
 ## Table Of Content
 
-1. [**What Is GEME Composter**?](#1-what-is-geme-the-electric-composter)
+1. [**What Is GEME Composter**?](#1-what-is-geme-composter-the-electric-composter)
 
 2. [**What Is DIY Bokashi**?](#2-what-is-diy-bokashi-the-fermentation-bucket)
 
