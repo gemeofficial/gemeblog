@@ -12,7 +12,7 @@ keywords:
 slug: geme-composter-vs-diy-bokashi-composting
 authors: [Moore]
 tags: [composter, composting, geme]
-
+image: https://www.geme.bio/assets/images/geme-composter-6f4105c649960e42ada21b3295c23b26.png
 ---
 
 import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
@@ -35,6 +35,26 @@ In this guide, I’ll walk you through exactly how each method works, what they 
 ![GEME Composter](./image/geme-composter.png)
 
 <!-- truncate -->
+
+## Table Of Content
+
+1. [**What Is GEME Composter**?](#1-what-is-geme-the-electric-composter)
+
+2. [**What Is DIY Bokashi**?](#2-what-is-diy-bokashi-the-fermentation-bucket)
+
+3. [**The Output Face-Off: Real Compost vs Pre-Compost**](#3-the-output-face-off-real-compost-vs-pre-compost)
+
+4. [**Speed: How Long Until You Get Usable Compost**?](#4-speed-how-long-until-you-get-usable-compost)
+
+5. [**What Can You Put In? Input Comparison**](#5-what-can-you-put-in-input-comparison)
+
+6. [**Ongoing Costs: The Hidden Subscription Nobody Mentions**](#6-ongoing-costs-the-hidden-subscription-nobody-mentions)
+
+7. [**Space and Setup: Where Does It Live**?](#7-space-and-setup-where-does-it-live)
+
+8. [**Odor and Mess: Which One Doesn’t Stink**?](#8-odor-and-mess-which-one-doesnt-stink)
+
+9. [**Who Should Choose Each Method**?](#9-who-should-choose-each-method)
 
 ## 1. What Is GEME? (The Electric Composter)
 
@@ -99,7 +119,7 @@ buttonText="Get Your GEME Terra II"
   href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-composter-vs-diy-bokashi-composting"
 />
 
-## What Is DIY Bokashi? (The Fermentation Bucket)
+## 2. What Is DIY Bokashi? (The Fermentation Bucket)
 
 Bokashi is a Japanese method that ferments food waste using beneficial microorganisms. Unlike traditional composting which relies on oxygen and decomposition, Bokashi is anaerobic, meaning it happens without oxygen.
 
@@ -472,6 +492,7 @@ buttonText="Get Your GEME Pro"
 
 <RelatedArticles
   slugs={[
+  "permanent-odor-control-catalyst-path-vs-disposable-carbon",
   "why-the-geme-chassis-is-intentionally-heavier-than-a-typical-countertop-appliance",
   "geme-composter-review-2026-geme-pro",
   "how-to-fertilise-your-plants-in-spring",
