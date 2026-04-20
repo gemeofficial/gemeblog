@@ -375,6 +375,7 @@ Every year, thousands of people learn this lesson the hard way. You do not have 
 
 <RelatedArticles
   slugs={[
+  "geme-composter-vs-diy-bokashi-composting",
   "permanent-odor-control-catalyst-path-vs-disposable-carbon",
   "why-the-geme-chassis-is-intentionally-heavier-than-a-typical-countertop-appliance",
   "geme-composter-review-2026-geme-pro",
