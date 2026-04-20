@@ -10,7 +10,7 @@ keywords:
 slug: how-to-avoid-leftover-food-poisoning-fried-rice-syndrome
 authors: [Moore]
 tags: [food waste, composting, geme]
-
+image: https://www.geme.bio/assets/images/bacillus-cereus-bacteria-rice-spores-toxins-f459bf4ac0b4f2c4e6b67ab472ef633f.webp
 ---
 
 import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
