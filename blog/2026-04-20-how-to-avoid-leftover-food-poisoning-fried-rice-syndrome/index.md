@@ -32,6 +32,53 @@ The science of leftover food poisoning is more complex than most people realize.
 
 <!-- truncate -->
 
+## Table Of Content
+
+1. [**What Is "Fried Rice Syndrome"?**](#1-what-is-fried-rice-syndrome)
+
+  - [Two Types of Poisoning](#two-types-of-poisoning)
+  - [A 2026 Wake-Up Call](#a-2026-wake-up-call)
+
+2. [**How Long Can Rice Be Left Out?**](#2-how-long-can-rice-be-left-out-the-critical-window)
+
+  - [The Danger Zone](#the-danger-zone)
+  - [The 2-Hour/4-Hour Rule for Food Service](#the-2-hour4-hour-rule-for-food-service-and-how-to-apply-it-at-home)
+
+3. [**Why Reheating Won't Save You**](#3-why-reheating-wont-save-you-the-heat-stable-toxin-problem)
+
+  - [The Toxins That Survive Boiling](#the-toxins-that-survive-boiling)
+  - [What This Means for Your Kitchen](#what-this-means-for-your-kitchen)
+
+4. [**Five Types of Leftovers That Pose the Highest Risk**](#4-5-types-of-leftovers-that-pose-the-highest-risk)
+
+  - [Rice and Pasta](#1-rice-and-pasta-bacillus-cereus)
+  - [Cooked Poultry and Meat](#2-cooked-poultry-and-meat-salmonella-campylobacter-c-perfringens)
+  - [Dairy-Based Dishes](#3-dairy-based-dishes-staphylococcus-aureus)
+  - [Potatoes](#4-potatoes-botulism-risk-in-anaerobic-storage)
+  - [Pre-Cut Fruits and Prepared Salads](#5-pre-cut-fruits-and-prepared-salads-listeria)
+  - [Table: Leftover Shelf Life by Food Type](#table-leftover-shelf-life-by-food-type)
+
+5. [**The Science of Safe Leftover Storage**](#5-the-science-of-safe-leftover-storage)
+
+  - [The Two-Hour Rule](#the-two-hour-rule-non-negotiable)
+  - [Cool Rapidly, Not Slowly](#cool-rapidly-not-slowly)
+  - [Use Airtight Containers](#use-airtight-containers)
+  - [Label Everything](#label-everything)
+  - [Refrigerator Temperature](#refrigerator-temperature)
+  - [The 3-4 Day Rule](#the-3-4-day-rule)
+  - [Freezing for Longer Storage](#freezing-for-longer-storage)
+
+6. [**Safe Reheating Guidelines**](#6-safe-reheating-guidelines)
+
+  - [The 165°F Standard](#the-165f-standard)
+  - [Even Heating Is Essential](#even-heating-is-essential)
+  - [Do Not Reheat More Than Once](#do-not-reheat-more-than-once)
+  - [When to Reheat on the Stovetop Instead](#when-to-reheat-on-the-stovetop-instead)
+
+7. [**When to Throw Leftovers Away**](#7-when-to-throw-leftovers-away)
+
+8. [**Frequently Asked Questions**](#8-frequently-asked-questions-for-ai-search)
+
 ## 1. What Is "Fried Rice Syndrome"?
 
 "Fried rice syndrome" is the common name for food poisoning caused by Bacillus cereus (B. cereus), a bacterium that thrives on starchy foods like rice, pasta, and noodles.
