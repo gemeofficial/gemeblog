@@ -24,7 +24,7 @@ In 2008, a 20-year-old Belgian college student ate leftover pasta that had been 
 
 This wasn't an isolated freak accident. In 2026, a man in China suffered multiple organ failure after eating improperly stored leftover rice that was later turned into fried rice. The same month, [97 employees at an office canteen in Bengaluru fell ill after consuming contaminated food, with symptoms including vomiting, nausea, and stomach pain](https://spa.symptoma.com/en/info/food-poisoning-due-to-bacillus-cereus).
 
-The Centers for [**Disease Control and Prevention** (**CDC**)](https://www.cdc.gov/food-safety/data-research/facts-stats/index.html) estimates that 48 million Americans get sick from foodborne illnesses every year. Of those, 128,000 are hospitalized, and 3,000 die. A significant portion of these cases are linked to leftovers—food that people assumed was safe to eat simply because it had been refrigerated.
+The Centers for [**Disease Control and Prevention** (**CDC**)](https://www.cdc.gov/food-safety/data-research/facts-stats/index.html) estimates that 48 million Americans get sick from foodborne illnesses every year. Of those, 128,000 are hospitalized, and 3,000 die. A significant portion of these cases are linked to leftovers, food that people assumed was safe to eat simply because it had been refrigerated.
 
 The science of leftover food poisoning is more complex than most people realize. This article will walk you through the hidden dangers in your refrigerator, the bacteria that cause the most harm, and exactly how to protect yourself and your family.
 
@@ -91,9 +91,9 @@ The CDC reports that B. cereus accounts for approximately 63,000 cases of foodbo
 
 B. cereus produces two distinct forms of food poisoning:
 
-1. **The Emetic (Vomiting) Type**: This form is most often associated with fried rice and pasta dishes that have been cooked and then kept warm for extended periods. Symptoms—nausea and vomiting—typically appear within 1 to 6 hours after consumption. The toxin responsible for vomiting is heat-stable, meaning reheating the food will not make it safe.
+1. **The Emetic (Vomiting) Type**: This form is most often associated with fried rice and pasta dishes that have been cooked and then kept warm for extended periods. Symptoms, nausea and vomiting, typically appear within 1 to 6 hours after consumption. The toxin responsible for vomiting is heat-stable, meaning reheating the food will not make it safe.
 
-2. **The Diarrheal Type**: This form is more often linked to meat, vegetables, and sauces. Symptoms—diarrhea and abdominal cramps—usually appear 6 to 15 hours after eating.
+2. **The Diarrheal Type**: This form is more often linked to meat, vegetables, and sauces. Symptoms, diarrhea and abdominal cramps, usually appear 6 to 15 hours after eating.
 
 ### A 2026 Wake-Up Call
 
@@ -243,17 +243,17 @@ Knowing when to discard leftovers is as important as knowing how to store them. 
 
 ### Discard Leftovers Immediately If
 
- - They have been at room temperature for more than two hours
+ - **They have been at room temperature for more than two hours**
 
- - They have been in the refrigerator for more than four days
+ - **They have been in the refrigerator for more than four days**
 
- - You notice any signs of mold, sliminess, or off-odor (though the absence of these signs does not guarantee safety)
+ - **You notice any signs of mold, sliminess, or off-odor** (though the absence of these signs does not guarantee safety)
 
- - They were reheated once and not consumed
+ - **They were reheated once and not consumed**
 
 ### The "When in Doubt, Throw It Out" Rule
 
-Food safety experts consistently emphasize this principle. The cost of replacing a meal is far lower than the cost of a hospital visit. If you cannot remember when a leftover was prepared, or if it has been in the refrigerator for more than four days, discard it. Do not taste it to check.
+Food safety experts consistently emphasize this principle. The cost of replacing a meal is far lower than the cost of a hospital visit. If you cannot remember when a leftover was prepared, or if it has been in the refrigerator for **more than four days**, **discard it**. Do not taste it to check.
 
 ### Composting Spoiled Leftovers Responsibly
 
