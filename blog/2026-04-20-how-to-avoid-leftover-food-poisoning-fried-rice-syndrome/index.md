@@ -20,7 +20,7 @@ import ReactPlayer from 'react-player'
 
 ## Introduction: The Leftover That Almost Killed a College Student
 
-In 2008, a 20-year-old Belgian college student ate leftover pasta that had been sitting at room temperature for five days. Within hours, he developed severe nausea, abdominal pain, and vomiting. Despite receiving medical care, he died the next day. The cause? A bacterium called Bacillus cereus, in a case that became known worldwide as [**"fried rice syndrome"**](https://www.foodpoisoningnews.com/is-reheated-rice-syndrome-truly-something-to-worry-about/).
+In 2008, a 20-year-old Belgian college student ate leftover pasta that had been sitting at room temperature for five days. Within hours, he developed severe nausea, abdominal pain, and vomiting. Despite receiving medical care, he died the next day. The cause? A bacterium called **Bacillus Cereus**, in a case that became known worldwide as [**"Fried Rice Syndrome"**](https://en.wikipedia.org/wiki/Bacillus_cereus).
 
 This wasn't an isolated freak accident. In 2026, a man in China suffered multiple organ failure after eating improperly stored leftover rice that was later turned into fried rice. The same month, [97 employees at an office canteen in Bengaluru fell ill after consuming contaminated food, with symptoms including vomiting, nausea, and stomach pain](https://spa.symptoma.com/en/info/food-poisoning-due-to-bacillus-cereus).
 
