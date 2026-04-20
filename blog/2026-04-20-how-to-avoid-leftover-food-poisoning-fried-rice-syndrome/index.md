@@ -178,7 +178,7 @@ Pre-cut melon, packaged fruit salads, and prepared deli salads have been linked 
 | Rice and pasta             | 1-2 days               | Up to 2 months         | B. cereus risk; eat within 2 days               |
 | Cooked poultry and meat    | 3-4 days               | 2-6 months             | Reheat to 165°F                                 |
 | Soups, stews, casseroles   | 3-4 days               | 2-3 months             | Divide into shallow containers for rapid cooling |
-| Cooked vegetables          | 3-4 days               | 2-3 months             | Discard if slimy or discolored                  |
+| Cooked vegetables          | Not recommended               | Not recommended             | Discard if left                  |
 | Dairy-based dishes         | 2-3 days               | 1-2 months             | Highest risk for S. aureus                      |
 | Pizza                      | 3-4 days               | 1-2 months             | Keep refrigerated, not on counter               |
 | Hardboiled eggs            | 1 week                 | Not recommended        | Eat within same day if possible                 |
