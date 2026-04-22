@@ -303,7 +303,7 @@ buttonText="Get Your GEME Pro"
   slugs={[
   "why-the-geme-chassis-is-intentionally-heavier-than-a-typical-countertop-appliance",
   "geme-composter-review-2026-geme-pro",
-  "how-to-fertilise-your-plants-in-spring",
+  "how-to-fertilize-your-plants-in-spring",
   "how-to-plant-tulip-bulbs-in-spring-guide",
   "what-can-you-put-in-electric-composter-meat-dairy-bones",
   "electric-composter-salt-oil-boundaries",
