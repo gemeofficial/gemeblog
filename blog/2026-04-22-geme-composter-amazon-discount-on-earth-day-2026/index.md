@@ -1,5 +1,5 @@
 ---
-title: "Get $100 OFF GEME Composter on Amazon for Earth Day, 2026"
+title: "Get $100 OFF: GEME Composter Best Deal on Amazon for Earth Day, 2026"
 description: "Celebrate Earth Day 2026 with $100 off GEME Composter on Amazon. Turn food waste into real compost in hours. No filters to replace. Zero recurring costs."
 keywords:
   - geme composter
