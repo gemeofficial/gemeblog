@@ -100,7 +100,7 @@ Apply discount code **7AXL4NIV** at checkout on Amazon. Your total discount can 
     "✅ Quiet, Odor-Free, Quick(6-8 hours)",
     "✅ Large Capacity (19 L) For Daily Waste"
   ]}
-buttonText="Get \$100 Off on Amazon US"
+buttonText="Get $100 Off on Amazon US"
   href="https://www.amazon.com/GEME-Composter-Real-Composting-Electric/dp/B0BV31KTCN?maas=maas_adg_95133E1DFCABAF6F40B83EDC1AF7526F_afap_abs&ref_=aa_maas&tag=maas"
 />
 
