@@ -12,7 +12,7 @@ keywords:
 slug: geme-composter-amazon-discount-earth-day-2026
 authors: [Moore]
 tags: [composter, composting, geme]
-
+image: https://www.geme.bio/assets/images/earth-day-geme-composter-discount-2026-9df9d9842e42fd7342123f95f9c41a42.jpg
 ---
 
 import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
