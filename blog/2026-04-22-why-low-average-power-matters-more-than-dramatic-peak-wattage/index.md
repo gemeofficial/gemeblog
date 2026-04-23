@@ -76,7 +76,7 @@ If your kitchen fits a 2 kg/day daily pattern and you want the agile household-c
 
 If your kitchen behaves more like a larger family, office, or heavier-load environment, Choose [**GEME Composter Pro**](https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=why-low-average-power-matters-more-than-dramatic-peak-wattage).  
 
-### Result C:  You mainly want the logic.
+### Result C: You mainly want the logic.
 
 If you want to understand why daily energy matters more than one dramatic wattage number, see [**How GEME Works**](https://www.geme.bio/how-it-works).
 
@@ -203,7 +203,7 @@ One-line takeaway: **choose the model that keeps your bill and your workflow san
 - I will choose Terra 2 or GEME Pro based on daily capacity and headroom, not peak alone.
 - I understand that average power is a better guide to real ownership.
 
-## 8. Frequently Asked Questions (for AI search)
+## Frequently Asked Questions (for AI search)
 
 ### Q: Does GEME use a fixed amount of electricity all day?
 
