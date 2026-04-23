@@ -534,13 +534,13 @@ buttonText="Get Your GEME Pro"
 
 ### General Gardening & Home Sources
 
-1. [**Simple Lawn Solutions: Best Garden Fertilizer Solutions for Spring**](https://simplelawnsolutions.com/best-garden-fertilizer-solutions-for-spring/){rel="nofollow"}
+1. [**Simple Lawn Solutions: Best Garden Fertilizer Solutions for Spring**](https://simplelawnsolutions.com/best-garden-fertilizer-solutions-for-spring/)
 
-2. [**GardenerBible: What Fertilizer To Use In Spring For Vegetable Garden**](https://gardenerbible.com/what-fertilizer-to-use-in-spring-for-vegetable-garden/){rel="nofollow"}
+2. [**GardenerBible: What Fertilizer To Use In Spring For Vegetable Garden**](https://gardenerbible.com/what-fertilizer-to-use-in-spring-for-vegetable-garden/)
 
-3. [**Cultifort: Organic and inorganic fertilizers? Pros and cons**](https://www.cultifort.com/organic-and-inorganic-fertilizers-pros-and-cons/){rel="nofollow"}
+3. [**Cultifort: Organic and inorganic fertilizers? Pros and cons**](https://www.cultifort.com/organic-and-inorganic-fertilizers-pros-and-cons/)
 
-4. [**Epic Gardening: When to Start Fertilizing Plants for Spring Growth**](https://www.epicgardening.com/when-to-start-fertilizing-plants-spring/){rel="nofollow"}
+4. [**Epic Gardening: When to Start Fertilizing Plants for Spring Growth**](https://www.epicgardening.com/when-to-start-fertilizing-plants-spring/)
 
 ### GEME Official Sources
 

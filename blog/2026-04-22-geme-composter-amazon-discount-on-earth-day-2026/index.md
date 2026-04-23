@@ -194,6 +194,7 @@ Grab your GEME Composter on Amazon today. Use the code above. And give your gard
 
 <RelatedArticles
   slugs={[
+  "how-to-avoid-leftover-food-poisoning-fried-rice-syndrome",
   "geme-composter-vs-diy-bokashi-composting",
   "permanent-odor-control-catalyst-path-vs-disposable-carbon",
   "why-the-geme-chassis-is-intentionally-heavier-than-a-typical-countertop-appliance",
