@@ -72,15 +72,15 @@ That also means one more boundary has to be stated clearly: GEME does not promis
 
 ### Result A: You mainly need the right visual standard.
 
-Jump to #cards if your main question is what the output should look like. 
+Jump to [**Why It Matters**](#why-it-matters) if your main question is what the output should look like. 
 
 ### Result B: You are really asking about maturity.
 
-Jump to #finished-compost-boundary if your concern is whether it counts as finished compost.
+Jump to [**Finished Compost Boundary**](#quick-decision) if your concern is whether it counts as finished compost.
 
 ### Result C: You want the gardening rule.
 
-Jump to #practical-rules if you want the shortest possible answer for using it with plants.
+Jump to [**Practical Rules**](#practical-decision-rules) if you want the shortest possible answer for using it with plants.
 
 **One-line takeaway**: the right question is not “Is it dry enough?” It is “Is it the right kind of biologically active base for soil use?”  
 
