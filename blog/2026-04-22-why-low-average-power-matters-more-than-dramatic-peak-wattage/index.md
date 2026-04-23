@@ -9,7 +9,7 @@ keywords:
 slug: why-low-average-power-matters-more-than-dramatic-peak-wattage
 authors: [Moore]
 tags: [composter, composting, geme]
-
+image: https://www.geme.bio/assets/images/geme-low-average-power-consumption-404db39d0ae69babe1c226e84da35870.webp
 ---
 
 import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
