@@ -25,11 +25,11 @@ import ReactPlayer from 'react-player'
 | Country                  | Discount                      | How to Get It                                      |
 |-------------------------|-------------------------------|----------------------------------------------------|
 | The U.S. | 10% off (approx. \$100)          | Use code **7AXL4NIV** at [**Amazon checkout**](https://www.amazon.com/GEME-Composter-Real-Composting-Electric/dp/B0BV31KTCN?maas=maas_adg_95133E1DFCABAF6F40B83EDC1AF7526F_afap_abs&ref_=aa_maas&tag=maas)           |
-| Germany                 | 10% off (approx. \€100)    | Use code **9TSKG45F** at [**Amazon checkout**](https://www.amazon.de/GEME-Elektrischer-Dauerhafter-Kompostierung-Kompostbeh%C3%A4lter/dp/B0CJY4K9J3?maas=maas_adg_4716B0377F71DC5424D044BF54D420AC_afap_abs&ref_=aa_maas&tag=maas)           |
+| Germany                 | 10% off (approx. €100)    | Use code **9TSKG45F** at [**Amazon checkout**](https://www.amazon.de/GEME-Elektrischer-Dauerhafter-Kompostierung-Kompostbeh%C3%A4lter/dp/B0CJY4K9J3?maas=maas_adg_4716B0377F71DC5424D044BF54D420AC_afap_abs&ref_=aa_maas&tag=maas)           |
 
 Happy Earth Day 2026! This April 22, communities in more than 190 countries are celebrating under the theme “Our Power, Our Planet”. What better way to use your power than by turning your kitchen waste into garden gold?
 
-The GEME Composter is on sale right now on Amazon. And with these exclusive discount codes, you can save around 10% in the U.S or in Germany, that‘s roughly $100 or €100 off, depending on your local pricing. **These discount codes are available from April 22 to April 30, 2026**.
+The GEME Composter is on sale right now on Amazon. And with these exclusive discount codes, you can save around 10% in the U.S or in Germany, that‘s roughly \$100 or €100 off, depending on your local pricing. **These discount codes are available from April 22 to April 30, 2026**.
 
 Here’s everything you need to know before you grab yours.
 
@@ -59,7 +59,7 @@ GEME is different.
 
 The GEME Composter uses a proprietary blend of heat-loving microorganisms called Kobold to digest your food waste. Think of it as a tiny, hungry ecosystem living in your kitchen. You add scraps anytime. The microbes eat them. What comes out is real, biologically active compost—moist, dark, and ready to mix into your garden soil.
 
-And here’s the best part for Earth Day shoppers: you never buy filters. Ever. GEME uses a permanent metal-ion oxidation catalyst that lasts the lifetime of the machine. No $50 charcoal filters every few months. No subscriptions. No surprises.
+And here’s the best part for Earth Day shoppers: you never buy filters. Ever. GEME uses a permanent metal-ion oxidation catalyst that lasts the lifetime of the machine. No \$50 charcoal filters every few months. No subscriptions. No surprises.
 
 ## 2. What Makes GEME the Best Composter for Your Home
 
@@ -67,7 +67,7 @@ The GEME Composter is packed with features that make daily composting effortless
 
 1. **Real Compost, Not Dehydrated Dust**. Unlike competitors that simply dry and grind scraps, GEME’s microbial technology actually breaks down food waste into genuine, nutrient-rich compost.
 
-2. **Zero Filter Costs Forever**. The permanent metal-ion catalyst means you never buy another filter. Most other brands charge $50–$200 per year for replacements.
+2. **Zero Filter Costs Forever**. The permanent metal-ion catalyst means you never buy another filter. Most other brands charge \$50–\$200 per year for replacements.
 
 3. **Continuous Feed, No Locked Lids**. You can add food waste any time of day. There’s no “cycle” to start or wait for. Just open, add, close.
 
@@ -100,13 +100,13 @@ Apply discount code **7AXL4NIV** at checkout on Amazon. Your total discount can 
     "✅ Quiet, Odor-Free, Quick(6-8 hours)",
     "✅ Large Capacity (19 L) For Daily Waste"
   ]}
-buttonText="Get Your GEME Pro on Amazon US"
+buttonText="Get \$100 Off on Amazon US"
   href="https://www.amazon.com/GEME-Composter-Real-Composting-Electric/dp/B0BV31KTCN?maas=maas_adg_95133E1DFCABAF6F40B83EDC1AF7526F_afap_abs&ref_=aa_maas&tag=maas"
 />
 
 ### Germany
 
-Apply discount code **9TSKG45F** at checkout on Amazon Germany. This code offers 10% off the GEME Composter, which works out to roughly \€100 in savings depending on your local pricing.
+Apply discount code **9TSKG45F** at checkout on Amazon Germany. This code offers 10% off the GEME Composter, which works out to roughly €100 in savings depending on your local pricing.
 
 [**Go to Amazon Checkout** -->](https://www.amazon.de/GEME-Elektrischer-Dauerhafter-Kompostierung-Kompostbeh%C3%A4lter/dp/B0CJY4K9J3?maas=maas_adg_4716B0377F71DC5424D044BF54D420AC_afap_abs&ref_=aa_maas&tag=maas)
 
@@ -119,7 +119,7 @@ Apply discount code **9TSKG45F** at checkout on Amazon Germany. This code offers
     "✅ Quiet, Odor-Free, Quick(6-8 hours)",
     "✅ Large Capacity (19 L) For Daily Waste"
   ]}
-buttonText="Get Your GEME Pro on Amazon DE"
+buttonText="Get €100 Off on Amazon DE"
   href="https://www.amazon.de/GEME-Elektrischer-Dauerhafter-Kompostierung-Kompostbeh%C3%A4lter/dp/B0CJY4K9J3?maas=maas_adg_4716B0377F71DC5424D044BF54D420AC_afap_abs&ref_=aa_maas&tag=maas"
 />
 
@@ -128,7 +128,7 @@ buttonText="Get Your GEME Pro on Amazon DE"
 | Region            | Direct Amazon Link                                                |
 |-------------------|------------------------------------------------------------------|
 | United States     | [**GEME Composter on Amazon US**](https://www.amazon.com/GEME-Composter-Real-Composting-Electric/dp/B0BV31KTCN?maas=maas_adg_95133E1DFCABAF6F40B83EDC1AF7526F_afap_abs&ref_=aa_maas&tag=maas)   |
-| Germany / Europe  | [**GEME Composter on Amazon DE**](https://www.amazon.de/GEME-Elektrischer-Dauerhafter-Kompostierung-Kompostbeh%C3%A4lter/dp/B0CJY4K9J3?maas=maas_adg_4716B0377F71DC5424D044BF54D420AC_afap_abs&ref_=aa_maas&tag=maas)   |
+| Germany | [**GEME Composter on Amazon DE**](https://www.amazon.de/GEME-Elektrischer-Dauerhafter-Kompostierung-Kompostbeh%C3%A4lter/dp/B0CJY4K9J3?maas=maas_adg_4716B0377F71DC5424D044BF54D420AC_afap_abs&ref_=aa_maas&tag=maas)   |
 
 ## 4. How to Use Your GEME Composter (It’s Easier Than You Think)
 
@@ -182,7 +182,7 @@ Soft materials break down in 6–8 hours. Fibrous stems take a few days. You‘l
 
 ## Final Words: Celebrate Earth Day by Closing the Loop
 
-Every year, millions of tons of food waste end up in landfills. There, buried under piles of trash with no oxygen, they decompose and release methane—a greenhouse gas 25 times more potent than carbon dioxide.
+Every year, millions of tons of food waste end up in landfills. There, buried under piles of trash with no oxygen, they decompose and release methane, a greenhouse gas 25 times more potent than carbon dioxide.
 
 Composting at home eliminates that methane entirely. Your food scraps become soil. Your soil grows more food. That‘s the circle of life, right in your kitchen.
 
