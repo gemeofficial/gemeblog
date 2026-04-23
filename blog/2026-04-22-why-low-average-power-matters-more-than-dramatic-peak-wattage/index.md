@@ -2,14 +2,13 @@
 title: "Why low average power matters more than dramatic peak wattage?"
 description: "What GEME’s electricity use really feels like in daily life, why Terra 2 and GEME Pro differ, and why average power matters more than peak wattage in a living bio-processing system."
 keywords:
-  - fried rice syndrome
-  - how long can rice be left out
-  - leftover food poisoning
-  - Bacillus cereus
-  - food safety guidelines
+  - geme terra 2
+  - geme composter
+  - geme composter power consumption
+  - geme terra 2 power consumption
 slug: why-low-average-power-matters-more-than-dramatic-peak-wattage
 authors: [Moore]
-tags: [food waste, composting, geme]
+tags: [composter, composting, geme]
 
 ---
 
