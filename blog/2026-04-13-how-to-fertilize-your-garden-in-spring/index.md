@@ -8,10 +8,10 @@ keywords:
   - compost for garden
   - compost for raised bed garden
   - how to use geme compost
-slug: how-to-fertilize-your-plants-in-spring
+slug: how-to-fertilise-your-plants-in-spring
 authors: [Moore]
 tags: [gardening, compost, geme]
-image: https://www.geme.bio/assets/images/best-fertilizer-for-garden-in-spring-317ba92b7c05eec08b2558cdf15ed8ae.jpg
+
 ---
 
 import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
@@ -534,13 +534,13 @@ buttonText="Get Your GEME Pro"
 
 ### General Gardening & Home Sources
 
-1. <a href="https://simplelawnsolutions.com/best-garden-fertilizer-solutions-for-spring/" rel="nofollow"><strong>Simple Lawn Solutions: Best Garden Fertilizer Solutions for Spring</strong></a>
+1. [**Simple Lawn Solutions: Best Garden Fertilizer Solutions for Spring**](https://simplelawnsolutions.com/best-garden-fertilizer-solutions-for-spring/){rel="nofollow"}
 
-2. <a href="https://gardenerbible.com/what-fertilizer-to-use-in-spring-for-vegetable-garden/" rel="nofollow"><strong>GardenerBible: What Fertilizer To Use In Spring For Vegetable Garden</strong></a>
+2. [**GardenerBible: What Fertilizer To Use In Spring For Vegetable Garden**](https://gardenerbible.com/what-fertilizer-to-use-in-spring-for-vegetable-garden/){rel="nofollow"}
 
-3. <a href="https://www.cultifort.com/organic-and-inorganic-fertilizers-pros-and-cons/" rel="nofollow"><strong>Cultifort: Organic and inorganic fertilizers? Pros and cons</strong></a>
+3. [**Cultifort: Organic and inorganic fertilizers? Pros and cons**](https://www.cultifort.com/organic-and-inorganic-fertilizers-pros-and-cons/){rel="nofollow"}
 
-4. <a href="https://www.epicgardening.com/when-to-start-fertilizing-plants-spring/" rel="nofollow"><strong>Epic Gardening: When to Start Fertilizing Plants for Spring Growth</strong></a>
+4. [**Epic Gardening: When to Start Fertilizing Plants for Spring Growth**](https://www.epicgardening.com/when-to-start-fertilizing-plants-spring/){rel="nofollow"}
 
 ### GEME Official Sources
 
