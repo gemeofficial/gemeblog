@@ -8,7 +8,7 @@ keywords:
 slug: why-you-should-not-fully-empty-the-chamber-every-time
 authors: [Moore]
 tags: [composter, composting, geme]
-
+image: https://www.geme.bio/assets/images/never-fully-empty-geme-composter-chamber-ce689f4c221a1646364a845d8f677165.jpg
 ---
 
 import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
