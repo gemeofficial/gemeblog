@@ -238,7 +238,7 @@ One-line takeaway: **harvest by function, not by visual perfection**.
 
 > A: The public hard-parameter guidance positions GEME Pro around 6–12 months.
 
-### Q: 10. Does GEME Pro change the “leave a base” rule?
+### Q: Does GEME Pro change the “leave a base” rule?
 
 > A: No. Pro changes capacity and maintenance spacing, but not the biological continuity rule.
 
