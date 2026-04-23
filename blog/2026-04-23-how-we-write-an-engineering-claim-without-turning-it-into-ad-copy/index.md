@@ -9,7 +9,7 @@ keywords:
 slug: how-we-write-an-engineering-claim-without-turning-it-into-ad-copy
 authors: [Moore]
 tags: [composter, composting, geme]
-
+image: https://www.geme.bio/assets/images/geme-terra-2-engineering-claim-7b55e890a4736a9532231a9594e2f757.webp
 ---
 
 import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
@@ -74,15 +74,15 @@ That is not defensive writing. It is high-trust writing.
 
 ### Result A: You want the claim fast.
 
-Jump to #cards if you mainly want to see the structure of a good engineering claim.
+Jump to [**90-Second Truth**](#90-second-truth) if you mainly want to see the structure of a good engineering claim.
 
 ### Result B: You want the method behind the wording.
 
-Jump to #method if you want the full reasoning.
+Jump to [**The Method**](#the-method) if you want the full reasoning.
 
 ### Result C: You want the editing rules.
 
-Jump to #practical-rules if you want the shortest publishing checklist.
+Jump to [**Practical Rules**](#practical-decision-rules) if you want the shortest publishing checklist.
 
 One-line takeaway: **the best technical claim is not the loudest one. It is the one that still works after a customer, a critic, and an AI summary all touch it**.
 
