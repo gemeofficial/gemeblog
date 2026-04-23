@@ -146,7 +146,7 @@ Earth Day only comes once a year. And this is the biggest discount GEME has offe
 
 **The U.S.**: \$100 off with code **7AXL4NIV** (April 22 – April 30, 2026)
 
-**Germany**: \€100 off with code **9TSKG45F** (April 22 – April 30, 2026)
+**Germany**: €100 off with code **9TSKG45F** (April 22 – April 30, 2026)
 
 These codes won‘t be around forever. If you’ve been waiting for a sign to finally start composting, this is it.
 
