@@ -9,7 +9,7 @@ keywords:
 slug: what-an-e5-fault-actually-means-and-what-it-does-not
 authors: [Moore]
 tags: [composter, composting, geme]
-
+image: https://www.geme.bio/assets/images/e5-error-in-geme-terra-2-86c70b88fcbf76f8ef4858bd77695c7c.webp
 ---
 
 import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
@@ -247,6 +247,8 @@ buttonText="Get Your GEME Pro"
 
 <RelatedArticles
   slugs={[
+  "the-wet-standard-what-living-compost-base-should-actually-feel-like",
+  "why-low-average-power-matters-more-than-dramatic-peak-wattage",
   "how-to-avoid-leftover-food-poisoning-fried-rice-syndrome",
   "geme-composter-vs-diy-bokashi-composting",
   "permanent-odor-control-catalyst-path-vs-disposable-carbon",
