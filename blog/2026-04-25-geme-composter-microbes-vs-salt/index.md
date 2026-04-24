@@ -9,7 +9,7 @@ keywords:
 slug: geme-composter-microbes-vs-salt
 authors: [Moore]
 tags: [composter, composting, geme]
-
+image: https://www.geme.bio/assets/images/microbes-vs-salt-dd8f4664f5d0b620a1dd7a6e1a0bd5fd.jpg
 ---
 
 import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
@@ -28,8 +28,11 @@ Most “kitchen compost” disappointments start here: leftovers aren’t garden
 ### Start here (Trust Stack)
 
 Read the 3-minute truth → [**Real Compost vs Dehydrator**](https://www.geme.bio/compare/real-compost-vs-dehydrated-scraps)
+
 [**Browse comparisons** →](https://www.geme.bio/compare)
+
 Methods & boundaries → [**Open GK Verification**](https://www.geme.bio/gk)
+
 [**Shop GEME Terra 2** →](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-composter-microbes-vs-salt)
 
 ![Microbes VS Salt](./image/microbes-vs-salt.jpg)
