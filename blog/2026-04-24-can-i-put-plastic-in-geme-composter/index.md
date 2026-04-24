@@ -1,5 +1,5 @@
 ---
-title: "GEME Soil Health Report: NPK Analysis"
+title: "Can I Put Plastic In GEME Composter?"
 description: "Across 50 household samples, we see a consistent reality: the output contains nutrients, but it behaves like compost, not a standardized fertilizer."
 keywords:
   - geme composter
@@ -8,7 +8,7 @@ keywords:
 slug: can-i-put-plastic-in-geme-composter
 authors: [Moore]
 tags: [composter, composting, geme]
-
+image: https://www.geme.bio/assets/images/can-i-put-plastic-in-geme-composter-5d88936598b88b226d33f829b56f5f3e.jpg
 ---
 
 import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 

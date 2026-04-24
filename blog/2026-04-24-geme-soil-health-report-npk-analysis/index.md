@@ -37,7 +37,7 @@ This report summarizes an internal + user-submitted sampling run:
 - What we measured: N, P, K 
 - Supporting measurements: pH, EC (salinity), moisture, and screening rate
 
-:::Note
+:::note
 Compost nutrient content varies widely with feedstock and process—this is expected. That’s why we report distribution + boundaries, not a single “magic number.”
 :::
 
@@ -94,7 +94,7 @@ Use it like compost you’d make in the garden:
 - **Always screen out large pieces**: return them to the next cycle
 - **If you’re unsure**: do a simple pot test (control vs amended) over 2–3 weeks
 
-:::Note
+:::note
 “Human-grade food is what GEME loves most.”
 But soil still rewards moderation.
 :::
