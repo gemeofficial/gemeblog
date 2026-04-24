@@ -9,7 +9,7 @@ keywords:
 slug: geme-composter-review-2026-geme-pro
 authors: [Moore]
 tags: [composter, composting, geme]
-
+image: https://www.geme.bio/assets/images/geme-composter-8decb7b2bb543e9f3a5e43c95054f09f.png
 ---
 
 import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 

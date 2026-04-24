@@ -8,7 +8,7 @@ keywords:
 slug: why-we-chose-aerobic-digestion-over-grinding
 authors: [Moore]
 tags: [composter, composting, geme]
-
+image: https://www.geme.bio/assets/images/microbial-aerobic-digestion-373bba5e1a0b13dc08376021de0720c7.jpg
 ---
 
 import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
