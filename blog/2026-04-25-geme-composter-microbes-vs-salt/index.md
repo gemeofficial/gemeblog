@@ -170,6 +170,7 @@ buttonText="Get Your GEME Pro"
 
 <RelatedArticles
   slugs={[
+  "can-i-put-plastic-in-geme-composter",
   "geme-soil-health-report-npk-analysis",
   "why-geme-chose-aerobic-digestion-over-grinding",
   "geme-composter-amazon-discount-earth-day-2026",
