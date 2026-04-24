@@ -1,9 +1,9 @@
 ---
-title: "Get $100 OFF: GEME Composter Best Deal on Amazon for Earth Day, 2026"
-description: "Celebrate Earth Day 2026 with $100 off GEME Composter on Amazon. Turn food waste into real compost in hours. No filters to replace. Zero recurring costs."
+title: "Get $100 OFF: GEME Composter Discount Codes on Amazon for Earth Day, 2026"
+description: "Celebrate Earth Day 2026 with dicount codes of $100 off GEME Composter on Amazon. Turn food waste into real compost in hours. No filters to replace. Zero recurring costs."
 keywords:
   - geme composter
-  - geme composter discount
+  - geme composter discount code
   - geme composter amazon
   - kitchen composter
   - Earth Day 2026
