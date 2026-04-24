@@ -8,7 +8,7 @@ keywords:
 slug: geme-soil-health-report-npk-analysis
 authors: [Moore]
 tags: [composter, composting, geme]
-
+image: https://www.geme.bio/assets/images/geme-compost-soil-npk-analysis-cc760bb35dd640f4317d4a31b935edd2.jpg
 ---
 
 import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
