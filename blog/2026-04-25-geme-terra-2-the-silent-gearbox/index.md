@@ -9,7 +9,7 @@ keywords:
 slug: geme-terra-2-the-silent-gearbox
 authors: [Moore]
 tags: [composter, composting, geme]
-image: https://www.geme.bio/assets/images/microbes-vs-salt-dd8f4664f5d0b620a1dd7a6e1a0bd5fd.jpg
+image: https://www.geme.bio/assets/images/geme-terra-2-the-silent-gearbox-beda0c7125e1ae8d090363691659ff98.png
 ---
 
 import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
