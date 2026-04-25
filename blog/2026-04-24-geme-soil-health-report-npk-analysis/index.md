@@ -1,11 +1,13 @@
 ---
-title: "GEME Soil Health Report: NPK Analysis"
+title: "NPK Test of Home Compost Output (N=50): What It Shows and What It Doesn’t"
 description: "Across 50 household samples, we see a consistent reality: the output contains nutrients, but it behaves like compost, not a standardized fertilizer."
 keywords:
+  - NPK compost test
+  - nutrient compost 
   - soil health
   - compost soil
   - npk fertilizer​
-slug: geme-soil-health-report-npk-analysis
+slug: npk-test-compost-output-n50
 authors: [Moore]
 tags: [composter, composting, geme]
 image: https://www.geme.bio/assets/images/geme-compost-soil-npk-analysis-cc760bb35dd640f4317d4a31b935edd2.jpg

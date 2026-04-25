@@ -1,12 +1,13 @@
 ---
-title: "GEME Composter: Microbes VS Salt"
+title: "Can an Electric Composter Handle Salt & Oil? (Boundaries + Best Practices)"
 description: "Salt and oil don’t “kill composting.” They shift the biology, and if you cross certain boundaries, the system drifts away from aerobic composting. The fix isn’t magic powder: it’s keeping oxygen, moisture, and structure in range."
 keywords:
   - geme composter
   - geme terra 2
   - aerobic composting
   - salt in compost
-slug: geme-composter-microbes-vs-salt
+  - electric composter salt oil
+slug: electric-composter-salt-oil-boundaries
 authors: [Moore]
 tags: [composter, composting, geme]
 image: https://www.geme.bio/assets/images/microbes-vs-salt-dd8f4664f5d0b620a1dd7a6e1a0bd5fd.jpg

@@ -186,7 +186,7 @@ buttonText="Get Your GEME Pro"
   slugs={[
   "geme-composter-microbes-vs-salt",
   "can-i-put-plastic-in-geme-composter",
-  "geme-soil-health-report-npk-analysis",
+  "npk-test-compost-output-n50",
   "why-geme-chose-aerobic-digestion-over-grinding",
   "geme-composter-amazon-discount-earth-day-2026",
   "how-we-write-an-engineering-claim-without-turning-it-into-ad-copy",
