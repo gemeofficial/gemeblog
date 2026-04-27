@@ -22,7 +22,7 @@ import ReactPlayer from 'react-player'
 
 Here’s the short version: the GEME Terra 2 is the only kitchen composter that gives you real, living compost without ongoing filter costs. Lomi, Mill, and Reencle all require you to keep spending money after purchase, averaging anywhere from \$47 to \$200 per year on filters and other extras. 
 
-The Terra 2 costs around \$599, with no hidden subscription baked into its design, and the output is biologically active compost ready for your garden, not sterile dust. If you’re serious about zero waste, the decision comes down to this: **do you want to reduce waste, or do you want to close the loop**?
+The [**GEME Terra 2 costs around \$599**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=the-best-kitchen-composter-for-zero-waste-lifestyle), with no hidden subscription baked into its design, and the output is biologically active compost ready for your garden, not sterile dust. If you’re serious about zero waste, the decision comes down to this: **do you want to reduce waste, or do you want to close the loop**?
 
 ![GEME Terra II: The Best Kitchen Composter](./image/geme-terra-2-the-best-kitchen-composter.png)
 
