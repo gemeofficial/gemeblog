@@ -148,6 +148,7 @@ buttonText="Get Your GEME Pro"
 
 <RelatedArticles
   slugs={[
+  "geme-composter-amazon-discount-earth-day-2026",
   "why-geme-chose-aerobic-digestion-over-grinding",
   "geme-composter-amazon-discount-earth-day-2026",
   "how-we-write-an-engineering-claim-without-turning-it-into-ad-copy",

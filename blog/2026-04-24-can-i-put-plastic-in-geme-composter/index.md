@@ -133,6 +133,7 @@ buttonText="Get Your GEME Pro"
 
 <RelatedArticles
   slugs={[
+  "geme-composter-amazon-discount-earth-day-2026",
   "npk-test-compost-output-n50",
   "why-geme-chose-aerobic-digestion-over-grinding",
   "geme-composter-amazon-discount-earth-day-2026",

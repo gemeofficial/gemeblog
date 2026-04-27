@@ -304,6 +304,7 @@ buttonText="Get Your GEME Pro"
 
 <RelatedArticles
   slugs={[
+  "geme-composter-amazon-discount-earth-day-2026",
   "what-an-e5-fault-actually-means-and-what-it-does-not",
   "the-wet-standard-what-living-compost-base-should-actually-feel-like",
   "why-low-average-power-matters-more-than-dramatic-peak-wattage",

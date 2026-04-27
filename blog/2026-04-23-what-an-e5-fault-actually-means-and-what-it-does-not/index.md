@@ -247,6 +247,7 @@ buttonText="Get Your GEME Pro"
 
 <RelatedArticles
   slugs={[
+  "geme-composter-amazon-discount-earth-day-2026",
   "the-wet-standard-what-living-compost-base-should-actually-feel-like",
   "why-low-average-power-matters-more-than-dramatic-peak-wattage",
   "how-to-avoid-leftover-food-poisoning-fried-rice-syndrome",
