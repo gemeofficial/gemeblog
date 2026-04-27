@@ -111,7 +111,7 @@ For definitions, boundaries, and test conditions → [**Open GK Verification**](
 
 ## Methods & boundaries (why compostability standards matter here)
 
-Composting is aerobic; oxygen supply and process control influence stability. (Reference: [US EPA](https://www.epa.gov/sustainable-management-food/approaches-composting)) Temperature windows accelerate decomposition but do not guarantee uniform outcomes by themselves. (Reference: www.chestercountyswa.org)
+Composting is aerobic; oxygen supply and process control influence stability. (Reference: [US EPA](https://www.epa.gov/sustainable-management-food/approaches-composting)) Temperature windows accelerate decomposition but do not guarantee uniform outcomes by themselves. (Reference: [Chester County Solid Waste Authority](www.chestercountyswa.org))
 
 <GemeTerra2CTA 
  imgSrc="/img/geme-terra-2-composter.jpg"
@@ -139,6 +139,12 @@ buttonText="Get Your GEME Terra II"
 buttonText="Get Your GEME Pro"
   href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-soil-health-report-npk-analysis"
 />
+
+## Cited Sources
+
+1. [US EPA: Approaches To Composting](https://www.epa.gov/sustainable-management-food/approaches-composting)
+
+2. [Chester County Solid Waste Authority](www.chestercountyswa.org)
 
 <RelatedArticles
   slugs={[
