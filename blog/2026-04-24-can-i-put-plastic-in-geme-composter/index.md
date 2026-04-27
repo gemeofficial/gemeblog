@@ -123,6 +123,14 @@ buttonText="Get Your GEME Pro"
   href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=can-i-put-plastic-in-geme-composter"
 />
 
+## Cited Sources
+
+1. [ASTM International](https://www.astm.org/d6400-23.html)
+
+2. [TÜV SÜD](https://www.tuvsud.com/en-us/industries/consumer-products-and-retail/biodegradable-packaging-certification)
+
+3. [US EPA: Approaches to Composting](https://www.epa.gov/sustainable-management-food/approaches-composting)
+
 <RelatedArticles
   slugs={[
   "npk-test-compost-output-n50",
