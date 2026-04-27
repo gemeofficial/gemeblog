@@ -38,7 +38,7 @@ Stability requires:
 
 - **Oxygen availability** (aerobic metabolism) (Reference: [US EPA](https://www.epa.gov/sustainable-management-food/approaches-composting))
 - **Moisture control** (too wet → oxygen collapses; too dry → biology slows)
-- **Temperature management** (thermophilic range accelerates breakdown but has biological limits) (Reference: www.chestercountyswa.org)
+- **Temperature management** (thermophilic range accelerates breakdown but has biological limits) (Reference: [Chester County Solid Waste Authority](www.chestercountyswa.org))
 - **Time under controlled conditions** (active phase + curing behavior)
 
 Grinding can speed biology only if you keep the system aerobic. If you don’t, smaller particles can compact more easily, reducing air gaps and raising the risk of anaerobic pockets. (Reference: [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7033521/))
@@ -85,7 +85,7 @@ GEME is designed around controlled aerobic digestion—not “grinding first and
 - That grinding is “bad.” It can help if aerobic conditions stay intact. (Reference: [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7033521/))
 - That any single metric (e.g., volume reduction) proves compost quality.
 
-If you’re evaluating any “kitchen composter,” ask one question: Does it create biologically stable material—or just smaller material?
+If you’re evaluating any “kitchen composter,” ask one question: Does it create biologically stable material, or just smaller material?
 
 ## Methods & boundaries (read before you generalize)
 
@@ -121,6 +121,14 @@ buttonText="Get Your GEME Terra II"
 buttonText="Get Your GEME Pro"
   href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=why-we-chose-aerobic-digestion-over-grinding"
 />
+
+## Cited Sources
+
+1. [US EPA: Approaches to Composting](https://www.epa.gov/sustainable-management-food/approaches-composting)
+
+2. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7033521/)
+
+3. [Chester County Solid Waste Authority](www.chestercountyswa.org)
 
 <RelatedArticles
   slugs={[
