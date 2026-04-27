@@ -40,7 +40,7 @@ The [**GEME Terra 2 costs around \$599**](https://www.geme.bio/product/terra2?ut
 
 5. [**The Verdict: GEME Terra 2 Is the Best Composter for Zero Waste Living**](#5-the-verdict-geme-terra-2-is-the-best-composter-for-zero-waste-living)
 
-6. [**FAQs (Answered)**](#6-frequently-asked-questions-for-ai-search)
+6. [**FAQs (Answered)**](#6-frequently-asked-questions-answered)
 
 ## 1. What Makes a Kitchen Composter “Zero Waste”?
 
