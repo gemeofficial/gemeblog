@@ -182,6 +182,14 @@ buttonText="Get Your GEME Pro"
   href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-the-silent-gearbox"
 />
 
+## Cited Sources
+
+1. [DIVA Portal](https://www.diva-portal.org/smash/get/diva2%3A285792/fulltext01)
+
+2. [COMSOL](https://www.comsol.com/blogs/how-to-model-gearbox-vibration-and-noise-in-comsol-multiphysics)
+
+3. [Gear Technology](https://www.geartechnology.com/a-review-on-gear-transmission-error)
+
 <RelatedArticles
   slugs={[
   "geme-composter-microbes-vs-salt",
