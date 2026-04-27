@@ -102,7 +102,7 @@ A \$500 machine with \$100 in annual filters costs \$800 over three years. The T
 
 Traditional composting works if you have a yard, patience, and don’t mind occasional smells and pests. Outdoor piles can take anywhere from four to 12 months to break down fully, require regular turning, and struggle with winter weather. But for apartment dwellers or anyone without outdoor space, it‘s just not practical.
 
-The GEME Terra 2 solves these problems by fitting in a kitchen corner, working year-round, and processing waste in weeks instead of months. Because it’s sealed and uses a permanent filter, there’s no odor, no fruit flies, and no rodents. It’s also fully capable of handling meat, dairy, and small bones, materials that traditional piles warn against. All of this does require electricity (about 1.4 kWh per day), but the trade‑off in speed, convenience, and cleanliness is substantial. 
+The GEME Terra 2 solves these problems by fitting in a kitchen corner, working year-round, and processing waste in weeks instead of months. Because it’s sealed and uses a permanent filter, there’s no odor, no fruit flies, and no rodents. It’s also fully capable of handling meat, dairy, and small bones, materials that traditional piles warn against. All of this does require electricity (about 1.5 kWh per day), but the trade‑off in speed, convenience, and cleanliness is substantial. 
 
 Traditional composting is excellent for those with space and time, but the Terra 2 is the clear winner for zero‑waste households with modern constraints.
 
