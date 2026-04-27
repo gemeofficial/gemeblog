@@ -10,7 +10,7 @@ keywords:
 slug: the-best-kitchen-composter-for-zero-waste-lifestyle
 authors: [Moore]
 tags: [composter, composting, geme]
-
+image: https://www.geme.bio/assets/images/geme-terra-2-the-best-kitchen-composter-98d8ba35e8dc1aced42ce3b3e2f62e26.png
 ---
 
 import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
@@ -217,8 +217,18 @@ buttonText="Get Your GEME Pro"
   href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=the-best-kitchen-composter-for-zero-waste-lifestyle"
 />
 
+## Cited Sources
+
+1. [**BioCycle: Analyzing The Outputs — Kitchen Appliances Vs. Facility-Composted Food Scraps**](https://www.biocycle.net/kitchen-appliances-vs-facility-composted-food-scraps/)
+
+2. [**IFA: GEME BIO**](https://www.ifa-berlin.com/exhibitors/geme-bio)
+
+3. [**AD HOC NEWS: GEME Germany Belgium - Revolutionizing Home Sustainability GEME Debuts the Future of Composting at IFA Berlin 2024**](https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/geme-germany-belgium/67927065)
+
 <RelatedArticles
   slugs={[
+  "geme-composter-amazon-discount-earth-day-2026",
+  "how-to-avoid-leftover-food-poisoning-fried-rice-syndrome",
   "geme-composter-vs-diy-bokashi-composting",
   "permanent-odor-control-catalyst-path-vs-disposable-carbon",
   "why-the-geme-chassis-is-intentionally-heavier-than-a-typical-countertop-appliance",
