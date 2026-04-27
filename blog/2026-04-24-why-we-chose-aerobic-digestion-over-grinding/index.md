@@ -132,6 +132,9 @@ buttonText="Get Your GEME Pro"
 
 <RelatedArticles
   slugs={[
+  "geme-terra-2-the-silent-gearbox",
+  "npk-test-compost-output-n50",
+  "can-i-put-plastic-in-geme-composter",
   "geme-composter-amazon-discount-earth-day-2026",
   "how-we-write-an-engineering-claim-without-turning-it-into-ad-copy",
   "what-an-e5-fault-actually-means-and-what-it-does-not",

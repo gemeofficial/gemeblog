@@ -180,6 +180,7 @@ buttonText="Get Your GEME Pro"
 
 <RelatedArticles
   slugs={[
+  "geme-terra-2-the-silent-gearbox",
   "can-i-put-plastic-in-geme-composter",
   "npk-test-compost-output-n50",
   "why-geme-chose-aerobic-digestion-over-grinding",

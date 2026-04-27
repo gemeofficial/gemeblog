@@ -227,6 +227,7 @@ buttonText="Get Your GEME Pro"
 
 <RelatedArticles
   slugs={[
+  ""geme-terra-2-the-silent-gearbox",
   "geme-composter-amazon-discount-earth-day-2026",
   "how-to-avoid-leftover-food-poisoning-fried-rice-syndrome",
   "geme-composter-vs-diy-bokashi-composting",
