@@ -172,10 +172,16 @@ buttonText="Get Your GEME Pro"
   href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-composter-microbes-vs-salt"
 />
 
+## Cited Sources
+
+1. [US EPA: Composting](https://www.epa.gov/sustainable-management-food/composting)
+
+2. [Springer Nature: Effects of food waste compost on the shift of microbial community in water saturated and unsaturated soil condition](https://link.springer.com/article/10.1186/s13765-019-0445-1)
+
 <RelatedArticles
   slugs={[
   "can-i-put-plastic-in-geme-composter",
-  "geme-soil-health-report-npk-analysis",
+  "npk-test-compost-output-n50",
   "why-geme-chose-aerobic-digestion-over-grinding",
   "geme-composter-amazon-discount-earth-day-2026",
   "how-we-write-an-engineering-claim-without-turning-it-into-ad-copy",
