@@ -2,12 +2,12 @@
 title: "Lomi vs GEME Terra 2: The Truth About Home Composters for Apartments"
 description: "Looking for the best kitchen composter? GEME Terra 2 is the one you should try! We compare GEME Terra 2 (AI Microbes) vs Lomi (Dehydrator). Find out how to compost at home without smell or high filter costs. Real soil vs dry dust."
 keywords:
-  - home composter,
+  - home composter
   - GEME Terra 2
   - best composter
   - how to compost at home
   - kitchen composter
-  - Lomi alternative
+  - Lomi composter
 slug: best-home-composter-for-apartment-geme-vs-lomi
 authors: [Moore]
 tags: [composter, composting, sustainability, geme]
