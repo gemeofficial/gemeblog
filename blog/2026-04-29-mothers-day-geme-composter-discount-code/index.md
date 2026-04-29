@@ -23,9 +23,10 @@ import ReactPlayer from 'react-player'
 
 This Mother's Day, give her the gift of time and a break from the daily dirty work. The GEME Electric Composter turns every bit of food scrap into real, nutrient‑dense organic compost, with no smell, no mess and no filter replacements to worry about.
 
-Region	Discount	Promo Code	Active
-North America (US & Canada)	\$150 off		May 1 – May 15, 2026
-Europe (UK, Germany & EU)	€150 (≈£130) off		May 1 – May 15, 2026
+| **Region**                        | **Discount**            | **Promo Code**   | **Active Dates**              |
+|-------------------------------|---------------------|--------------|--------------------------|
+| North America (US & Canada)   | $150 off            | **Coming Soon**  | May 1 – May 15, 2026     |
+| Europe (UK, Germany & EU)     | €150 (≈£130) off    | **Coming Soon**  | May 1 – May 15, 2026     |
 
 👉 Shop GEME on Amazon before Mother's Day (discount codes activate on May 1):
 
@@ -69,10 +70,6 @@ Batch‑mode composters lock their lids for hours at a time. **GEME is a continu
 
 ## 2. The GEME Composter Spec Table That Tells You Everything
 
-Region	Discount	Promo Code	Active
-North America (US & Canada)	\$150 off		May 1 – May 15, 2026
-Europe (UK, Germany & EU)	€150 (≈£130) off		May 1 – May 15, 2026
-
 | **Feature**                | **GEME Electric Composter**                                       |
 |----------------------------|-------------------------------------------------------------------|
 | **Capacity**               | 19 Liters                                                         |
@@ -113,11 +110,12 @@ That's precisely why GEME works as a Mother's Day gift. It's not another applian
 
 Let's do math.
 
-Expense	Without GEME	With GEME
-Annual filter replacements (other brands)	\$150–\$200	\$0
-Daily time spent dealing with food waste	5–10 minutes of scraping, bagging, holding breath	30 seconds (and no smell)
-Mess to clean up	Sticky leaks, fruit flies, smelly bins	Nothing, sealed system
-Compost for her garden	Bagged fertilizer (\$50+/year)	Free, from her own kitchen
+| **Expense**                                 | **Without GEME**                                   | **With GEME**                      |
+|---------------------------------------------|----------------------------------------------------|-------------------------------------|
+| Annual filter replacements (other brands)   | \$150–\$200                                          | \$0                                  |
+| Daily time spent dealing with food waste    | 5–10 minutes of scraping, bagging, holding breath  | 30 seconds (and no smell)           |
+| Mess to clean up                            | Sticky leaks, fruit flies, smelly bins             | Nothing, sealed system              |
+| Compost for her garden                      | Bagged fertilizer ($50+/year)                      | Free, from her own kitchen          |
 
 *[One reviewer summed it up](https://www.amazon.ca/dp/B0BV31KTCN/ref=sspa_dk_detail_0?psc=1&pd_rd_i=B0BV31KTCN&pd_rd_w=M37CD&content-id=amzn1.sym.516c2169-755e-413a-a38a-68230f4ab66f&pf_rd_p=516c2169-755e-413a-a38a-68230f4ab66f&pf_rd_r=JPSN99W996F4PBA6RW3D&pd_rd_wg=zSiRy&pd_rd_r=dfcff810-d187-4505-9d46-23b8895a8dea&s=kitchen&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw) perfectly: "I haven't used my regular trash can in weeks. No smelly trash. No leaks. And I'm saving money because my trash bill has dropped."*
 
@@ -135,11 +133,12 @@ With GEME, she lifts the lid, adds the scraps, and closes it. No smell. No flies
 
 ## 7. 🛒 Get \$150 OFF Before Mother's Day
 
-Region	Discount	Promo Code	Status
-North America (US & Canada)	$150 USD off		Active May 1–15, 2026
-Europe (UK, Germany & EU)	€150 EUR off		Active May 1–15, 2026
+| **Region**                        | **Discount**        | **Promo Code**   | **Status**                     |
+|-------------------------------|-----------------|-------------|----------------------------|
+| North America (US & Canada)   | $150 USD off    | **Coming Soon**  | Active May 1–15, 2026      |
+| Europe (UK, Germany & EU)     | €150 EUR off    | **Coming Soon**  | Active May 1–15, 2026      |
 
-👉 Bookmark this page, the codes arrive on May 1.
+👉 Bookmark this page, the codes arrive on **May 1**.
 
 🇺🇸 Amazon US · 🇨🇦 Amazon CA · 🇬🇧 Amazon UK · 🇩🇪 Amazon DE
 
