@@ -7,7 +7,7 @@ keywords:
   - can you compost dairy
   - can you compost bones
 slug: what-can-you-put-in-electric-composter-meat-dairy-bones
-authors: [Moore]
+authors: [Dr. Kyung-Ryong.H]
 tags: [composter, composting, geme]
 image: https://www.geme.bio/assets/images/can-you-compost-meat-and-bones-f21f56b1327a99eb65ec7aa2015866a7.jpg
 ---

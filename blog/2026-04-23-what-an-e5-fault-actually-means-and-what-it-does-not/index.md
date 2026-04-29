@@ -7,7 +7,7 @@ keywords:
   - geme composter E5 error
   - geme terra 2 e5 error
 slug: what-an-e5-fault-actually-means-and-what-it-does-not
-authors: [Moore]
+authors: [Dr. Kyung-Ryong.H]
 tags: [composter, composting, geme]
 image: https://www.geme.bio/assets/images/e5-error-in-geme-terra-2-86c70b88fcbf76f8ef4858bd77695c7c.webp
 ---

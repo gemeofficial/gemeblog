@@ -7,7 +7,7 @@ keywords:
   - geme terra ii
   - kitchen composter
 slug: why-the-geme-chassis-is-intentionally-heavier-than-a-typical-countertop-appliance
-authors: [Moore]
+authors: [Dr. Kyung-Ryong.H]
 tags: [composter, composting, geme]
 image: https://www.geme.bio/assets/images/geme-terra-2-3fa3f8d5a51ce48d8e19c99448eba4a4.png
 ---

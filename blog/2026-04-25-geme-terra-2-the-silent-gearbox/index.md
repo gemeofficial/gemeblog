@@ -7,7 +7,7 @@ keywords:
   - best composter
   - kitchen composter
 slug: geme-terra-2-the-silent-gearbox
-authors: [Moore]
+authors: [Dr. Kyung-Ryong.H]
 tags: [composter, composting, geme]
 image: https://www.geme.bio/assets/images/geme-terra-2-the-silent-gearbox-beda0c7125e1ae8d090363691659ff98.png
 ---

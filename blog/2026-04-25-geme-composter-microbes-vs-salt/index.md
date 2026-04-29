@@ -8,7 +8,7 @@ keywords:
   - salt in compost
   - electric composter salt oil
 slug: electric-composter-salt-oil-boundaries
-authors: [Moore]
+authors: [Dr. Kyung-Ryong.H]
 tags: [composter, composting, geme]
 image: https://www.geme.bio/assets/images/microbes-vs-salt-dd8f4664f5d0b620a1dd7a6e1a0bd5fd.jpg
 ---

@@ -8,7 +8,7 @@ keywords:
   - organic fertilizer ratio
   - prevent root burn
 slug: advanced-geme-compost-application-guide
-authors: [Moore]
+authors: [Dr. Kyung-Ryong.H]
 tags: [composter, composting, geme]
 image: https://www.geme.bio/assets/images/geme-composter-output-816b28cdf5f8df703fd76d4bb9a9f417.png
 ---

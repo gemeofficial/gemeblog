@@ -6,7 +6,7 @@ keywords:
   - composter filters
   - does compost smell​
 slug: why-composter-filters-only-last-3-months
-authors: [Moore]
+authors: [Dr. Kyung-Ryong.H]
 tags: [composter, composting, geme]
 image: https://www.geme.bio/assets/images/lomi-composter-carbon-filter-c077604484209bf7e7b2075bf3ea77b1.jpg
 ---

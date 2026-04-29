@@ -6,7 +6,7 @@ keywords:
   - geme composter
   - aerobic composting
 slug: why-geme-chose-aerobic-digestion-over-grinding
-authors: [Moore]
+authors: [Dr. Kyung-Ryong.H]
 tags: [composter, composting, geme]
 image: https://www.geme.bio/assets/images/microbial-aerobic-digestion-373bba5e1a0b13dc08376021de0720c7.jpg
 ---

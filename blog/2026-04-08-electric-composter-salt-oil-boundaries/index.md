@@ -8,7 +8,7 @@ keywords:
   - organic fertilizer ratio
   - prevent root burn
 slug: electric-composter-salt-oil-boundaries
-authors: [Moore]
+authors: [Dr. Kyung-Ryong.H]
 tags: [composter, composting, geme]
 image: https://www.geme.bio/assets/images/composting-soil-and-oil-boundaries-165a65ac461dd80a58ae1e3624215838.jpg
 ---

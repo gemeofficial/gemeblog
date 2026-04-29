@@ -7,7 +7,7 @@ keywords:
   - geme terra ii
   - kitchen composter
 slug: permanent-odor-control-catalyst-path-vs-disposable-carbon
-authors: [Moore]
+authors: [Dr. Kyung-Ryong.H]
 tags: [composter, composting, geme]
 image: https://www.geme.bio/assets/images/geme-composter-pro-adb6629bdc98a34710b15c1a234f041f.png
 ---

@@ -11,7 +11,7 @@ keywords:
 slug: mothers-day-geme-composter-discount-code
 authors: [Moore]
 tags: [composter, composting, geme]
-
+image: https://www.geme.bio/assets/images/mothers-day-b15850ad1fc62f8748fe8086f19d3e8d.png
 ---
 
 import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
@@ -82,10 +82,8 @@ Batch‑mode composters lock their lids for hours at a time. **GEME is a continu
 | **Odor**                   | Industrial-grade deodorization, odorless                          |
 | **Operation**              | Continuous feed (add anytime, no locked lids)                     |
 | **Power Use**              | Runs on 120–240V, energy efficient like a laptop                  |
-| **What It Can Compost**    | Fruit & veg, meat, fish bones, eggshells, coffee grounds,         |
-|                            | leftovers, plate scrapings, paper                                 |
-| **What Kind of Compost**   | ✅ Real, nutrient-dense, microbial     |
-|                            | organic compost                                                   |
+| **What It Can Compost**    | Fruit & veg, meat, fish bones, eggshells, coffee grounds, leftovers, plate scrapings, paper                                 |
+| **What Kind of Compost**   | ✅ Real, nutrient-dense, microbial organic compost                                                   |
 | **Best For**               | Families of 4+ people who cook daily                              |
 | **Mother‘s Day Price**     | $150 / €150 OFF (code active May 1 – May 15)                      |
 | **Amazon Links**           | 🇺🇸 US · 🇨🇦 Canada · 🇬🇧 UK · 🇩🇪 Germany                           |

@@ -6,7 +6,7 @@ keywords:
   - geme terra 2
   - what can be composted
 slug: can-i-put-plastic-in-geme-composter
-authors: [Moore]
+authors: [Dr. Kyung-Ryong.H]
 tags: [composter, composting, geme]
 image: https://www.geme.bio/assets/images/can-i-put-plastic-in-geme-composter-5d88936598b88b226d33f829b56f5f3e.jpg
 ---

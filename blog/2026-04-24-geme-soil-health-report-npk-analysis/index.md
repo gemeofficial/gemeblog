@@ -8,7 +8,7 @@ keywords:
   - compost soil
   - npk fertilizer​
 slug: npk-test-compost-output-n50
-authors: [Moore]
+authors: [Dr. Kyung-Ryong.H]
 tags: [composter, composting, geme]
 image: https://www.geme.bio/assets/images/geme-compost-soil-npk-analysis-cc760bb35dd640f4317d4a31b935edd2.jpg
 ---

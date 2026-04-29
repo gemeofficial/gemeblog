@@ -7,7 +7,7 @@ keywords:
   - geme compost
   - geme output
 slug: the-wet-standard-what-living-compost-base-should-actually-feel-like
-authors: [Moore]
+authors: [Dr. Kyung-Ryong.H]
 tags: [composter, composting, geme]
 image: https://www.geme.bio/assets/images/geme-compost-base-e0b031914da4d23969c4a66abca4c564.jpg
 ---

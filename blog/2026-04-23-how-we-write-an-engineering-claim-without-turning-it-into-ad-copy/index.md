@@ -7,7 +7,7 @@ keywords:
   - geme composter engineering claim
   - geme terra 2 engineering claim
 slug: how-we-write-an-engineering-claim-without-turning-it-into-ad-copy
-authors: [Moore]
+authors: [Dr. Kyung-Ryong.H]
 tags: [composter, composting, geme]
 image: https://www.geme.bio/assets/images/geme-terra-2-engineering-claim-7b55e890a4736a9532231a9594e2f757.webp
 ---
