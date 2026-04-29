@@ -131,20 +131,6 @@ In normal life, E5 often appears in ordinary situations:
 
 That is why the best customer-facing explanation should stay calm. Not: “Your composter has a fault.” More like: “**Your machine is telling you the lid condition needs attention before it continues normally**.” That phrasing is closer to the official logic and more helpful to real users.
 
-<GemeTerra2CTA 
- imgSrc="/img/geme-terra-2-composter.jpg"
- productTitle="GEME Terra II: Best Kitchen Composter"
- features={[
-    "✅ Best Composter With Permanent Filter",
-    "✅ Biologically Active Composting System",
-    "✅ Quiet, Odour-Free, Real Compost",
-    "✅ Zero Filter Costs, No Refills",
-    "✅ Reduces Composting Time to Days"
- ]}
-buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=what-an-e5-fault-actually-means-and-what-it-does-not"
-/>
-
 ## Hidden work vs. real simplicity
 
 One-line takeaway: **a good fault code reduces confusion instead of increasing it**.

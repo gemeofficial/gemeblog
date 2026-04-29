@@ -75,20 +75,6 @@ Beyond placement, the bigger everyday difference is workflow. GEME Pro and Terra
 
 Just as important: continuous systems shouldn’t demand constant cleaning. With GEME Pro and Terra 2, the goal is a stable aerobic process you maintain, not a container you have to “reset” after each run. When scraps sit inside a bucket between cycles, odor control becomes more dependent on user timing and cleaning cadence. [Lomi](https://lomi.com/blogs/news/lomi-dos-and-donts) itself warns that you may “waft up some unwanted smells when you open the lid” and specifically doesn’t suggest letting scraps sit inside for more than two days. And their own troubleshooting advice includes routine bucket cleaning (e.g., “clean your bucket thoroughly every 3 cycles”), a reasonable requirement, but still a friction point that many real kitchens won’t keep up with. 
 
-<GemeTerra2CTA 
- imgSrc="/img/geme-terra-2-composter.jpg"
- productTitle="GEME Terra II: Best Kitchen Composter"
- features={[
-    "✅ Best Composter With No Hidden Costs",
-    "✅ Biologically Active Composting System",
-    "✅ Quiet, Odour-Free, Real Compost",
-    "✅ Zero Filter Costs, No Refills",
-    "✅ Reduces Composting Time to Days"
- ]}
-buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=countertop-composter-misnomer-floor-standing-electric-composter"
-/>
-
 ## 3. Evidence: Real-world signals show countertop placement often fails, friction shows up as “where do I put it?” and “can I close it?”
 
  - **Many owners don’t keep it on the counter because it’s too big (and the counter is sacred)**.
@@ -150,6 +136,19 @@ If you’re shopping or reconfiguring your setup, ask these four questions:
 
 We reference publicly available reviews, official guidance, and help threads to illustrate common placement and usability friction. Product experiences vary by home, model revision, and usage conditions.
 
+<GemeTerra2CTA 
+ imgSrc="/img/geme-terra-2-composter.jpg"
+ productTitle="GEME Terra II: Best Kitchen Composter"
+ features={[
+    "✅ Best Composter With No Hidden Costs",
+    "✅ Biologically Active Composting System",
+    "✅ Quiet, Odour-Free, Real Compost",
+    "✅ Zero Filter Costs, No Refills",
+    "✅ Reduces Composting Time to Days"
+ ]}
+buttonText="Get Your GEME Terra II"
+  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=countertop-composter-misnomer-floor-standing-electric-composter"
+/>
 
 <RelatedArticles
   slugs={[

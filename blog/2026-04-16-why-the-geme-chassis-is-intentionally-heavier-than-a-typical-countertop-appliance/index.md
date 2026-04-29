@@ -87,20 +87,6 @@ One-line takeaway: **choose by daily capacity, floor/room context, and headroom,
 
 - and your main goal is stable day-to-day processing without overbuying headroom. 
 
-<GemeTerra2CTA 
- imgSrc="/img/geme-terra-2-composter.jpg"
- productTitle="GEME Terra II: Best Kitchen Composter"
- features={[
-    "✅ Best Composter With Permanent Filter",
-    "✅ Biologically Active Composting System",
-    "✅ Quiet, Odour-Free, Real Compost",
-    "✅ Zero Filter Costs, No Refills",
-    "✅ Reduces Composting Time to Days"
- ]}
-buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=why-the-geme-chassis-is-intentionally-heavier-than-a-typical-countertop-appliance"
-/>
-
 **Choose GEME Pro if**:
 
 - your kitchen behaves more like a heavy-load system,
@@ -110,19 +96,6 @@ buttonText="Get Your GEME Terra II"
 - or you care more about throughput margin and longer maintenance intervals than a smaller overall footprint. 
 
 One-line takeaway: **this is not “small good, big bad” or “heavy good, light bad.” It is fit engineering**.
-
-<GemeComposterCTA 
- imgSrc="/img/geme-bio-composter.jpg"
- productTitle="GEME Pro Composter"
- features={[
-    "✅ Best Composter With No Hidden Costs",
-    "✅ Produce Soil-Ready Compost For Plant Growth",
-    "✅ Quiet, Odor-Free, Quick(6-8 hours)",
-    "✅ Large Capacity (19 L) For Daily Waste"
-  ]}
-buttonText="Get Your GEME Pro"
-  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=why-the-geme-chassis-is-intentionally-heavier-than-a-typical-countertop-appliance"
-/>
 
 ## 4. Why it matters
 

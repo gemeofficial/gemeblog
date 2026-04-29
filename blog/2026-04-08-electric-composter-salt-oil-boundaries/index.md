@@ -82,20 +82,6 @@ Salt and oil on their own aren’t the core enemy. The main failure mode is usua
 
 So we publish a boundary rule that users can actually follow without measuring tools.
 
-<GemeTerra2CTA 
- imgSrc="/img/geme-terra-2-composter.jpg"
- productTitle="GEME Terra II: Best Kitchen Composter"
- features={[
-    "✅ Best Composter With No Hidden Costs",
-    "✅ Biologically Active Composting System",
-    "✅ Quiet, Odour-Free, Real Compost",
-    "✅ Zero Filter Costs, No Refills",
-    "✅ Reduces Composting Time to Days"
- ]}
-buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=electric-composter-salt-oil-boundaries"
-/>
-
 ## 3. Evidence: What changes when salt/oil go up—and how to keep the system in the safe window
 
 ### What salt does (in plain language)
@@ -181,7 +167,6 @@ Two very oily/salty loads in a row is where people get into trouble. Rotate back
 4. Use the system like a bin, not a lab
 
 Drop in, close, move on. Boundaries are there so you don’t have to babysit it.
-
 
 ## Trust Stack
 

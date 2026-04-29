@@ -170,20 +170,6 @@ This is where trust is built.
 
 If the claim uses a number, a strong outcome, or a comparative frame, route it to a locked parameter, manual, support doc, or evidence drawer. That is not bureaucratic. That is how you stop truth from turning into vibe.
 
-<GemeTerra2CTA 
- imgSrc="/img/geme-terra-2-composter.jpg"
- productTitle="GEME Terra II: Best Kitchen Composter"
- features={[
-    "✅ Best Composter With Permanent Filter",
-    "✅ Biologically Active Composting System",
-    "✅ Quiet, Odour-Free, Real Compost",
-    "✅ Zero Filter Costs, No Refills",
-    "✅ Reduces Composting Time to Days"
- ]}
-buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-we-write-an-engineering-claim-without-turning-it-into-ad-copy"
-/>
-
 ## Hidden work vs. high-trust writing
 
 One-line takeaway: **vague claims save time during drafting and cost trust later**.

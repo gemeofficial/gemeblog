@@ -77,20 +77,6 @@ This factor specifically affects high-heat dehydrators (e.g., Lomi, Vitamix Food
 
 - **The Reality**: These machines operate at temperatures exceeding 70°C (158°F). While heat kills bacteria, it also energizes trapped odor molecules, potentially causing them to desorb (release) back into the air stream during the drying cycle.
 
-<GemeTerra2CTA 
- imgSrc="/img/geme-terra-2-composter.jpg"
- productTitle="GEME Terra II: Best Kitchen Composter"
- features={[
-    "✅ Best Composter With Permanent Filter",
-    "✅ Biologically Active Composting System",
-    "✅ Quiet, Odour-Free, Real Compost",
-    "✅ Zero Filter Costs, No Refills",
-    "✅ Reduces Composting Time to Days"
- ]}
-buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=why-composter-filters-only-last-3-months"
-/>
-
 ## 3. Comparative Analysis: Biological vs. Dehydrators
 
 Not all filters fail the same way. It is crucial to distinguish between the two main types of machines.

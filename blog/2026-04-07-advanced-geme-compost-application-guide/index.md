@@ -56,20 +56,6 @@ To mitigate this, we use the 1:8 Dilution Rule.
 
   - Note: Use untreated soil or coconut coir. Do not mix with pre-fertilized potting mixes, as this may result in nutrient excess.
 
-<GemeTerra2CTA 
- imgSrc="/img/geme-terra-2-composter.jpg"
- productTitle="GEME Terra II: Best Kitchen Composter"
- features={[
-    "✅ Best Composter With No Hidden Costs",
-    "✅ Biologically Active Composting System",
-    "✅ Quiet, Odour-Free, Real Compost",
-    "✅ Zero Filter Costs, No Refills",
-    "✅ Reduces Composting Time to Days"
- ]}
-buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=advanced-geme-compost-application-guide"
-/>
-
 ## 3. The Application (The "Soil Capping" Technique)
 
 Because the output is biologically active and may contain small, unfinished particles, we never leave it exposed on the surface. We use a technique called Soil Capping—using a layer of plain soil as a physical barrier.

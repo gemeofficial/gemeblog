@@ -83,20 +83,6 @@ So we don’t publish a “pretty list.”
 
 We publish **rules that prevent the common failure modes**.
 
-<GemeTerra2CTA 
- imgSrc="/img/geme-terra-2-composter.jpg"
- productTitle="GEME Terra II: Best Kitchen Composter"
- features={[
-    "✅ Best Tool to Compost Meat/Dairy/Bones",
-    "✅ Biologically Active Composting System",
-    "✅ Quiet, Odour-Free, Real Compost",
-    "✅ Zero Filter Costs, No Refills",
-    "✅ Reduces Composting Time to Days"
- ]}
-buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=what-can-you-put-in-electric-composter-meat-dairy-bones"
-/>
-
 ## 3. Evidence: The “OK / Conditional / Hard No” rule set (kitchen-executable)
 
 ### ✅ OK (commonly works well)

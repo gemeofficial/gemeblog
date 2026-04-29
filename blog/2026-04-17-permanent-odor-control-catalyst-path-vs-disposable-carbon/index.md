@@ -158,33 +158,6 @@ But none of that should be the first emotional message. The first message should
 
 The technical story is there to support that claim, not to replace it.
 
-<GemeTerra2CTA 
- imgSrc="/img/geme-terra-2-composter.jpg"
- productTitle="GEME Terra II: Best Kitchen Composter"
- features={[
-    "✅ Best Composter With Permanent Filter",
-    "✅ Biologically Active Composting System",
-    "✅ Quiet, Odour-Free, Real Compost",
-    "✅ Zero Filter Costs, No Refills",
-    "✅ Reduces Composting Time to Days"
- ]}
-buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=permanent-odor-control-catalyst-path-vs-disposable-carbon"
-/>
-
-<GemeComposterCTA 
- imgSrc="/img/geme-bio-composter.jpg"
- productTitle="GEME Pro Composter"
- features={[
-    "✅ Best Composter With No Hidden Costs",
-    "✅ Produce Soil-Ready Compost For Plant Growth",
-    "✅ Quiet, Odor-Free, Quick(6-8 hours)",
-    "✅ Large Capacity (19 L) For Daily Waste"
-  ]}
-buttonText="Get Your GEME Pro"
-  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=permanent-odor-control-catalyst-path-vs-disposable-carbon"
-/>
-
 ## 6. Hidden work vs. headroom
 
 One-line takeaway: **the real competitor is not just another machine. It is the amount of attention the machine demands**.
