@@ -28,9 +28,9 @@ This Mother's Day, give her the gift of time and a break from the daily dirty wo
 | North America (US & Canada)   | $150 off            | **Coming Soon**  | May 1 – May 15, 2026     |
 | Europe (UK, Germany & EU)     | €150 (≈£130) off    | **Coming Soon**  | May 1 – May 15, 2026     |
 
-👉 Shop GEME on Amazon before Mother's Day (discount codes activate on May 1):
+Shop **GEME on Amazon before Mother's Day** (discount codes activate on May 1), **copy the discount code from the table above and click the following Amazon link accordingly to your Amazon Checkout page**: 
 
-🇺🇸 United States · 🇨🇦 Canada · 🇬🇧 United Kingdom · 🇩🇪 Germany & EU
+👉 🇺🇸 United States · 🇨🇦 Canada · 🇬🇧 United Kingdom · 🇩🇪 Germany & EU
 
 ![Mother's Day GEME Composter Discount](./image/mothers-day.png)
 
