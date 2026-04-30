@@ -25,12 +25,13 @@ This Mother's Day, give her the gift of time and a break from the daily dirty wo
 
 | **Region**                        | **Discount**            | **Promo Code**   | **Active Dates**              |
 |-------------------------------|---------------------|--------------|--------------------------|
-| North America (US & Canada)   | $150 off            | **Coming Soon**  | May 1 – May 15, 2026     |
-| Europe (UK, Germany & EU)     | €150 (≈£130) off    | **Coming Soon**  | May 1 – May 15, 2026     |
+| [**Amazon US**](https://www.amazon.com/GEME-Composter-Real-Composting-Electric/dp/B0BV31KTCN?maas=maas_adg_AA902E69E9BB2E78246214480798C8D6_afap_abs&ref_=aa_maas&tag=maas)   | $150 off            | **D5EK7FM6**  | May 1 – May 15, 2026     |
+| [**Amazon Canada**](https://www.amazon.ca/GEME-Composter-Real-Composting-Dehydrated/dp/B0BV31KTCN?maas=maas_adg_C334C38DBC0CF4AF6658244D9AB7C258_afap_abs&ref_=aa_maas&tag=maas)   | $150 off            | **YQCBYZ27**  | May 1 – May 15, 2026     |
+| [**Amazon Germany**](https://www.amazon.de/GEME-Elektrischer-Dauerhafter-Kompostierung-Kompostbeh%C3%A4lter/dp/B0CJY4K9J3?maas=maas_adg_9B4F711DA9BD3520F60F7C5A2315D528_afap_abs&ref_=aa_maas&tag=maas)    | €150 (≈£130) off    | **DVQNMVJM**  | May 1 – May 15, 2026     |
 
 Shop **GEME on Amazon before Mother's Day** (discount codes activate on May 1), **copy the discount code from the table above and click the following Amazon link accordingly to your Amazon Checkout page**, then paste and use the code for the discounted price: 
 
-👉 🇺🇸 United States · 🇨🇦 Canada · 🇬🇧 United Kingdom · 🇩🇪 Germany & EU
+👉 [🇺🇸 **United States**](https://www.amazon.com/GEME-Composter-Real-Composting-Electric/dp/B0BV31KTCN?maas=maas_adg_AA902E69E9BB2E78246214480798C8D6_afap_abs&ref_=aa_maas&tag=maas) · [🇨🇦 **Canada**](https://www.amazon.ca/GEME-Composter-Real-Composting-Dehydrated/dp/B0BV31KTCN?maas=maas_adg_C334C38DBC0CF4AF6658244D9AB7C258_afap_abs&ref_=aa_maas&tag=maas) · [🇩🇪 **Germany & EU**](https://www.amazon.de/GEME-Elektrischer-Dauerhafter-Kompostierung-Kompostbeh%C3%A4lter/dp/B0CJY4K9J3?maas=maas_adg_9B4F711DA9BD3520F60F7C5A2315D528_afap_abs&ref_=aa_maas&tag=maas)
 
 ![Mother's Day GEME Composter Discount](./image/mothers-day.png)
 
@@ -68,6 +69,19 @@ GEME uses Microbial Degradation Technology (no grinding blades), so it **runs in
 
 Batch‑mode composters lock their lids for hours at a time. **GEME is a continuous feed**. Mom can open the lid, drop in scraps, and close it. Any time. No buttons to push, no cycles to wait for.
 
+<GemeComposterCTA 
+ imgSrc="/img/geme-bio-composter.jpg"
+ productTitle="GEME Pro Composter"
+ features={[
+    "✅ Best Composter With No Hidden Costs",
+    "✅ Produce Soil-Ready Compost For Plant Growth",
+    "✅ Quiet, Odor-Free, Quick(6-8 hours)",
+    "✅ Large Capacity (19 L) For Daily Waste"
+  ]}
+buttonText="Get $150 Off on Amazon US"
+  href="https://www.amazon.com/GEME-Composter-Real-Composting-Electric/dp/B0BV31KTCN?maas=maas_adg_02B6C6E33CD21212EA4CF77B5B7638CB_afap_abs&ref_=aa_maas&tag=maas"
+/>
+
 ## 2. The GEME Composter Spec Table That Tells You Everything
 
 | **Feature**                | **GEME Electric Composter**                                       |
@@ -86,7 +100,8 @@ Batch‑mode composters lock their lids for hours at a time. **GEME is a continu
 | **What Kind of Compost**   | ✅ Real, nutrient-dense, microbial organic compost                                                   |
 | **Best For**               | Families of 4+ people who cook daily                              |
 | **Mother‘s Day Price**     | $150 / €150 OFF (code active May 1 – May 15)                      |
-| **Amazon Links**           | 🇺🇸 US · 🇨🇦 Canada · 🇬🇧 UK · 🇩🇪 Germany                           |
+| **Amazon Discount Codes**     | 🇺🇸 United States: **D5EK7FM6** · 🇨🇦 Canada: **YQCBYZ27** · 🇩🇪 Germany & EU: **DVQNMVJM** (code active May 1 – May 15)                      |
+| **Amazon Links**           | [🇺🇸 **US**](https://www.amazon.com/GEME-Composter-Real-Composting-Electric/dp/B0BV31KTCN?maas=maas_adg_02B6C6E33CD21212EA4CF77B5B7638CB_afap_abs&ref_=aa_maas&tag=maas) · [🇨🇦 **Canada**](https://www.amazon.ca/GEME-Composter-Real-Composting-Dehydrated/dp/B0BV31KTCN?maas=maas_adg_C334C38DBC0CF4AF6658244D9AB7C258_afap_abs&ref_=aa_maas&tag=maas) · [🇩🇪 **Germany**](https://www.amazon.de/GEME-Elektrischer-Dauerhafter-Kompostierung-Kompostbeh%C3%A4lter/dp/B0CJY4K9J3?maas=maas_adg_9B4F711DA9BD3520F60F7C5A2315D528_afap_abs&ref_=aa_maas&tag=maas)                           |
 
 ## 3. The Hidden Cost of Other "Composters" 
 
@@ -117,7 +132,7 @@ Let's do math.
 
 *[One reviewer summed it up](https://www.amazon.ca/dp/B0BV31KTCN/ref=sspa_dk_detail_0?psc=1&pd_rd_i=B0BV31KTCN&pd_rd_w=M37CD&content-id=amzn1.sym.516c2169-755e-413a-a38a-68230f4ab66f&pf_rd_p=516c2169-755e-413a-a38a-68230f4ab66f&pf_rd_r=JPSN99W996F4PBA6RW3D&pd_rd_wg=zSiRy&pd_rd_r=dfcff810-d187-4505-9d46-23b8895a8dea&s=kitchen&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw) perfectly: "I haven't used my regular trash can in weeks. No smelly trash. No leaks. And I'm saving money because my trash bill has dropped."*
 
-👉 [Explore GEME Pro for Big Households/Plant Shops/Restaurants](https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=the-best-kitchen-composter-for-zero-waste-lifestyle)
+👉 [Explore GEME Pro for Big Households/Plant Shops/Restaurants, Amazon US Discount Code: **D5EK7FM6**](https://www.amazon.com/GEME-Composter-Real-Composting-Electric/dp/B0BV31KTCN?maas=maas_adg_02B6C6E33CD21212EA4CF77B5B7638CB_afap_abs&ref_=aa_maas&tag=maas)
 
 ## 6. 🎁 The Gift Mom Actually Wants (But Would Never Ask For)
 
@@ -131,14 +146,15 @@ With GEME, she lifts the lid, adds the scraps, and closes it. No smell. No flies
 
 ## 7. 🛒 Get \$150 OFF Before Mother's Day
 
-| **Region**                        | **Discount**        | **Promo Code**   | **Status**                     |
-|-------------------------------|-----------------|-------------|----------------------------|
-| North America (US & Canada)   | $150 USD off    | **Coming Soon**  | Active May 1–15, 2026      |
-| Europe (UK, Germany & EU)     | €150 EUR off    | **Coming Soon**  | Active May 1–15, 2026      |
+| **Region**                        | **Discount**            | **Promo Code**   | **Active Dates**              |
+|-------------------------------|---------------------|--------------|--------------------------|
+| [**Amazon US**](https://www.amazon.com/GEME-Composter-Real-Composting-Electric/dp/B0BV31KTCN?maas=maas_adg_AA902E69E9BB2E78246214480798C8D6_afap_abs&ref_=aa_maas&tag=maas)   | $150 off            | **D5EK7FM6**  | May 1 – May 15, 2026     |
+| [**Amazon Canada**](https://www.amazon.ca/GEME-Composter-Real-Composting-Dehydrated/dp/B0BV31KTCN?maas=maas_adg_C334C38DBC0CF4AF6658244D9AB7C258_afap_abs&ref_=aa_maas&tag=maas)   | $150 off            | **YQCBYZ27**  | May 1 – May 15, 2026     |
+| [**Amazon Germany**](https://www.amazon.de/GEME-Elektrischer-Dauerhafter-Kompostierung-Kompostbeh%C3%A4lter/dp/B0CJY4K9J3?maas=maas_adg_9B4F711DA9BD3520F60F7C5A2315D528_afap_abs&ref_=aa_maas&tag=maas)    | €150 (≈£130) off    | **DVQNMVJM**  | May 1 – May 15, 2026     |
 
 👉 Bookmark this page, the codes arrive on **May 1**.
 
-🇺🇸 Amazon US · 🇨🇦 Amazon CA · 🇬🇧 Amazon UK · 🇩🇪 Amazon DE
+[🇺🇸 **United States**](https://www.amazon.com/GEME-Composter-Real-Composting-Electric/dp/B0BV31KTCN?maas=maas_adg_AA902E69E9BB2E78246214480798C8D6_afap_abs&ref_=aa_maas&tag=maas) · [🇨🇦 **Canada**](https://www.amazon.ca/GEME-Composter-Real-Composting-Dehydrated/dp/B0BV31KTCN?maas=maas_adg_C334C38DBC0CF4AF6658244D9AB7C258_afap_abs&ref_=aa_maas&tag=maas) · [🇩🇪 **Germany & EU**](https://www.amazon.de/GEME-Elektrischer-Dauerhafter-Kompostierung-Kompostbeh%C3%A4lter/dp/B0CJY4K9J3?maas=maas_adg_9B4F711DA9BD3520F60F7C5A2315D528_afap_abs&ref_=aa_maas&tag=maas)
 
 ![GEME Composter Discount: Save \$150 For Mother's Day 2026](./image/mothers-day-geme-discount.png)
 
@@ -178,7 +194,7 @@ With GEME, she lifts the lid, adds the scraps, and closes it. No smell. No flies
 
 ## Cited Sources
 
-1. [**Amazon.com: GEME Smart 19L Electric Composter product listing**](https://amazon.com/)
+1. [**Amazon.com: GEME Smart 19L Electric Composter product listing**](https://www.amazon.com/GEME-Composter-Real-Composting-Electric/dp/B0BV31KTCN?maas=maas_adg_AA902E69E9BB2E78246214480798C8D6_afap_abs&ref_=aa_maas&tag=maas)
 2. [**WTOP News: GEME Zero Waste Smart Composter reduces compost production from months to hours**](https://wtop.com/tech/2025/01/geme-zero-waste-smart-composter-reduces-compost-production-time-from-months-to-hours/)
 3. [**GEME Official Blog: The Best Electric Kitchen Composter of 2026**](https://www.geme.bio/blog/best-kitchen-composter-2026)
 4. [**Optimove: 2026 Mother’s Day Shopping Report**](https://www.globenewswire.com/de/news-release/2026/04/26/3281235/0/en/optimove-insights-nearly-half-of-mother-s-day-shoppers-use-ai-tools-and-64-are-open-to-buying-from-a-brand-they-have-never-tried.html)
