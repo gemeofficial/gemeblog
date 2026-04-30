@@ -130,8 +130,8 @@ The cheapest machine at checkout often becomes the most expensive over time. GEM
 
 Mother’s Day is the biggest gift‑giving event of spring. And in 2026, consumers are prioritizing practical, personalized, time‑saving gifts.
 
-- U.S. spending on Mother’s Day is projected to reach $38 billion, with average spend per person \$284.25 (NRF).
-- Electronics are a top category, expected to surpass $4 billion for the first time.
+- U.S. spending on Mother’s Day is projected to reach \$38 billion, with average spend per person \$284.25 (NRF).
+- Electronics are a top category, expected to surpass \$4 billion for the first time.
 - Moms consistently rank “free time” and “relaxation” as their most desired gifts, above jewelry, clothing, or flowers.
 
 GEME fits this perfectly. It’s practical (solves a daily chore), it‘s tech (smart composting), and it literally gives Mom back the 10–15 minutes she spends every day dealing with trash.
