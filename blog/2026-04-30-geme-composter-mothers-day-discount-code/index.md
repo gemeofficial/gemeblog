@@ -119,10 +119,10 @@ And every few weeks, she gets a batch of real, living compost, free fertilizer f
 
 | Brand   | Real Compost?                   | Annual Filter Cost     | 3-Year Total (machine + filters) | Notes                                 |
 |---------|-------------------------------|-----------------------|-----------------------------------|---------------------------------------|
-| **GEME**    | ✅ Yes                        | $0                    | Amazon price (with $150 off)      | Permanent filter, no subscriptions    |
-| **Lomi**    | ❌ No (dehydrated dust)        | $150–200              | $949–$1,099                       | Filters every 3–4 months              |
-| **Mill**    | ❌ No (food grounds)           | $89                   | $1,266+                           | Plus optional pickup fees             |
-| **Reencle** | ⚠️ Partial (needs curing)     | ~$47                  | ~$641                             | Requires filter changes               |
+| **GEME**    | ✅ Yes                        | \$0                    | Amazon price (with \$150 off)      | Permanent filter, no subscriptions    |
+| **Lomi**    | ❌ No (dehydrated dust)        | \$150–200              | \$949–\$1,099                       | Filters every 3–4 months              |
+| **Mill**    | ❌ No (food grounds)           | \$89                   | \$1,266+                           | Plus optional pickup fees             |
+| **Reencle** | ⚠️ Partial (needs curing)     | ~\$47                  | ~\$641                             | Requires filter changes               |
 
 The cheapest machine at checkout often becomes the most expensive over time. GEME breaks that cycle by eliminating consumables. What you pay on Amazon is what you pay forever.
 
