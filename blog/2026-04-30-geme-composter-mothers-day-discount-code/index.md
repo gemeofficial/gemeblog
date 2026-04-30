@@ -12,7 +12,7 @@ keywords:
 slug: geme-composter-mothers-day-discount
 authors: [Moore]
 tags: [composter, composting, geme]
-
+image: https://www.geme.bio/assets/images/mothers-day-geme-discount-233e16fca98fc769339cb1e78fa2a4b6.png
 ---
 
 import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
