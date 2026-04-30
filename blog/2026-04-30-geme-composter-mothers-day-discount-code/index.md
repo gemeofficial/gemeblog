@@ -158,7 +158,7 @@ GEME is the best electric kitchen composter for moms who do it all. **This Mothe
 | [**Amazon Canada**](https://www.amazon.ca/GEME-Composter-Real-Composting-Dehydrated/dp/B0BV31KTCN?maas=maas_adg_C334C38DBC0CF4AF6658244D9AB7C258_afap_abs&ref_=aa_maas&tag=maas)   | $150 off            | **YQCBYZ27**  | May 1 – May 15, 2026     |
 | [**Amazon Germany**](https://www.amazon.de/GEME-Elektrischer-Dauerhafter-Kompostierung-Kompostbeh%C3%A4lter/dp/B0CJY4K9J3?maas=maas_adg_9B4F711DA9BD3520F60F7C5A2315D528_afap_abs&ref_=aa_maas&tag=maas)    | €150 (≈£130) off    | **DVQNMVJM**  | May 1 – May 15, 2026     |
 
-👉 Bookmark this page, the codes arrive on **May 1**.
+👉 Bookmark this page, the codes activate on **May 1**.
 
 🇺🇸 [**Shop on Amazon US**](https://www.amazon.com/GEME-Composter-Real-Composting-Electric/dp/B0BV31KTCN?maas=maas_adg_AA902E69E9BB2E78246214480798C8D6_afap_abs&ref_=aa_maas&tag=maas)
 🇨🇦 [**Shop on Amazon Canada**](https://www.amazon.ca/GEME-Composter-Real-Composting-Dehydrated/dp/B0BV31KTCN?maas=maas_adg_C334C38DBC0CF4AF6658244D9AB7C258_afap_abs&ref_=aa_maas&tag=maas)
