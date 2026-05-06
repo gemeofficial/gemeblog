@@ -1,5 +1,5 @@
 ---
-title: "The Best Electric Kitchen Composter: Mill Composter V.S GEME Terra II"
+title: "Mill Composter V.S GEME Terra II: The Best Electric Kitchen Composter in 2026"
 description: "Discover the best composter for a zero waste lifestyle: GEME Terra 2. Real compost, no filter replacements, continuous feed. Save hundreds over time."
 keywords:
   - electric composter
