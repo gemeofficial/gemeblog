@@ -1,6 +1,6 @@
 ---
-title: "Does Mill Composter Really Compost?"
-description: "Does Mill composter really compost? No, the Mill Composter does not produce compost. It just dries and grinds food waste. We break down drying vs real composting and show how the GEME Terra 2 electric composter makes true garden-ready compost."
+title: "Does Mill Composter Produce Real Compost?"
+description: "Does Mill composter produce compost? No, the Mill Composter does not produce compost, it produces food grounds instead. Mill officially states that Food Grounds are not compost. We break down drying vs real composting and show how the GEME Terra 2 electric composter makes true garden-ready compost."
 keywords:
   - electric composter
   - mill composter
