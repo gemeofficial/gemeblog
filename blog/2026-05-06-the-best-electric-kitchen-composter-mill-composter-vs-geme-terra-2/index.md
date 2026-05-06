@@ -38,7 +38,7 @@ This guide focuses specifically on Mill vs. GEME Terra II, breaking down what ea
 | **Upfront Price**             | \$999 (or rent \$33–\$45/month)                               | \$599                                        |
 | **Ongoing Annual Cost**       | \$396+ (subscription) or ~\$89+ (filters + optional pickups)  | \$0, permanent metal-ion catalyst system      |
 | **Noise Level**               | ~45 dB (quiet air purifier level)                           | 35–40 dB                                    |
-| **Capacity / Size**           | 6.5L bucket; floor standing                                 | 14L chamber; compact countertop design       |
+| **Capacity / Size**           | 6.5L bucket; floor standing                                 | 14L chamber; floor standing       |
 
 
 ![Mill Composter V.S GEME Terra II: The Best Kitchen Composter](./image/mill-composter-vs-geme-terra-2.png)
