@@ -33,21 +33,17 @@ In this guide, we'll break down exactly what Mill does, why drying isn't compost
 
 ## Table Of Content
 
-1. [**Mill V.S GEME Terra 2 Hardware Comparison**](#1-mill-vs-geme-terra-2-hardware-comparison-design-noise--daily-handling)
+1. [**What the Mill Composter Actually Does: Dehydrate & Grind**](#1-what-the-mill-composter-actually-does-dehydrate--grind)
 
-2. [**Core Technology: Dehydration V.S Real Composting**](#2-core-technology-dehydration-vs-real-composting-this-changes-everything)
+2. [**What Real Composting Is: A Biological Process**](#2-what-real-composting-is-a-biological-process)
 
-3. [**Mill V.S GEME: What Each Machine Produces?**](#3-what-each-machine-produces-and-how-to-use-it)
+3. [**GEME Terra II: A True Electric Composter**](#3-introducing-the-geme-terra-ii-a-true-electric-composter)
 
-4. [**Mill Composter V.S GEME Terra 2 Cost Breakdown**](#4-mill-composter-vs-geme-terra-2-cost-breakdown-the-hidden-1000-trap)
+4. [**Why the Distinction Matters**](#4-why-the-distinction-matters-beyond-semantics)
 
-5. [**Mill V.S GEME Terra 2: Performance & User Experience**](#5-performance--user-experience-real-user-feedback)
+5. [**Does Mill Composter Really Compost? Final Verdict**](#5-does-mill-composter-really-compost-final-verdict)
 
-6. [**Mill Composter V.S GEME Terra II: Environmental Imapct**](#6-environmental-impact-two-paths-to-reducing-food-waste)
-
-7. [**Final Verdict: The Best Electric Kitchen Composter**](#7-final-verdict-best-electric-kitchen-composter)
-
-8. [**Frequently Asked Questions (Answered)**](#8-frequently-asked-questions-answered)
+6. [**Frequently Asked Questions (Answered)**](#6-frequently-asked-questions-answered)
 
 ## 1. What the Mill Composter Actually Does: Dehydrate & Grind
 
@@ -212,7 +208,7 @@ buttonText="Get Your GEME Terra II"
   href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=does-mill-composter-really-compost"
 />
 
-## 8. Frequently Asked Questions (Answered)
+## 6. Frequently Asked Questions (Answered)
 
 ### Q: Does Mill make real compost?
 
