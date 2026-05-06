@@ -47,7 +47,7 @@ In this guide, we'll break down exactly what Mill does, why drying isn't compost
 
 ## 1. What the Mill Composter Actually Does: Dehydrate & Grind
 
-The Mill Composter (officially called the Mill Food Recycler) is often grouped with electric composter models, but its core technology is completely different. It uses heat and mechanical grinding, not biology.
+The Mill Composter (officially called the **Mill Food Recycler**) is often grouped with electric composter models, but its core technology is completely different. It uses heat and mechanical grinding, not biology.
 
 Here's the process:
 
@@ -69,7 +69,7 @@ So when you see "Mill composter" in product roundups, it's a misnomer. **It shou
 
 Real composting is a living process. It relies on microorganisms (bacteria, fungi, actinomycetes) that consume and break down organic matter, converting it into nutrient-rich humus. This is the same decomposition that happens on a forest floor, just accelerated.
 
-Key characteristics of real composting:
+**Key characteristics of real composting**:
 
 - **Microbial digestion**: Living organisms feed on the waste, generating heat (often 130–160°F in hot composting) and transforming the material chemically.
 - **Aerobic respiration**: In a well-managed pile or machine, oxygen-loving microbes break down the scraps without producing methane, a major greenhouse gas.
