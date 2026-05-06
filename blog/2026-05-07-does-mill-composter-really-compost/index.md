@@ -8,7 +8,7 @@ keywords:
   - best composter
   - food composter
   - geme terra 2
-slug: does-mill-composter-really-compost
+slug: does-mill-composter-pruduce-compost
 authors: [Moore]
 tags: [composter, composting, geme]
 
