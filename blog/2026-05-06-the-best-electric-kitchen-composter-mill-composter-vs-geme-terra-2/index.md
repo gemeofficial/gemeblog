@@ -41,23 +41,27 @@ This guide focuses specifically on Mill vs. GEME Terra II, breaking down what ea
 | **Capacity / Size**           | 6.5L bucket; floor standing                                 | 14L chamber; compact countertop design       |
 
 
-![GEME Terra II: The Best Kitchen Composter](./image/geme-terra-2-the-best-kitchen-composter.png)
+![Mill Composter V.S GEME Terra II: The Best Kitchen Composter](./image/mill-composter-vs-geme-terra-2.png)
 
 <!-- truncate -->
 
 ## Table Of Content
 
-1. [**What Makes a Kitchen Composter “Zero Waste”?**](#1-what-makes-a-kitchen-composter-zero-waste)
+1. [**Mill V.S GEME Terra 2 Hardware Comparison**](#1-mill-vs-geme-terra-2-hardware-comparison-design-noise--daily-handling)
 
-2. [**How GEME Terra 2 Delivers True Zero Waste?**](#2-how-geme-terra-2-delivers-true-zero-waste)
+2. [**Core Technology: Dehydration V.S Real Composting**](#2-core-technology-dehydration-vs-real-composting-this-changes-everything)
 
-3. [**Why GEME Terra 2 Outperforms Other Electric Composters?**](#3-why-geme-terra-2-outperforms-other-electric-composters)
+3. [**Mill V.S GEME: What Each Machine Produces?**](#3-what-each-machine-produces-and-how-to-use-it)
 
-4. [**How GEME Terra 2 Compares to Traditional Composting?**](#4-how-geme-terra-2-compares-to-traditional-composting)
+4. [**Mill Composter V.S GEME Terra 2 Cost Breakdown**](#4-mill-composter-vs-geme-terra-2-cost-breakdown-the-hidden-1000-trap)
 
-5. [**The Verdict: GEME Terra 2 Is the Best Composter for Zero Waste Living**](#5-the-verdict-geme-terra-2-is-the-best-composter-for-zero-waste-living)
+5. [**Mill V.S GEME Terra 2: Performance & User Experience**](#5-performance--user-experience-real-user-feedback)
 
-6. [**FAQs (Answered)**](#6-frequently-asked-questions-answered)
+6. [**Mill Composter V.S GEME Terra II: Environmental Imapct**](#6-environmental-impact-two-paths-to-reducing-food-waste)
+
+7. [**Final Verdict: The Best Electric Kitchen Composter**](#7-final-verdict-best-electric-kitchen-composter)
+
+8. [**Frequently Asked Questions (Answered)**](#8-frequently-asked-questions-answered)
 
 ## 1. Mill V.S GEME Terra 2 Hardware Comparison: Design, Noise & Daily Handling
 
@@ -129,14 +133,16 @@ This is a fundamental difference that impacts everything from convenience (no ma
 
 Output Winner: **GEME Terra II, real compost versus dehydrated Food Grounds that require further processing before garden use**.
 
+![GEME Terra 2: The Best Electric Kitchen Composter](./image/geme-terra-2-the-best-kitchen-composter.png)
+
 ## 4. Mill Composter V.S GEME Terra 2 Cost Breakdown: The Hidden $1,000+ Trap
 
 ### Upfront Price Comparison
 
 The headline prices are starkly different:
 
-- Mill: Approximately \$999 upfront, or rent for ~\$33–\$45 per month.
-- GEME Terra II: \$599.
+- **Mill Food Recycler**: Approximately \$999 upfront, or rent for ~\$33–\$45 per month.
+- **GEME Terra II**: \$599.
 
 But the real story is in the ongoing costs, and this is where many buyers get surprised.
 
