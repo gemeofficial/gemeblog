@@ -73,7 +73,7 @@ Key characteristics of real composting:
 
 - **Microbial digestion**: Living organisms feed on the waste, generating heat (often 130–160°F in hot composting) and transforming the material chemically.
 - **Aerobic respiration**: In a well-managed pile or machine, oxygen-loving microbes break down the scraps without producing methane, a major greenhouse gas.
-- **End product**: mature compost: After the microbes finish their work, you get a dark, crumbly, earthy-smelling material full of beneficial biology and stable organic matter. It's ready to feed plants immediately.
+- **End product**: Mature compost. After the microbes finish their work, you get a dark, crumbly, earthy-smelling material full of beneficial biology and stable organic matter. It's ready to feed plants immediately.
 
 **Real compost is alive**. It builds soil structure, improves water retention, and slowly releases nutrients. **Dehydrated food grounds, by contrast, are essentially dead organic dust that still needs to decompose further when added to soil**.
 
