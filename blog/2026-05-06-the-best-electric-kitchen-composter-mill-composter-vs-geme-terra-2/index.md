@@ -91,7 +91,7 @@ GEME Terra II uses a “kick” panel to open the lid, drops scraps into a spaci
 
 #### Cleaning & Maintenance
 
-Mill’s stainless steel bucket and grinding paddles are dishwasher-safe, which makes deep cleaning straightforward. However, because it grinds dried scraps, some users report sticky residues and occasional blade jams that **require manual clear-out**. The carbon filter needs periodic replacement (a recurring cost and a recurring chore). 
+Mill’s stainless steel bucket and grinding paddles are dishwasher-safe, which makes deep cleaning straightforward. However, because it grinds dried scraps, some users report sticky residues and occasional blade jams that **require manual clear-out**. **The carbon filter needs periodic replacement (a recurring cost and a recurring chore)**. 
 
 GEME Terra II, in contrast, has no blades, only a slow-turning mixing shaft. When a batch of compost is ready, you simply scoop it out of the chamber directly. The interior wall has a non-stick surface that resists build-up, so a quick wipe typically keeps it clean. Because the metal-ion catalyst is permanent and there are no grinding mechanisms or replaceable filters, maintenance is minimal: **scoop out the compost, wipe down the inside of the chamber as needed, and you’re done**. **No filter swaps, no blade jams, no heavy parts to haul to the sink**.
 
