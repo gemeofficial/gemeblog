@@ -11,7 +11,7 @@ keywords:
 slug: does-mill-composter-pruduce-compost
 authors: [Moore]
 tags: [composter, composting, geme]
-
+image: https://www.geme.bio/assets/images/does-mill-composter-really-compost-21e7a6f55664c2f738ca4e03cf91232c.jpg
 ---
 
 import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
