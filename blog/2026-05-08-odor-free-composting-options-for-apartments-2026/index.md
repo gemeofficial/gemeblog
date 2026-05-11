@@ -23,9 +23,9 @@ import ReactPlayer from 'react-player'
 
 Are There Any Odor-Free Composting Options Suitable for Apartments? 
 
-Yes, absolutely. 
+Yes, absolutely. You can compost in an apartment without your kitchen smelling like a landfill. The key is choosing a system that manages decomposition biologically and aerobically (or via sealed fermentation). **Modern microbial electric composters like the GEME Terra II, Bokashi fermentation, and well-maintained worm bins all allow genuinely odor-free indoor composting**. 
 
-You can compost in an apartment without your kitchen smelling like a landfill. The key is choosing a system that manages decomposition biologically and aerobically (or via sealed fermentation). **Modern microbial electric composters like the GEME Terra II, Bokashi fermentation, and well-maintained worm bins all allow genuinely odor-free indoor composting**. This guide covers only real composting or pre-composting methods, not dehydrators that simply dry and grind food waste. Here's how to find your perfect composter for apartment living.
+This guide covers only real composting or pre-composting methods, not dehydrators that simply dry and grind food waste. Here's how to find your perfect composter for apartment living.
 
 ![Best Composter For Apartment: Reencle V.S GEME Terra II](./image/reencle-vs-geme-terra-2.png)
 
@@ -86,15 +86,15 @@ buttonText="Get Your GEME Terra II"
 
 ## 3. Electric Composters: Microbial-Powered, Truly Odor-Free
 
-For apartment dwellers who want the most foolproof, low-effort path to odor-free composting, microbial electric composters are the gold standard. These countertop appliances use living microorganisms to digest food waste, without dehydrating or grinding to fake "compost." They automate aeration, temperature, and moisture so you don't have to balance greens and browns or worry about smells.
+For apartment dwellers who want the most foolproof, low-effort path to odor-free composting, microbial electric composters are the gold standard. These kitchen appliances use living microorganisms to digest food waste, without dehydrating or grinding to fake "compost." They automate aeration, temperature, and moisture so you don't have to balance greens and browns or worry about smells.
 
 ### GEME Terra II: Real Compost, Zero Filters
 
-The GEME Terra II uses a proprietary blend of thermophilic Kobold microbes (a consortium of 46 heat-tolerant Bacillus species) that actively digest organic matter at an optimal temperature of 45–55°C in a controlled aerobic environment. Odor is neutralized at the source by a permanent metal-ion oxidation catalyst, with no carbon filters to replace, ever. The output is genuine, biologically active compost ready to use immediately on houseplants or balcony gardens. Noise levels sit at around 35–40 dB, and ongoing costs are \$0.
+The GEME Terra II uses a proprietary blend of thermophilic Kobold microbes (a consortium of 46 heat-tolerant Bacillus species) that actively digest organic matter at an optimal temperature of 45–55°C in a controlled aerobic environment. Odor is neutralized at the source by a permanent metal-ion oxidation catalyst, with no carbon filters to replace, ever. **The output is genuine, biologically active compost ready to use immediately on houseplants or balcony gardens**. Noise levels sit at around 35–40 dB, and **ongoing costs are \$0**.
 
 ### Reencle Prime & Gravity: Continuous Microbial Processing
 
-Reencle uses a similar continuous microbial process with its own Bacillus-based culture. The Reencle Prime suits 1–2-person households; the Reencle Gravity handles 3–5+ people. Odor is managed through a multi-layer activated carbon filter system that runs continuously; these filters do require periodic replacement (adds recurring costs). Output is microbially active compost, though some users prefer to let it cure briefly before use.
+Reencle uses a similar continuous microbial process with its own Bacillus-based culture. The Reencle Prime suits 1–2-person households; the Reencle Gravity handles 3–5+ people. Odor is managed through a multi-layer activated carbon filter system that runs continuously; **these filters do require periodic replacement (adds recurring costs)**. Output is microbially active compost, though some users prefer to let it cure briefly before use.
 
 Both the **GEME Terra II** and **Reencle** represent genuine composting, biological decomposition that builds humus and returns nutrients safely to plants. 
 
