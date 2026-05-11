@@ -43,13 +43,11 @@ This guide covers only real composting or pre-composting methods, not dehydrator
 
 5. [**Worm Composting (Vermicomposting): The Silent Workers**](#5-worm-composting-vermicomposting-the-silent-workers)
 
-6. [**The Freezer Method: $0, Zero Effort**](#6-the-freezer-method-0-zero-effort)
+6. [**How to Choose the Right System for Your Apartment**](#6-how-to-choose-the-right-system-for-your-apartment)
 
-7. [**How to Choose the Right System for Your Apartment**](#7-how-to-choose-the-right-system-for-your-apartment)
+7. [**The Bottom Line**](#7-the-bottom-line)
 
-8. [**The Bottom Line**](#8-the-bottom-line)
-
-9. [**Frequently Asked Questions (Answered)**](#9-frequently-asked-questions-answered)
+8. [**Frequently Asked Questions (Answered)**](#8-frequently-asked-questions-answered)
 
 ## 1. Why Your Compost Smells (And How to Stop It)
 
@@ -64,7 +62,6 @@ The fix is simple: give your food waste access to oxygen (**aerobic decompositio
 | **Electric Microbial Composter (GEME Terra 2)**| Aerobic microbes + permanent catalyst        | Real compost                                         | Hands-off, immediate use              | \$599 (GEME Terra II)         |
 | **Bokashi Fermentation**                      | Airtight seal + fermentation microbes        | Fermented pre-compost (needs soil finishing)          | Meat, dairy, tiny spaces              | ~\$65 + \$15/yr bran          |
 | **Worm Composting (Vermicomposting)**         | Balanced greens/browns + worm activity       | Premium worm castings                                | Gardeners wanting high-quality output | ~\$40–\$120 + worms           |
-| **Freezer Method**                            | Sub-zero halts all decomposition             | Frozen scraps for drop-off                            | Zero-cost, zero-effort                | \$0                            |
 
 :::note
 ⚠️ A critical note on dehydrator-style machines: Appliances like Lomi, Vitamix FoodCycler, and Vego use heat and grinding to dry food scraps into a powder. They are not composters. **They do not produce compost; they produce dehydrated, largely sterile waste that must still break down further in soil**. If added directly, it can even cause nitrogen drawdown and acidity issues. If your goal is real composting, skip the dehydrators. This article focuses exclusively on systems that involve biological breakdown.
@@ -143,19 +140,13 @@ Worm composting uses red wiggler worms (Eisenia fetida) to consume food scraps a
 
 Worm bins fit under sinks or in closets, require no turning (the worms do the work), and produce the highest-quality potting material for houseplants. Startup costs range from \$40 for worms plus a DIY bin to around \$120 for a purpose-built system like the Worm Factory 360. Avoid meat, dairy, and citrus in worm bins to keep the system odor-free and your worms happy.
 
-## 6. The Freezer Method: $0, Zero Effort
-
-For the truly commitment-averse, the freezer method is brilliantly simple: keep an airtight silicone bag or repurposed container in your freezer, toss scraps in as you cook, and the sub-zero temperature halts all decomposition and all odor instantly. Once full, drop the frozen scraps at a local farmers' market compost station, community garden, or use the ShareWaste app to find a neighbor who composts. This isn't composting at home, but it's an odor-free way to divert waste from landfills until you're ready to use a real composting system. Total cost: \$0.
-
-## 7. How to Choose the Right System for Your Apartment
+## 6. How to Choose the Right System for Your Apartment
 
 1. **For the best overall solution**: **GEME Terra II is the clear winner for most apartment households**. It checks every box that matters: genuine, biologically active compost ready to use immediately; zero ongoing costs thanks to its permanent metal-ion catalyst; a spacious 14L chamber that handles 1-3 people; and truly hands-off operation. At \$599, it costs more upfront than a Bokashi bucket or worm bin, but when you factor in the zero filter replacements, zero subscription fees, and no secondary processing step, it delivers the best long-term value of any indoor composting system. Compost quality is uncompromised, this is real, humus-rich material your houseplants will thrive on. **For anyone who wants real composting without the hassle, the GEME Terra II is the optimal choice**.
 
 2. **For the budget-conscious foodie who cooks with meat and dairy**: If the GEME Terra II's upfront price stretches your budget, Bokashi is your next best bet. It handles meat, fish, and dairy effortlessly, costs around $65 to start, and takes up almost no space. The trade-off is the two-step process: after fermentation, the acidic pre-compost must be buried in a soil factory or outdoor bed to finish breaking down. **It works, but it’s not the one-step, ready-to-use experience the GEME Terra II delivers**.
 
 3. **For the plant parent who wants premium fertilizer**: Worm composting produces exceptional castings, arguably the finest output for houseplants. But **it requires consistent attention: maintaining moisture levels, managing the brown-to-green ratio, and avoiding overfeeding**. If you enjoy tending a living system, it’s deeply rewarding. If you’d rather have similarly rich, plant-ready compost without the weekly maintenance, the **GEME Terra II produces real compost on autopilot, and accepts meat and dairy, which worm bins cannot**.
-
-4. **For the "I don't want to think about it at all" person**: The freezer method costs nothing and prevents all odor. But it’s not composting, it’s waste storage until you drop it off elsewhere. It’s a fine stopgap. If you're ready for a real solution that closes the loop right in your kitchen, the GEME Terra II transforms that frozen-scrap routine into a single appliance that makes compost while you go about your day.
 
 👉 [Learn More About GEME Terra II](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=odor-free-composting-options-for-apartments-2026)
 
@@ -175,11 +166,11 @@ buttonText="Get Your GEME Terra II"
   href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=odor-free-composting-options-for-apartments-2026"
 />
 
-## 8. The Bottom Line
+## 7. The Bottom Line
 
 Odor-free apartment composting is not only possible, but it's easier than ever in 2026. Whether you choose a high-tech microbial electric composter like the GEME Terra II with its permanent catalyst and zero-filter odor control, a simple Bokashi bucket that pickles your scraps into plant food, or a humble worm bin that turns waste into gardening gold, there's a genuinely smell-free option that fits your space, budget, and lifestyle. Just remember: **dehydration is not composting**. Stick with biology, and your apartment will stay fresh while your food waste builds soil, not stink.
 
-## 9. Frequently Asked Questions (Answered)
+## 8. Frequently Asked Questions (Answered)
 
 ### Q: Can I really compost meat and dairy indoors without smells?
 
@@ -196,10 +187,6 @@ Odor-free apartment composting is not only possible, but it's easier than ever i
 ### Q: Can I use GEME Terra II compost directly on my plants?
 
 > A: Yes. The GEME Terra II produces mature, biologically active compost that can be applied to garden beds, potted plants, or lawns right away. Just remember the 1:8 ratio rules (1 part of compost and 8 part of soil) when applying directly to plants.
-
-### Q: Is the freezer method really "composting"?
-
-> A: No, it's a waste diversion method. It doesn't create compost in your home, but by freezing scraps and dropping them off at a composting site, you successfully eliminate landfill methane, and the nutrients eventually become compost elsewhere.
 
 ### Q: Does the GEME Terra 2 smell? What about fruit flies?
 
