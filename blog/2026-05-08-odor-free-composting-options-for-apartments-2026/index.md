@@ -11,7 +11,7 @@ keywords:
 slug: odor-free-composting-options-for-apartments-2026
 authors: [Moore]
 tags: [composter, composting, geme]
-
+image: https://www.geme.bio/assets/images/reencle-vs-geme-terra-2-3345c54827c93c002b4f9970011f9ef8.png
 ---
 
 import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
