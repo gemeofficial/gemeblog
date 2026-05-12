@@ -1,5 +1,5 @@
 ---
-title: "Why the GEME Terra 2 is the Best Indoor Composter? The Kitchen Composting Solutions"
+title: "Why GEME Terra 2 is the Best Indoor Composter? The Kitchen Composting Solutions"
 description: "GEME Terra II is the best indoor kitchen composters. The GEME Terra 2 uses real microbial composting, requires no recurring fees, and produces a soil‑ready active compost base. A complete guide to odor‑free kitchen food composting."
 keywords:
   - best indoor composter
@@ -93,7 +93,7 @@ buttonText="Explore GEME Terra II"
 
 The **GEME Terra 2** is not an upgraded kitchen gadget. It is a municipal‑scale organic waste processing plant miniaturized into a floor‑standing countertop unit. This core philosophy, what GEME calls **“Industrial Engineering, Downsized”**, defines every design decision, from the heavy‑duty chassis to the permanent metal‑ion oxidation catalyst to the robust continuous‑feed mechanism.
 
-At the heart of the machine sits **GEME Kobold**, a proprietary consortium of 46 thermophilic *Bacillus* strains specifically selected for their ability to decompose diverse organic matter at elevated temperatures. Unlike single‑strain or simple multi‑strain cultures found in competing products, Kobold is a complex, self‑sustaining microbiome — a living ecosystem that adapts to what you feed it. As detailed on the [official GEME Kobold product page](https://www.geme.bio/kobold-introduction): *“GEME Kobold significantly contributes to organic matter recycling. It comprises 46 complex, heat-tolerant aerobic bacillus bacteria. Within 6-8 hours, it can decompose various bio-wastes, producing high-activity organic fertilizer.”*
+At the heart of the machine sits **GEME Kobold**, a proprietary consortium of 46 thermophilic *Bacillus* strains specifically selected for their ability to decompose diverse organic matter at elevated temperatures. Unlike single‑strain or simple multi‑strain cultures found in competing products, Kobold is a complex, self‑sustaining microbiome, a living ecosystem that adapts to what you feed it. As detailed on the [official GEME Kobold product page](https://www.geme.bio/kobold-introduction): *“GEME Kobold significantly contributes to organic matter recycling. It comprises 46 complex, heat-tolerant aerobic bacillus bacteria. Within 6-8 hours, it can decompose various bio-wastes, producing high-activity organic fertilizer.”*
 
 ### How the GEME Terra 2 Works
 
@@ -105,7 +105,7 @@ The process mirrors industrial‑scale aerobic digestion, miniaturized for the k
 4.  **Odor is neutralized at the source.** The Metal‑Ion Oxidation Catalyst, an industrial‑grade air treatment system, destroys volatile organic compounds as air passes through the unit. There are no carbon filters to saturate, replace, or pay for. The catalyst is permanent and designed to last the machine’s lifetime.
 5.  **Output is scooped out directly.** The fixed chamber has a non‑stick interior surface. When finished material accumulates, you simply scoop it out. Any larger undigested pieces are sifted out and returned to the chamber for further breakdown, exactly the “Sift & Return” workflow of an industrial continuous‑feed system.
 
-### Key Technical Specifications (Terra 2)
+### Key Technical Specifications (GEME Terra 2)
 
 | Specification | Value |
 |---|---|
@@ -130,7 +130,7 @@ Let’s be precise about the output. The **GEME Terra 2** produces a **moist, mi
 
 This output is:
 - **Ready to mix into soil** at a recommended ratio of 1:8 or 1:10 (compost to soil, adjusted by plant sensitivity).
-- **Biologically active**, containing beneficial *Bacillus* that continue working in the soil. As [GEME’s 2026 kitchen composter roundup](https://www.geme.bio/blog/best-kitchen-composter-2026) confirms, Terra II produces *“real, living compost in just hours”*, not dehydrated “dirt.”
+- **Biologically active**, containing beneficial [*Bacillus*](https://en.wikipedia.org/wiki/Bacillus) that continue working in the soil. As [GEME’s 2026 kitchen composter roundup](https://www.geme.bio/blog/best-kitchen-composter-2026) confirms, Terra II produces *“real, living compost in just hours”*, not dehydrated “dirt.”
 - **Variable in maturity**, as a continuous‑feed system, maturity changes with feeding rhythm and curing time. Material can be further cured in a ventilated container if a milder end product is desired.
 
 It is **not**:
@@ -158,7 +158,7 @@ buttonText="Explore GEME Terra II"
 
 ### 1. Zero Ongoing Costs Forever
 
-This is the single most important reason informed buyers choose the GEME Terra 2. Most electric “composters” depend on activated carbon filters that saturate every few months and must be replaced. Over time, those costs add up dramatically. As [GEME’s dedicated recurring‑fee comparison](https://www.geme.bio/blog/best-composter-avoid-recurring-fees-geme-terra-2) makes plain: *“The GEME Terra 2 is the only kitchen composter on the market with zero recurring fees. Lomi costs you about $150–$200 per year in filters, Mill runs around $89 annually plus optional pickup fees, and Reencle adds about $47 per year for replacements. Over three years, that’s hundreds of dollars you didn’t plan on spending.”* 
+This is the single most important reason informed buyers choose the GEME Terra 2. Most electric “composters” depend on activated carbon filters that saturate every few months and must be replaced. Over time, those costs add up dramatically. As [GEME’s dedicated recurring‑fee comparison](https://www.geme.bio/blog/best-composter-avoid-recurring-fees-geme-terra-2) makes plain: *“The GEME Terra 2 is the only kitchen composter on the market with zero recurring fees. Lomi costs you about \$150–\$200 per year in filters, Mill runs around \$89 annually plus optional pickup fees at $192 per year, and Reencle adds about \$47 per year for replacements. Over three years, that’s hundreds of dollars you didn’t plan on spending.”* 
 
 A [separate GEME filters‑cost comparison](https://www.geme.bio/blog/electric-compost-bin-filters-costs-comparison) spells out the granular numbers: Lomi’s filter 2‑pack sells for about \$54 every 3–4 months (roughly \$100/year), Mill’s carbon filter costs [\$89 each](https://support.mill.com/hc/en-us/articles/12045124640411-How-often-do-I-need-to-replace-my-carbon-filter-and-how-much-does-it-cost) (lasting ~1 year), and Reencle sells replacement carbon filters at [\$35 each](https://reencle.co/products/reencle-prime-filter) plus mesh filters at [\$12](https://reencle.co/products/reencle-mesh-filter), totaling about \$47 per year.
 
@@ -265,7 +265,7 @@ The GEME Terra 2 closes the loop entirely. Up to 95% of input mass is biological
 
 ### Q: How much does it cost to run per year?
 
-> A: Beyond the upfront purchase (\$599), ongoing costs are effectively \$0. No filters. No subscriptions. No required culture refills. The Kobold microbial culture is self‑sustaining; an optional [Kobold Boost Pack](https://www.geme.bio/kobold-introduction) is available for users who want to accelerate processing after their first harvest or during high‑load periods, but it’s not required for daily operation. Electricity consumption is approximately 1.5 kWh per day, roughly $0.15–$0.20/day depending on local rates.
+> A: Beyond the upfront purchase (\$599), ongoing costs are effectively \$0. No filters. No subscriptions. No required culture refills. The Kobold microbial culture is self‑sustaining; an optional [Kobold Boost Pack](https://www.geme.bio/kobold-introduction) is available for users who want to accelerate processing after their first harvest or during high‑load periods, but it’s not required for daily operation. Electricity consumption is approximately 1.5 kWh per day, roughly \$0.15–\$0.20/day depending on local rates.
 
 ### Q: Can it handle meat and dairy?
 
