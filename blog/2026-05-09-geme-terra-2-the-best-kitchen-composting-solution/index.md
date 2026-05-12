@@ -1,5 +1,5 @@
 ---
-title: "Are There Any Odor-Free Composting Options Suitable for Apartments?"
+title: "Why the GEME Terra 2 is the Best Indoor Composter? The Kitchen Composting Solutions"
 description: "GEME Terra II is the best indoor kitchen composters. The GEME Terra 2 uses real microbial composting, requires no recurring fees, and produces a soil‑ready active compost base. A complete guide to odor‑free kitchen food composting."
 keywords:
   - best indoor composter
@@ -10,7 +10,7 @@ keywords:
 slug: geme-terra-2-the-best-kitchen-composting-solution
 authors: [Moore]
 tags: [composter, composting, geme]
-
+image: https://www.geme.bio/assets/images/geme-terra-2-the-best-kitchen-composting-solution-3a73dfaca057a50d06ad84cf2defd801.png
 ---
 
 import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
