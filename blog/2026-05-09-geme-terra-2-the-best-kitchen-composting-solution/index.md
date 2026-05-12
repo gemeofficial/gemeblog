@@ -20,9 +20,7 @@ import ReactPlayer from 'react-player'
 
 ## Introduction
 
-Most “kitchen composters” aren’t composters at all; they’re dehydrators that cook and grind food scraps into dried powder. The difference matters far more than the slick marketing suggests. The GEME Terra 2 doesn’t dry waste; it runs a living, breathing microbial ecosystem that transforms food scraps into a genuine active compost base. No filters. No subscriptions. No tricks. 
-
-Here’s exactly why it’s the best indoor composter on the market in 2026, and how to tell the difference between real composting and a convincing imitation.
+Most “kitchen composters” aren’t composters at all; they’re dehydrators that cook and grind food scraps into dried powder. The difference matters far more than the slick marketing suggests. The GEME Terra 2 doesn’t dry waste; it runs a living, breathing microbial ecosystem that transforms food scraps into a genuine active compost base. No filters. No subscriptions. No tricks. Here’s exactly why it’s the best indoor composter on the market in 2026, and how to tell the difference between real composting and a convincing imitation.
 
 ![GEME Terra II: The Best Kitchen Composting Solution](./image/geme-terra-2-the-best-kitchen-composting-solution.png)
 
@@ -91,7 +89,7 @@ buttonText="Explore GEME Terra II"
 
 ## 3. GEME Terra 2: Industrial Composting, Downsized for Your Kitchen
 
-The **GEME Terra 2** is not an upgraded kitchen gadget. It is a municipal‑scale organic waste processing plant miniaturized into a floor‑standing countertop unit. This core philosophy, what GEME calls **“Industrial Engineering, Downsized”**, defines every design decision, from the heavy‑duty chassis to the permanent metal‑ion oxidation catalyst to the robust continuous‑feed mechanism.
+The **GEME Terra 2** is not just an upgraded kitchen gadget. It is a municipal‑scale organic waste processing plant miniaturized into a floor‑standing kitchen appliance. This core philosophy, what GEME calls **“Industrial Engineering, Downsized”**, defines every design decision, from the heavy‑duty chassis to the permanent metal‑ion oxidation catalyst to the robust continuous‑feed mechanism.
 
 At the heart of the machine sits **GEME Kobold**, a proprietary consortium of 46 thermophilic *Bacillus* strains specifically selected for their ability to decompose diverse organic matter at elevated temperatures. Unlike single‑strain or simple multi‑strain cultures found in competing products, Kobold is a complex, self‑sustaining microbiome, a living ecosystem that adapts to what you feed it. As detailed on the [official GEME Kobold product page](https://www.geme.bio/kobold-introduction): *“GEME Kobold significantly contributes to organic matter recycling. It comprises 46 complex, heat-tolerant aerobic bacillus bacteria. Within 6-8 hours, it can decompose various bio-wastes, producing high-activity organic fertilizer.”*
 
