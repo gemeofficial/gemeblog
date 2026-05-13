@@ -10,7 +10,7 @@ keywords:
 slug: best-electric-kitchen-composter-2026
 authors: [Moore]
 tags: [composter, composting, geme]
-
+image: https://www.geme.bio/assets/images/the-best-kitchen-composter-geme-terra-2-f0c2fb7b4608b143ea2b452cfe902c13.png
 ---
 
 import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
@@ -75,7 +75,7 @@ The output must be biologically active, a moist, microbe‑rich compost base tha
 
 ### 2. Zero Ongoing Costs
 
-A **best kitchen composter** must not depend on replacement filters or subscriptions. Activated carbon filters saturate every 3–4 months and create a hidden cost stream. As [GEME's recurring‑fee comparison](https://www.geme.bio/blog/best-composter-avoid-recurring-fees-geme-terra-2) documents, a Lomi owner spends $150–$200 per year on filters, a Mill owner spends $89 annually plus optional pickup fees, and a Reencle owner pays about $47–$50 per year. Over three years, that adds up to hundreds of dollars, often exceeding the machine's original price.
+A **best kitchen composter** must not depend on replacement filters or subscriptions. Activated carbon filters saturate every 3–4 months and create a hidden cost stream. As [GEME's recurring‑fee comparison](https://www.geme.bio/blog/best-composter-avoid-recurring-fees-geme-terra-2) documents, a Lomi owner spends \$150–\$200 per year on filters, a Mill owner spends \$89 annually plus optional pickup fees at \$192 annually, and a Reencle owner pays about \$47–\$50 per year. Over three years, that adds up to hundreds of dollars, often exceeding the machine's original price.
 
 ### 3. Continuous, Odor‑Free Operation
 
