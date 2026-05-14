@@ -243,7 +243,7 @@ buttonText="Explore GEME Terra II"
 
 ### Q: Does the FoodCycler make real compost?
 
-> A: No. The FoodCycler uses heat, grinding, and dehydration to reduce food waste volume, producing a dry, sterile by-product. As the [IFSCC has documented](https://illinoiscomposts.org/education-and-outreach/debunking-the-myth-food-scrap-dehydrators-are-not-composters/), food scrap dehydrators do not perform biological decomposition and their output is not compost. FoodCycler's own [blog confirms](https://foodcycler.com/blogs/your-foodcycler/what-happens-to-food-waste-in-a-foodcycler) that their output *"is not 'finished compost'"* and is best used as a soil amendment that needs to continue breaking down.
+> A: No. The FoodCycler uses heat, grinding, and dehydration to reduce food waste volume, producing a dry, sterile by-product. As the [IFSCC has documented](https://illinoiscomposts.org/education-and-outreach/debunking-the-myth-food-scrap-dehydrators-are-not-composters/), food scrap dehydrators do not perform biological decomposition and their output is not compost. FoodCycler's own [blog confirms](https://foodcycler.com/blogs/your-foodcycler/what-happens-to-food-waste-in-a-foodcycler) that their output *"is not 'finished compost'"* and needs to continue breaking down in soil or an outdoor compost pile.
 
 ### Q: Can I use FoodCycler output directly on my plants?
 
@@ -251,7 +251,7 @@ buttonText="Explore GEME Terra II"
 
 ### Q: What makes the GEME Terra 2 a real kitchen composter?
 
-> A: It uses 46 strains of thermophilic *Bacillus* bacteria (the Kobold consortium) to biologically decompose food waste through aerobic microbial digestion, the same natural process that occurs in a healthy compost pile, accelerated and contained in a countertop machine. WTOP News reported that the Terra 2 *"transforms food prep and table scraps into sustainable, usable compost within 12 to 24 hours"* by *"deploying intelligent automation to essentially replicate nature's role in the composting processing"* ([WTOP, January 2025](https://wtop.com/tech/2025/01/geme-zero-waste-smart-composter-reduces-compost-production-time-from-months-to-hours/)).
+> A: It uses 46 strains of thermophilic *Bacillus* bacteria (the Kobold consortium) to biologically decompose food waste through aerobic microbial digestion, the same natural process that occurs in a healthy compost pile, accelerated and contained in a kitchen machine. WTOP News reported that the Terra 2 *"transforms food prep and table scraps into sustainable, usable compost within 12 to 24 hours"* by *"deploying intelligent automation to essentially replicate nature's role in the composting processing"* ([WTOP, January 2025](https://wtop.com/tech/2025/01/geme-zero-waste-smart-composter-reduces-compost-production-time-from-months-to-hours/)).
 
 ### Q: Can the Terra 2 handle meat and dairy that the FoodCycler can't?
 
