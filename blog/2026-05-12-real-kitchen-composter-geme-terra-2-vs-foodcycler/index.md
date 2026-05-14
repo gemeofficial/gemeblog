@@ -9,7 +9,7 @@ keywords:
 slug: real-kitchen-composter-geme-terra-2-vs-foodcycler
 authors: [Moore]
 tags: [composter, composting, geme]
-
+image: https://www.geme.bio/assets/images/geme-terra-2-vs-foodcycler-c2508c3a813334da97b2dc638ae0fbd7.png
 ---
 
 import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
