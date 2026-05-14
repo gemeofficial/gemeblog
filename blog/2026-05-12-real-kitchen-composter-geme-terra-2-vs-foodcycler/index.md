@@ -1,5 +1,5 @@
 ---
-title: "Which Is the Best Electric Kitchen Composter? The Best Kitchen Composting Solution"
+title: "GEME Terra 2 vs FoodCycler: Which Is The Real Kitchen Composter?"
 description: "FoodCycler or GEME Terra 2? FoodCycler is a dehydrator that produces sterile powder. The GEME Terra 2 is a microbial bio-processor that makes real, soil-ready compost with zero ongoing fees. See the full comparison."
 keywords:
   - kitchen composter
