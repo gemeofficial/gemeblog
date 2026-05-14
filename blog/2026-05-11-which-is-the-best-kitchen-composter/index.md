@@ -105,7 +105,7 @@ The table below compares the GEME Terra 2 against the most prominent alternative
 
 | Feature | **GEME Terra 2** | Reencle Prime | Lomi / Mill | Vego |
 |---|---|---|---|---|
-| **Type** | **True Microbial Composter** | Microbial Composter | Dehydrator / Heater‑Grinder | Dehydrator |
+| **Type** | [**True Microbial Composter**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-electric-kitchen-composter-2026) | Microbial Composter | Dehydrator / Heater‑Grinder | Dehydrator |
 | **Output** | Active compost base (living, soil‑ready) | Microbially active pre‑compost | Dry, sterile powder ("grounds") | Dry, sterile powder |
 | **Odor Control** | Permanent Metal‑Ion Catalyst | Carbon filter (replacement required) | Carbon filter (replacement required) | Carbon filter |
 | **Annual Consumable Cost** | **$0** | ~\$47–\$50 | \$89–\$396+ | ~\$50–\$100 |
