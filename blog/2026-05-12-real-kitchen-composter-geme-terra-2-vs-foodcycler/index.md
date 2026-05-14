@@ -204,7 +204,7 @@ The [IFSCC](https://illinoiscomposts.org/education-and-outreach/debunking-the-my
 
 Reencle's [guide on how electric composters work](https://reencle.co/blogs/news/how-electric-composters-work) reinforces the scientific distinction: **"Dehydration machines do not produce compost. They produce dried food waste. The reduction in volume is useful, but the biological transformation has not occurred."**
 
-[The Compost Culture](https://www.thecompostculture.com/lomi-vs-vitamix-foodcycler-which-electric-composter-is-right-for-you/) comes to the same conclusion: *"Electric food recyclers are great for anyone who wants to avoid sending food waste to a landfill,"* but**they are not composting in any scientific sense**.
+[The Compost Culture](https://www.thecompostculture.com/lomi-vs-vitamix-foodcycler-which-electric-composter-is-right-for-you/) comes to the same conclusion: *"Electric food recyclers are great for anyone who wants to avoid sending food waste to a landfill,"* but **they are not composting in any scientific sense**.
 
 This isn't GEME making claims about competitors. This is the industry itself, dehydrator manufacturers, independent composting authorities, and peer review sites, acknowledging what these machines actually do and don't do. The FoodCycler is in the same category: **a dehydrator that reduces volume but does not produce compost**.
 
