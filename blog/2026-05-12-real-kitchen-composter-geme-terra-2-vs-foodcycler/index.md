@@ -131,7 +131,7 @@ The GEME Terra 2 produces a fundamentally different material. According to [GEME
 
 A [real-world performance test by Kitchen Compost Bins](https://kitchencompostbins.com/real-world-test-geme-terra-2-performance-2/) confirmed that the finished compost was *"dry, fine, and odor-neutral"* and *"ideal for quick garden application."* [Another analysis of the Terra 2's features](https://kitchencompostbins.com/5-must-know-features-of-the-geme-terra-2-3/) notes that the machine's output is a moist, soil-like material, not the dry chips that dehydrator-style units produce.
 
-GEME recommends mixing the compost into soil at a 1:8 to 1:10 ratio. Because the compost output is biologically active, releasing nutrients gradually and improving soil structure. This is real compost, the kind that builds humus, retains water, and feeds your plants. It is a living soil amendment, not a sterile powder.
+GEME recommends mixing the compost into soil at a 1:8 to 1:10 ratio as the compost output is biologically active. It keeps releasing nutrients gradually and improving soil structure. This is real compost, the kind that builds humus, retains water, and feeds your plants. It is a living soil amendment, not a sterile powder.
 
 HappiestKitchen neatly summarizes this divide in its breakdown of [the two types of electric composters](https://www.happiestkitchen.com/post/detail/178/): **"This is the most crucial difference. The Dehydrator-Grinder gives you a sterile, dry powder (pre-compost). The Microbial Bioreactor gives you real, living, nutrient-rich compost."**
 
