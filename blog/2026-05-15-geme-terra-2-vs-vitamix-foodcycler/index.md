@@ -19,8 +19,6 @@ import ReactPlayer from 'react-player'
 
 ## Introduction: 30 Seconds to Understand the Difference
 
-Introduction
-
 If you are searching for a **kitchen composter** and weighing up the GEME Terra 2 against the Vitamix FoodCycler FC-50, you need to know this upfront: these two machines sit in entirely different categories. **The FoodCycler is an electric food dehydrator and grinder**. [**The GEME Terra 2 is a Continuous Aerobic Bio-Processor**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-vs-vitamix-foodcycler). One dries and grinds food waste into a sterile powder; the other biologically decomposes it into real, soil-ready compost. This distinction is not marketing fluff. It is science, confirmed by multiple independent testers and even by the dehydrator manufacturers themselves.
 
 As the market for **electric composter** appliances has expanded rapidly over the past few years, so has the confusion around what these machines actually do. Products that share a similar sustainability pitch often use completely different technologies and produce fundamentally different outputs, as independent industry analysts have been pointing out since the first wave of these devices appeared. The purpose of this guide is to break down exactly what each machine does, what it costs over time, what kind of material it produces, and which one genuinely deserves the title of **best composter** for your home.
