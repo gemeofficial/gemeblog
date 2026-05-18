@@ -9,7 +9,7 @@ keywords:
 slug: geme-terra-2-vs-vitamix-foodcycler
 authors: [Moore]
 tags: [composter, composting, geme]
-
+image: https://www.geme.bio/assets/images/geme-terra-2-vs-vitamix-foodcycler-fc-50-a6e7e5b4536fef08e139709e2b242260.png
 ---
 
 import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
@@ -39,11 +39,11 @@ As the market for **electric composter** appliances has expanded rapidly over th
 
 4. [**Odor Control: Disposable Filters vs. Permanent Catalyst**](#4-odor-control-disposable-filters-vs-permanent-catalyst)
 
-5. [**Long-Term Cost: The Hidden Trap**](#5-long-term-cost-the-hidden-trap)
+5. [**Long-Term Cost: The Hidden Trap of Lower Upfront Prices**](#5-long-term-cost-the-hidden-trap-of-lower-upfront-prices)
 
 6. [**Daily Usage: Batch Processing vs. Continuous Feed**](#6-daily-usage-batch-processing-vs-continuous-feed)
 
-7. [**What the Industry Itself Admits**](#7-what-the-industry-itself-admits)
+7. [**What the Industry Admits About Dehydrators**](#7-what-the-industry-admits-about-dehydrator-composters)
 
 8. [**Decision Guide: Which Machine Is Right for You?**](#8-decision-guide-which-machine-is-right-for-you)
 
