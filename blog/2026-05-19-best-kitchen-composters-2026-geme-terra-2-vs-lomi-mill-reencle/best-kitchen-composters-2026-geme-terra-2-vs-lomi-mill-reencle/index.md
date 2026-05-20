@@ -124,8 +124,8 @@ The continuous‑feed architecture is another practical advantage. The Lomi and 
 | **Feed Type** | Batch | Batch | Continuous | **Continuous 24/7** |
 | **Meat, Dairy, Bones** | Not recommended | Yes (but output is not compost) | Yes, small amounts | **Yes, including small bones** |
 | **Design** | Countertop | Floor-standing | Countertop | **Floor-standing (kitchen/home use)** |
-| **Daily Capacity** | 1–2 lbs per batch | ~3.3 lbs per batch | ~1.5 lbs (Prime) | **Up to 4.4 lbs (2 kg) per day** |
-| **Chamber Volume** | ~3L | 6.5L | Smaller capacity | **14L** |
+| **Daily Capacity** | 1–2 lbs per batch | ~3.3 lbs per batch | Up tp 1.5-2.2 lbs (Prime) | **Up to 4.4 lbs (2 kg) per day** |
+| **Chamber Volume** | ~3L | 6.5L | 14L | **14L** |
 
 *Data drawn from the independent reviews and manufacturer specifications cited throughout this article, including [GEME’s recurring-fee analysis](https://www.geme.bio/blog/best-composter-avoid-recurring-fees-geme-terra-2), the [SEEDS dehydrator report](https://ecoseeds.org/the-scoop-on-food-scrap-dehydrators/), [Good Housekeeping’s Mill review](https://www.goodhousekeeping.com/appliances/a65782961/mill-food-recycler-review/), the [Serious Eats Lomi review](https://www.seriouseats.com/lomi-composter-review-11889800), and [Reencle’s buyer’s guide](https://reencle.co/blogs/news/electric-composter-buyers-guide).*
 
