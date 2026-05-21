@@ -85,11 +85,11 @@ buttonText="Explore GEME Terra II"
 
 ### How the FoodCycler Works
 
-The FoodCycler's manufacturer openly describes its process as a 3-stage cycle: **drying, grinding, and cooling**. As [Sage's product page](https://www.sageappliances.com/en-gb/product/bwr550) states, the FoodCycler *"dehydrates, grinds and cools down your food waste while filtering odours and methane gasses."* During the drying stage, food scraps are heated to drive off moisture. During grinding, blades pulverize the now-dry material into small particles. The cooling stage brings the resulting "EcoChips" to room temperature. The entire process takes 4–8 hours per batch.
+The FoodCycler's manufacturer openly describes its process as a 3-stage cycle: **drying, grinding, and cooling**. As <a href="https://www.sageappliances.com/en-gb/product/bwr550" rel="nofollow">Sage's product page</a> states, the FoodCycler *"dehydrates, grinds and cools down your food waste while filtering odours and methane gasses."* During the drying stage, food scraps are heated to drive off moisture. During grinding, blades pulverize the now-dry material into small particles. The cooling stage brings the resulting "EcoChips" to room temperature. The entire process takes 4–8 hours per batch.
 
-[Breville's product page](https://www.breville.com/en-au/product/bwr550) further clarifies that the output is *"sterile"* and reduced to roughly 80% of its original volume. The carbon filtration system, which *"directs and filters air flow during the process,"* requires replaceable EcoFilters™ that must be swapped out periodically. This is a physical volume-reduction machine; **it shrinks waste, but it does not compost it**.
+<a href="https://www.breville.com/en-au/product/bwr550" rel="nofollow">Breville's product page</a> further clarifies that the output is *"sterile"* and reduced to roughly 80% of its original volume. The carbon filtration system, which *"directs and filters air flow during the process,"* requires replaceable EcoFilters™ that must be swapped out periodically. This is a physical volume-reduction machine; **it shrinks waste, but it does not compost it**.
 
-FoodCycler's own blog confirms this directly. In a post explaining [what happens to food waste in a FoodCycler](https://foodcycler.com/blogs/your-foodcycler/what-happens-to-food-waste-in-a-foodcycler), the company states: "A FoodCycler is best understood as a physical transformation process. **It doesn't 'create compost' in the traditional backyard sense**. Instead, it changes food waste from: wet, heavy, odor-prone scraps → dry, reduced, stable particles (Foodilizer)."
+FoodCycler's own blog confirms this directly. In a post explaining <a href="https://foodcycler.com/blogs/your-foodcycler/what-happens-to-food-waste-in-a-foodcycler" rel="nofollow">what happens to food waste in a FoodCycler</a>, the company states: "A FoodCycler is best understood as a physical transformation process. **It doesn't 'create compost' in the traditional backyard sense**. Instead, it changes food waste from: wet, heavy, odor-prone scraps → dry, reduced, stable particles (Foodilizer)."
 
 ### Why Dehydration Is Not Composting
 
@@ -97,9 +97,9 @@ The Illinois Food Scrap & Composting Coalition (IFSCC) published [a landmark gui
 
 The IFSCC further clarifies the practical consequences: "Dehydrated scraps lack these living organisms, limiting their contribution to soil health... Dehydrated food scraps may still need time to break down in the soil and could temporarily tie up nitrogen during that process." **True compost, by contrast, "adds beneficial microbes and helps build soil structure," providing "nutrients in a stable form that plants can use."**
 
-Reencle's [Electric Composter Buyer's Guide](https://reencle.co/blogs/news/how-electric-composters-work) reinforces this same science: the output of dehydration machines "is sterile, the heat kills any pathogens and also any beneficial microorganisms. **It has not undergone biological composting**. The organic compounds in the food have not been broken down by microbial activity; they've simply had their water removed."
+<a href="https://reencle.co/blogs/news/how-electric-composters-work" rel="nofollow">Reencle's Electric Composter Buyer's Guide</a> reinforces this same science: the output of dehydration machines "is sterile, the heat kills any pathogens and also any beneficial microorganisms. **It has not undergone biological composting**. The organic compounds in the food have not been broken down by microbial activity; they've simply had their water removed."
 
-The Compost Culture, an independent review site, also weighed in on its [Lomi vs FoodCycler comparison](https://www.thecompostculture.com/lomi-vs-vitamix-foodcycler-which-electric-composter-is-right-for-you/): *"When these first came out, everyone referred to them as an electric composter. The problem is that an electric composter doesn't actually compost food waste. Instead **these food recycler systems act as dehydrators and grinders**."*
+The Compost Culture, an independent review site, also weighed in on its <a href="https://www.thecompostculture.com/lomi-vs-vitamix-foodcycler-which-electric-composter-is-right-for-you/" rel="nofollow">Lomi vs FoodCycler comparison</a>: *"When these first came out, everyone referred to them as an electric composter. The problem is that an electric composter doesn't actually compost food waste. Instead **these food recycler systems act as dehydrators and grinders**."*
 
 ### How the GEME Terra 2 Works
 
@@ -107,11 +107,11 @@ The GEME Terra 2 operates on a fundamentally different principle: **biological d
 
 The process is aerobic, meaning it occurs with oxygen. The machine uses AI-controlled sensors to monitor temperature, humidity, and oxygen levels, maintaining optimal conditions for the Kobold microbes without any manual turning or balancing of greens and browns. Up to 95% of input mass is biologically mineralized into CO₂ and water vapor through microbial respiration; approximately 5% remains as a moist, nutrient-rich compost base. **Within a couple days of continuous operation, complex food waste, including proteins and fats, is biologically transformed into usable compost**.
 
-WTOP News covered the Terra 2's launch in [a January 2025 feature](https://wtop.com/tech/2025/01/geme-zero-waste-smart-composter-reduces-compost-production-time-from-months-to-hours/), reporting: *"By deploying intelligent automation to essentially replicate nature's role in the composting processing through the use of organic microbes within an automated churn chamber that generates heat, accelerates decomposition and produces nutrient-rich soil conditioner in hours instead of months."* GEME Director told WTOP that the Terra 2 will accept more than 12 pounds of food waste, which will ultimately yield a little over one pound of compost.
+<a href="https://wtop.com/tech/2025/01/geme-zero-waste-smart-composter-reduces-compost-production-time-from-months-to-hours/" rel="nofollow">WTOP News</a> covered the Terra 2's launch in a January 2025 feature, reporting: *"By deploying intelligent automation to essentially replicate nature's role in the composting processing through the use of organic microbes within an automated churn chamber that generates heat, accelerates decomposition and produces nutrient-rich soil conditioner in hours instead of months."* GEME Director told WTOP that the Terra 2 will accept more than 12 pounds of food waste, which will ultimately yield a little over one pound of compost.
 
 For odor control, the Terra 2 uses a **permanent Metal-Ion Oxidation Catalyst rather than a replaceable carbon filter**. As [GEME's recurring-fee comparison](https://www.geme.bio/blog/best-composter-avoid-recurring-fees-geme-terra-2) explains: *"GEME uses a permanent metal-ion oxidation catalyst for odor control. Not a charcoal filter. Not something that saturates and needs replacing."* **This catalyst is designed to last the machine's lifetime**, eliminating the recurring filter costs that the FoodCycler requires.
 
-HappiestKitchen, in its analysis of [the critical difference between dehydrators and true bio-composters](https://www.happiestkitchen.com/post/detail/157/), explains the significance of this biological approach: unlike the inert output of a dehydrator, biologically active material is *"ready to nourish soil,"* with reviewers describing the end product as **having a pleasant, earthy 'silage' smell, a hallmark of healthy decomposition**.
+<a href="https://www.happiestkitchen.com/post/detail/157/" rel="nofollow">HappiestKitchen</a>, in its analysis of the critical difference between dehydrators and true bio-composters, explains the significance of this biological approach: unlike the inert output of a dehydrator, biologically active material is *"ready to nourish soil,"* with reviewers describing the end product as **having a pleasant, earthy 'silage' smell, a hallmark of healthy decomposition**.
 
 ![GEME Terra II: The Real Kitchen Composter](./image/geme-terra-2-the-real-kitchen-composter.png)
 
@@ -121,27 +121,27 @@ The output difference is where the "composter vs. dehydrator" distinction become
 
 ### FoodCycler Output: Dry, Sterile "EcoChips"
 
-The FoodCycler produces what its manufacturer calls *"odourless EcoChips"*, a dry, pulverized residue of dehydrated food scraps. [Breville's product page](https://www.breville.com/en-au/product/bwr550) notes the output is *"sterile."* The material has been heated to temperatures that kill all microorganisms, so there is no biological activity remaining. **FoodCycler's own blog acknowledges that the output, which they now call Foodilizer, "is not 'finished compost.'** It's best used as a soil amendment (mixed at recommended ratios) or added to compost to continue breaking down" ([FoodCycler](https://foodcycler.com/blogs/your-foodcycler/what-happens-to-food-waste-in-a-foodcycler)).
+The FoodCycler produces what its manufacturer calls *"odourless EcoChips"*, a dry, pulverized residue of dehydrated food scraps. <a href="https://www.breville.com/en-au/product/bwr550" rel="nofollow">Breville's product page</a> notes the output is *"sterile."* The material has been heated to temperatures that kill all microorganisms, so there is no biological activity remaining. **FoodCycler's own blog acknowledges that the output, which they now call Foodilizer, "is not 'finished compost.'** It's best used as a soil amendment (mixed at recommended ratios) or added to compost to continue breaking down" (<a href="https://foodcycler.com/blogs/your-foodcycler/what-happens-to-food-waste-in-a-foodcycler" rel="nofollow">FoodCycler</a>).
 
-Edible DC, which [tested the FoodCycler over several months](https://edibledc.com/daily-grind/), reported: *"First, a clarification from the company: **This is not a composter** in the traditional sense. Composting is a biological process where microbes break down organic matter."* The reviewer noted that the machine uses grinding and high-heat dehydration to reduce almost any kind of food waste... into a dry, largely odorless material resembling coarse coffee grounds.
+<a href="https://edibledc.com/daily-grind/" rel="nofollow">Edible DC</a>, which tested the FoodCycler over several months, reported: *"First, a clarification from the company: **This is not a composter** in the traditional sense. Composting is a biological process where microbes break down organic matter."* The reviewer noted that the machine uses grinding and high-heat dehydration to reduce almost any kind of food waste... into a dry, largely odorless material resembling coarse coffee grounds.
 
 ### GEME Terra 2 Output: Moist, Living Compost Base
 
 The GEME Terra 2 produces a fundamentally different material. According to [GEME's zero-waste lifestyle guide](https://www.geme.bio/blog/the-best-kitchen-composter-for-zero-waste-lifestyle), the output is *"biologically active compost ready for your garden, not sterile dust."* Unlike dehydrated powder, Terra 2's finished compost is moist, dark, crumbly, and rich in active microorganisms. The guide further explains: *"The Kobold microbes eat everything from vegetable peels to cooked leftovers, meat, dairy, and small bones, **turning it into dark, crumbly soil**."*
 
-A [real-world performance test by Kitchen Compost Bins](https://kitchencompostbins.com/real-world-test-geme-terra-2-performance-2/) confirmed that the finished compost was *"dry, fine, and odor-neutral"* and *"ideal for quick garden application."* [Another analysis of the Terra 2's features](https://kitchencompostbins.com/5-must-know-features-of-the-geme-terra-2-3/) notes that the machine's output is a moist, soil-like material, not the dry chips that dehydrator-style units produce.
+A <a href="https://kitchencompostbins.com/real-world-test-geme-terra-2-performance-2/" rel="nofollow">real-world performance test by Kitchen Compost Bins</a> confirmed that the finished compost was *"dry, fine, and odor-neutral"* and *"ideal for quick garden application."* <a href="https://kitchencompostbins.com/5-must-know-features-of-the-geme-terra-2-3/" rel="nofollow">Another analysis of the Terra 2's features</a> notes that the machine's output is a moist, soil-like material, not the dry chips that dehydrator-style units produce.
 
 GEME recommends mixing the compost into soil at a 1:8 to 1:10 ratio as the compost output is biologically active. It keeps releasing nutrients gradually and improving soil structure. This is real compost, the kind that builds humus, retains water, and feeds your plants. It is a living soil amendment, not a sterile powder.
 
-HappiestKitchen neatly summarizes this divide in its breakdown of [the two types of electric composters](https://www.happiestkitchen.com/post/detail/178/): **"This is the most crucial difference. The Dehydrator-Grinder gives you a sterile, dry powder (pre-compost). The Microbial Bioreactor gives you real, living, nutrient-rich compost."**
+<a href="https://www.happiestkitchen.com/post/detail/178/" rel="nofollow">HappiestKitchen</a> neatly summarizes this divide in its breakdown of the two types of electric composters: **"This is the most crucial difference. The Dehydrator-Grinder gives you a sterile, dry powder (pre-compost). The Microbial Bioreactor gives you real, living, nutrient-rich compost."**
 
 ## 4. Odor Control: Disposable Filters vs. Permanent Catalyst
 
 ### FoodCycler: Carbon Filters That Keep Costing
 
-The FoodCycler relies on *"two replaceable carbon EcoFilters™"* that *"direct and filter air flow during the process, making for a clean and odourless cycle,"* as stated on [Sage's product page](https://www.sageappliances.com/en-gb/product/bwr550). **These filters are consumable parts; they saturate over time and require periodic replacement**.
+The FoodCycler relies on *"two replaceable carbon EcoFilters™"* that *"direct and filter air flow during the process, making for a clean and odourless cycle,"* as stated on <a href="https://www.sageappliances.com/en-gb/product/bwr550" rel="nofollow">Sage's product page</a>. **These filters are consumable parts; they saturate over time and require periodic replacement**.
 
-The costs are well documented. [The Compost Culture reports](https://www.thecompostculture.com/lomi-vs-vitamix-foodcycler-which-electric-composter-is-right-for-you/) that FoodCycler carbon filters *"are \$24.95 and need to be replaced every 3-4 months"*, that's roughly **\$75–\$100** per year in filter costs alone. HappiestKitchen's investigation into [the science of moisture and cost in food recyclers](https://www.happiestkitchen.com/post/detail/182/) uncovered even steeper real-world expenses: one user reported that *"the charcoal filter has required replacing the pellets much more often than... expected... at least every month. The \$25 for each replacement means an annual cost of \$300."* The article explains the mechanism behind this: *"the filter's primary enemy is water,"* and wet food scraps produce a massive volume of steam that physically saturates the carbon pores.
+The costs are well documented. <a href="https://www.thecompostculture.com/lomi-vs-vitamix-foodcycler-which-electric-composter-is-right-for-you/" rel="nofollow">The Compost Culture reports</a> that FoodCycler carbon filters *"are \$24.95 and need to be replaced every 3-4 months"*, that's roughly **\$75–\$100** per year in filter costs alone. <a href="https://www.happiestkitchen.com/post/detail/182/" rel="nofollow">HappiestKitchen's investigation into the science of moisture and cost in food recyclers</a> uncovered even steeper real-world expenses: one user reported that *"the charcoal filter has required replacing the pellets much more often than... expected... at least every month. The \$25 for each replacement means an annual cost of \$300."* The article explains the mechanism behind this: *"the filter's primary enemy is water,"* and wet food scraps produce a massive volume of steam that physically saturates the carbon pores.
 
 ### GEME Terra 2: Permanent Metal-Ion Oxidation
 
@@ -172,13 +172,13 @@ The upfront price tags tell only part of the story. The FoodCycler's retail pric
 | **3-Year Total** | ~\$450–\$1,300 | \$599 |
 | **5-Year Total** | ~\$550–\$1,900 | \$599 |
 
-As [HappiestKitchen notes](https://www.happiestkitchen.com/post/detail/182/), this pattern is inherent to dehydrator-style machines: *"This is the hidden cost of convenience. But is it unavoidable? No."* The GEME Terra 2's permanent catalyst means you never face the filter-replacement treadmill. [GEME's recurring-fee comparison](https://www.geme.bio/blog/best-composter-avoid-recurring-fees-geme-terra-2) spells out the broader industry reality: *"The cheapest machine upfront often ends up costing the most over time."* There are no pods to order, no subscriptions to cancel, and no auto-ship deals to forget about. The machine costs what it costs, once, and that's the last bill you'll ever pay for it.
+As <a href="https://www.happiestkitchen.com/post/detail/182/" rel="nofollow">HappiestKitchen notes</a>, this pattern is inherent to dehydrator-style machines: *"This is the hidden cost of convenience. But is it unavoidable? No."* The GEME Terra 2's permanent catalyst means you never face the filter-replacement treadmill. [GEME's recurring-fee comparison](https://www.geme.bio/blog/best-composter-avoid-recurring-fees-geme-terra-2) spells out the broader industry reality: *"The cheapest machine upfront often ends up costing the most over time."* There are no pods to order, no subscriptions to cancel, and no auto-ship deals to forget about. The machine costs what it costs, once, and that's the last bill you'll ever pay for it.
 
 ## 6. Daily Usage: Batch Processing vs. Continuous Feed
 
 ### FoodCycler: Batch Cycles
 
-The FoodCycler operates as a batch processor. You load the bucket with food scraps, lock the lid, and press start. The machine then runs its 3-stage cycle for 4–8 hours. **You cannot add more waste mid-cycle**. If you have additional food scraps during that time, **you must store them elsewhere until the machine finishes**. [Sage's product page](https://www.sageappliances.com/en-gb/product/bwr550) notes that a "Pause" feature is available only during the Drying phase, which does not solve the fundamental batch-processing limitation.
+The FoodCycler operates as a batch processor. You load the bucket with food scraps, lock the lid, and press start. The machine then runs its 3-stage cycle for 4–8 hours. **You cannot add more waste mid-cycle**. If you have additional food scraps during that time, **you must store them elsewhere until the machine finishes**. <a href="https://www.sageappliances.com/en-gb/product/bwr550" rel="nofollow">Sage's product page</a> notes that a "Pause" feature is available only during the Drying phase, which does not solve the fundamental batch-processing limitation.
 
 ### GEME Terra 2: Continuous 24/7 Operation
 
@@ -186,7 +186,7 @@ The Terra 2 is designed for continuous feed. As [GEME's zero-waste guide](https:
 
 ### What Each Machine Can Handle
 
-The FoodCycler's manufacturer notes on [its blog](https://foodcycler.com/blogs/your-foodcycler/what-happens-to-food-waste-in-a-foodcycler) that *"some items (like oils/fats, most compostable plastics, and beef bones) are not recommended."* The Terra 2, by contrast, is explicitly designed to handle all organic kitchen waste. According to the [2026 best-composter guide](https://www.geme.bio/blog/best-kitchen-composter-2026), the Kobold consortium *"breaks down all organic waste, including tough materials like bones, meat, and dairy that traditional composters avoid."* This includes chicken bones, fish bones, dairy leftovers, and greasy foods that would overwhelm a worm bin or a dehydrator. **The 14L chamber supports up to 2 kg of daily input, making it suitable for households of up to three people**.
+The FoodCycler's manufacturer notes on <a href="https://foodcycler.com/blogs/your-foodcycler/what-happens-to-food-waste-in-a-foodcycler" rel="nofollow">its blog</a> that *"some items (like oils/fats, most compostable plastics, and beef bones) are not recommended."* The Terra 2, by contrast, is explicitly designed to handle all organic kitchen waste. According to the [2026 best-composter guide](https://www.geme.bio/blog/best-kitchen-composter-2026), the Kobold consortium *"breaks down all organic waste, including tough materials like bones, meat, and dairy that traditional composters avoid."* This includes chicken bones, fish bones, dairy leftovers, and greasy foods that would overwhelm a worm bin or a dehydrator. **The 14L chamber supports up to 2 kg of daily input, making it suitable for households of up to three people**.
 
 👉 [Explore GEME Terra II](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=real-kitchen-composter-geme-terra-2-vs-foodcycler)
 
@@ -198,13 +198,13 @@ The FoodCycler's manufacturer notes on [its blog](https://foodcycler.com/blogs/y
 
 Perhaps the most telling evidence comes not from GEME but from the broader industry's own acknowledgments about dehydrator machines.
 
-Mill, a direct competitor that also uses dehydration technology, states openly on its [support page](https://support.mill.com/hc/en-us/articles/12044749798939-How-is-Mill-different-from-home-composting-devices): *"The food-recycling Mill isn't a composting device. The Food Grounds that come out of the bin are still food, minus the water, bulk, odor, and ick."* Similarly, on [Mill's comparison page](https://www.mill.com/lp/mill-vs-composter), the company acknowledges: **"There are many in-home appliances that dry and grind food scraps, but none of them actually produce compost. No matter what they might say, they all produce dry grounds."**
+Mill, a direct competitor that also uses dehydration technology, states openly on its <a href="https://support.mill.com/hc/en-us/articles/12044749798939-How-is-Mill-different-from-home-composting-devices" rel="nofollow">support page</a>: *"The food-recycling Mill isn't a composting device. The Food Grounds that come out of the bin are still food, minus the water, bulk, odor, and ick."* Similarly, on <a href="https://www.mill.com/lp/mill-vs-composter" rel="nofollow">Mill's comparison page</a>, the company acknowledges: **"There are many in-home appliances that dry and grind food scraps, but none of them actually produce compost. No matter what they might say, they all produce dry grounds."**
 
 The [IFSCC](https://illinoiscomposts.org/education-and-outreach/debunking-the-myth-food-scrap-dehydrators-are-not-composters/) adds a regulatory perspective: **"Calling dehydrated scraps 'compost' confuses consumers, weakens compost education efforts, and distorts public understanding of sustainable waste practices."**
 
-Reencle's [guide on how electric composters work](https://reencle.co/blogs/news/how-electric-composters-work) reinforces the scientific distinction: **"Dehydration machines do not produce compost. They produce dried food waste. The reduction in volume is useful, but the biological transformation has not occurred."**
+<a href="https://reencle.co/blogs/news/how-electric-composters-work" rel="nofollow">Reencle's guide on how electric composters work</a> reinforces the scientific distinction: **"Dehydration machines do not produce compost. They produce dried food waste. The reduction in volume is useful, but the biological transformation has not occurred."**
 
-[The Compost Culture](https://www.thecompostculture.com/lomi-vs-vitamix-foodcycler-which-electric-composter-is-right-for-you/) comes to the same conclusion: *"Electric food recyclers are great for anyone who wants to avoid sending food waste to a landfill,"* but **they are not composting in any scientific sense**.
+<a href="https://www.thecompostculture.com/lomi-vs-vitamix-foodcycler-which-electric-composter-is-right-for-you/" rel="nofollow">The Compost Culture</a> comes to the same conclusion: *"Electric food recyclers are great for anyone who wants to avoid sending food waste to a landfill,"* but **they are not composting in any scientific sense**.
 
 This isn't GEME making claims about competitors. This is the industry itself, dehydrator manufacturers, independent composting authorities, and peer review sites, acknowledging what these machines actually do and don't do. The FoodCycler is in the same category: **a dehydrator that reduces volume but does not produce compost**.
 
@@ -243,23 +243,23 @@ buttonText="Explore GEME Terra II"
 
 ### Q: Does the FoodCycler make real compost?
 
-> A: No. The FoodCycler uses heat, grinding, and dehydration to reduce food waste volume, producing a dry, sterile by-product. As the [IFSCC has documented](https://illinoiscomposts.org/education-and-outreach/debunking-the-myth-food-scrap-dehydrators-are-not-composters/), food scrap dehydrators do not perform biological decomposition and their output is not compost. FoodCycler's own [blog confirms](https://foodcycler.com/blogs/your-foodcycler/what-happens-to-food-waste-in-a-foodcycler) that their output *"is not 'finished compost'"* and needs to continue breaking down in soil or an outdoor compost pile.
+> A: No. The FoodCycler uses heat, grinding, and dehydration to reduce food waste volume, producing a dry, sterile by-product. As the [IFSCC has documented](https://illinoiscomposts.org/education-and-outreach/debunking-the-myth-food-scrap-dehydrators-are-not-composters/), food scrap dehydrators do not perform biological decomposition and their output is not compost. FoodCycler's own <a href="https://foodcycler.com/blogs/your-foodcycler/what-happens-to-food-waste-in-a-foodcycler" rel="nofollow">blog confirms</a> that their output *"is not 'finished compost'"* and needs to continue breaking down in soil or an outdoor compost pile.
 
 ### Q: Can I use FoodCycler output directly on my plants?
 
-> A: No. The output called "EcoChips" or "Foodilizer" is sterile and dehydrated. As [Reencle's guide explains](https://reencle.co/blogs/news/how-electric-composters-work), *"When applied directly to soil in large quantities, dehydrated food waste can temporarily pull nitrogen from the soil as it begins decomposing, potentially harming plants rather than helping them."* True compost, like the Terra 2's output, provides nutrients in a plant-ready form and adds beneficial microorganisms to the soil.
+> A: No. The output called "EcoChips" or "Foodilizer" is sterile and dehydrated. As <a href="https://reencle.co/blogs/news/how-electric-composters-work" rel="nofollow">Reencle's guide explains</a>, *"When applied directly to soil in large quantities, dehydrated food waste can temporarily pull nitrogen from the soil as it begins decomposing, potentially harming plants rather than helping them."* True compost, like the Terra 2's output, provides nutrients in a plant-ready form and adds beneficial microorganisms to the soil.
 
 ### Q: What makes the GEME Terra 2 a real kitchen composter?
 
-> A: It uses 46 strains of thermophilic *Bacillus* bacteria (the Kobold consortium) to biologically decompose food waste through aerobic microbial digestion, the same natural process that occurs in a healthy compost pile, accelerated and contained in a kitchen machine. WTOP News reported that the Terra 2 *"transforms food prep and table scraps into sustainable, usable compost within 12 to 24 hours"* by *"deploying intelligent automation to essentially replicate nature's role in the composting processing"* ([WTOP, January 2025](https://wtop.com/tech/2025/01/geme-zero-waste-smart-composter-reduces-compost-production-time-from-months-to-hours/)).
+> A: It uses 46 strains of thermophilic *Bacillus* bacteria (the Kobold consortium) to biologically decompose food waste through aerobic microbial digestion, the same natural process that occurs in a healthy compost pile, accelerated and contained in a kitchen machine. <a href="https://wtop.com/tech/2025/01/geme-zero-waste-smart-composter-reduces-compost-production-time-from-months-to-hours/" rel="nofollow">WTOP News</a> reported that the Terra 2 *"transforms food prep and table scraps into sustainable, usable compost within 12 to 24 hours"* by *"deploying intelligent automation to essentially replicate nature's role in the composting processing"* (WTOP, January 2025).
 
 ### Q: Can the Terra 2 handle meat and dairy that the FoodCycler can't?
 
-> A: Yes. The Terra 2 is explicitly designed to process meat, dairy, fish, and small bones, items many systems avoid. The thermophilic microbes thrive at 45–55°C and break down high-protein, high-fat waste without odor spirals. FoodCycler's own blog advises that *"oils/fats... and beef bones are not recommended"* ([FoodCycler](https://foodcycler.com/blogs/your-foodcycler/what-happens-to-food-waste-in-a-foodcycler)).
+> A: Yes. The Terra 2 is explicitly designed to process meat, dairy, fish, and small bones, items many systems avoid. The thermophilic microbes thrive at 45–55°C and break down high-protein, high-fat waste without odor spirals. FoodCycler's own blog advises that *"oils/fats... and beef bones are not recommended"* (<a href="https://foodcycler.com/blogs/your-foodcycler/what-happens-to-food-waste-in-a-foodcycler" rel="nofollow">FoodCycler</a>).
 
 ### Q: Which machine costs less over 3 years?
 
-> A: The GEME Terra 2. At \$599 upfront with zero ongoing filter costs, the 3-year total remains \$599. The FoodCycler starts lower (~\$300–\$400) but accumulates filter replacement costs. [The Compost Culture confirms](https://www.thecompostculture.com/lomi-vs-vitamix-foodcycler-which-electric-composter-is-right-for-you/) that FoodCycler carbon filters cost \$24.95 every 3–4 months (approximately \$75–\$100 per year), while [HappiestKitchen documented](https://www.happiestkitchen.com/post/detail/182/) a user paying \$300 annually in extreme cases. Over 5 years, the gap widens further: the Terra 2 stays at \$599 while a FoodCycler could climb to ~\$550–\$1,900 depending on usage and filter frequency.
+> A: The GEME Terra 2. At \$599 upfront with zero ongoing filter costs, the 3-year total remains \$599. The FoodCycler starts lower (~\$300–\$400) but accumulates filter replacement costs. <a href="https://www.thecompostculture.com/lomi-vs-vitamix-foodcycler-which-electric-composter-is-right-for-you/" rel="nofollow">The Compost Culture confirms</a> that FoodCycler carbon filters cost \$24.95 every 3–4 months (approximately \$75–\$100 per year), while <a href="https://www.happiestkitchen.com/post/detail/182/" rel="nofollow">HappiestKitchen documented</a> a user paying \$300 annually in extreme cases. Over 5 years, the gap widens further: the Terra 2 stays at \$599 while a FoodCycler could climb to ~\$550–\$1,900 depending on usage and filter frequency.
 
 ### Q: Which is the best kitchen composter for a small apartment?
 
@@ -309,7 +309,7 @@ buttonText="Get Your GEME Pro"
 
 Cited Sources
 
-1. Illinois Food Scrap & Composting Coalition. (2025, September). [*Debunking the Myth: Food Scrap Dehydrators Are Not Composters*](https://illinoiscomposts.org/education-and-outreach/debunking-the-myth-food-scrap-dehydrators-are-not-composters/).
+1. Illinois Food Scrap & Composting Coalition. (2025, September). <a href="https://illinoiscomposts.org/education-and-outreach/debunking-the-myth-food-scrap-dehydrators-are-not-composters/" rel="nofollow"><em>Debunking the Myth: Food Scrap Dehydrators Are Not Composters</em></a>.
 
 2. GEME. (2026, January). [*The Best Electric Kitchen Composter of 2026*](https://www.geme.bio/blog/best-kitchen-composter-2026).
 
@@ -317,29 +317,29 @@ Cited Sources
 
 4. GEME. (2026, March). [*The Best Composter for Avoiding Recurring Fees: GEME Terra 2 vs. Lomi, Mill, and Reencle*](https://www.geme.bio/blog/best-composter-avoid-recurring-fees-geme-terra-2).
 
-5. Kitchen Compost Bins. (2025, December). [*5 Must-Know Features of the GEME Terra 2*](https://kitchencompostbins.com/5-must-know-features-of-the-geme-terra-2-3/).
+5. Kitchen Compost Bins. (2025, December). <a href="https://kitchencompostbins.com/5-must-know-features-of-the-geme-terra-2-3/" rel="nofollow"><em>5 Must-Know Features of the GEME Terra 2</em></a>.
 
-6. Kitchen Compost Bins. (2025, December). [*Real-World Test: GEME Terra 2 Performance*](https://kitchencompostbins.com/real-world-test-geme-terra-2-performance-2/).
+6. Kitchen Compost Bins. (2025, December). <a href="https://kitchencompostbins.com/real-world-test-geme-terra-2-performance-2/" rel="nofollow"><em>Real-World Test: GEME Terra 2 Performance</em></a>.
 
-7. Sage Appliances. (n.d.). [*the FoodCycler Product Page*](https://www.sageappliances.com/en-gb/product/bwr550).
+7. Sage Appliances. (n.d.). <a href="https://www.sageappliances.com/en-gb/product/bwr550" rel="nofollow"><em>the FoodCycler Product Page</em></a>.
 
-8. Breville. (n.d.). [*the FoodCycler® Product Page*](https://www.breville.com/en-au/product/bwr550).
+8. Breville. (n.d.). <a href="https://www.breville.com/en-au/product/bwr550" rel="nofollow"><em>the FoodCycler® Product Page</em></a>.
 
-9. FoodCycler. (n.d.). [*What Happens to Food Waste in a FoodCycler?*](https://foodcycler.com/blogs/your-foodcycler/what-happens-to-food-waste-in-a-foodcycler)
+9. FoodCycler. (n.d.). <a href="https://foodcycler.com/blogs/your-foodcycler/what-happens-to-food-waste-in-a-foodcycler" rel="nofollow"><em>What Happens to Food Waste in a FoodCycler?</em></a>
 
-10. The Compost Culture. (2025, February). [*Lomi vs Vitamix FoodCycler: Which Electric Composter is right for you?*](https://www.thecompostculture.com/lomi-vs-vitamix-foodcycler-which-electric-composter-is-right-for-you/)
+10. The Compost Culture. (2025, February). <a href="https://www.thecompostculture.com/lomi-vs-vitamix-foodcycler-which-electric-composter-is-right-for-you/" rel="nofollow"><em>Lomi vs Vitamix FoodCycler: Which Electric Composter is right for you?</em></a>
 
-11. HappiestKitchen. (2025, November). [*Beyond the 'Start' Button: The Science of Moisture and Cost in Food Recyclers*](https://www.happiestkitchen.com/post/detail/182/).
+11. HappiestKitchen. (2025, November). <a href="https://www.happiestkitchen.com/post/detail/182/" rel="nofollow"><em>Beyond the 'Start' Button: The Science of Moisture and Cost in Food Recyclers</em></a>.
 
-12. HappiestKitchen. (2025, November). [*The Critical Difference: Why Your Electric 'Composter' Might Just Be a Dehydrator*](https://www.happiestkitchen.com/post/detail/157/).
+12. HappiestKitchen. (2025, November). <a href="https://www.happiestkitchen.com/post/detail/157/" rel="nofollow"><em>The Critical Difference: Why Your Electric 'Composter' Might Just Be a Dehydrator</em></a>.
 
-13. HappiestKitchen. (2025, November). [*The 2 Types of Electric Composters: Dehydrators vs. Bioreactors*](https://www.happiestkitchen.com/post/detail/178/).
+13. HappiestKitchen. (2025, November). <a href="https://www.happiestkitchen.com/post/detail/178/" rel="nofollow"><em>The 2 Types of Electric Composters: Dehydrators vs. Bioreactors</em></a>.
 
-14. Reencle. (2026, April). [*How Electric Composters Actually Work: Inside the Machine*](https://reencle.co/blogs/news/how-electric-composters-work).
+14. Reencle. (2026, April). <a href="https://reencle.co/blogs/news/how-electric-composters-work" rel="nofollow"><em>How Electric Composters Actually Work: Inside the Machine</em></a>.
 
-15. WTOP News. (2025, January). [*GEME Zero Waste Smart Composter reduces compost production time from months to hours*](https://wtop.com/tech/2025/01/geme-zero-waste-smart-composter-reduces-compost-production-time-from-months-to-hours/).
+15. WTOP News. (2025, January). <a href="https://wtop.com/tech/2025/01/geme-zero-waste-smart-composter-reduces-compost-production-time-from-months-to-hours/" rel="nofollow"><em>GEME Zero Waste Smart Composter reduces compost production time from months to hours</em></a>.
 
-16. Edible DC. (2025, September). [*Daily Grind: High-Tech Help for Low-Waste Living*](https://edibledc.com/daily-grind/).
+16. Edible DC. (2025, September). <a href="https://edibledc.com/daily-grind/" rel="nofollow"><em>Daily Grind: High-Tech Help for Low-Waste Living</em></a>
 
 <RelatedArticles
   slugs={[
