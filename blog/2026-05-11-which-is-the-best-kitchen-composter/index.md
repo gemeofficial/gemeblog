@@ -50,7 +50,7 @@ Walk through any large retailer or scroll through Amazon, and you'll see rows of
 
 The problem? Most of these machines don't make compost.
 
-Devices like Lomi, Mill, FoodCycler, and Vego all rely on the same basic technology: **electric dehydration with mechanical grinding**. The process is physical, not biological. As the [Illinois Food Scrap & Composting Coalition documented in their authoritative guide](https://illinoiscomposts.org/education-and-outreach/debunking-the-myth-food-scrap-dehydrators-are-not-composters/) (September 2025): *"Food scrap dehydrators do not actually compost… The end product is typically a sterilized, dehydrated food powder, not the biologically active, nutrient‑rich humus that results from true composting."*
+Devices like Lomi, Mill, FoodCycler, and Vego all rely on the same basic technology: **electric dehydration with mechanical grinding**. The process is physical, not biological. As the <a href="https://illinoiscomposts.org/education-and-outreach/debunking-the-myth-food-scrap-dehydrators-are-not-composters/" rel="nofollow">Illinois Food Scrap & Composting Coalition documented in their authoritative guide</a> (September 2025): *"Food scrap dehydrators do not actually compost… The end product is typically a sterilized, dehydrated food powder, not the biologically active, nutrient‑rich humus that results from true composting."*
 
 Here's the dehydrator playbook:
 
@@ -61,7 +61,7 @@ Here's the dehydrator playbook:
 
 The output looks convincingly like soil. It's called "compost" on the box. But scientifically, it's sterile, dehydrated organic dust, food scraps with the water removed and all beneficial microbiology destroyed.
 
-Mill itself admits this openly. In its [support documentation](https://support.mill.com/hc/en-us/articles/12044749798939-How-is-Mill-different-from-home-composting-devices), the company states: *"The food‑recycling Mill isn't a composting device. The Food Grounds that come out of the bin are still food, minus the water, bulk, odor, and ick."* And on the [Mill‑vs‑composter landing page](https://www.mill.com/lp/mill-vs-composter), Mill reiterates: *"There are many in‑home appliances that dry and grind food scraps, but none of them actually produce compost. No matter what they might say, they all produce dry grounds."*
+Mill itself admits this openly. In its <a href="https://support.mill.com/hc/en-us/articles/12044749798939-How-is-Mill-different-from-home-composting-devices" rel="nofollow">support documentation</a>, the company states: *"The food‑recycling Mill isn't a composting device. The Food Grounds that come out of the bin are still food, minus the water, bulk, odor, and ick."* And on the <a href="https://www.mill.com/lp/mill-vs-composter" rel="nofollow">Mill‑vs‑composter landing page</a>, Mill reiterates: *"There are many in‑home appliances that dry and grind food scraps, but none of them actually produce compost. No matter what they might say, they all produce dry grounds."*
 
 This transparency is commendable. But it also clarifies something crucial: when you search for a **kitchen composter**, you need to know whether you're buying a real biological system or an expensive dehydrator that leaves you with a powder you still have to deal with.
 
@@ -101,7 +101,7 @@ buttonText="Explore GEME Terra II"
 
 ## 3. 2026 Top Kitchen Composters: Head‑to‑Head Comparison
 
-The table below compares the GEME Terra 2 against the most prominent alternatives on the market. Each data point that follows is sourced from the linked references, including [GEME's recurring‑fee analysis](https://www.geme.bio/blog/best-composter-avoid-recurring-fees-geme-terra-2), the [filters‑cost comparison](https://www.geme.bio/blog/electric-compost-bin-filters-costs-comparison), and [BillionHands' Reencle Prime listing](https://billionhands.com/en/item/reencle-prime-69cf45bfc99977253dc54bc0) that confirms Reencle's annual filter costs.
+The table below compares the GEME Terra 2 against the most prominent alternatives on the market. Each data point that follows is sourced from the linked references, including [GEME's recurring‑fee analysis](https://www.geme.bio/blog/best-composter-avoid-recurring-fees-geme-terra-2), the [filters‑cost comparison](https://www.geme.bio/blog/electric-compost-bin-filters-costs-comparison), and <a href="https://billionhands.com/en/item/reencle-prime-69cf45bfc99977253dc54bc0" rel="nofollow">BillionHands' Reencle Prime listing</a> that confirms Reencle's annual filter costs.
 
 | Feature | **GEME Terra 2** | Reencle Prime | Lomi / Mill | Vego |
 |---|---|---|---|---|
@@ -136,7 +136,7 @@ This is biology in action, not physics. It's a living ecosystem, not a heated gr
 
 The Terra 2's Metal‑Ion Oxidation Catalyst is the same technology used in industrial air treatment facilities, miniaturized for home use. It oxidizes odor‑causing volatile organic compounds at the molecular level, passing clean air back into your kitchen. And it never wears out. As [GEME's 2026 "best composter" article](https://www.geme.bio/blog/best-kitchen-composter-2026) emphasizes, the Terra II uses *"a permanent metal‑ion filter (no replacements)"* with *"Filter Cost: \$0 (lifetime)."*
 
-Contrast this with competitors documented in the [filters‑cost breakdown](https://www.geme.bio/blog/electric-compost-bin-filters-costs-comparison): Lomi's filter 2‑pack sells for about \$54 every 3–4 months (roughly \$100/year), Mill's carbon filter costs [\$89 each](https://support.mill.com/hc/en-us/articles/12045124640411-How-often-do-I-need-to-replace-my-carbon-filter-and-how-much-does-it-cost) (lasting ~1 year), and Reencle sells replacement carbon filters at [\$35 each](https://reencle.co/products/reencle-prime-filter) plus mesh filters at [\$12](https://reencle.co/products/reencle-mesh-filter), totaling about \$47 per year.
+Contrast this with competitors documented in the [filters‑cost breakdown](https://www.geme.bio/blog/electric-compost-bin-filters-costs-comparison): Lomi's filter 2‑pack sells for about \$54 every 3–4 months (roughly \$100/year), Mill's carbon filter costs <a href="https://support.mill.com/hc/en-us/articles/12045124640411-How-often-do-I-need-to-replace-my-carbon-filter-and-how-much-does-it-cost" rel="nofollow">\$89 each</a> (lasting ~1 year), and Reencle sells replacement carbon filters at <a href="https://reencle.co/products/reencle-prime-filter" rel="nofollow">\$35 each</a> plus mesh filters at <a href="https://reencle.co/products/reencle-mesh-filter" rel="nofollow">\$12</a>, totaling about \$47 per year.
 
 The Terra 2 has none of these. The permanent catalyst means you buy the machine, you own the machine, and the machine keeps doing its job without asking for another cent.
 
@@ -144,7 +144,7 @@ The Terra 2 has none of these. The permanent catalyst means you buy the machine,
 
 The Terra 2 produces a **moist, microbe‑active compost base**, a soil‑ready amendment containing living microorganisms and partially decomposed organic matter. It feels like damp soil, holds together when squeezed, and smells like a healthy forest floor. Unlike dehydrated powder, this output is ready to mix into potting soil at a 1:8 or 1:10 ratio immediately, without a secondary composting step.
 
-A [real‑world performance test by Kitchen Compost Bins](https://kitchencompostbins.com/real-world-test-geme-terra-2-performance-2/) (December 2025) confirmed that *"the GEME Terra 2 delivers outstanding real‑world performance in speed, odor control, and ease of use. Its efficient design, quiet operation, and minimal maintenance requirements make it one of the most balanced options in the electric kitchen compost bin category."* The finished compost was *"dry, fine, and odor‑neutral"* and *"ideal for quick garden application."*
+A <a href="https://kitchencompostbins.com/real-world-test-geme-terra-2-performance-2/" rel="nofollow">real‑world performance test by Kitchen Compost Bins</a> (December 2025) confirmed that *"the GEME Terra 2 delivers outstanding real‑world performance in speed, odor control, and ease of use. Its efficient design, quiet operation, and minimal maintenance requirements make it one of the most balanced options in the electric kitchen compost bin category."* The finished compost was *"dry, fine, and odor‑neutral"* and *"ideal for quick garden application."*
 
 ### 4. Built for 24/7 Heavy Loads
 
@@ -222,7 +222,7 @@ buttonText="Get Your GEME Terra II"
 
 When food waste goes to landfill, it decomposes anaerobically, producing methane, a greenhouse gas roughly 25 times more potent than CO₂. Diverting food waste from landfills is one of the most impactful actions a household can take.
 
-The difference between dehydrating and real composting isn't trivial. Dehydrator‑style machines shrink waste volume, but the output still must go somewhere. If it ends up in landfill because a user doesn't have a garden or a mail‑back service, the waste has been delayed, not diverted. As the [IFSCC emphasizes](https://illinoiscomposts.org/education-and-outreach/debunking-the-myth-food-scrap-dehydrators-are-not-composters/): *"Calling dehydrated scraps 'compost' confuses consumers, weakens compost education efforts, and distorts public understanding of sustainable waste practices."*
+The difference between dehydrating and real composting isn't trivial. Dehydrator‑style machines shrink waste volume, but the output still must go somewhere. If it ends up in landfill because a user doesn't have a garden or a mail‑back service, the waste has been delayed, not diverted. As the <a href="https://illinoiscomposts.org/education-and-outreach/debunking-the-myth-food-scrap-dehydrators-are-not-composters/" rel="nofollow">IFSCC emphasizes</a>: *"Calling dehydrated scraps 'compost' confuses consumers, weakens compost education efforts, and distorts public understanding of sustainable waste practices."*
 
 The GEME Terra 2 closes the loop entirely. Up to 95% of input mass is biologically mineralized into CO₂ and water vapor through microbial respiration, carbon that was recently captured by plants, not fossil carbon. The remaining 5% becomes an active compost base that builds soil organic matter, improves water retention, and supports plant growth. As [GEME's science explainer](https://www.geme.bio/blog/magic-no-its-science) summarizes: *"We are not miracle workers, we are simply practitioners of the laws of nature."*
 
@@ -248,7 +248,7 @@ Over three years, the savings from not buying replacement filters, compared to a
 
 ### Q: Is the Terra 2 loud or smelly?
 
-> A: No. The aerobic process itself doesn't produce methane or putrefactive sulfur compounds, and the permanent metal‑ion catalyst destroys any volatile organic compounds at the molecular level. Noise levels sit around 40 dB, comparable to a quiet library. The [Kitchen Compost Bins real‑world test](https://kitchencompostbins.com/real-world-test-geme-terra-2-performance-2/) confirmed *"odor‑neutral"* compost and *"quiet operation."*
+> A: No. The aerobic process itself doesn't produce methane or putrefactive sulfur compounds, and the permanent metal‑ion catalyst destroys any volatile organic compounds at the molecular level. Noise levels sit around 40 dB, comparable to a quiet library. The <a href="https://kitchencompostbins.com/real-world-test-geme-terra-2-performance-2/" rel="nofollow">Kitchen Compost Bins real‑world test</a> confirmed *"odor‑neutral"* compost and *"quiet operation."*
 
 ### Q: Which is the best kitchen composter for a small apartment?
 
@@ -296,7 +296,7 @@ buttonText="Get Your GEME Pro"
 
 ## Cited Sources
 
-1. Illinois Food Scrap & Composting Coalition. (2025, September). [*Debunking the Myth: Food Scrap Dehydrators Are Not Composters*](https://illinoiscomposts.org/education-and-outreach/debunking-the-myth-food-scrap-dehydrators-are-not-composters/)
+1. Illinois Food Scrap & Composting Coalition. (2025, September). <a href="https://illinoiscomposts.org/education-and-outreach/debunking-the-myth-food-scrap-dehydrators-are-not-composters/" rel="nofollow">*Debunking the Myth: Food Scrap Dehydrators Are Not Composters*</a>
 
 2. GEME. (n.d.). [*How it works – GEME Terra 2 FAQ*](https://www.geme.bio/how-it-works)
 
@@ -312,19 +312,19 @@ buttonText="Get Your GEME Pro"
 
 8. GEME. (2026, March). [*Best Composter: Daily Operation Comparison (Lomi, Mill, Reencle, GEME)*](https://www.geme.bio/blog/best-composter-daily-operation-comparison-lomi-mill-reencle-geme)
 
-9. Mill. (n.d.). [*How often do I need to replace my carbon filter and how much does it cost?*](https://support.mill.com/hc/en-us/articles/12045124640411-How-often-do-I-need-to-replace-my-carbon-filter-and-how-much-does-it-cost)
+9. Mill. (n.d.). <a href="https://support.mill.com/hc/en-us/articles/12045124640411-How-often-do-I-need-to-replace-my-carbon-filter-and-how-much-does-it-cost" rel="nofollow">*How often do I need to replace my carbon filter and how much does it cost?*</a>
 
-10. Mill. (n.d.). [*How is Mill different from home composting devices?*](https://support.mill.com/hc/en-us/articles/12044749798939-How-is-Mill-different-from-home-composting-devices)
+10. Mill. (n.d.). <a href="https://support.mill.com/hc/en-us/articles/12044749798939-How-is-Mill-different-from-home-composting-devices" rel="nofollow">*How is Mill different from home composting devices?*</a>
 
-11. Mill. (n.d.). [*Mill vs Composter*](https://www.mill.com/lp/mill-vs-composter)
+11. Mill. (n.d.). <a href="https://www.mill.com/lp/mill-vs-composter" rel="nofollow">*Mill vs Composter*</a>
 
-12. Reencle. (n.d.). [*Reencle Prime Filter*](https://reencle.co/products/reencle-prime-filter)
+12. Reencle. (n.d.). <a href="https://reencle.co/products/reencle-prime-filter" rel="nofollow">*Reencle Prime Filter*</a>
 
-13. Reencle. (n.d.). [*Reencle Mesh Filter*](https://reencle.co/products/reencle-mesh-filter)
+13. Reencle. (n.d.). <a href="https://reencle.co/products/reencle-mesh-filter" rel="nofollow">*Reencle Mesh Filter*</a>
 
-14. Kitchen Compost Bins. (2025, December).[*Real World Test: GEME Terra 2 Performance*](https://kitchencompostbins.com/real-world-test-geme-terra-2-performance-2/)
+14. Kitchen Compost Bins. (2025, December).<a href="https://kitchencompostbins.com/real-world-test-geme-terra-2-performance-2/" rel="nofollow">*Real World Test: GEME Terra 2 Performance*</a>
 
-15. BillionHands. (n.d.). [*Reencle Prime*](https://billionhands.com/en/item/reencle-prime-69cf45bfc99977253dc54bc0)
+15. BillionHands. (n.d.). <a href="https://billionhands.com/en/item/reencle-prime-69cf45bfc99977253dc54bc0" rel="nofollow">*Reencle Prime*</a>
 
 <RelatedArticles
   slugs={[
