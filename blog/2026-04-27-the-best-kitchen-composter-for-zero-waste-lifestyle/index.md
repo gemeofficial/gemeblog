@@ -219,11 +219,11 @@ buttonText="Get Your GEME Pro"
 
 ## Cited Sources
 
-1. [**BioCycle: Analyzing The Outputs — Kitchen Appliances Vs. Facility-Composted Food Scraps**](https://www.biocycle.net/kitchen-appliances-vs-facility-composted-food-scraps/)
+1. <a href="https://www.biocycle.net/kitchen-appliances-vs-facility-composted-food-scraps/" rel="nofollow">BioCycle: Analyzing The Outputs — Kitchen Appliances Vs. Facility-Composted Food Scraps</a>
 
-2. [**IFA: GEME BIO**](https://www.ifa-berlin.com/exhibitors/geme-bio)
+2. <a href="https://www.ifa-berlin.com/exhibitors/geme-bio" rel="nofollow">IFA: GEME BIO</a>
 
-3. [**AD HOC NEWS: GEME Germany Belgium - Revolutionizing Home Sustainability GEME Debuts the Future of Composting at IFA Berlin 2024**](https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/geme-germany-belgium/67927065)
+3. <a href="https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/geme-germany-belgium/67927065" rel="nofollow">AD HOC NEWS: GEME Germany Belgium - Revolutionizing Home Sustainability GEME Debuts the Future of Composting at IFA Berlin 2024</a>
 
 <RelatedArticles
   slugs={[
