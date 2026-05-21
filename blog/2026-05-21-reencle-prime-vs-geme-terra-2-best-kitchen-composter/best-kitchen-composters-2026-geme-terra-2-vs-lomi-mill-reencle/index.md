@@ -11,7 +11,7 @@ keywords:
 slug: reencle-prime-vs-geme-terra-2-best-kitchen-composter
 authors: [Moore]
 tags: [composter, composting, geme]
-
+image: https://www.geme.bio/assets/images/geme-terra-2-vs-reencle-composter-cfb61d0cea2c5e14d5c7456971d8939e.png
 ---
 
 import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
