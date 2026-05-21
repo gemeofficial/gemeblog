@@ -230,7 +230,7 @@ buttonText="Explore GEME Terra II"
     "✅ Reduces Composting Time to Days"
  ]}
 buttonText="Explore GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-kitchen-composters-2026-geme-terra-2-vs-lomi-mill-reencle"
+  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=gbest-kitchen-composters-2026-geme-terra-2-vs-lomi-mill-reencle"
 />
 
 <GemeComposterCTA 
@@ -247,6 +247,8 @@ buttonText="Get Your GEME Pro"
 />
 
 ## Cited Sources
+
+Cited Sources
 
 1. <a href="https://ecoseeds.org/the-scoop-on-food-scrap-dehydrators/" rel="nofollow">SEEDS (ecoseeds.org), <em>The Scoop on Food Scrap Dehydrators</em>, 2026-03-29</a>
 
