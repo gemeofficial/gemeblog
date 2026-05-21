@@ -284,6 +284,7 @@ Cited Sources
 
 <RelatedArticles
   slugs={[
+  "geme-terra-2-vs-vitamix-foodcycler",
   "real-kitchen-composter-geme-terra-2-vs-foodcycler",
   "best-electric-kitchen-composter-2026",
   "geme-terra-2-the-best-kitchen-composting-solution",
