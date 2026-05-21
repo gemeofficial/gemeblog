@@ -147,19 +147,19 @@ buttonText="Explore GEME Terra II"
 
 ### Choose Lomi if:
 
-You want to shrink the volume of kitchen waste heading to the curb, and you already have a plan for the dried output, whether that’s a municipal compost collection, a worm bin, or burying it in a garden bed for further decomposition. You’re comfortable spending roughly \$150 to \$200 per year on replacement charcoal filters, and you understand that Lomi Earth is not biologically active compost.
+You want to shrink the volume of kitchen waste heading to the curb, and you already have a plan for the dried output, whether that’s a municipal compost collection, a worm bin, or burying it in a garden bed for further decomposition. **You’re comfortable spending roughly \$150 to \$200 per year on replacement charcoal filters, and you understand that Lomi Earth is not biologically active compost**.
 
 ### Choose Mill if:
 
-Your budget is large, \$999 upfront plus ongoing filter and pickup fees, and your top priority is a hands‑free experience. The Mill’s large capacity and mail‑back service mean you rarely think about waste disposal. Just know that you’re paying a premium for a beautifully designed dehydrator, not a composter, and that the Food Grounds still need further processing before they help your plants.
+Your budget is large, \$999 upfront plus ongoing filter and pickup fees, and your top priority is a hands‑free experience. The Mill’s large capacity and mail‑back service mean you rarely think about waste disposal. Just know that **you’re paying a premium for a beautifully designed dehydrator, not a composter**, and that the Food Grounds still need further processing before they help your plants.
 
 ### Choose Reencle if:
 
-You want a machine that uses real microbes to break down waste, you’re okay with spending about \$47–\$50 per year on replacement carbon filters, and you value a compact countertop design. The Reencle produces biologically active material that is genuinely closer to real compost than anything from Lomi or Mill, though reviewers consistently note that a bit of extra curing makes the output even better.
+You want a machine that uses real microbes to break down waste, **you’re okay with spending about \$47–\$50 per year on replacement carbon filters**. The Reencle produces biologically active material that is genuinely closer to real compost than anything from Lomi or Mill, though reviewers consistently note that a bit of extra curing makes the output even better.
 
 ### Choose GEME Terra 2 if:
 
-You want authentic, biologically active compost that you can mix straight into your houseplant soil, garden beds, or balcony planters, no secondary step required. You refuse to pay a single dollar in recurring filter fees. You need a continuous‑feed system that lets every family member add scraps at any hour, just like a regular kitchen bin. Your household generates meat, dairy, fish, and small bones, and you want one machine that handles it all. 
+**You want authentic, biologically active compost** that you can mix straight into your houseplant soil, garden beds, or balcony planters, no secondary step required. **You refuse to pay a single dollar in recurring filter fees**. **You need a continuous‑feed system that lets every family member add scraps at any hour**, just like a regular kitchen bin. Your household generates meat, dairy, fish, and small bones, and **you want one machine that handles it all**. 
 
 You’re thinking long‑term: after year two or three, the Terra 2 has already paid for itself in avoided filter costs compared with every other machine here, and it remains the only one that pairs real composting with true zero‑cost operation. **GEME Terra 2 is a kitchen electric composter designed for real indoor composting at home.** For anyone who wants the **best composter** without compromise, it’s the definitive pick in 2026.
 
