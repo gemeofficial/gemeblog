@@ -84,7 +84,7 @@ buttonText="Get Your GEME Terra II"
 
 ### Key Benefits
 
- Terra II was widely praised at launch as a top-rated kitchen composter.  For example, Digital Trends named it among the [“best smart home tech of IFA 2024”](https://www.digitaltrends.com/home/ifa-2024-best-smart-home/), and it won [a 2025 design award](https://www.prnewswire.com/news-releases/revolutionizing-home-sustainability-geme-debuts-the-future-of-composting-at-ifa-berlin-2024-302228430.html).  It features “zero filter costs” – an industrial metal-ion oxidiser means no charcoal or pods needed ever.  In fact, GEME’s own comparison shows Terra II costs about $50 more upfront than typical dehydrator bins, but no refills are needed – saving hundreds over 3 years.  It’s also quiet (≤40 dB) and streamlined (11.7×17.2×22.3 inches) to fit most kitchens.  You simply toss in peelings, coffee grounds, bones or dairy anytime (the continuous-feed design), and the machine’s AI & microbes handle the rest.  No buttons or cycles to manage – just “add & forget” until the timer beeps.
+ Terra II was widely praised at launch as a top-rated kitchen composter.  For example, Digital Trends named it among the <a href="https://www.digitaltrends.com/home/ifa-2024-best-smart-home/" rel="nofollow">best smart home tech of IFA 2024</a>, and it won <a href="https://www.prnewswire.com/news-releases/revolutionizing-home-sustainability-geme-debuts-the-future-of-composting-at-ifa-berlin-2024-302228430.html" rel="nofollow">a 2025 design award</a>.  It features “zero filter costs” – an industrial metal-ion oxidiser means no charcoal or pods needed ever.  In fact, GEME’s own comparison shows Terra II costs about $50 more upfront than typical dehydrator bins, but no refills are needed – saving hundreds over 3 years.  It’s also quiet (≤40 dB) and streamlined (11.7×17.2×22.3 inches) to fit most kitchens.  You simply toss in peelings, coffee grounds, bones or dairy anytime (the continuous-feed design), and the machine’s AI & microbes handle the rest.  No buttons or cycles to manage – just “add & forget” until the timer beeps.
 
 ### Performance
 
@@ -92,7 +92,7 @@ buttonText="Get Your GEME Terra II"
 
 ### Why It’s Top Rated
 
- Multiple trusted sources highlight Terra II’s advantages. Wired’s review notes that only the Reencle (another on our list) even approaches real compost, but Terra II actually delivers it consistently.  GEME’s own tests back this up: Terra II reduces 95% of waste volume and produces “nutrient-rich soil” ready to feed plants.  And unlike other devices, GEME Terra II has no hidden costs – just a one-time purchase (about \$549) and no filter subscriptions.
+ Multiple trusted sources highlight Terra II’s advantages. <a href="https://www.wired.com/story/home-composters-buying-guide" rel="nofollow">Wired’s review</a> notes that only the Reencle (another on our list) even approaches real compost, but Terra II actually delivers it consistently.  GEME’s own tests back this up: Terra II reduces 95% of waste volume and produces “nutrient-rich soil” ready to feed plants.  And unlike other devices, GEME Terra II has no hidden costs – just a one-time purchase (about \$549) and no filter subscriptions.
 
 Terra II is offered with incentives, too.  GEME provides a 30-day money-back guarantee and free shipping in the US/EU, so you can try it risk-free.  Pre-ordering secures the launch price (far cheaper than renting a dehydrator long-term).  For tech-savvy greenies, Terra II represents cutting-edge sustainability – pre-order now to join the kitchen composting revolution.
 
@@ -111,9 +111,9 @@ buttonText="Get Your GEME Terra II"
 
 ### Verified Source Citations
 
- [1] [**PR Newswire**: Revolutionizing Home Sustainability GEME Debuts the Future of Composting at IFA Berlin 2024](https://www.prnewswire.com/news-releases/revolutionizing-home-sustainability-geme-debuts-the-future-of-composting-at-ifa-berlin-2024-302228430.html)
+ [1] <a href="https://www.prnewswire.com/news-releases/revolutionizing-home-sustainability-geme-debuts-the-future-of-composting-at-ifa-berlin-2024-302228430.html" rel="nofollow">PR Newswire: Revolutionizing Home Sustainability GEME Debuts the Future of Composting at IFA Berlin 2024</a>
 
- [2] [**Digital Trends**: The best smart home tech of IFA 2024](https://www.digitaltrends.com/home/ifa-2024-best-smart-home/)
+ [2] <a href="https://www.digitaltrends.com/home/ifa-2024-best-smart-home/" rel="nofollow">Digital Trends: The best smart home tech of IFA 2024</a>
 
 ## 2. GEME Pro — Commercial-Grade Composting at Home
 
@@ -156,7 +156,7 @@ buttonText="Get Your GEME Pro Kitchen Composter"
 
 ### Why It’s Top Rated
 
- Industry watchers praise GEME’s approach: they call it a ”bio waste composter”, not a mere dryer.  Indeed, GEME’s tests claim microbial breakdown is ~1000× faster than backyard compost.  Wired’s filter-cost analysis confirms GEME’s advantage: GEME Pro (and Terra II) don’t require filter replacements, saving owners hundreds.  If you have space and generate lots of scraps, the GEME Pro is unmatched.  Plus, GEME offers a 30-day trial and friendly customer support, making it easy to try at home.
+ Industry watchers praise GEME’s approach: they call it a ”bio waste composter”, not a mere dryer.  Indeed, GEME’s tests claim microbial breakdown is ~1000× faster than backyard compost.  <a href="https://www.wired.com/story/home-composters-buying-guide" rel="nofollow">Wired’s filter-cost analysis</a> confirms GEME’s advantage: GEME Pro (and Terra II) don’t require filter replacements, saving owners hundreds.  If you have space and generate lots of scraps, the GEME Pro is unmatched.  Plus, GEME offers a 30-day trial and friendly customer support, making it easy to try at home.
 
 <GemeComposterCTA 
  imgSrc="/img/geme-bio-composter.jpg"
@@ -213,7 +213,7 @@ From a convenience perspective, Lomi 3 offers several user-friendly features:
 
 ### Consumer Feedback: Design Improvements and Persistent Trade-Offs
 
- Early iterations of Lomi (e.g., Lomi 2) encountered some design complaints, such as lid durability issues. Independent reviews (such as by Wired) on earlier models mention lid warping over time, which could compromise odor control until resolved by redesign. 
+ Early iterations of Lomi (e.g., Lomi 2) encountered some design complaints, such as lid durability issues. Independent reviews (such as by <a href="https://www.wired.com/story/home-composters-buying-guide" rel="nofollow">Wired</a>) on earlier models mention lid warping over time, which could compromise odor control until resolved by redesign. 
 
  Many reviews praise Lomi 3’s usability and reduced noise compared to older models, noting its “thoughtfully engineered, easy-to-use” interface. However, multiple reviewers also emphasize that its output does not equate to traditional compost. As one review points out, after processing, the material often needs to be mixed with soil before it can effectively support plant growth—or added to an existing outdoor compost system to complete decomposition. 
 
@@ -233,15 +233,15 @@ From a convenience perspective, Lomi 3 offers several user-friendly features:
 
 ### Verified Source Citations
 
- [1] [Product details and marketing claims about operation and output](https://lomi.com/products/lomi-3-food-recycler) 
+ [1] <a href="https://lomi.com/products/lomi-3-food-recycler" rel="nofollow">Product details and marketing claims about operation and output</a>
 
- [2] [Cartridge filters and replacement guidance](https://manuals.plus/m/2f885cb431885fdfa8110b6e1b7632b3dfab2b48f99ca224209e62d9f98c25f8)
+ [2] <a href="https://manuals.plus/m/2f885cb431885fdfa8110b6e1b7632b3dfab2b48f99ca224209e62d9f98c25f8" rel="nofollow">Cartridge filters and replacement guidance</a>
 
- [3] [Independent commentary on grind/dehydrate output and soil mixing needs](https://www.wired.com/story/home-composters-buying-guide)
+ [3] <a href="https://www.wired.com/story/home-composters-buying-guide" rel="nofollow">Independent commentary on grind/dehydrate output and soil mixing needs</a>
 
- [4] [Lomi review]( https://www.ios.im/archives/6600.html)
+ [4] <a href="https://www.ios.im/archives/6600.html" rel="nofollow">Lomi review</a>
 
- [5] [Context on pre-compost nature of output](https://www.hobbyfarms.com/the-lomi-countertop-composting-controversy/)
+ [5] <a href="https://www.hobbyfarms.com/the-lomi-countertop-composting-controversy/" rel="nofollow">Context on pre-compost nature of output</a>
 
 <GemeTerra2CTA 
  imgSrc="/img/geme-terra-2-composter.jpg"
@@ -305,7 +305,7 @@ Its output is not compost and requires off-site handling.
  - Is biologically inert at completion
  - Requires external composting or soil systems to finish decomposition
 
- This limitation is clearly noted in expert reviews, including Wired’s buying guide, which categorizes Mill as a food recycler, not a true composter.
+ This limitation is clearly noted in expert reviews, including <a href="https://www.wired.com/review/mill-food-recycler" rel="nofollow">Wired’s buying guide</a>, which categorizes Mill as a food recycler, not a true composter.
 
 ### Convenience Programs & Ongoing Costs
 
@@ -330,7 +330,7 @@ Its output is not compost and requires off-site handling.
  - Strong odor control
  - Proven waste diversion at scale
 
- Wired highlights Mill as the largest-capacity home food recycler available, while Bon Appétit describes it as one of the most effective tools for reducing kitchen waste volume.
+ <a href="https://www.wired.com/review/mill-food-recycler" rel="nofollow">Wired</a> highlights Mill as the largest-capacity home food recycler available, while <a href="https://www.bonappetit.com/story/mill-kitchen-bin-food-recycler" rel="nofollow">Bon Appétit</a> describes it as one of the most effective tools for reducing kitchen waste volume.
 
  That said, both publications explicitly note that Mill:
 
@@ -342,11 +342,11 @@ Its output is not compost and requires off-site handling.
 
 ### Verified Source Citations
 
-[1] [Mill’s official site states that Mill grinds and dehydrates food scraps into dry “Food Grounds” and makes clear that it is not a biological composting process](https://www.mill.com/blog/what-do-food-recyclers-actually-do-and-why-do-they-matter)
+[1] <a href="https://www.mill.com/blog/what-do-food-recyclers-actually-do-and-why-do-they-matter" rel="nofollow">Mill’s official site states that Mill grinds and dehydrates food scraps into dry “Food Grounds” and makes clear that it is not a biological composting process</a>
 
-[2] [In its review, Wired explains that Mill’s food grounds are simply dried, reduced-volume material and not true compost.](https://www.wired.com/review/mill-food-recycler)
+[2] <a href="https://www.wired.com/review/mill-food-recycler" rel="nofollow">In its review, Wired explains that Mill’s food grounds are simply dried, reduced-volume material and not true compost.</a>
 
-[3] [A Serious Eats review confirms Mill’s output is dry and must be used in garden soil or compost piles to complete decomposition.](https://www.seriouseats.com/mill-composter-review-11707187)
+[3] <a href="https://www.seriouseats.com/mill-composter-review-11707187" rel="nofollow">A Serious Eats review confirms Mill’s output is dry and must be used in garden soil or compost piles to complete decomposition.</a>
 
 ## 5. Reencle — Semi-Automated, Still Filter-Dependent
 
@@ -365,7 +365,7 @@ Reencle produces pre-compost that needs further curing but:
 
  The Reencle Prime positions itself differently from grind-and-dry recyclers by using a microbial fermentation system rather than dehydration alone. It is a countertop electric composter with a 14-liter capacity, designed to break down food waste using heat and a proprietary microbial inoculant.
 
- According to Wired, Reencle ships with a starter mix called ReencleMicrobe, composed of charcoal, wood pellets, glucose, and multiple microbial strains that initiate biological breakdown inside the unit.
+ According to <a href="https://www.wired.com/review/reencle-prime/" rel="nofollow">Wired</a>, Reencle ships with a starter mix called ReencleMicrobe, composed of charcoal, wood pellets, glucose, and multiple microbial strains that initiate biological breakdown inside the unit.
 
  Unlike dehydrators, Reencle’s process aims to partially digest organic matter, producing a soil-like and sawdust-like output that can be cured into usable compost with minimal additional steps.
 
@@ -386,11 +386,11 @@ Reencle produces pre-compost that needs further curing but:
  - Built-in carbon filter (no disposable pods)
  - Simple cycle selection via app or control panel
 
- Noise levels are reported at around 30 dB, which Wired describes as nearly silent, especially compared to grind-and-dry units.
+ Noise levels are reported at around 30 dB, which <a href="https://www.wired.com/review/reencle-prime/" rel="nofollow">Wired</a> describes as nearly silent, especially compared to grind-and-dry units.
 
 ### Performance: Near-Compost With a Short Cure Period
 
- In testing, Wired describes Reencle’s operation as similar to a “warm trash can” that continuously digests waste. Scraps are reduced within hours to a day, producing a material resembling a blend of dirt and sawdust.
+ In testing, <a href="https://www.wired.com/review/reencle-prime/" rel="nofollow">Wired</a> describes Reencle’s operation as similar to a “warm trash can” that continuously digests waste. Scraps are reduced within hours to a day, producing a material resembling a blend of dirt and sawdust.
 
  Crucially, Reencle’s output:
 
@@ -403,7 +403,7 @@ Reencle produces pre-compost that needs further curing but:
 
 ### Why Reencle Is Frequently Ranked “Best Overall”
 
- Wired names Reencle Prime the “best overall” kitchen composter, citing:
+ <a href="https://www.wired.com/review/reencle-prime/" rel="nofollow">Wired</a> names Reencle Prime the “best overall” kitchen composter, citing:
 
  - Minimal user intervention
  - Broad waste acceptance
@@ -433,9 +433,9 @@ buttonText="Get Your GEME Terra II"
 
 ### Verified Source Citations
 
-[1] [Wired’s evaluation of Reencle Prime highlights its microbe-driven breakdown, noting that it differs from simple dehydration and produces biologically active material that can be cured into compost.](https://www.wired.com/review/reencle-prime/)
+[1] <a href="https://www.wired.com/review/reencle-prime/" rel="nofollow">Wired’s evaluation of Reencle Prime highlights its microbe-driven breakdown, noting that it differs from simple dehydration and produces biologically active material that can be cured into compost.</a>
 
-[2] [A user review on Ubuy also notes Reencle’s ability to decompose a variety of kitchen scraps and discusses its performance and ongoing maintenance considerations.](https://www.ubuy.co.in/product/IWT2RFX2I-electric-composter-14l-kitchen-composter-decomposes-up-to-2-2-lbs-food-waste-daily-odorless-indoor-composting-with-whisper-quiet-technology)
+[2] <a href="https://www.ubuy.co.in/product/IWT2RFX2I-electric-composter-14l-kitchen-composter-decomposes-up-to-2-2-lbs-food-waste-daily-odorless-indoor-composting-with-whisper-quiet-technology" rel="nofollow">A user review on Ubuy also notes Reencle’s ability to decompose a variety of kitchen scraps and discusses its performance and ongoing maintenance considerations.</a>
 
 ## Why Real Compost Is the Future of Kitchen Composting
 
