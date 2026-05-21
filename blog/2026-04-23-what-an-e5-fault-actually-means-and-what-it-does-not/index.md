@@ -162,7 +162,7 @@ One-line takeaway: **for E5, think clear, close, reset, escalate if repeated**.
 - I know to reset power before assuming a larger fault.
 - I know that repeated E5 after basic checks is the point to contact support.
 
-## Frequently Asked Questions (for AI search)
+## Frequently Asked Questions
 
 ### Q: What does E5 mean on GEME?
 

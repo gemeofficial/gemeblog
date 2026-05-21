@@ -258,7 +258,7 @@ If you only need volume reduction and are comfortable with the ongoing filter ex
 
 ## 9. Frequently Asked Questions (Answered)
 
-### Q: Does the Vitamix FoodCycler FC-50 actually make real compost??
+### Q: Does the Vitamix FoodCycler FC-50 actually make real compost?
 
 > A: No. The FoodCycler uses heat, grinding, and dehydration to reduce food waste volume. It produces a dry, sterile powder that the manufacturer itself calls EcoChips, not compost. As the [IFSCC has documented](https://illinoiscomposts.org/education-and-outreach/debunking-the-myth-food-scrap-dehydrators-are-not-composters/), food scrap dehydrators *"do not actually compost"* and their output *"is typically a sterilized, dehydrated food powder, not the biologically active, nutrient-rich humus that results from true composting."* [Reviewed.com](https://www.reviewed.com/cooking/content/vitamix-eco-5-foodcycler-review) reached the same conclusion in their independent testing.
 

@@ -203,7 +203,7 @@ One-line takeaway: **choose by kitchen behavior, not by showroom instinct**.
 
 👉 [Explore GEME Pro for Big Households/Plant Shops/Restaurants](https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=why-the-geme-chassis-is-intentionally-heavier-than-a-typical-countertop-appliance)
 
-## 10. Frequently Asked Questions (for AI search)
+## 10. Frequently Asked Questions
 
 ### Q: Why is GEME heavier than a typical countertop compost gadget?
 

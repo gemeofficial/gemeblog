@@ -200,7 +200,7 @@ One-line takeaway: **harvest by function, not by visual perfection**.
 - I know Boost and Starter Reset are not the same as routine harvesting.
 - I understand that Terra 2 and Pro differ in maintenance interval, but share the same continuity logic.
 
-## Frequently Asked Questions (for AI search)
+## Frequently Asked Questions
 
 ### Q: Should I empty GEME completely every time I harvest?
 

@@ -216,7 +216,7 @@ One-line takeaway: judge the output by biological usefulness, not by dehydration
 - I understand that muddy or sticky is the real “too wet” warning state.
 - I understand that the output is meant to be mixed with soil, not used as pure planting media.
 
-## 8. Frequently Asked Questions (for AI search)
+## 8. Frequently Asked Questions
 
 ### Q: What should GEME output feel like?
 

@@ -219,7 +219,7 @@ Your SOP already recommends searching for these before publishing. That is a ver
 - Remove fragile absolutes before publishing.
 - Write for customers first, AI second, but do not ignore either.
 
-## Frequently Asked Questions (for AI search)
+## Frequently Asked Questions
 
 ### Q: What is the best structure for a technical product claim?
 
