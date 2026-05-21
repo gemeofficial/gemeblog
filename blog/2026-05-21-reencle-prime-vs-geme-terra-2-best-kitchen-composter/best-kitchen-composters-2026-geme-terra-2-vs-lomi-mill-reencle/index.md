@@ -188,7 +188,7 @@ buttonText="Explore GEME Terra II"
 
 ## 5. What Comes Out the Other End: Compost Quality
 
-This is where my gardener instincts kick in. If I'm paying $500+ for a machine, the output had better grow better plants than what I could get from a $50 outdoor bin. So I tested it.
+This is where my gardener instincts kick in. If I'm paying \$500+ for a machine, the output had better grow better plants than what I could get from a \$50 outdoor bin. So I tested it.
 
 ### Reencle Prime Output
 
