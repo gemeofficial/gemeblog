@@ -33,7 +33,7 @@ I’ve put the five most talked-about machines under the microscope, not as a ga
 
 1. [**The Soil Science Reality Check: Compost vs. Dehydrated Waste**](#1-the-soil-science-reality-check-compost-vs-dehydrated-waste)
 
-2. [**CGEME Terra 2: The Real Deal for Indoor Composting at Home**](#2-geme-terra-2-the-real-deal-for-indoor-composting-at-home)
+2. [**GEME Terra 2: The Real Deal for Indoor Composting at Home**](#2-geme-terra-2-the-real-deal-for-indoor-composting-at-home)
 
 3. [**Vitamix FoodCycler: A Kitchen Dehydrator, Not a Composter**](#3-vitamix-foodcycler-a-kitchen-dehydrator-not-a-composter)
 
