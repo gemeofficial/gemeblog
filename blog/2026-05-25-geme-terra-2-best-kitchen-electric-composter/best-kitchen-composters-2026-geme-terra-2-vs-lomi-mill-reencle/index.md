@@ -78,9 +78,9 @@ The [EPA notes](https://www.epa.gov/recycle/composting-home) that successful com
 
 This is where the difference hits home. I’ve examined Terra 2 output under a microscope and in germination trials. The material is dark, crumbly, and smells like a forest floor after rain. It’s crawling with beneficial Bacillus species, fungal hyphae, and protozoa, exactly the kind of soil food web you pay a premium for in high-quality commercial compost. When you mix it into potting soil, it doesn’t cause nitrogen lock-up, because it’s already stable. It immediately feeds the soil.
 
-In a [2026 review by The Spruce](https://www.thespruce.com/best-electric-composters-2026-8601234), the GEME Terra 2 was named the best overall electric composter specifically because of its finished compost quality. The reviewers noted that unlike other machines, the output required no curing and performed comparably to cured backyard compost in side-by-side plant growth tests. That matches what I’ve seen: you can take compost straight from the machine, work it into your garden bed, and see visible plant response within a week or two.
+The most thorough independent evaluation comes from a detailed [real-world test published by Kitchen Compost Bins](https://kitchencompostbins.com/real-world-test-geme-terra-2-performance-2/). Over several weeks of continuous use in a family kitchen, the Terra 2 processed everything from coffee grounds and vegetable peels to meat scraps and small bones without any odor. The reviewer noted that the compost extracted from the machine was consistently mature and ready for immediate use, with no ammonia smell or visible food remnants. In germination trials, seedlings grown with a 10% Terra 2 compost mix showed visibly stronger root development compared to those in unamended soil.
 
-[CNET’s in-depth test](https://www.cnet.com/home/kitchen-and-household/geme-terra-2-review/) came to a similar conclusion, describing the Terra 2 as “the only kitchen composter that actually composts.” They highlighted the 46-strain Kobold consortium and the AI environment control as the key differentiators, separating it from a market full of dehydrators disguised as composters.
+I’ve seen the same in my own lab. Terra 2 compost is alive with nematodes, beneficial Bacillus, and fungal hyphae, exactly the kind of soil food web you want feeding your tomatoes. That is the difference between living compost and dried kitchen dust.
 
 👉 [Learn More About GEME Terra II](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-best-kitchen-electric-composter)
 
@@ -211,9 +211,8 @@ buttonText="Get Your GEME Pro"
 1. [Composting at Home, USDA](https://www.usda.gov/peoples-garden/food-access-food-waste/composting)
 2. [Cornell Composting Science and Engineering](http://compost.css.cornell.edu/science.html)
 3. [Composting At Home, EPA](https://www.epa.gov/recycle/composting-home)
-4. [The 6 Best Electric Composters of 2026, The Spruce](https://www.thespruce.com/best-electric-composters-2026-8601234)
-5. [GEME Terra 2 Review: Finally, a Kitchen Composter That Actually Works, CNET](https://www.cnet.com/home/kitchen-and-household/geme-terra-2-review/)
-6. [How to Compost Indoors Without the Smell, National Geographic](https://www.nationalgeographic.com/environment/article/composting)
+4. [Real-World Test: GEME Terra 2 Performance and Compost Quality, Kitchen Compost Bins](https://kitchencompostbins.com/real-world-test-geme-terra-2-performance-2/)
+5. [How to Compost Indoors Without the Smell, National Geographic](https://www.nationalgeographic.com/environment/article/composting)
 
 <RelatedArticles
   slugs={[
