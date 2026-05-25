@@ -10,7 +10,7 @@ keywords:
 slug: geme-terra-2-best-kitchen-electric-composter
 authors: [Moore]
 tags: [composter, composting, geme]
-
+image: https://www.geme.bio/assets/images/geme-terra-2-b09b3a4bd7ce652b20d42a9c0ab3851e.png
 ---
 
 import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
