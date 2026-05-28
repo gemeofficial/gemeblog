@@ -206,8 +206,8 @@ buttonText="Get Your GEME Pro"
 
 1. [Debunking the Myth: Food Scrap Dehydrators Are Not Composters — Illinois Food Scrap & Composting Coalition](https://illinoiscomposts.org/education-and-outreach/debunking-the-myth-food-scrap-dehydrators-are-not-composters/)
 2. [The Scoop on Food Scrap Dehydrators — SEEDS](https://ecoseeds.org/the-scoop-on-food-scrap-dehydrators/)
-3. [Electric Composter Buyer's Guide: 7 Things to Check Before You Buy — Reencle](https://reencle.co/blogs/news/electric-composter-buyers-guide)
-4. [How Electric Composters Actually Work: Inside the Machine — Reencle](https://reencle.co/blogs/news/how-electric-composters-work)
+3. <a href="https://reencle.co/blogs/news/electric-composter-buyers-guide" rel="nofollow">Electric Composter Buyer's Guide: 7 Things to Check Before You Buy — Reencle</a>
+4. <a href="https://reencle.co/blogs/news/how-electric-composters-work" rel="nofollow">How Electric Composters Actually Work: Inside the Machine — Reencle</a>
 5. [Best Kitchen Composters 2026: GEME Terra 2 vs Lomi, Mill, and Reencle](https://www.geme.bio/blog/best-kitchen-composters-2026-geme-terra-2-vs-lomi-mill-reencle)
 
 <RelatedArticles
