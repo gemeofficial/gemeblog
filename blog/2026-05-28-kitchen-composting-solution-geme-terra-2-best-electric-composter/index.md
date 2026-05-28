@@ -10,7 +10,7 @@ keywords:
 slug: kitchen-composting-solution-geme-terra-2-best-electric-composter
 authors: [Moore]
 tags: [composter, composting, geme]
-
+image: https://www.geme.bio/assets/images/geme-terra-2-f08527114565a5503652df1fcfda26b8.png
 ---
 
 import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
@@ -44,7 +44,7 @@ This guide will walk you through what makes the GEME Terra 2 different, why most
 
 Before I explain why the **GEME Terra 2 is a kitchen electric composter** that stands alone, we need to address the fundamental confusion in the market. Most machines sold under the "kitchen composter" label are not composters at all. They are food dehydrators with a grinding mechanism. The distinction is not a matter of opinion. It is a matter of microbiology.
 
-The Illinois Food Scrap & Composting Coalition has published a clear breakdown of this issue, stating plainly that "food scrap dehydrators do not actually compost." The material they produce "is typically a sterilized, dehydrated food powder, not the biologically active, nutrient-rich humus that results from true composting." A March 2026 analysis by SEEDS reinforced this point with horticultural evidence: seeds often fail to sprout in soil mixed with dehydrated food powder due to high salt content, unstable pH, and a complete absence of microbial life. That powder is not compost. It is dried kitchen waste waiting to decompose.
+The [Illinois Food Scrap & Composting Coalition](https://illinoiscomposts.org/education-and-outreach/debunking-the-myth-food-scrap-dehydrators-are-not-composters/) has published a clear breakdown of this issue, stating plainly that "food scrap dehydrators do not actually compost." The material they produce "is typically a sterilized, dehydrated food powder, not the biologically active, nutrient-rich humus that results from true composting." [A March 2026 analysis by SEEDS](https://ecoseeds.org/the-scoop-on-food-scrap-dehydrators/) reinforced this point with horticultural evidence: seeds often fail to sprout in soil mixed with dehydrated food powder due to high salt content, unstable pH, and a complete absence of microbial life. That powder is not compost. It is dried kitchen waste waiting to decompose.
 
 Genuine composting is a biological process. Microorganisms, primarily bacteria and fungi, break down organic matter under aerobic conditions into stable humus. This process requires moisture, oxygen, and a living microbial community maintained at the right temperature. When you shortcut that biology by simply heating and grinding, you get volume reduction, not soil food. If your goal is to build healthy garden soil, you need a machine that houses a living microbial ecosystem, not a heating element.
 
