@@ -157,7 +157,7 @@ buttonText="Explore GEME Terra II"
 
 ### Q: Do I need to add anything besides food scraps?
 
-> A: You need to add the Kobold starter when first setting up or after a long period of non-use, but the microbial colony is self-sustaining under normal daily feeding. You don't have to add anything after the Kobold starter is activated.
+> A: You need to add the Kobold starter when first setting up or after a long period of non-use, but the microbial colony is self-sustaining under normal daily feeding. You don't have to add anything besides food scraps after the Kobold starter is activated.
 
 ### Q: Can GEME Terra 2 really handle meat and dairy without smelling?
 
