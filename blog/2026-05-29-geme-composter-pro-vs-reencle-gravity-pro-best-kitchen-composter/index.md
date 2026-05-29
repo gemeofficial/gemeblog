@@ -12,7 +12,7 @@ keywords:
 slug: geme-composter-pro-vs-reencle-gravity-pro-best-kitchen-composter
 authors: [Moore]
 tags: [composter, composting, geme]
-image:https://www.geme.bio/assets/images/geme-composter-pro-vs-reencle-gravity-pro-eeb0cff0fe700544f28e7f673128731f.png
+image: https://www.geme.bio/assets/images/geme-composter-pro-vs-reencle-gravity-pro-eeb0cff0fe700544f28e7f673128731f.png
 ---
 
 import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
