@@ -38,7 +38,7 @@ This guide will walk you through what makes the GEME Terra 2 different, why most
 
 5. [**Why I Recommend the GEME Terra 2 as the Best Kitchen Composting Solution**](#5-why-i-recommend-the-geme-terra-2-as-the-best-kitchen-composting-solution)
 
-6. [**Frequently Asked Questions (Answered)**](#8-frequently-asked-questions-answered)
+6. [**Frequently Asked Questions (Answered)**](#6-frequently-asked-questions-answered)
 
 ## 1. The Problem with Most Kitchen Composters: They Do Not Compost
 
