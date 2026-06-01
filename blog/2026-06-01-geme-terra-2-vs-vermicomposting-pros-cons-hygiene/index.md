@@ -21,7 +21,9 @@ import ReactPlayer from 'react-player'
 
 ## Introduction
 
-If you are serious about transforming kitchen scraps into living soil, two paths stand out: a time-tested worm bin, or a high-tech electric composter like the GEME Terra 2. Both rely on biology, not dehydration, to get the job done. But they operate on opposite ends of the convenience, hygiene, and capacity spectrum. The GEME Terra 2 is a kitchen electric composter designed for real indoor composting at home, an entirely different proposition from a box of worms under the sink. As a soil scientist who has managed both systems, I will walk you through what each method really demands, what it gives back, and where the hygiene boundaries lie for a modern kitchen.
+If you are serious about transforming kitchen scraps into living soil, two paths stand out: a time-tested worm bin, or a high-tech electric composter like the GEME Terra 2. Both rely on biology, not dehydration, to get the job done. But they operate on opposite ends of the convenience, hygiene, and capacity spectrum. The GEME Terra 2 is a kitchen electric composter designed for real indoor composting at home, an entirely different proposition from a box of worms under the sink. 
+
+As a soil scientist who has managed both systems, I will walk you through what each method really demands, what it gives back, and where the hygiene boundaries lie for a modern kitchen.
 
 ![GEME Terra 2: The Real Electric Kitchen Composter](./image/geme-terra-2-real-kitchen-composter.png)
 
@@ -91,7 +93,7 @@ buttonText="Explore GEME Terra II"
 
 ### Cons of the GEME Terra 2
 
-- **Higher upfront investment:** At around \$599, it costs more than a worm bin, though it can become cost-effective than some carbon-filter competitors over time. See [**Electric Compost Bin Filters Cost: GEME vs Lomi vs Mill vs Reencle**](https://www.geme.bio/blog/electric-compost-bin-filters-costs-comparison)
+- **Higher upfront investment:** At around \$599, it costs more than a worm bin, though it can become more cost-effective than some carbon-filter competitors over time. See [**Electric Compost Bin Filters Cost: GEME vs Lomi vs Mill vs Reencle**](https://www.geme.bio/blog/electric-compost-bin-filters-costs-comparison)
 - **Electricity use:** Consumes roughly 0.5–0.6 kWh per day, about \$2–\$4 per month, a small but real operating cost.
 - **Floor space:** The floor-standing design needs a dedicated corner, a trade-off for keeping counters free.
 - **No worm castings:** While the compost is excellent, it is not the concentrated, mucilage-rich casting that worm enthusiasts prize for seed starting.
