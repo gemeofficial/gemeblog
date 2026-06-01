@@ -127,7 +127,7 @@ buttonText="Get Your GEME Pro"
 | **Daily capacity** | Up to 5kg | 0.7–1.0kg recommended |
 | **Odor control** | Permanent Metal-Ion Oxidation Catalyst | Replaceable activated carbon filter |
 | **Filter replacement** | Never | Every 6–12 months (~\$35 each) |
-| **Noise level** | 35–45 dB | ~45 dB |
+| **Noise level** | 35–40 dB | ~45 dB |
 | **Footprint** | Floor-standing | Countertop |
 | **Accepted waste** | Meat, dairy, soup, pet waste, bones, liquid | Meat, dairy, small bones |
 | **Maintenance** | Harvest every few months, no cleaning needed | Regular cleaning, carrier bed refresh, filter changes |
