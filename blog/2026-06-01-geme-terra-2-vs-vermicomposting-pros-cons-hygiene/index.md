@@ -89,7 +89,7 @@ buttonText="Explore GEME Terra II"
 - **High capacity:** Processes up to 2 kilograms per day, enough for a family of four, with months between harvests.
 - **Zero consumables:** No filters to replace, no microbes to re-purchase, no subscription fees.
 - **Set-and-forget operation:** No buttons, no cycles, no cleaning; just continuous microbial composting in the background.
-- **True, stable compost:** The output is finished and biologically mature, safe for immediate garden application without curing.
+- **True, active compost:** The output is a biologically active compost base, safe for immediate garden application without curing.
 
 ### Cons of the GEME Terra 2
 
