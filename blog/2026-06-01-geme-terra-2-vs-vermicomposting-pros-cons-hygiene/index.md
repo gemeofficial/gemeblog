@@ -202,7 +202,7 @@ buttonText="Get Your GEME Pro"
 2. [Vermicomposting: Composting with Worms — University of Nebraska-Lincoln Extension](https://extensionpublications.unl.edu/assets/html/g1575/build/g1575.htm)
 3. [GEME Terra 2 vs Vitamix FoodCycler: Which Electric Composter Is Right for You? — GEME Official Blog](https://www.geme.bio/blog/geme-terra-2-vs-vitamix-foodcycler)
 
-Ready to stop feeding the bin? Visit geme.bio/product/terra2 to learn more about the GEME Terra 2, the continuous aerobic bio-processor that turns food scraps into real, living soil amendment.
+Ready to stop feeding the bin? Visit [geme.bio/product/terra2](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-vs-vermicomposting-pros-cons-comparison) to learn more about the GEME Terra 2, the continuous aerobic bio-processor that turns food scraps into real, living soil amendment.
 
 <RelatedArticles
   slugs={[
