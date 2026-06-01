@@ -127,7 +127,7 @@ buttonText="Explore GEME Terra II"
 | **Footprint** | Small, but must be accessible for maintenance | Floor-standing; no counter space lost |
 | **Ongoing costs** | Bedding, occasional worm restocking | None; permanent filter, self-sustaining microbes |
 | **Electricity** | None | ~\$2–\$4/month |
-| **End product** | Worm castings (very high microbial activity) | Finished, biologically active compost; garden-ready |
+| **End product** | Worm castings (very high microbial activity) | Biologically active compost base; garden-ready |
 
 ## Which One Fits Your Kitchen?
 
