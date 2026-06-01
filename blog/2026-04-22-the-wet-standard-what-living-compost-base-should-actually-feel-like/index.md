@@ -101,7 +101,7 @@ One-line takeaway: GEME is designed to make a biologically useful substrate firs
 
 👉 [Learn More About GEME Terra II](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=the-wet-standard-what-living-compost-base-should-actually-feel-like)
 
-👉 [Explore GEME Pro for Big Households/Plant Shops/Restaurants](https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=the-wet-standard-what-living-compost-base-should-actually-feel-like)
+👉 [Explore GEME Pro for Big Households/Plant Shops/Restaurants](https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=the-wet-standard-what-living-compost-base-should-actually-feel-like)
 
 ## Why it matters
 
@@ -174,7 +174,7 @@ GEME Pro’s public positioning changes the load envelope, not the core output p
     "✅ Large Capacity (19 L) For Daily Waste"
   ]}
 buttonText="Get Your GEME Pro"
-  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=the-wet-standard-what-living-compost-base-should-actually-feel-like"
+  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=the-wet-standard-what-living-compost-base-should-actually-feel-like"
 />
 
 ## Hidden work vs. headroom
@@ -282,7 +282,7 @@ buttonText="Get Your GEME Terra II"
     "✅ Large Capacity (19 L) For Daily Waste"
   ]}
 buttonText="Get Your GEME Pro"
-  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=the-wet-standard-what-living-compost-base-should-actually-feel-like"
+  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=the-wet-standard-what-living-compost-base-should-actually-feel-like"
 />
 
 <RelatedArticles

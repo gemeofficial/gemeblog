@@ -74,7 +74,7 @@ If your kitchen fits a 2 kg/day daily pattern and you want the agile household-c
 
 ### Result B: You likely need more headroom.
 
-If your kitchen behaves more like a larger family, office, or heavier-load environment, Choose [**GEME Composter Pro**](https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=why-low-average-power-matters-more-than-dramatic-peak-wattage).  
+If your kitchen behaves more like a larger family, office, or heavier-load environment, Choose [**GEME Composter Pro**](https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=why-low-average-power-matters-more-than-dramatic-peak-wattage).  
 
 ### Result C: You mainly want the logic.
 
@@ -100,7 +100,7 @@ If you want to understand why daily energy matters more than one dramatic wattag
 
 👉 [Learn More About GEME Terra II](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=why-low-average-power-matters-more-than-dramatic-peak-wattage)
 
-👉 [Explore GEME Pro for Big Households/Plant Shops/Restaurants](https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=why-low-average-power-matters-more-than-dramatic-peak-wattage)
+👉 [Explore GEME Pro for Big Households/Plant Shops/Restaurants](https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=why-low-average-power-matters-more-than-dramatic-peak-wattage)
 
 ## Why it matters
 
@@ -169,7 +169,7 @@ GEME Pro is publicly positioned at 5 kg/day, with public hard-parameter guidance
     "✅ Large Capacity (19 L) For Daily Waste"
   ]}
 buttonText="Get Your GEME Pro"
-  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=why-low-average-power-matters-more-than-dramatic-peak-wattage"
+  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=why-low-average-power-matters-more-than-dramatic-peak-wattage"
 />
 
 ## Hidden work vs. headroom
@@ -265,7 +265,7 @@ buttonText="Get Your GEME Terra II"
     "✅ Large Capacity (19 L) For Daily Waste"
   ]}
 buttonText="Get Your GEME Pro"
-  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=why-low-average-power-matters-more-than-dramatic-peak-wattage"
+  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=why-low-average-power-matters-more-than-dramatic-peak-wattage"
 />
 
 <RelatedArticles

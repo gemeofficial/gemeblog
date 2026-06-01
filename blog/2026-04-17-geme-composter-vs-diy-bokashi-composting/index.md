@@ -92,7 +92,7 @@ The machine is built for households that generate serious food waste, think larg
     "✅ Large Capacity (19 L) For Daily Waste"
   ]}
 buttonText="Get Your GEME Pro"
-  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-composter-vs-diy-bokashi-composting"
+  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-composter-vs-diy-bokashi-composting"
 />
 
 ### How GEME Composter Stands Out
@@ -229,7 +229,7 @@ buttonText="Get Your GEME Terra II"
     "✅ Large Capacity (19 L) For Daily Waste"
   ]}
 buttonText="Get Your GEME Pro"
-  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-composter-vs-diy-bokashi-composting"
+  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-composter-vs-diy-bokashi-composting"
 />
 
 ## 5. What Can You Put In? Input Comparison
@@ -354,7 +354,7 @@ Neither one will make your kitchen smell like a dumpster. But Bokashi needs more
 
 👉 [Learn More About GEME Terra II](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-composter-vs-diy-bokashi-composting)
 
-👉 [Explore GEME Pro for Big Households/Plant Shops/Restaurants](https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-composter-vs-diy-bokashi-composting)
+👉 [Explore GEME Pro for Big Households/Plant Shops/Restaurants](https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-composter-vs-diy-bokashi-composting)
 
 ## 9. Who Should Choose Each Method?
 
@@ -395,7 +395,7 @@ Me? I’d rather pay once and be done. No draining liquid. No buying bran. No bu
 
 If that sounds good to you, GEME Composter is the way to go.
 
-[**Learn More About GEME Composter Pro**](https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-composter-vs-diy-bokashi-composting)
+[**Learn More About GEME Composter Pro**](https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-composter-vs-diy-bokashi-composting)
 
 ![GEME Composter Pro](./image/geme-composter-pro.png)
 

@@ -205,7 +205,7 @@ buttonText="Explore GEME Terra II"
     "✅ Large Capacity (19 L) For Daily Waste"
   ]}
 buttonText="Get Your GEME Pro"
-  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=top-5-composters-verdict-geme-lomi-mill-reencle-vitamix"
+  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=top-5-composters-verdict-geme-lomi-mill-reencle-vitamix"
 />
 
 ## Cited Sources

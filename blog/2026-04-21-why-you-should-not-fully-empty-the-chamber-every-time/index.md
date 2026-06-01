@@ -99,7 +99,7 @@ One-line takeaway: **routine harvest ≠ full reset**.
 
 👉 [Learn More About GEME Terra II](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=why-you-should-not-fully-empty-the-chamber-every-time)
 
-👉 [Explore GEME Pro for Big Households/Plant Shops/Restaurants](https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=why-you-should-not-fully-empty-the-chamber-every-time)
+👉 [Explore GEME Pro for Big Households/Plant Shops/Restaurants](https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=why-you-should-not-fully-empty-the-chamber-every-time)
 
 ## Why it matters
 
@@ -166,7 +166,7 @@ GEME Pro’s public positioning at 5 kg/day and 6–12 month maintenance spacing
     "✅ Large Capacity (19 L) For Daily Waste"
   ]}
 buttonText="Get Your GEME Pro"
-  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=why-you-should-not-fully-empty-the-chamber-every-time"
+  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=why-you-should-not-fully-empty-the-chamber-every-time"
 />
 
 ## Hidden work vs. headroom
