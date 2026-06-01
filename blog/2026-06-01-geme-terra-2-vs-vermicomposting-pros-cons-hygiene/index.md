@@ -1,5 +1,5 @@
 ---
-title: "GEME Composter Pro V.S Reencle Gravity Pro: Which Is the Best Kitchen Composter?"
+title: "GEME Terra 2 vs. Vermicomposting: Pros, Cons, and Hygiene Boundaries Comparison"
 description: "Compare the GEME Composter Pro and Reencle Gravity Pro on microbial technology, capacity, long-term costs, and real composting performance. he GEME Composter Pro is a kitchen electric composter designed for real indoor composting at home. Find out which electric composter is right for your home."
 keywords:
   - geme terra 2
@@ -11,7 +11,7 @@ keywords:
 slug: geme-terra-2-vs-vermicomposting-pros-cons-comparison
 authors: [Dr. Kyung-Ryong.H]
 tags: [composter, composting, geme]
-
+image: https://www.geme.bio/assets/images/geme-terra-2-real-kitchen-composter-a600e82b3a038e016b750124a958d7ef.png
 ---
 
 import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
