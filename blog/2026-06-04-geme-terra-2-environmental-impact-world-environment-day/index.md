@@ -113,7 +113,7 @@ Test report data (JiaYu Testing Technology, Nov 2025) shows:
 - Standby power: **0.63W** (220V 50Hz)
 - Average power consumption during 24-hour mixing: **117.7W** (220V 50Hz) [source: GEME energy report](https://www.geme.bio/gk#energy)
 
-That means running the GEME Terra 2 for an entire year costs roughly **\$55–\$65** in electricity at average US rates (15¢/kWh). For that cost, you eliminate hundreds of pounds of landfill waste and produce free soil amendment for your garden.
+That means running the GEME Terra 2 for an entire year costs roughly **\$55–\$65** in electricity at average US rates. For that cost, you eliminate hundreds of pounds of landfill waste and produce free soil amendment for your garden.
 
 ## The Output: Not “Waste” but “Resource”
 
