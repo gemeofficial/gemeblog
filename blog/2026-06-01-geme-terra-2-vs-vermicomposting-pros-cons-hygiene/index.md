@@ -54,7 +54,7 @@ The biological principles are solid. Worms shred and partially decompose organic
 
 👉 [Learn More About GEME Terra II](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-vs-vermicomposting-pros-cons-comparison)
 
-👉 [Learn More About GEME Pro for Big Households/Plant Shops/Restaurants](https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-vs-vermicomposting-pros-cons-comparison)
+👉 [Learn More About GEME Pro for Big Households/Plant Shops/Restaurants](https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content==geme-terra-2-vs-vermicomposting-pros-cons-comparison)
 
 ## Where Vermicomposting Hits a Hygiene Boundary
 
