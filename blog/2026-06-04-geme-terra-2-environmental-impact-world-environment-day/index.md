@@ -12,7 +12,7 @@ keywords:
 slug: geme-terra-2-environmental-impact-world-environment-day
 authors: [Dr. Kyung-Ryong.H]
 tags: [composter, composting, geme]
-
+image: https://www.geme.bio/assets/images/geme-terra-2-world-environment-day-2497cc4f04c45735c16ed84b034fd6b3.jpg
 ---
 
 import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA' 
@@ -185,7 +185,7 @@ Climate action is not only about installing solar panels or buying an EV. It is 
 - 95% waste reduction through biological mineralization (not dehydration)
 - Zero mandatory filter replacements (permanent metal-ion catalyst)
 - ~1.5 kWh daily energy consumption (less than a gaming laptop)
-- 43 dB noise level (quieter than a library)
+- 35-40 dB noise level (quieter than a library)
 - Active compost base for your garden (not dried “grounds” that need further processing)
 
 This World Environment Day, stop feeding the landfill. Start feeding the earth.
