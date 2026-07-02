@@ -7,7 +7,7 @@ keywords:
   - zero waste lifestyle
   - how to compost at home 
   - Sustainable living
-slug: how-to-compost-at-home
+slug: how-to-compost-in-apartment
 authors: [Moore]
 tags: [composter, food waste, composting, sustainability, geme]
 image: https://www.geme.bio/assets/images/how-to-compost-at-home-in-apartment-efa81a2dff5e05f4ed7abc4338074fae.png
