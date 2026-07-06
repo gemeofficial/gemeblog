@@ -10,7 +10,7 @@ keywords:
   - kitchen composter
   - electric composter
   - best composter
-slug: how-to-compost-at-home
+slug: how-to-compost-at-home-guide
 authors: [Moore]
 tags: [composter, composting, geme]
 image: https://www.geme.bio/assets/images/how-to-compost-at-home-8b541e63f3e208817e87194d9ef0c80b.png
