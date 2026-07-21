@@ -99,7 +99,6 @@ Related reading:
 10. [Frequently Asked Questions](#frequently-asked-questions)
 11. [Summary](#summary)
 12. [Sources](#sources)
-13. [Related Articles](#related-articles)
 
 ---
 
@@ -412,47 +411,6 @@ If you want a microbial process and compost base for soil blending, choose a rea
 - [Mill Support — How a Mill Cycle Works](https://support.mill.com/hc/en-us/articles/12044994023451-How-does-a-Mill-cycle-work)
 - [Mill Support — Dry & Grind Cycle and Scheduling Tips](https://support.mill.com/hc/en-us/articles/13965823544347-Dry-Grind-cycle-and-scheduling-tips)
 - [Reencle Help Center — What Is Reencle?](https://help.reencle.co/en-US/what-is-reencle-148990)
-
----
-
-## Related Articles
-
-<RelatedArticles
-  articles={[
-    {
-      "title": "GEME Terra II vs Lomi",
-      "url": "https://www.geme.bio/blog/geme-vs-lomi"
-    },
-    {
-      "title": "How Does a Real Electric Composter Work?",
-      "url": "https://www.geme.bio/blog/how-does-a-real-electric-composter-work"
-    },
-    {
-      "title": "Why GEME Chose Aerobic Microbial Composting",
-      "url": "https://www.geme.bio/blog/why-geme-chose-aerobic-digestion-over-grinding"
-    },
-    {
-      "title": "Electric Compost Bin Filter Costs",
-      "url": "https://www.geme.bio/blog/electric-compost-bin-filters-costs-comparison"
-    },
-    {
-      "title": "Permanent Odor Control",
-      "url": "https://www.geme.bio/blog/permanent-odor-control-catalyst-path-vs-disposable-carbon"
-    },
-    {
-      "title": "The Wet Standard",
-      "url": "https://www.geme.bio/blog/the-wet-standard-what-living-compost-base-should-actually-feel-like"
-    },
-    {
-      "title": "Advanced GEME Compost Application Guide",
-      "url": "https://www.geme.bio/blog/advanced-geme-compost-application-guide"
-    },
-    {
-      "title": "Best Kitchen Composter 2026",
-      "url": "https://www.geme.bio/blog/best-kitchen-composter-in-2026-geme-terra-2"
-    }
-  ]}
-/>
 
 ---
 
