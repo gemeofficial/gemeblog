@@ -214,14 +214,18 @@ The point is to stop calling every reduced-food-scrap output “finished compost
 
 ---
 
-<CTA
-  title="Choose GEME Terra II When You Want More Than Food-Scrap Reduction"
-  description="GEME Terra II is built for real microbial composting, not dry-and-grind food recycling. It turns suitable kitchen scraps into moist compost base that should be screened, blended with soil, and used responsibly."
-  image="https://www.geme.bio/_next/image?url=%2Fassets%2Fimages%2Fterra2-product-page-v2%2Fhero-section%2F2.webp&w=1920&q=75"
-  imageAlt="GEME Terra II real kitchen composter for microbial composting"
-  primaryLabel="Shop Terra II"
-  primaryUrl="https://shop.geme.bio/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=kitchen-composter-vs-food-waste-recycler-first-terra2-cta"
-  note="Compost base for soil return. No dry-chip standard."
+<GemeTerra2CTA 
+ imgSrc="/img/geme-terra-2-composter.jpg"
+ productTitle="GEME Terra II: Real Kitchen Composter"
+ features={[
+    "✅ The Best Kitchen Composter in 2026",
+    "✅ Biologically Active Composting System",
+    "✅ Quiet, Odour-Free, Real Compost",
+    "✅ Zero Filter Costs, No Refills",
+    "✅ Reduces Composting Time to Days"
+ ]}
+buttonText="Explore GEME Terra II"
+  href="https://gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-environmental-impact-world-environment-day"
 />
 
 ---
@@ -293,16 +297,18 @@ If you live in a high-rise, do not garden, do not have soil access, or mainly wa
 
 ---
 
-<CTA
-  title="Choose the GEME Model That Fits Your Kitchen"
-  description="Terra II is built for everyday household composting. GEME Pro is built for heavier routines and more headroom. Both focus on real microbial composting rather than dry-and-grind food recycling."
-  image="https://www.geme.bio/_next/image?url=%2Fassets%2Fimages%2Fterra2-product-page-v2%2Fafter.webp&w=828&q=75"
-  imageAlt="GEME compost base output for soil blending"
-  primaryLabel="Shop Terra II"
-  primaryUrl="https://shop.geme.bio/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=kitchen-composter-vs-food-waste-recycler-mid-terra2-cta"
-  secondaryLabel="Shop GEME Pro"
-  secondaryUrl="https://shop.geme.bio/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=kitchen-composter-vs-food-waste-recycler-mid-geme-pro-cta"
-  note="Real microbial composting. No dry-chip standard. No routine replacement odor filters."
+<GemeTerra2CTA 
+ imgSrc="/img/geme-terra-2-composter.jpg"
+ productTitle="GEME Terra II: Real Kitchen Composter"
+ features={[
+    "✅ The Best Kitchen Composter in 2026",
+    "✅ Biologically Active Composting System",
+    "✅ Quiet, Odour-Free, Real Compost",
+    "✅ Zero Filter Costs, No Refills",
+    "✅ Reduces Composting Time to Days"
+ ]}
+buttonText="Explore GEME Terra II"
+  href="https://gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-environmental-impact-world-environment-day"
 />
 
 ---
@@ -450,16 +456,18 @@ If you want a microbial process and compost base for soil blending, choose a rea
 
 ---
 
-<CTA
-  title="Stop Comparing by Category Name. Compare by What Happens Next."
-  description="A food waste recycler can make scraps easier to store. GEME Terra II and GEME Pro are built to help households return suitable kitchen scraps to the soil cycle through real microbial composting."
-  image="https://www.geme.bio/assets/images/geme-terra-2-composter-compost-ab8fcbc72140fda8d4a39362d5cc9720.png"
-  imageAlt="GEME Terra II kitchen composter compost base for soil blending"
-  primaryLabel="Shop Terra II"
-  primaryUrl="https://shop.geme.bio/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=kitchen-composter-vs-food-waste-recycler-final-terra2-cta"
-  secondaryLabel="Shop GEME Pro"
-  secondaryUrl="https://shop.geme.bio/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=kitchen-composter-vs-food-waste-recycler-final-geme-pro-cta"
-  note="Terra II for everyday homes. GEME Pro for heavier daily routines."
+<GemeTerra2CTA 
+ imgSrc="/img/geme-terra-2-composter.jpg"
+ productTitle="GEME Terra II: Real Kitchen Composter"
+ features={[
+    "✅ The Best Kitchen Composter in 2026",
+    "✅ Biologically Active Composting System",
+    "✅ Quiet, Odour-Free, Real Compost",
+    "✅ Zero Filter Costs, No Refills",
+    "✅ Reduces Composting Time to Days"
+ ]}
+buttonText="Explore GEME Terra II"
+  href="https://gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-environmental-impact-world-environment-day"
 />
 
 <RelatedArticles
