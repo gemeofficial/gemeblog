@@ -70,7 +70,7 @@ Related reading:
 - [GEME Terra II vs Lomi](https://www.geme.bio/blog/geme-vs-lomi)
 - [Electric Compost Bin Filter Costs](https://www.geme.bio/blog/electric-compost-bin-filters-costs-comparison)
 
----
+<!-- truncate -->
 
 ## Key Takeaways
 
