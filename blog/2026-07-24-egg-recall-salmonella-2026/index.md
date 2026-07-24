@@ -41,6 +41,10 @@ The recall includes selected **Kroger, Simple Truth, Brookshire’s, Country Mor
 
 A matching carton should **not be eaten, cooked, donated, or composted**. Keep the carton, isolate the product, and return it to the original place of purchase for a refund.
 
+![Eggs Recall Salmonella 2026](./image/eggs-recall-salmonella-2026.png)
+
+<!-- truncate -->
+
 ## Key Takeaways
 
 - FDA published the recall on **July 22, 2026**.
