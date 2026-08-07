@@ -52,9 +52,9 @@ The biological principles are solid. Worms shred and partially decompose organic
 - **Labor-intensive maintenance:** You must regularly replenish bedding, harvest castings without killing worms, balance moisture, and troubleshoot escaping worms. It is a commitment, not an appliance.
 - **Low throughput:** A typical bin handles 1 to 2 pounds of waste per week, far below what a family generates.
 
-👉 [Learn More About GEME Terra II](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-vs-vermicomposting-pros-cons-comparison)
+👉 [Learn More About GEME Terra II](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-vs-vermicomposting-pros-cons-comparison)
 
-👉 [Learn More About GEME Pro for Big Households/Plant Shops/Restaurants](https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content==geme-terra-2-vs-vermicomposting-pros-cons-comparison)
+👉 [Learn More About GEME Pro for Big Households/Plant Shops/Restaurants](https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content==geme-terra-2-vs-vermicomposting-pros-cons-comparison)
 
 ## Where Vermicomposting Hits a Hygiene Boundary
 
@@ -64,7 +64,7 @@ Indoor worm bins operate on a knife's edge. The same moisture that keeps worms h
 
 ## The GEME Terra 2: A Different Kind of Biology
 
-The [**GEME Terra 2 is a kitchen electric composter designed for real indoor composting at home**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-vs-vermicomposting-pros-cons-comparison). Instead of worms, it uses a 46-strain microbial consortium called Kobold™, a community of thermophilic bacteria, fungi, and actinomycetes housed in a sealed 14-liter chamber. An AI-powered sensor system continuously adjusts temperature, oxygen, and moisture to keep the microbes in their 45–55°C sweet spot. The result is genuine aerobic decomposition, not drying or grinding, as documented in [GEME’s own comparison with dehydrator-type machines](https://www.geme.bio/blog/geme-terra-2-vs-vitamix-foodcycler). The process finishes food waste into dark, crumbly, biologically active compost within 6 to 8 hours, ready for direct garden use with no curing.
+The [**GEME Terra 2 is a kitchen electric composter designed for real indoor composting at home**](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-vs-vermicomposting-pros-cons-comparison). Instead of worms, it uses a 46-strain microbial consortium called Kobold™, a community of thermophilic bacteria, fungi, and actinomycetes housed in a sealed 14-liter chamber. An AI-powered sensor system continuously adjusts temperature, oxygen, and moisture to keep the microbes in their 45–55°C sweet spot. The result is genuine aerobic decomposition, not drying or grinding, as documented in [GEME’s own comparison with dehydrator-type machines](https://www.gemebio.com/blogs/journal/geme-terra-2-vs-vitamix-foodcycler). The process finishes food waste into dark, crumbly, biologically active compost within 6 to 8 hours, ready for direct garden use with no curing.
 
 The **GEME Terra 2 is designed for real indoor composting at home**, and that design philosophy addresses every hygiene and convenience shortfall of a worm bin. It sits on the floor, not the counter. You lift the lid, drop in scraps, close the lid, and walk away. There are no bedding changes, no harvest sifting, no population management. The permanent Metal-Ion Oxidation Catalyst neutralizes odors completely; I have stood directly over an active unit processing fish and onions and smelled nothing.
 
@@ -79,12 +79,12 @@ The **GEME Terra 2 is designed for real indoor composting at home**, and that de
     "✅ Reduces Composting Time to Days"
  ]}
 buttonText="Explore GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-vs-vermicomposting-pros-cons-comparison"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-vs-vermicomposting-pros-cons-comparison"
 />
 
 ### Pros of the GEME Terra 2
 
-- **Unrestricted feedstock:** Meat, dairy, bones, soup, citrus, cooked grains, even pet waste, the 46-strain consortium [(GEME Kobold™)](https://www.geme.bio/kobold-introduction) handles it all.
+- **Unrestricted feedstock:** Meat, dairy, bones, soup, citrus, cooked grains, even pet waste, the 46-strain consortium [(GEME Kobold™)](https://www.gemebio.com/pages/geme-kobold-introduction) handles it all.
 - **Sealed, pest-proof system:** The closed chamber and permanent catalyst eliminate flies, odors, and any hygiene risk in the kitchen.
 - **High capacity:** Processes up to 2 kilograms per day, enough for a family of four, with months between harvests.
 - **Zero consumables:** No filters to replace, no microbes to re-purchase, no subscription fees.
@@ -93,12 +93,12 @@ buttonText="Explore GEME Terra II"
 
 ### Cons of the GEME Terra 2
 
-- **Higher upfront investment:** At around \$599, it costs more than a worm bin, though it can become more cost-effective than some carbon-filter competitors over time. See [**Electric Compost Bin Filters Cost: GEME vs Lomi vs Mill vs Reencle**](https://www.geme.bio/blog/electric-compost-bin-filters-costs-comparison)
+- **Higher upfront investment:** At around \$599, it costs more than a worm bin, though it can become more cost-effective than some carbon-filter competitors over time. See [**Electric Compost Bin Filters Cost: GEME vs Lomi vs Mill vs Reencle**](https://www.gemebio.com/blogs/journal/electric-compost-bin-filters-costs-comparison)
 - **Electricity use:** Consumes roughly 0.5–0.6 kWh per day, about \$2–\$4 per month, a small but real operating cost.
 - **Floor space:** The floor-standing design needs a dedicated corner, a trade-off for keeping counters free.
 - **No worm castings:** While the compost is excellent, it is not the concentrated, mucilage-rich casting that worm enthusiasts prize for seed starting.
 
-Check this post: [**GEME Terra II Pros & Cons**](https://www.geme.bio/blog/geme-terra-2-pros-and-cons)
+Check this post: [**GEME Terra II Pros & Cons**](https://www.gemebio.com/blogs/journal/geme-terra-2-pros-and-cons)
 
 <GemeTerra2CTA 
  imgSrc="/img/geme-terra-2-composter.jpg"
@@ -111,14 +111,14 @@ Check this post: [**GEME Terra II Pros & Cons**](https://www.geme.bio/blog/geme-
     "✅ Reduces Composting Time to Days"
  ]}
 buttonText="Explore GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-vs-vermicomposting-pros-cons-comparison"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-vs-vermicomposting-pros-cons-comparison"
 />
 
 ## Head-to-Head: Vermicomposting vs. GEME Terra 2
 
 | Factor | Vermicomposting | **GEME Terra 2** |
 |---|---|---|
-| **Core biology** | Worms and gut microbes | 46-strain microbial consortium ([**Kobold™**](https://www.geme.bio/kobold-introduction)) |
+| **Core biology** | Worms and gut microbes | 46-strain microbial consortium ([**Kobold™**](https://www.gemebio.com/pages/geme-kobold-introduction)) |
 | **Feedstock restrictions** | No meat, dairy, oily, citrus, onions | None; all kitchen waste including liquids and pet waste |
 | **Processing speed** | Days to weeks | 6–8 hours for soft food waste |
 | **Hygiene** | Prone to fruit flies, mold, odor if mismanaged | Fully sealed, permanent catalyst, zero odor or pests |
@@ -148,7 +148,7 @@ For a household that values both sustainability and a clean, effortless kitchen,
     "✅ Reduces Composting Time to Days"
  ]}
 buttonText="Explore GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-vs-vermicomposting-pros-cons-comparison"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-vs-vermicomposting-pros-cons-comparison"
 />
 
 ## Frequently Asked Questions (Answered)
@@ -169,7 +169,7 @@ buttonText="Explore GEME Terra II"
 
 > A: Both produce excellent, biologically active soil amendments. Worm castings have a slight edge in plant growth-promoting hormones, while GEME Terra 2 compost provides a broader, more consistent finished amendment for general garden use, all without any curing step.
 
-[Learn More About the GEME Terra II →](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-vs-vermicomposting-pros-cons-comparison)
+[Learn More About the GEME Terra II →](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-vs-vermicomposting-pros-cons-comparison)
 
 <GemeTerra2CTA 
  imgSrc="/img/geme-terra-2-composter.jpg"
@@ -182,7 +182,7 @@ buttonText="Explore GEME Terra II"
     "✅ Reduces Composting Time to Days"
  ]}
 buttonText="Explore GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-vs-vermicomposting-pros-cons-comparison"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-vs-vermicomposting-pros-cons-comparison"
 />
 
 <GemeComposterCTA 
@@ -195,16 +195,16 @@ buttonText="Explore GEME Terra II"
     "✅ Large Capacity (19 L) For Daily Waste"
   ]}
 buttonText="Get Your GEME Pro"
-  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-vs-vermicomposting-pros-cons-comparison"
+  href="https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-vs-vermicomposting-pros-cons-comparison"
 />
 
 ## Cited Sources
 
 1. [Composting At Home — United States Environmental Protection Agency](https://www.epa.gov/recycle/composting-home)
 2. [Vermicomposting: Composting with Worms — University of Nebraska-Lincoln Extension](https://extensionpublications.unl.edu/assets/html/g1575/build/g1575.htm)
-3. [GEME Terra 2 vs Vitamix FoodCycler: Which Electric Composter Is Right for You? — GEME Official Blog](https://www.geme.bio/blog/geme-terra-2-vs-vitamix-foodcycler)
+3. [GEME Terra 2 vs Vitamix FoodCycler: Which Electric Composter Is Right for You? — GEME Official Blog](https://www.gemebio.com/blogs/journal/geme-terra-2-vs-vitamix-foodcycler)
 
-Ready to stop feeding the bin? Visit [geme.bio/product/terra2](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-vs-vermicomposting-pros-cons-comparison) to learn more about the GEME Terra 2, the continuous aerobic bio-processor that turns food scraps into real, living soil amendment.
+Ready to stop feeding the bin? Visit [geme.bio/product/terra2](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-vs-vermicomposting-pros-cons-comparison) to learn more about the GEME Terra 2, the continuous aerobic bio-processor that turns food scraps into real, living soil amendment.
 
 <RelatedArticles
   slugs={[
