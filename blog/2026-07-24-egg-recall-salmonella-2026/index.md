@@ -176,7 +176,7 @@ This recommendation is based on three boundaries:
 
 Do not place recalled eggs in GEME. The ability of a system to process ordinary egg scraps does not turn it into an approved treatment route for recalled food.
 
-For ordinary, non-recalled materials, continue with [How to Compost Eggshells](https://gemebio.com/blogs/blog/how-to-compost-eggshells-guide-geme) and [What Can You Put in an Electric Composter?](https://gemebio.com/blogs/journal/what-can-you-put-in-electric-composter-meat-dairy-bones).
+For ordinary, non-recalled materials, continue with [How to Compost Eggshells](https://gemebio.com/blogs/journal/how-to-compost-eggshells-guide-geme) and [What Can You Put in an Electric Composter?](https://gemebio.com/blogs/journal/what-can-you-put-in-electric-composter-meat-dairy-bones).
 
 ## Safe Egg Handling After the Recall
 
@@ -196,13 +196,13 @@ The recall is temporary and product-specific; normal egg safety remains useful f
 
 This article answers the urgent recall question. The following pages move users from immediate safety to storage, waste prevention, and composting decisions without turning the recall into a product pitch.
 
-1. [Food Safety Guide](https://gemebio.com/blogs/blog/food-safety-guide) — the cluster hub for recalls, contamination, cooking, and emergency food decisions.
-2. [Food Storage and Waste Reduction Guide](https://gemebio.com/blogs/blog/food-storage-guide) — refrigerator organization, leftovers, freezing, and spoilage prevention.
-3. [How to Reduce Food Waste at Home](https://gemebio.com/blogs/blog/how-to-reduce-food-waste-at-home-2026) — prevention before disposal.
-4. [Complete Home Composting Guide](https://gemebio.com/blogs/blog/how-to-compost-at-home-guide) — biological composting methods and input boundaries.
-5. [What Is an Electric Composter?](https://gemebio.com/blogs/blog/what-is-an-electric-composter) — understand the differences between biological composting, dehydration, and food-waste preprocessing.
-6. [Kitchen Composter vs Food Waste Recycler](https://gemebio.com/blogs/blog/kitchen-composter-vs-food-waste-recycler) — compare system categories before evaluating a product.
-7. [Best Kitchen Composters 2026](https://gemebio.com/blogs/blog/best-kitchen-composters-2026-geme-terra-2-vs-lomi-reencle-mill-iuhand) — commercial comparison page for readers who reach the equipment-selection stage.
+1. [Food Safety Guide](https://gemebio.com/blogs/journal/food-safety-guide) — the cluster hub for recalls, contamination, cooking, and emergency food decisions.
+2. [Food Storage and Waste Reduction Guide](https://gemebio.com/blogs/journal/food-storage-guide) — refrigerator organization, leftovers, freezing, and spoilage prevention.
+3. [How to Reduce Food Waste at Home](https://gemebio.com/blogs/journal/how-to-reduce-food-waste-at-home-2026) — prevention before disposal.
+4. [Complete Home Composting Guide](https://gemebio.com/blogs/journal/how-to-compost-at-home-guide) — biological composting methods and input boundaries.
+5. [What Is an Electric Composter?](https://gemebio.com/blogs/journal/what-is-an-electric-composter) — understand the differences between biological composting, dehydration, and food-waste preprocessing.
+6. [Kitchen Composter vs Food Waste Recycler](https://gemebio.com/blogs/journal/kitchen-composter-vs-food-waste-recycler) — compare system categories before evaluating a product.
+7. [Best Kitchen Composters 2026](https://gemebio.com/blogs/journal/best-kitchen-composters-2026-geme-terra-2-vs-lomi-reencle-mill-iuhand) — commercial comparison page for readers who reach the equipment-selection stage.
 
 ## Frequently Asked Questions
 
