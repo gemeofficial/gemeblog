@@ -66,9 +66,9 @@ That makes it a stronger fit for users who want a real soil-return routine inste
 
 Related reading:
 
-- [How Does a Real Electric Composter Work?](https://www.geme.bio/blog/how-does-a-real-electric-composter-work)
-- [GEME Terra II vs Lomi](https://www.geme.bio/blog/geme-vs-lomi)
-- [Electric Compost Bin Filter Costs](https://www.geme.bio/blog/electric-compost-bin-filters-costs-comparison)
+- [How Does a Real Electric Composter Work?](https://www.gemebio.com/blogs/journal/how-does-a-real-electric-composter-work)
+- [GEME Terra II vs Lomi](https://www.gemebio.com/blogs/journal/geme-vs-lomi)
+- [Electric Compost Bin Filter Costs](https://www.gemebio.com/blogs/journal/electric-compost-bin-filters-costs-comparison)
 
 <!-- truncate -->
 
@@ -404,9 +404,9 @@ If you want a microbial process and compost base for soil blending, choose a rea
 
 - [U.S. EPA — Composting at Home](https://www.epa.gov/recycle/composting-home)
 - [U.S. EPA — Approaches to Composting](https://www.epa.gov/sustainable-management-food/approaches-composting)
-- [GEME — Terra II Product Page](https://www.geme.bio/product/terra2)
-- [GEME — GEME Pro Product Page](https://www.geme.bio/product/geme)
-- [GEME — How Real Microbial Composting Works](https://www.geme.bio/how-it-works)
+- [GEME — Terra II Product Page](https://www.gemebio.com/products/terra2)
+- [GEME — GEME Pro Product Page](https://www.gemebio.com/products/geme)
+- [GEME — How Real Microbial Composting Works](https://www.gemebio.com/pages/how-it-works)
 - [Lomi — Food Recycler Product Page](https://lomi.com/)
 - [Mill Support — How a Mill Cycle Works](https://support.mill.com/hc/en-us/articles/12044994023451-How-does-a-Mill-cycle-work)
 - [Mill Support — Dry & Grind Cycle and Scheduling Tips](https://support.mill.com/hc/en-us/articles/13965823544347-Dry-Grind-cycle-and-scheduling-tips)
