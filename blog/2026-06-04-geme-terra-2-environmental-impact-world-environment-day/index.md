@@ -42,9 +42,9 @@ But here is the good news: **methane is avoidable.** Aerobic decomposition (with
 
 By diverting just 2 kg of daily food waste from the landfill, a single GEME Terra 2 prevents approximately 730 kg of organic waste per year from entering the methane cycle. That is the equivalent of taking one passenger car off the road for two months annually.
 
-👉 [Learn More About GEME Terra II](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-environmental-impact-world-environment-day)
+👉 [Learn More About GEME Terra II](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-environmental-impact-world-environment-day)
 
-👉 [Learn More About GEME Pro for Big Households/Plant Shops/Restaurants](https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-environmental-impact-world-environment-day)
+👉 [Learn More About GEME Pro for Big Households/Plant Shops/Restaurants](https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-environmental-impact-world-environment-day)
 
 <GemeTerra2CTA 
  imgSrc="/img/geme-terra-2-composter.jpg"
@@ -57,7 +57,7 @@ By diverting just 2 kg of daily food waste from the landfill, a single GEME Terr
     "✅ Reduces Composting Time to Days"
  ]}
 buttonText="Explore GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-environmental-impact-world-environment-day"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-environmental-impact-world-environment-day"
 />
 
 ## The 95% Reduction: Less Hauling, Less Burning
@@ -78,7 +78,7 @@ GEME Terra 2 uses a **permanent metal-ion oxidation catalyst**. No replacements.
 
 The environmental benefit is simple: **zero consumable waste from the deodorization system over the lifetime of the machine.**
 
-> “GEME uses industrial-grade metal-ion catalytic oxidation for odor control. No filter replacements. No hidden plastic waste.” [Official Terra 2 page](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-environmental-impact-world-environment-day)
+> “GEME uses industrial-grade metal-ion catalytic oxidation for odor control. No filter replacements. No hidden plastic waste.” [Official Terra 2 page](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-environmental-impact-world-environment-day)
 
 This is not a small detail. Most dehydrator-style composters rely on charcoal filters that cost \$50–\$100 per year and generate non-recyclable waste. Over 5 years, that is 10–20 filters in a landfill. GEME contributes zero.
 
@@ -93,7 +93,7 @@ This is not a small detail. Most dehydrator-style composters rely on charcoal fi
     "✅ Reduces Composting Time to Days"
  ]}
 buttonText="Explore GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-environmental-impact-world-environment-day"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-environmental-impact-world-environment-day"
 />
 
 ## Energy Efficiency: Less Than a Gaming Laptop
@@ -160,7 +160,7 @@ This is regenerative design. The system becomes more efficient over time as the 
     "✅ Reduces Composting Time to Days"
  ]}
 buttonText="Explore GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-environmental-impact-world-environment-day"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-environmental-impact-world-environment-day"
 />
 
 ## Practical Steps for World Environment Day
@@ -196,12 +196,12 @@ This World Environment Day, stop feeding the landfill. Start feeding the earth.
 
 1. [GEME Knowledge Base – Mass reduction methodology (95% mineralization)](https://www.geme.bio/gk#mineralization)
 2. [GEME Knowledge Base – Energy consumption evidence (JiaYu Test Report, Nov 2025)](https://www.geme.bio/gk#energy)
-3. [GEME Terra 2 official product page (2kg/day, permanent filter, 12kg weight)](https://www.geme.bio/product/terra2)
+3. [GEME Terra 2 official product page (2kg/day, permanent filter, 12kg weight)](https://www.gemebio.com/products/terra2)
 4. <a href="https://www.epa.gov/lmop/basic-information-about-landfill-gas" rel="nofollow">EPA – Basic Information about Landfill Gas (methane potency and sources)</a>
 
 ---
 
-*Ready to make every day Earth Day? Visit [geme.bio/product/terra2](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-environmental-impact-world-environment-day) to learn more about the GEME Terra 2 – the continuous aerobic bio-processor that turns food waste into living soil.*
+*Ready to make every day Earth Day? Visit [geme.bio/product/terra2](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-environmental-impact-world-environment-day) to learn more about the GEME Terra 2: the continuous aerobic bio-processor that turns food waste into living soil.*
 enerates.
 
 <RelatedArticles
