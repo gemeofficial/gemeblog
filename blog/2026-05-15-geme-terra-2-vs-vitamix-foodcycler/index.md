@@ -20,7 +20,7 @@ import ReactPlayer from 'react-player'
 
 ## Introduction: 30 Seconds to Understand the Difference
 
-If you are searching for a **kitchen composter** and weighing up the GEME Terra 2 against the Vitamix FoodCycler FC-50, you need to know this upfront: these two machines sit in entirely different categories. **The FoodCycler is an electric food dehydrator and grinder**. [**The GEME Terra 2 is a Continuous Aerobic Bio-Processor**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-vs-vitamix-foodcycler). One dries and grinds food waste into a sterile powder; the other biologically decomposes it into real, soil-ready compost. This distinction is not marketing fluff. It is science, confirmed by multiple independent testers and even by the dehydrator manufacturers themselves.
+If you are searching for a **kitchen composter** and weighing up the GEME Terra 2 against the Vitamix FoodCycler FC-50, you need to know this upfront: these two machines sit in entirely different categories. **The FoodCycler is an electric food dehydrator and grinder**. [**The GEME Terra 2 is a Continuous Aerobic Bio-Processor**](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-vs-vitamix-foodcycler). One dries and grinds food waste into a sterile powder; the other biologically decomposes it into real, soil-ready compost. This distinction is not marketing fluff. It is science, confirmed by multiple independent testers and even by the dehydrator manufacturers themselves.
 
 As the market for **electric composter** appliances has expanded rapidly over the past few years, so has the confusion around what these machines actually do. Products that share a similar sustainability pitch often use completely different technologies and produce fundamentally different outputs, as independent industry analysts have been pointing out since the first wave of these devices appeared. The purpose of this guide is to break down exactly what each machine does, what it costs over time, what kind of material it produces, and which one genuinely deserves the title of **best composter** for your home.
 
@@ -53,7 +53,7 @@ As the market for **electric composter** appliances has expanded rapidly over th
 | Dimension | Vitamix FoodCycler FC-50 | GEME Terra 2 |
 |---|---|---|
 | **Category** | Electric food dehydrator and grinder | Continuous Aerobic Bio-Processor; Real Composter |
-| **Core Technology** | Heat drying plus mechanical pulverization (3-stage cycle) | 46-strain [**Kobold** thermophilic microbial consortium](https://www.geme.bio/kobold-introduction) plus AI-managed aerobic digestion |
+| **Core Technology** | Heat drying plus mechanical pulverization (3-stage cycle) | 46-strain [**Kobold** thermophilic microbial consortium](https://www.gemebio.com/products/kobold) plus AI-managed aerobic digestion |
 | **End Product** | Dry, sterile "EcoChips" powder | Moist, microbe-active compost base |
 | **Biological Activity** | None; heat sterilization kills all microbes | High; living *Bacillus* strains continue working in soil |
 | **Odor Control** | Replaceable activated carbon filters | Permanent Metal-Ion Oxidation Catalyst (lifetime, no replacement needed) |
@@ -75,7 +75,7 @@ The headline prices may not look dramatically different at first glance, but the
     "✅ Reduces Composting Time to Days"
  ]}
 buttonText="Explore GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-vs-vitamix-foodcycler"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-vs-vitamix-foodcycler"
 />
 
 ## 2. Core Technology: Physical Dehydration vs. Biological Transformation
@@ -90,9 +90,9 @@ The technology is not new. It is a miniaturized version of industrial food dehyd
 
 ### How the GEME Terra 2 Works
 
-The GEME Terra 2 operates on a fundamentally different principle: biological decomposition driven by living microorganisms. According to [GEME's official explanation of how their composters work](https://www.geme.bio/how-it-works), the machine **"replicates the conditions of a compost pile while keeping everything contained and odor-free."** Unlike dehydrators that rely on heat alone, the Terra 2 *"maintains an ideal environment for the special microbes (GEME Kobold) to break down bio-waste. This environment mimics the natural composting process but speeds it up and keeps it contained."*
+The GEME Terra 2 operates on a fundamentally different principle: biological decomposition driven by living microorganisms. According to [GEME's official explanation of how their composters work](https://www.gemebio.com/pages/how-it-works), the machine **"replicates the conditions of a compost pile while keeping everything contained and odor-free."** Unlike dehydrators that rely on heat alone, the Terra 2 *"maintains an ideal environment for the special microbes (GEME Kobold) to break down bio-waste. This environment mimics the natural composting process but speeds it up and keeps it contained."*
 
-At the heart of this process is the [GEME Kobold microbial consortium](https://www.geme.bio/geme-kobold), a carefully selected blend of 46 heat-tolerant aerobic *Bacillus* strains. These are not genetically engineered organisms; they are naturally occurring composting bacteria that have been selected and adapted specifically for the realities of household kitchen waste: cooked foods, oils, salts, and variable input mixes. The [Kobold introduction page](https://www.geme.bio/kobold-introduction) explains that these microbes are *"heat-tolerant aerobes"* selected to stay stable *"across the operating range GEME maintains"* and to handle *"cooked food variability, salt, oil, and mixed leftovers."*
+At the heart of this process is the [GEME Kobold microbial consortium](https://www.gemebio.com/products/kobold), a carefully selected blend of 46 heat-tolerant aerobic *Bacillus* strains. These are not genetically engineered organisms; they are naturally occurring composting bacteria that have been selected and adapted specifically for the realities of household kitchen waste: cooked foods, oils, salts, and variable input mixes. The [Kobold introduction page](https://www.gemebio.com/products/kobold) explains that these microbes are *"heat-tolerant aerobes"* selected to stay stable *"across the operating range GEME maintains"* and to handle *"cooked food variability, salt, oil, and mixed leftovers."*
 
 The biological process works like this: you drop food scraps into the machine. The Kobold microbes, living in a temperature-controlled environment optimized for their activity, begin breaking down complex organic compounds immediately. Through aerobic respiration, they convert up to 95% of the input mass into carbon dioxide and water vapor. **The remaining approximately 5% becomes a moist, nutrient-rich, microbe-active compost base**. This is not a physical grinding process. It is the same biological decomposition that happens on a forest floor or in a well-managed backyard compost pile, except accelerated dramatically by the machine's precise environmental controls and contained so that no odors escape into your kitchen.
 
@@ -120,11 +120,11 @@ This is not a secret. FoodCycler's parent company Food Cycle Science has acknowl
 
 ### GEME Terra 2 Output: Living, Microbe-Active Compost
 
-The GEME Terra 2 produces a fundamentally different material. [GEME's 2026 composter review](https://www.geme.bio/blog/geme-composter-review-2026-geme-pro) describes the Terra 2 as **"a genuine biological processing unit that lives in your kitchen and quietly turns your food scraps into actual, usable compost"**. The output is moist, dark, crumbly, and smells earthy, like a healthy forest floor. It contains living microorganisms from the Kobold consortium that continue working in the soil after application, gradually releasing nutrients in a form that plant roots can absorb.
+The GEME Terra 2 produces a fundamentally different material. [GEME's 2026 composter review](https://www.gemebio.com/blogs/journal/geme-composter-review-2026-geme-pro) describes the Terra 2 as **"a genuine biological processing unit that lives in your kitchen and quietly turns your food scraps into actual, usable compost"**. The output is moist, dark, crumbly, and smells earthy, like a healthy forest floor. It contains living microorganisms from the Kobold consortium that continue working in the soil after application, gradually releasing nutrients in a form that plant roots can absorb.
 
 [Kitchen Compost Bins' real-world test of the Terra 2](https://kitchencompostbins.com/real-world-test-geme-terra-2-performance-2/) confirmed that the finished compost was **"dry, fine, and odor-neutral"** and suitable for garden application. Notably, the moisture content was described as below 10%, which is low enough for easy handling while retaining the biological activity that distinguishes real compost from dehydrated powder. A separate [detailed review by Kitchen Compost Bins](https://kitchencompostbins.com/geme-terra-2-pros-cons-verdict-2/) noted that the Terra 2 **"converts daily kitchen scraps into nutrient-rich compost within hours"** and highlighted the machine's efficient composting cycle of under eight hours.
 
-The most vivid real-world description comes from the [Backyard Farmer review cited in GEME's 2026 composter roundup](https://www.geme.bio/blog/geme-composter-review-2026-geme-pro). The reviewer described the output this way: **"The material was dark, crumbly, and smelled earthy. It wasn't dried, dusty, or sterile. It was real, biologically active compost ready to be mixed into my garden soil."** That is the difference in a nutshell. One machine gives you sterile, dusty powder that still needs to decompose. The other gives you real compost that is ready to feed your plants immediately.
+The most vivid real-world description comes from the [Backyard Farmer review cited in GEME's 2026 composter roundup](https://www.gemebio.com/blogs/journal/geme-composter-review-2026-geme-pro). The reviewer described the output this way: **"The material was dark, crumbly, and smelled earthy. It wasn't dried, dusty, or sterile. It was real, biologically active compost ready to be mixed into my garden soil."** That is the difference in a nutshell. One machine gives you sterile, dusty powder that still needs to decompose. The other gives you real compost that is ready to feed your plants immediately.
 
 GEME recommends mixing the finished compost into potting soil or garden beds at a ratio of roughly 1:8 or 1:10, compost to soil. The compost continues to mature in the soil, slowly releasing nutrients and improving soil structure over time. This is how real compost works. It builds humus, improves water retention, and feeds the complex web of soil life that supports healthy plant growth.
 
@@ -146,9 +146,9 @@ The real-world variability in filter costs is even more striking. [HappiestKitch
 
 The Terra 2 takes a fundamentally different approach to odor control. Instead of using disposable carbon filters that trap odor molecules until they saturate, it uses a Metal-Ion Oxidation Catalyst that destroys odor-causing volatile organic compounds at the molecular level. This is the same principle used in industrial air treatment systems, miniaturized for home use.
 
-[GEME's comparison table on their FAQ page](https://www.geme.bio/faq/geme-kobold/how-it-works) explicitly contrasts their system against dehydrators: where Lomi-style machines use *"Carbon filter, Replace every 3 months,"* the GEME uses **"Metal ion catalytic oxidation, No need to replace."** The catalyst is permanent. It does not saturate. It does not get clogged by steam. There is no filter to buy, no replacement schedule to remember, and no plastic waste stream from discarded carbon packs.
+[GEME's comparison table on their FAQ page](https://gemebio.com/pages/geme-faq) explicitly contrasts their system against dehydrators: where Lomi-style machines use *"Carbon filter, Replace every 3 months,"* the GEME uses **"Metal ion catalytic oxidation, No need to replace."** The catalyst is permanent. It does not saturate. It does not get clogged by steam. There is no filter to buy, no replacement schedule to remember, and no plastic waste stream from discarded carbon packs.
 
-[The Compost Culture's review](https://www.thecompostculture.com/geme-electric-kitchen-composter-review/) highlighted this as a major advantage: *"The GEME doesn't use filters which is a huge benefit over the other electric composters on the market. The Lomi and the FoodCycler have filters that must be changed regularly."* And [GEME's 2026 review](https://www.geme.bio/blog/geme-composter-review-2026-geme-pro) put a number on the savings: **"Lomi owners spend an average of \$150–\$200 per year on filters. GEME costs \$0."**
+[The Compost Culture's review](https://www.thecompostculture.com/geme-electric-kitchen-composter-review/) highlighted this as a major advantage: *"The GEME doesn't use filters which is a huge benefit over the other electric composters on the market. The Lomi and the FoodCycler have filters that must be changed regularly."* And [GEME's 2026 review](https://www.gemebio.com/blogs/journal/geme-composter-review-2026-geme-pro) put a number on the savings: **"Lomi owners spend an average of \$150–\$200 per year on filters. GEME costs \$0."**
 
 Over a three- to five-year ownership period, the difference in filter costs alone can exceed the entire purchase price of the machine. This is not an incidental detail. It is a core design philosophy choice: build a machine with consumable parts that generate recurring revenue, or build a machine with permanent components that generate zero ongoing costs. The FoodCycler, like all dehydrator-style machines, follows the first model. The GEME Terra 2 follows the second.
 
@@ -163,7 +163,7 @@ Over a three- to five-year ownership period, the difference in filter costs alon
     "✅ Reduces Composting Time to Days"
  ]}
 buttonText="Explore GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-vs-vitamix-foodcycler"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-vs-vitamix-foodcycler"
 />
 
 ## 5. Long-Term Cost: The Hidden Trap of Lower Upfront Prices
@@ -181,7 +181,7 @@ The upfront price tags tell only part of the story. The FoodCycler FC-50 typical
 
 These numbers come from the documented sources discussed above. <a href="https://www.choice.com.au/shonky-awards/hall-of-shame/shonkys-2021/breville-foodcycler/" rel="nofollow">CHOICE's investigation</a> found that the FoodCycler's five-year total cost approached \$2,000 Australian dollars. <a href="https://www.happiestkitchen.com/post/detail/182/" rel="nofollow">HappiestKitchen's analysis</a> documented the \$300 annual filter cost extreme. <a href="https://www.applianceretailer.com.au/breville-responds-to-choices-shonky-award-claims/" rel="nofollow">Breville's own response</a> acknowledged at least \$120 per year in filter costs under moderate use. The Amazon reviewer confirmed the same \$120 annual estimate from personal experience.
 
-The GEME Terra 2 has none of these ongoing costs. The permanent metal-ion catalyst is designed to last the lifetime of the machine. The Kobold microbial culture is self-sustaining; as the [Kobold introduction page](https://www.geme.bio/kobold-introduction) explains, *"Kobold forms a self-sustaining microbial ecosystem that remains active as long as food waste is added. No routine care."* There is an optional Boost Pack for users who want to accelerate processing after their first compost harvest, but it is explicitly not required for daily operation. The machine's ongoing costs are effectively limited to electricity, which is roughly equivalent to what the FoodCycler uses.
+The GEME Terra 2 has none of these ongoing costs. The permanent metal-ion catalyst is designed to last the lifetime of the machine. The Kobold microbial culture is self-sustaining; as the [Kobold introduction page](https://www.gemebio.com/products/kobold) explains, *"Kobold forms a self-sustaining microbial ecosystem that remains active as long as food waste is added. No routine care."* There is an optional Boost Pack for users who want to accelerate processing after their first compost harvest, but it is explicitly not required for daily operation. The machine's ongoing costs are effectively limited to electricity, which is roughly equivalent to what the FoodCycler uses.
 
 What this means in practical terms is that within approximately two to three years of ownership, the total amount a FoodCycler owner has spent, including filter replacements, equals or exceeds what a Terra 2 owner paid upfront. And every year after that, the gap widens. The Terra 2 owner pays nothing extra. The FoodCycler owner keeps buying filters. After five years, the cost difference could be enough to buy a second Terra 2.
 
@@ -197,15 +197,15 @@ There are also input restrictions. FoodCycler's documentation recommends avoidin
 
 The Terra 2 is designed for continuous feed. You do not wait for a cycle to complete. You do not press a start button. You simply kick the bottom-front panel to open the lid, drop in your food scraps, close the lid, and walk away. The Kobold microbes process continuously in the background, 24 hours a day, seven days a week.
 
-[The Compost Culture's review](https://www.thecompostculture.com/geme-electric-kitchen-composter-review/) described this as one of the most significant practical advantages of the GEME: **"The coolest thing about the GEME composter is that you continuously add food to the compost system and empty it when it gets full (typically every 2 months for a household of 5). Once full, it is ready to use in your garden as true finished compost."** The [2026 GEME review](https://www.geme.bio/blog/geme-composter-review-2026-geme-pro) further emphasized this convenience: *"Continuous feed is a game changer. With batch machines, you have to fill the bucket and then wait hours for a cycle to finish. With GEME, you just lift the lid and toss them in. Anytime."*
+[The Compost Culture's review](https://www.thecompostculture.com/geme-electric-kitchen-composter-review/) described this as one of the most significant practical advantages of the GEME: **"The coolest thing about the GEME composter is that you continuously add food to the compost system and empty it when it gets full (typically every 2 months for a household of 5). Once full, it is ready to use in your garden as true finished compost."** The [2026 GEME review](https://www.gemebio.com/blogs/journal/geme-composter-review-2026-geme-pro) further emphasized this convenience: *"Continuous feed is a game changer. With batch machines, you have to fill the bucket and then wait hours for a cycle to finish. With GEME, you just lift the lid and toss them in. Anytime."*
 
 The Terra 2's 14L chamber and 2 kg daily processing capacity make it suitable for households of up to five people. It **handles the full range of kitchen waste, including meat, dairy, fish, small bones, and greasy leftovers**, items that dehydrator-style machines either cannot process or process poorly. The Kobold microbes are specifically selected for their ability to break down high-protein, high-fat inputs without odor spirals, and the permanent metal-ion catalyst ensures that no smells escape regardless of what you feed the machine.
 
 When compost is ready, typically after several weeks of continuous feeding and processing, you simply scoop it out of the fixed chamber and use it. There is no filter to replace, no subscription to renew, and no batch cycle to schedule your cooking around.amber supports up to 2 kg of daily input, making it suitable for households of up to three people**.
 
-👉 [Learn More About GEME Terra II](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-vs-vitamix-foodcycler)
+👉 [Learn More About GEME Terra II](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-vs-vitamix-foodcycler)
 
-👉 [Learn More About GEME Pro for Big Households/Plant Shops/Restaurants](https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-vs-vitamix-foodcycler)
+👉 [Learn More About GEME Pro for Big Households/Plant Shops/Restaurants](https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-vs-vitamix-foodcycler)
 
 ![GEME Terra 2: The Best Kitchen Composter](./image/geme-terra-2-the-real-kitchen-composter.png)
 
@@ -234,7 +234,7 @@ None of this is to say that dehydrator-style machines are useless. They serve a 
     "✅ Reduces Composting Time to Days"
  ]}
 buttonText="Explore GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-vs-vitamix-foodcycler"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-vs-vitamix-foodcycler"
 />
 
 ## 8. Decision Guide: Which Machine Is Right for You?
@@ -269,7 +269,7 @@ If you only need volume reduction and are comfortable with the ongoing filter ex
 
 ### Q: Can the GEME Terra 2 handle meat, dairy, and bones?
 
-> A: Yes. The [Kobold microbial consortium](https://www.geme.bio/kobold-introduction) was specifically selected to handle *"cooked food variability, salt, oil, and mixed leftovers."* The 46-strain *Bacillus* culture breaks down high-protein and high-fat inputs that dehydrators and worm bins cannot process effectively. Small bones such as chicken wing bones and fish bones are broken down during the mixing cycle. Large dense bones and hard shells like oyster or clam shells should be avoided.
+> A: Yes. The [Kobold microbial consortium](https://www.gemebio.com/pages/kobold) was specifically selected to handle *"cooked food variability, salt, oil, and mixed leftovers."* The 46-strain *Bacillus* culture breaks down high-protein and high-fat inputs that dehydrators and worm bins cannot process effectively. Small bones such as chicken wing bones and fish bones are broken down during the mixing cycle. Large dense bones and hard shells like oyster or clam shells should be avoided.
 
 ### Q: How much does the FoodCycler really cost to run per year?
 
@@ -281,7 +281,7 @@ If you only need volume reduction and are comfortable with the ongoing filter ex
 
 ### Q: Which is the best kitchen composter for a small apartment?
 
-> A: For apartments with no outdoor space, a real electric composter like the GEME Terra II is ideal because it produces finished compost you can use on indoor plants immediately, with no extra subscriptions or outdoor piles required. Check this post: [**The Best Composter For Small Kitchen**](https://www.geme.bio/blog/the-best-composter-for-kitchen)
+> A: For apartments with no outdoor space, a real electric composter like the GEME Terra II is ideal because it produces finished compost you can use on indoor plants immediately, with no extra subscriptions or outdoor piles required. Check this post: [**The Best Composter For Small Kitchen**](https://www.gemebio.com/blogs/journal/the-best-composter-for-kitchen)
 
 ### Q: Why aren't dehydrator machines like FoodCycler considered composters?
 
@@ -289,13 +289,13 @@ If you only need volume reduction and are comfortable with the ongoing filter ex
 
 > **Check the following posts**: 
 
-> 1. [**Does the Lomi Composter Really Compost? Lomi vs GEME Terra 2**](https://www.geme.bio/blog/does-lomi-composter-really-compost)
-> 2. [**Does Mill Composter Produce Real Compost?**](https://www.geme.bio/blog/does-mill-composter-pruduce-compost)
-> 3. [**GEME Terra 2 vs FoodCycler: Which Is The Real Kitchen Composter?**](https://www.geme.bio/blog/real-kitchen-composter-geme-terra-2-vs-foodcycler)
+> 1. [**Does the Lomi Composter Really Compost? Lomi vs GEME Terra 2**](https://www.gemebio.com/blogs/journal/does-lomi-composter-really-compost)
+> 2. [**Does Mill Composter Produce Real Compost?**](https://www.gemebio.com/blogs/journal/does-mill-composter-really-compost-2026)
+> 3. [**GEME Terra 2 vs FoodCycler: Which Is The Real Kitchen Composter?**](https://www.gemebio.com/blogs/journal/real-kitchen-composter-geme-terra-2-vs-foodcycler)
 
 **Stop feeding the bin. Earth it with the GEME Terra 2.**
 
-[Learn More About the GEME Terra 2 →](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-vs-vitamix-foodcycler)
+[Learn More About the GEME Terra 2 →](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-vs-vitamix-foodcycler)
 
 <GemeTerra2CTA 
  imgSrc="/img/geme-terra-2-composter.jpg"
@@ -308,7 +308,7 @@ If you only need volume reduction and are comfortable with the ongoing filter ex
     "✅ Reduces Composting Time to Days"
  ]}
 buttonText="Explore GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-vs-vitamix-foodcycler"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-vs-vitamix-foodcycler"
 />
 
 <GemeComposterCTA 
@@ -321,7 +321,7 @@ buttonText="Explore GEME Terra II"
     "✅ Large Capacity (19 L) For Daily Waste"
   ]}
 buttonText="Get Your GEME Pro"
-  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-vs-vitamix-foodcycler"
+  href="https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-vs-vitamix-foodcycler"
 />
 
 ## Cited Sources
@@ -346,13 +346,13 @@ Cited Sources
 
 9. Amazon.ca Customer Review. (2024, January). <a href="https://arcus-www.amazon.ca/gp/customer-reviews/R26VS3DWSNA4PZ?ASIN=B08QTSPBDQ" rel="nofollow">*Vitamix FoodCycler Replacement 2-Pack Filter*</a>
 
-10. GEME. (n.d.). [*How Does It Work? GEME Composter FAQ*](https://www.geme.bio/how-it-works).
+10. GEME. (n.d.). [*How Does It Work? GEME Composter FAQ*](https://www.gemebio.com/pages/how-it-works).
 
-11. GEME. (n.d.). [*GEME Kobold: Revolutionary Compost Starter & Food Waste Recycling Technology*](https://www.geme.bio/geme-kobold).
+11. GEME. (n.d.). [*GEME Kobold: Revolutionary Compost Starter & Food Waste Recycling Technology*](https://www.gemebio.com/products/geme).
 
-12. GEME. (n.d.). [*GEME Kobold: Industrial Thermophiles Trained for Your Kitchen*](https://www.geme.bio/kobold-introduction).
+12. GEME. (n.d.). [*GEME Kobold: Industrial Thermophiles Trained for Your Kitchen*](https://gemebio.com/pages/geme-kobold-introduction).
 
-13. GEME. (2026, April). [*GEME Composter Review 2026: Real Compost, No Filter Costs*](https://www.geme.bio/blog/geme-composter-review-2026-geme-pro).
+13. GEME. (2026, April). [*GEME Composter Review 2026: Real Compost, No Filter Costs*](https://www.gemebio.com/blogs/journal/geme-composter-review-2026-geme-pro).
 
 14. Kitchen Compost Bins. (2025, December). <a href="https://kitchencompostbins.com/real-world-test-geme-terra-2-performance-2/" rel="nofollow">*Real-World Test: GEME Terra 2 Performance*</a>.
 
