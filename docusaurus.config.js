@@ -667,8 +667,16 @@ const config = {
         // 删除此项以移除"编辑此页面"链接。
         // editUrl:
         //   'https://github.com/gemeofficial/gemedocs/tree/main/blog',
-        readingTime: ({ content, frontMatter, defaultReadingTime }) =>
-          defaultReadingTime({ content, options: { wordsPerMinute: 300 } }),
+        readingTime: (
+          /** @type {Parameters<NonNullable<import('@docusaurus/plugin-content-blog').Options['readingTime']>>[0]} */
+          { content, frontMatter, defaultReadingTime, locale },
+        ) =>
+          defaultReadingTime({
+            content,
+            frontMatter,
+            locale,
+            options: { wordsPerMinute: 300 },
+          }),
       },
     ],
     [
