@@ -63,7 +63,7 @@ That inert dust is what the vast majority of countertop “composters” produce
     "✅ Reduces Composting Time to Days"
  ]}
 buttonText="Explore GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-best-kitchen-electric-composter"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-best-kitchen-electric-composter"
 />
 
 ## 2. The GEME Terra 2 Is a Kitchen Electric Composter That Honors the Biology
@@ -82,9 +82,9 @@ The most thorough independent evaluation comes from a detailed [real-world test 
 
 I’ve seen the same in my own lab. Terra 2 compost is alive with nematodes, beneficial Bacillus, and fungal hyphae, exactly the kind of soil food web you want feeding your tomatoes. That is the difference between living compost and dried kitchen dust.
 
-👉 [Learn More About GEME Terra II](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-best-kitchen-electric-composter)
+👉 [Learn More About GEME Terra II](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-best-kitchen-electric-composter)
 
-👉 [Learn More About GEME Pro for Big Households/Plant Shops/Restaurants](https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-best-kitchen-electric-composter)
+👉 [Learn More About GEME Pro for Big Households/Plant Shops/Restaurants](https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-best-kitchen-electric-composter)
 
 ![GEME Terra 2 Compost](./image/geme-terra-2-compost.png)
 
@@ -125,7 +125,7 @@ Other machines have their place in waste logistics, but they’re not composters
 | Lomi | Dehydrator with microbial additive | No | No | Replaceable filters & tablets | Beginners wanting minimal kitchen waste volume |
 | Mill | Dehydrator + mail-in service | No | No | Monthly subscription | Waste diversion without gardening goals |
 | Reencle Prime | Continuous microbial composter | Partial, with curing | No, needs 1–2 week cure | Annual carbon filters | 1–2 person homes willing to manage curing |
-| **GEME Terra 2** | [True electric kitchen composter](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-best-kitchen-electric-composter) | Yes, finished compost | Yes, direct application | Zero consumables, lifetime catalyst | Families, gardeners, anyone seeking real soil health |
+| **GEME Terra 2** | [True electric kitchen composter](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-best-kitchen-electric-composter) | Yes, finished compost | Yes, direct application | Zero consumables, lifetime catalyst | Families, gardeners, anyone seeking real soil health |
 
 <GemeTerra2CTA 
  imgSrc="/img/geme-terra-2-composter.jpg"
@@ -138,7 +138,7 @@ Other machines have their place in waste logistics, but they’re not composters
     "✅ Reduces Composting Time to Days"
  ]}
 buttonText="Explore GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-best-kitchen-electric-composter"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-best-kitchen-electric-composter"
 />
 
 ## 8. Frequently Asked Questions (Answered)
@@ -165,7 +165,7 @@ buttonText="Explore GEME Terra II"
 
 ### Q: Which is the best kitchen composter for a small apartment?
 
-> A: For apartments with no outdoor space, a real electric composter like the GEME Terra II is ideal because it produces finished compost you can use on indoor plants immediately, with no extra subscriptions or outdoor piles required. Check this post: [**The Best Composter For Small Kitchen**](https://www.geme.bio/blog/the-best-composter-for-kitchen)
+> A: For apartments with no outdoor space, a real electric composter like the GEME Terra II is ideal because it produces finished compost you can use on indoor plants immediately, with no extra subscriptions or outdoor piles required. Check this post: [**The Best Composter For Small Kitchen**](https://www.gemebio.com/blogs/journal/the-best-composter-for-kitchen)
 
 ### Q: Why aren't dehydrator machines like Lomi considered composters?
 
@@ -173,11 +173,11 @@ buttonText="Explore GEME Terra II"
 
 > **Check the following posts**: 
 
-> 1. [**Does the Lomi Composter Really Compost? Lomi vs GEME Terra 2**](https://www.geme.bio/blog/does-lomi-composter-really-compost)
-> 2. [**Does Mill Composter Produce Real Compost?**](https://www.geme.bio/blog/does-mill-composter-pruduce-compost)
-> 3. [**GEME Terra 2 vs FoodCycler: Which Is The Real Kitchen Composter?**](https://www.geme.bio/blog/real-kitchen-composter-geme-terra-2-vs-foodcycler)
+> 1. [**Does the Lomi Composter Really Compost? Lomi vs GEME Terra 2**](https://www.gemebio.com/blogs/journal/does-lomi-composter-really-compost)
+> 2. [**Does Mill Composter Produce Real Compost?**](https://www.gemebio.com/blogs/journal/does-mill-composter-really-compost-2026)
+> 3. [**GEME Terra 2 vs FoodCycler: Which Is The Real Kitchen Composter?**](https://www.gemebio.com/blogs/journal/real-kitchen-composter-geme-terra-2-vs-foodcycler)
 
-[Learn More About the GEME Terra 2 →](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-best-kitchen-electric-composter)
+[Learn More About the GEME Terra 2 →](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-best-kitchen-electric-composter)
 
 <GemeTerra2CTA 
  imgSrc="/img/geme-terra-2-composter.jpg"
@@ -190,7 +190,7 @@ buttonText="Explore GEME Terra II"
     "✅ Reduces Composting Time to Days"
  ]}
 buttonText="Explore GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-best-kitchen-electric-composter"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-best-kitchen-electric-composter"
 />
 
 <GemeComposterCTA 
@@ -203,7 +203,7 @@ buttonText="Explore GEME Terra II"
     "✅ Large Capacity (19 L) For Daily Waste"
   ]}
 buttonText="Get Your GEME Pro"
-  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-best-kitchen-electric-composter"
+  href="https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-best-kitchen-electric-composter"
 />
 
 ## Cited Sources
