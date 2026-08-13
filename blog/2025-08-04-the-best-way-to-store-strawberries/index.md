@@ -64,7 +64,7 @@ Because of these factors, fresh strawberries last only a few days without specia
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-way-to-store-strawberries"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-way-to-store-strawberries"
 />
 
 ## 2. How Long Do Strawberries Last in the Fridge (vs. Room Temp)?
@@ -126,7 +126,7 @@ Refrigeration is strongly advised for any cut or hulled berries. The USDA notes:
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-way-to-store-strawberries"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-way-to-store-strawberries"
 />
 
 ![How to Store Strawberries](./img/best-way-to-store-strawberries.jpg)
@@ -215,7 +215,7 @@ It even heats the waste above 75°C to kill pathogens like Salmonella, producing
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Use GEME Kitchen Composter to Compost Food Waste"
-  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-way-to-store-strawberries"
+  href="https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-way-to-store-strawberries"
 />
 
 By using the kitchen composter, you can sustainably convert strawberry scraps into garden gold. 
