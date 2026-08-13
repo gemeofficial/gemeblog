@@ -49,7 +49,7 @@ This article cuts through the noise and gives you a data-grounded comparison of 
 
 | Feature             | **Reencle Composter**                                         | **GEME Terra 2**                                                  | Verdict                                |
 | ------------------- | ------------------------------------------------------------- | ----------------------------------------------------------------- | -------------------------------------- |
-| Composting Method   | Aerobic microbes (ReencleMicrobe™)     | AI-regulated thermophilic microbes ([**GEME Kobold™**](ttps://www.geme.bio/kobold-introduction?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=does-reencle-composter-produce-real-compost))          | GEME wins:  faster microbial breakdown |
+| Composting Method   | Aerobic microbes (ReencleMicrobe™)     | AI-regulated thermophilic microbes ([**GEME Kobold™**](ttps://www.gemebio.com/pages/geme-kobold-introduction?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=does-reencle-composter-produce-real-compost))          | GEME wins:  faster microbial breakdown |
 | Output              | Pre-compost requiring curing  | Ready-to-use compost in 6-8h               | GEME wins: no extra steps             |
 | Continuous Feed     | Yes                                                           | Yes                                                               | Tie                                    |
 | Odor Management     | Carbon filters (replaceable)           | Permanent metal-ion filter, no replacements  | GEME wins: zero recurring costs       |
@@ -68,10 +68,10 @@ This article cuts through the noise and gives you a data-grounded comparison of 
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=does-reencle-composter-produce-real-compost"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=does-reencle-composter-produce-real-compost"
 />
 
-[**Learn more about GEME Kobold and the controlled microbial fermentation** -->](https://www.geme.bio/kobold-introduction?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=does-reencle-composter-produce-real-compost)
+[**Learn more about GEME Kobold and the controlled microbial fermentation** -->](https://www.gemebio.com/pages/geme-kobold-introduction?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=does-reencle-composter-produce-real-compost)
 
 ## Round 1: Technology Breakdown — How They Compost
 
@@ -153,12 +153,12 @@ In short: GEME Terra 2’s output is ready-to-use, whereas Reencle’s often isn
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=does-reencle-composter-produce-real-compost"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=does-reencle-composter-produce-real-compost"
 />
 
-[**See how GEME Terra II works & why it matters** -->](https://www.geme.bio/how-it-works?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=does-reencle-composter-produce-real-compost)
+[**See how GEME Terra II works & why it matters** -->](https://www.gemebio.com/pages/how-it-works?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=does-reencle-composter-produce-real-compost)
 
-[**Learn more about GEME Kobold and the controlled microbial fermentation** -->](https://www.geme.bio/kobold-introduction?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=does-reencle-composter-produce-real-compost)
+[**Learn more about GEME Kobold and the controlled microbial fermentation** -->](https://www.gemebio.com/pages/geme-kobold-introduction?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=does-reencle-composter-produce-real-compost)
 
 
 ## Round 3: Long-Term Cost & Maintenance
@@ -213,7 +213,7 @@ In everyday use, both systems simplify kitchen composting, but GEME Terra 2’s 
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=does-reencle-composter-produce-real-compost"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=does-reencle-composter-produce-real-compost"
 />
 
 
@@ -265,9 +265,9 @@ For eco-conscious families, apartment dwellers, and zero-waste advocates who wan
 
  3. [Reviewed evaluation of Reencle compost quality and daily use](https://www.reviewed.com/cooking/content/reencle-composter-review).
 
- 4. [GEME Terra 2 bio-composter official product info, microbial composting and AI control](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=does-reencle-composter-produce-real-compost).
+ 4. [GEME Terra 2 bio-composter official product info, microbial composting and AI control](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=does-reencle-composter-produce-real-compost).
 
- 5. [Comparison of kitchen compost methods highlighting GEME’s output](https://www.geme.bio/blog/zero-waste-home-kitchen-composter).
+ 5. [Comparison of kitchen compost methods highlighting GEME’s output](https://www.gemebio.com/blogs/journal/zero-waste-home-kitchen-composter).
 
 <RelatedArticles
   slugs={[
