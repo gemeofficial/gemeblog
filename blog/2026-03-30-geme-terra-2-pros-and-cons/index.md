@@ -43,13 +43,13 @@ So here it is. The honest breakdown of the GEME composter, no fluff, just what y
 
 ### Pro 1: The GEME Terra 2 Produces Real Compost
 
-Here's the thing about the GEME composter that sets it apart from half the market. It actually makes compost. Not dried garbage. Not "pre-compost" that needs to sit in a pile for another six months. [It's an actual, biologically active soil amendment](https://www.geme.bio/gk).
+Here's the thing about the GEME composter that sets it apart from half the market. It actually makes compost. Not dried garbage. Not "pre-compost" that needs to sit in a pile for another six months. [It's an actual, biologically active soil amendment](https://gemebio.com/pages/gk-technology).
 
 The machine uses a proprietary blend of microorganisms called Kobold that eat your food scraps. These little guys are thermophilic, which means they love heat. The machine keeps them at the perfect temperature, gives them oxygen, and lets them do what they do best: break down food waste.
 
 What comes out is moist, crumbly, and smells like a forest floor. You mix it with soil at about one part compost to eight parts soil, and your plants get an immediate nutrient boost.
 
-[Most other machines can't say that](/blog/top-5-kitchen-composters-pros-and-cons). Lomi gives you dry dust. Mill gives you "food grounds." They look like compost, but they don't act like it. If you want real compost for your garden, the GEME composter is one of the only options that delivers.
+[Most other machines can't say that](https://gemebio.com/blogs/journal/top-5-kitchen-composters-pros-and-cons). Lomi gives you dry dust. Mill gives you "food grounds." They look like compost, but they don't act like it. If you want real compost for your garden, the GEME composter is one of the only options that delivers.
 
 ![GEME Terra 2 Output is Real Compost](./image/geme-composter-output.png)
 
@@ -74,7 +74,7 @@ I've had people tell me this sounds too good to be true. I get it. We're used to
     "✅ Reduces Composting Time to Days"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-pros-and-cons"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-pros-and-cons"
 />
 
 ### Pro 3: The GEME Composter Uses Continuous Feed, So No Waiting Around
@@ -91,11 +91,11 @@ Meat. Chicken bones. Dairy. Coffee grounds. Eggshells. Vegetables. Fruits. Lefto
 
 Most other machines have a long list of things you can't put in. Lomi struggles with meat and dairy. Mill says to strain liquids and avoid oils. Reencle has its own restrictions.
 
-The GEME Terra 2 just eats it. The [**Kobold microbes**](https://www.geme.bio/kobold-introduction) are aggressive and hungry. The only things you should avoid are large beef or pork bones, shells, and anything that isn't organic, like plastic or metal.
+The GEME Terra 2 just eats it. The [**Kobold microbes**](https://www.gemebio.com/pages/geme-kobold-introduction) are aggressive and hungry. The only things you should avoid are large beef or pork bones, shells, and anything that isn't organic, like plastic or metal.
 
 This matters if you actually cook. Because when you roast a chicken, you're left with bones. When you make pasta, you've got cheese scraps. With other machines, those go in the trash. With GEME, they go in the composter.
 
-### Pro 5: This Is [the Best Composter](/blog/best-kitchen-composter-verdict-2026) for People Who Hate Subscriptions
+### Pro 5: This Is [the Best Composter](https://gemebio.com/blogs/journal/best-kitchen-composter-verdict-2026) for People Who Hate Subscriptions
 
 I'm going to say something that might sound dramatic, but I mean it. The GEME Terra 2 is the best composter for anyone tired of being nickel-and-dimed.
 
@@ -117,7 +117,7 @@ You pay \$549 once, and that's the end of the transaction. Not the beginning of 
     "✅ Reduces Composting Time to Days"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-pros-and-cons"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-pros-and-cons"
 />
 
 ## 2. The Cons of GEME Terra 2
@@ -141,11 +141,11 @@ If you're shopping at a pure upfront price, GEME isn't the winner. If you're sho
 
 **Cost Calculator**: 
 
-[Terra 2 Vs. Lomi](https://www.geme.bio/cost-calculator/terra2-vs-lomi)
+[Terra 2 Vs. Lomi](https://gemebio.com/pages/page-compare-geme-vs-lomi)
 
-[Terra 2 Vs. Mill](https://www.geme.bio/cost-calculator/terra2-vs-mill)
+[Terra 2 Vs. Mill](https://gemebio.com/pages/geme-vs-mill-composter)
 
-[Terra 2 Vs. Reencle](https://www.geme.bio/cost-calculator/terra2-vs-reencle)
+[Terra 2 Vs. Reencle](https://gemebio.com/pages/geme-vs-reencle)
 
 ### Con 3: You Need to Prep Stems and Fibrous Stuff Before Adding
 
@@ -166,7 +166,7 @@ Is it annoying? A little. But it's also a good habit for any composting method. 
     "✅ Reduces Composting Time to Days"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-pros-and-cons"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-pros-and-cons"
 />
 
 ### Con 4: This Isn't a Quick Compost Machine for Stems
@@ -212,7 +212,7 @@ Let me help you figure out if the GEME composter fits your life.
     "✅ Reduces Composting Time to Days"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-pros-and-cons"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-pros-and-cons"
 />
 
 ### Skip this if:
@@ -281,7 +281,7 @@ The GEME composter costs more upfront than Lomi and Reencle. But after three yea
     "✅ Reduces Composting Time to Days"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-pros-and-cons"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-pros-and-cons"
 />
 
 ## Conclusion 
@@ -307,7 +307,7 @@ For gardeners, for people who cook daily, for anyone tired of being nickel-and-d
     "✅ Reduces Composting Time to Days"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-pros-and-cons"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-pros-and-cons"
 />
 
 <GemeComposterCTA 
@@ -320,12 +320,12 @@ buttonText="Get Your GEME Terra II"
     "✅ Large Capacity (19 L) For Daily Waste"
   ]}
 buttonText="Get Your GEME Pro"
-  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-pros-and-cons"
+  href="https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-pros-and-cons"
 />
 
-👉 [Learn More About GEME Terra II](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-pros-and-cons)
+👉 [Learn More About GEME Terra II](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-pros-and-cons)
 
-👉 [Explore GEME Pro for Big Households/Plant Shops/Restaurants](https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-pros-and-cons)
+👉 [Explore GEME Pro for Big Households/Plant Shops/Restaurants](https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-pros-and-cons)
 
 ## Sources
 
