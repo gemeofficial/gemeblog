@@ -94,7 +94,7 @@ Spread blueberries out on a paper towel in a shallow container to absorb excess 
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-do-blueberries-last-in-fridge"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-do-blueberries-last-in-fridge"
 />
 ![How long do Blueberries last in the fridge](./img/how-long-do-blueberries-last-in-the-fridge.jpg)
 
@@ -196,7 +196,7 @@ Compost is decomposed organic matter from food waste, garden clippings, leaves, 
     "✅ Reduce Landfills & Greenhouse Gases"
  ]}
 buttonText="Use GEME Kitchen Composter For Food Waste"
-  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-do-blueberries-last-in-fridge"
+  href="https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-do-blueberries-last-in-fridge"
 />
 
 ## 7. Tips to Make Blueberries Last Longer
@@ -245,7 +245,7 @@ A: Yes, vacuum sealing can extend shelf life by reducing air exposure, but berri
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-do-blueberries-last-in-fridge"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-do-blueberries-last-in-fridge"
 />
 
 ## Final Thoughts
@@ -266,15 +266,15 @@ With these tips, you can enjoy blueberries longer and keep every pint you buy or
 
 ## Related Articles
 
-- [**How to Grow Blueberries**](/blog/how-to-grow-blueberries)
+- [**How to Grow Blueberries**](https://www.gemebio.com/blogs/journal/how-to-grow-blueberries)
 
-- [**How to Grow Tomato Plants Without Salmonella**](/blog/how-to-grow-tomatoes-safely)
+- [**How to Grow Tomato Plants Without Salmonella**](https://www.gemebio.com/blogs/journal/how-to-grow-tomatoes-safely)
 
-- [**How to Plant a Garden**](/blog/how-to-plant-a-garden-best-gardening-guide-for-beginners)
+- [**How to Plant a Garden**](https://gemebio.com/blogs/journal/how-to-plant-a-garden-for-beginners)
 
-- [**The Best electric Composter for Composting Food Waste**](/blog/the-best-composter-to-reduce-food-waste)
+- [**The Best electric Composter for Composting Food Waste**](https://gemebio.com/blogs/journal/how-to-reduce-food-waste-at-home-2026)
 
-- [**The Difference Between Garden Soil And Compost**](/blog/garden-soil-vs-compost-pros-and-cons)
+- [**The Difference Between Garden Soil And Compost**](https://www.gemebio.com/blogs/journal/garden-soil-vs-compost-pros-and-cons)
 
 ## Sources
 
