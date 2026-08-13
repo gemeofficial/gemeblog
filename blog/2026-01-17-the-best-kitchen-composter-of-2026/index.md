@@ -59,7 +59,7 @@ In short, Terra II delivers **“add & forget”** composting: just toss in scra
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-kitchen-composter-2026"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-kitchen-composter-2026"
 />
 
 GEME Terra II’s patented Kobold microbes are the secret to its power. By engineering a microbe culture adapted from natural high-heat composting, GEME has effectively miniaturized industrial composting for the home kitchen. 
@@ -74,7 +74,7 @@ In this prime environment, the microbes reproduce rapidly and feast on food wast
 
 This contrasts sharply with DIY bins, which often never get hot enough to kill pathogens or fully break down meat and dairy. (Garden experts note that meat can attract pests and stink if not managed carefully, but GEME’s sealed, high-heat process neutralizes these issues.)
 
-  - **True Compost, Not Just Dried Waste**: [Unlike “smart trash cans” that merely dehydrate, Terra II produces living compost rich in microbes and plant nutrients](https://www.geme.bio/blog/geme-vs-lomi).
+  - **True Compost, Not Just Dried Waste**: [Unlike “smart trash cans” that merely dehydrate, Terra II produces living compost rich in microbes and plant nutrients](https://www.gemebio.com/blogs/journal/geme-vs-lomi).
 
   - **All-Scrap Capability**: Terra II digests 400+ kinds of bio-waste, including vegetables and animal products (meat, fish, eggs, dairy, bones). You can truly put any kitchen scrap in.
 
@@ -107,7 +107,7 @@ By contrast, standard composter reviews (e.g. home compost tips) still caution a
 | **Output**            | Living compost (ready-to-use soil) | Dried, dusty residue (not true compost)    |
 | **Energy Use**        | ~58.3 Wh                  | ~700 Wh or more (heavy power draw)         |
 | **Capacity**          | 14 L (suitable for 1–3 people)     | ~6.5 L (enough for very small loads)       |
-| **Filter/Refills**    | [Permanent filter, no refills](https://www.geme.bio/blog/electric-compost-bin-filters-costs-comparison)       | Carbon filters, enzyme packs (~$200+/yr)   |
+| **Filter/Refills**    | [Permanent filter, no refills](https://www.gemebio.com/blogs/journal/electric-compost-bin-filters-costs-comparison)       | Carbon filters, enzyme packs (~$200+/yr)   |
 | **Noise & Odor**      | Quiet (&lt;40 dB), odor-free          | Varies; often needs external vents/filters |
 | **Cost (3 yr)**       | ~\$549 (no consumables)             | ~\$1,100 (machine + \$600 filters)           |
 
@@ -125,7 +125,7 @@ In short, for anyone who wants real compost with minimal effort, GEME Terra II e
 
 GEME Terra II represents the cutting-edge of kitchen recycling. By harnessing **next-gen biotechnology** in a consumer appliance, it makes heroic claims – and backs them up with science and experience. If reducing food waste and nurturing your garden are on your 2026 resolutions, Terra II is a top candidate.
 
-Ready to make every meal waste count? [Pre-order the GEME Terra II today and **turn your kitchen scraps into black gold**](https://www.geme.bio/blog/geme-terra-2-debuts). For technical readers, our downloadable whitepaper (see sidebar) dives deep into the **biochemistry and engineering** behind the Kobold microbes. Don’t miss the chance to equip your home with **the best electric composter of 2026** – your garden (and the planet) will thank you.
+Ready to make every meal waste count? [Pre-order the GEME Terra II today and **turn your kitchen scraps into black gold**](https://www.gemebio.com/blogs/journal/geme-terra-2-debuts). For technical readers, our downloadable whitepaper (see sidebar) dives deep into the **biochemistry and engineering** behind the Kobold microbes. Don’t miss the chance to equip your home with **the best electric composter of 2026** – your garden (and the planet) will thank you.
 
 <GemeTerra2CTA 
  imgSrc="/img/geme-terra-2-composter.jpg"
@@ -137,7 +137,7 @@ Ready to make every meal waste count? [Pre-order the GEME Terra II today and **t
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-kitchen-composter-2026"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-kitchen-composter-2026"
 />
 
 **Sources**: Credible industry reviews and GEME’s own technical materials were used throughout this article. Each claim about Terra II’s performance is backed by official specifications and expert coverage. (For more in-depth data, consult GEME’s technical whitepaper.)
