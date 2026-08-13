@@ -126,10 +126,10 @@ When combined with aerobic composting, anaerobic methods can offer a powerful so
 
 ## Are all kitchen composters use anaerobic composting method?
 
-Not any more. Well, before [GEME Composter](https://www.geme.bio/product/geme) is invented. Most of the kitchen composters are almost
+Not any more. Well, before [GEME Composter](https://www.gemebio.com/products/geme) is invented. Most of the kitchen composters are almost
 Bokashi compost bin. People use such bins to store their kitchen waste, food scraps, making compost tea from them.
 It's good. But now GEME kitchen composter is the one not using anaerobic composting method. Instead, GEME use the 
-aerobic composting way, which [simulates a hot composting pile in a box](https://www.geme.bio/how-it-works), making home 
+aerobic composting way, which [simulates a hot composting pile in a box](https://www.gemebio.com/pages/how-it-works), making home 
 composting effortless.
 
 
