@@ -76,9 +76,9 @@ If you choose to add them:
 - Conventional plastics (even “thin film”)
 - “Oxo-degradable” style materials (fragmentation ≠ composting)
 
-👉 [Learn More About GEME Terra II](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=can-i-put-plastic-in-geme-composter)
+👉 [Learn More About GEME Terra II](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=can-i-put-plastic-in-geme-composter)
 
-👉 [Explore GEME Pro for Big Households/Plant Shops/Restaurants](https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=can-i-put-plastic-in-geme-composter)
+👉 [Explore GEME Pro for Big Households/Plant Shops/Restaurants](https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=can-i-put-plastic-in-geme-composter)
 
 ## Why “conditional” is the honest answer
 
@@ -94,7 +94,7 @@ So we don’t tell you “yes, throw them all in.” We also don’t tell you �
 - Disintegration (no visible fragments) is part of compostability evaluation; if fragments remain, compost quality is compromised. 
 - For our exact internal accept/reject policy, publish the decision tree in GK (without disclosing proprietary process parameters).
 
-Methods & boundaries → [**Open GK Verification**](https://www.geme.bio/gk)
+Methods & boundaries → [**Open GK Verification**](https://gemebio.com/pages/gk-technology)
 
 <GemeTerra2CTA 
  imgSrc="/img/geme-terra-2-composter.jpg"
@@ -107,7 +107,7 @@ Methods & boundaries → [**Open GK Verification**](https://www.geme.bio/gk)
     "✅ Reduces Composting Time to Days"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=can-i-put-plastic-in-geme-composter"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=can-i-put-plastic-in-geme-composter"
 />
 
 <GemeComposterCTA 
@@ -120,7 +120,7 @@ buttonText="Get Your GEME Terra II"
     "✅ Large Capacity (19 L) For Daily Waste"
   ]}
 buttonText="Get Your GEME Pro"
-  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=can-i-put-plastic-in-geme-composter"
+  href="https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=can-i-put-plastic-in-geme-composter"
 />
 
 ## Cited Sources
