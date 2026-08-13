@@ -27,7 +27,7 @@ Kitchen B: A **Mill** owner hears the soft whir of their floor-standing unit doi
 
 Kitchen C: A **Reencle** user waves a hand to open the lid and adds coffee grounds to the warm, earthy-smelling medium inside. The microbes are already at work, and they know that in 24 hours, most of what they added will be broken down into something resembling real soil. They make a mental note: **the carbon filter and mesh filter will need replacing in about 9–12 months, at a cost of roughly \$47 combined**.
 
-Kitchen D: A [**GEME Terra 2**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme) owner does exactly what they did yesterday: they kick the bottom-front panel to open the lid, toss in this morning's scraps, and close it. No measuring, no bagging, no storing. The machine runs continuously, quietly digesting waste. They haven't thought about filters or subscriptions in months, because there aren't any. They'll harvest rich, living compost from their 14L chamber in another few weeks.
+Kitchen D: A [**GEME Terra 2**](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme) owner does exactly what they did yesterday: they kick the bottom-front panel to open the lid, toss in this morning's scraps, and close it. No measuring, no bagging, no storing. The machine runs continuously, quietly digesting waste. They haven't thought about filters or subscriptions in months, because there aren't any. They'll harvest rich, living compost from their 14L chamber in another few weeks.
 
 ![The Best Composter: GEME Terra II](./image/the-best-composter-geme-terra-2.png)
 
@@ -63,9 +63,9 @@ However, Reencle requires ongoing maintenance costs: **a carbon filter (\$35) an
 
 ### GEME Terra 2
 
-GEME Terra 2 is the world's first AI-powered kitchen composter, and it represents the pinnacle of microbial composting technology. Like Reencle, it uses live microorganisms, a proprietary blend called [**Kobold™**](https://www.geme.bio/kobold-introduction?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme), to digest waste. But GEME's engineering sets it apart in critical ways.
+GEME Terra 2 is the world's first AI-powered kitchen composter, and it represents the pinnacle of microbial composting technology. Like Reencle, it uses live microorganisms, a proprietary blend called [**Kobold™**](https://www.gemebio.com/pages/geme-kobold-introduction?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme), to digest waste. But GEME's engineering sets it apart in critical ways.
 
-According to [GEME's official specifications](https://www.geme.bio/gk?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme), it's properly defined as a [**Continuous Aerobic Bio-processor**](https://www.geme.bio/how-it-works?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme), not a dehydrator. It operates continuously, allowing you to add scraps anytime, and its **permanent metal-ion filter means zero ongoing consumable costs**. The 14L chamber provides ample capacity for daily use, processing up to 2kg of waste per day .
+According to [GEME's official specifications](https://gemebio.com/pages/gk-technology?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme), it's properly defined as a [**Continuous Aerobic Bio-processor**](https://gemebio.com/pages/how-it-works?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme), not a dehydrator. It operates continuously, allowing you to add scraps anytime, and its **permanent metal-ion filter means zero ongoing consumable costs**. The 14L chamber provides ample capacity for daily use, processing up to 2kg of waste per day .
 
 ### Table: Quick Overview: The Four Composters
 
@@ -90,7 +90,7 @@ According to [GEME's official specifications](https://www.geme.bio/gk?utm_medium
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme"
 />
 
 ## 2. Daily Operation: What It's Really Like
@@ -111,13 +111,13 @@ You add coffee grounds and eggshells to Mill's 6.5L bucket, using the foot pedal
 
 You wave your hand, the motion sensor opens the lid. You put the coffee grounds and eggshells into the 14L chamber. The rotating paddle mixes them into the existing composting medium. The microbes immediately get to work. You close the lid and move on with your day. **The system runs continuously**, so there's no "cycle" to schedule.
 
-#### [GEME Terra 2 User](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme):
+#### [GEME Terra 2 User](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme):
 
 You slightly kick the foot-touch sensor, the lid opens. No motion sensor, no buttons, you toss your scraps into the 14L chamber. The **Kobold microbes are always active, continuously digesting whatever you add**. The system maintains **optimal conditions (temperature, moisture, oxygen, pH) automatically**. You never think about cycles or schedules.
 
 ### Table: Daily Operation Comparison
 
-| **Aspect**                         | **Lomi**                               | **Mill**                                    | **Reencle**                   | [**GEME Terra 2**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme)         |
+| **Aspect**                         | **Lomi**                               | **Mill**                                    | **Reencle**                   | [**GEME Terra 2**](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme)         |
 |------------------------------------|----------------------------------------|---------------------------------------------|-------------------------------|--------------------------|
 | **Adding Scraps**                  | Fill bucket, then run cycle            | Fill bucket, machine decides when to run    | Wave sensor, add anytime      | Open lid, add anytime    |
 | **Cycle Management**               | Must schedule cycles; lid locks during operation | App-controlled scheduling; cannot add during cycle | No cycles, continuous feeding    | No cycle managements, continuous feeding    |
@@ -135,7 +135,7 @@ You slightly kick the foot-touch sensor, the lid opens. No motion sensor, no but
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme"
 />
 
 ## 3. The Output: What You Actually Get
@@ -186,7 +186,7 @@ Reencle's microbial process produces something much closer to real compost. The 
 
 ### GEME Terra 2's Output: Active Compost Base
 
-[GEME Terra 2](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme) produces "active compost base", a moist, microbe-active material ready for soil amendment. According to GEME's official specifications:
+[GEME Terra 2](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme) produces "active compost base", a moist, microbe-active material ready for soil amendment. According to GEME's official specifications:
 
  - **Volume reduction**: 95% of mass is biologically mineralized to CO₂ and water vapor
 
@@ -196,7 +196,7 @@ Reencle's microbial process produces something much closer to real compost. The 
 
  - **Usage ratio**: Mix 1:8 or 1:10 with soil (adjust based on plant sensitivity)
 
- - **The critical distinction**: GEME's output is living. It contains the active microorganisms that define true compost. It's not sterile dust; [**it's a biologically active soil amendment ready to nourish your plants**](https://www.geme.bio/gk?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme).
+ - **The critical distinction**: GEME's output is living. It contains the active microorganisms that define true compost. It's not sterile dust; [**it's a biologically active soil amendment ready to nourish your plants**](https://gemebio.com/pages/gk-technology?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme).
 
 Because the system is continuous, you harvest only every 1-2 months from the 14L chamber, far less frequently than batch-based alternatives. Any large particles can be screened out and returned to the system, where they'll continue breaking down.
 
@@ -221,7 +221,7 @@ Because the system is continuous, you harvest only every 1-2 months from the 14L
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme"
 />
 
 ## 4. The Cost of Ownership: What You Don't See in the Price Tag
@@ -278,13 +278,13 @@ The metal-ion filter is engineered for the machine's lifetime. Unlike charcoal f
 
 ### Table: 3-Year Total Cost of Ownership
 
-| **Cost Category**      | **Lomi**         | **Mill**                       | **Reencle**     | [**GEME Terra 2**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme) |
+| **Cost Category**      | **Lomi**         | **Mill**                       | **Reencle**     | [**GEME Terra 2**](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme) |
 |------------------------|------------------|-------------------------------|-----------------|------------------|
 | **Upfront Cost**           | \$499             | \$999+                         | ~\$500           | \$549             |
 | **Annual Consumables**     | \$100–200         | \$89 (filters) + optional pickup| \$47–\$63         | \$0               |
 | **3-Year Total**           | \$799–\$1,099      | \$1,266+ (purchase + filters)  | \$641–\$689       | \$549             |
 
-The math is compelling: [GEME Terra II](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme) costs \$50 more upfront than Lomi or Reencle but **saves \$250–550 over three years compared to Lomi, \$100–140 compared to Reencle, and even more compared to Mill**.
+The math is compelling: [GEME Terra II](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme) costs \$50 more upfront than Lomi or Reencle but **saves \$250–550 over three years compared to Lomi, \$100–140 compared to Reencle, and even more compared to Mill**.
 
 ## 5. The "Is It Compost?" Question: Why It Matters
 
@@ -322,7 +322,7 @@ Applying uncomposted material directly to soil can cause problems:
 
 If your goal is simply reducing landfill waste, dehydrators can help, especially if you have access to municipal composting or Mill's pickup service. But if your goal is creating soil you can actually use to grow plants, **microbial systems like GEME are the only true solution**.
 
-As one GEME user noted: ["**The output is biologically active and ready to mix with soil. I'm not storing bags of dust; I'm feeding my garden**"](/blog/geme-vs-mill-composter-2026).
+As one GEME user noted: ["**The output is biologically active and ready to mix with soil. I'm not storing bags of dust; I'm feeding my garden**"](https://www.gemebio.com/blogs/journal/geme-vs-mill-composter-2026).
 
 <GemeTerra2CTA 
  imgSrc="/img/geme-terra-2-composter.jpg"
@@ -334,7 +334,7 @@ As one GEME user noted: ["**The output is biologically active and ready to mix w
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme"
 />
 
 ## 6. By the Numbers: Specs Comparison
@@ -409,7 +409,7 @@ The principle: **GEME is designed for minimal intervention**. The microbes susta
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme"
 />
 
 ## 8. What Can You Put In? Input Boundaries
@@ -438,13 +438,13 @@ Let's dive deeper into what makes GEME Terra 2 the best composter for discerning
 
 GEME's official category is crucial: **Continuous Aerobic Bio-processor**. This isn't marketing jargon; it's an engineering distinction. **The machine maintains optimal conditions for live microorganisms 24/7, creating a true composting environment**.
 
-[**See how GEME Terra II Works** -->](https://www.geme.bio/how-it-works?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme)
+[**See how GEME Terra II Works** -->](https://www.gemebio.com/pages/how-it-works?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme)
 
 ### The Kobold™ Microbial System
 
 At the heart of GEME is Kobold™, a proprietary blend of thermophilic microorganisms that actively digest organic waste. Unlike additives you must purchase repeatedly, **Kobold microbes are self-sustaining**. Once established, they replicate as long as conditions remain favorable.
 
-[**Learn More About GEME Kobold™** -->](https://www.geme.bio/kobold-introduction?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme)
+[**Learn More About GEME Kobold™** -->](https://www.gemebio.com/pages/geme-kobold-introduction?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme)
 
 ### Permanent Odor Control
 
@@ -460,7 +460,7 @@ Most composters rely on replaceable charcoal filters, which means ongoing costs 
 
 GEME achieves up to 95% volume reduction through biological mineralization. **Most mass converts to CO₂ and water vapor; the remaining 5% is nutrient-dense active compost base**. 
 
-[**See the Evidence** -->](https://www.geme.bio/gk?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme)
+[**See the Evidence** -->](https://gemebio.com/pages/gk-technology?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme)
 
 ### The "Sift and Return" Principle
 
@@ -480,7 +480,7 @@ GEME is floor-standing, sized to fit where a kitchen trash can would go. It's qu
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme"
 />
 
 ## 10. Decision Guide: Which Composter Fits Your Life?
@@ -565,7 +565,7 @@ buttonText="Get Your GEME Terra II"
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme"
 />
 
 ### Q: Is Lomi actually composting?
@@ -644,9 +644,9 @@ The best kitchen composter isn't the one with the most marketing dollars or the 
 
 Choose the composter that matches your definition of success. If "compost" means something more than dried garbage, the choice is clear.
 
-👉 [Learn More About GEME Terra II](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme)
+👉 [Learn More About GEME Terra II](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme)
 
-👉 [Explore GEME Pro for Big Households](https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme)
+👉 [Explore GEME Pro for Big Households](https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme)
 
 <GemeTerra2CTA 
  imgSrc="/img/geme-terra-2-composter.jpg"
@@ -658,7 +658,7 @@ Choose the composter that matches your definition of success. If "compost" means
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme"
 />
 
 <GemeComposterCTA 
@@ -671,12 +671,12 @@ buttonText="Get Your GEME Terra II"
     "✅ Large Capacity (19 L) For Daily Waste"
   ]}
 buttonText="Get Your GEME Pro For Fastest Compost"
-  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme"
+  href="https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme"
 />
 
 **Sources Cited**
 
-1. [GEME Official Blog: GEME Terra 2 vs Mill Composter: The 2026 Decision Guide, January 2026](https://www.geme.bio/blog/geme-vs-mill-composter-2026/)
+1. [GEME Official Blog: GEME Terra 2 vs Mill Composter: The 2026 Decision Guide, January 2026](https://www.gemebio.com/blogs/journal/geme-vs-mill-composter-2026/)
 
 2. <a href="https://www.bobvila.com/reviews/best-electric-composters-2025/" rel="nofollow">Bob Vila: The Best Electric Composters for Recycling Food Waste, Tested, December 2025</a>
 
@@ -688,9 +688,9 @@ buttonText="Get Your GEME Pro For Fastest Compost"
 
 6. <a href="https://techspymagazine.com/2026/02/22/reencle-food-waste-composter-review/" rel="nofollow">Tech Spy Magazine: Reencle Food Waste Composter Review: When Sustainability Finally Feels Like Good Tech, February 2026</a>
 
-7. [GEME Official: How It Work](https://www.geme.bio/how-it-works?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme)
+7. [GEME Official: How It Work](https://www.gemebio.com/pages/how-it-works?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-daily-operation-comparison-lomi-mill-reencle-geme)
 
-8. [GEME Official Blog: Best Indoor Composter for Apartments: GEME Terra 2 vs. Lomi, February 2026](https://www.geme.bio/blog/best-indoor-composter-for-apartment-geme-vs-lomi)
+8. [GEME Official Blog: Best Indoor Composter for Apartments: GEME Terra 2 vs. Lomi, February 2026](https://www.gemebio.com/blogs/journal/best-indoor-composter-for-apartment-geme-vs-lomi)
 
 9. <a href="https://help.reencle.co/en-US" rel="nofollow">Reencle Official Support: Product specifications and filter replacement information (sourced from manufacturer documentation)</a>
 
