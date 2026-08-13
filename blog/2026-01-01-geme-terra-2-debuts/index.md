@@ -16,7 +16,7 @@ import GemeTerra2CTA from '@site/src/components/GemeTerra2CTA'
 import RelatedArticles from '@site/src/components/RelatedArticles'
 import ReactPlayer from 'react-player'
 
-GEME, the leader in the global bio-composting market, [launches the revolutionary kitchen composter model GEME Terra 2 on 9 December 2025](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-debuts). Its lighter, smarter design makes composting at home much easier and more efficient, fitting almost all kinds of households, reducing food waste, and bringing a more eco-friendly lifestyle in the future. 
+GEME, the leader in the global bio-composting market, [launches the revolutionary kitchen composter model GEME Terra 2 on 9 December 2025](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-debuts). Its lighter, smarter design makes composting at home much easier and more efficient, fitting almost all kinds of households, reducing food waste, and bringing a more eco-friendly lifestyle in the future. 
 
 ![GEME Terra 2](./img/geme-terra-2.png)
 <!-- truncate -->
@@ -39,9 +39,9 @@ GEME, the leader in the global bio-composting market, [launches the revolutionar
 
 ## 1. Bringing New Solutions To Reducing Waste At Home 
 
-[**GEME Terra 2**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-debuts) weighs only 13 kg but has a 14 L capacity, making it easy to handle up to 3 kg of daily food waste. Its dimensions (11.7 × 17.2 × 22.3 inches) make composting at home accessible for modern families and households of three or fewer persons. 
+[**GEME Terra 2**](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-debuts) weighs only 13 kg but has a 14 L capacity, making it easy to handle up to 3 kg of daily food waste. Its dimensions (11.7 × 17.2 × 22.3 inches) make composting at home accessible for modern families and households of three or fewer persons. 
 
-[On December 9th, the GEME Terra II pre-orders sold out in just 10 hours, with hundreds of units snapped up by eager gardeners – the response was incredible](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-debuts)! It's been such a thrill to see how much our customers have been waiting for a solution like this. They're absolutely enthusiastic about transforming their kitchen scraps into nutrient-rich garden compost, even in cooler weather.
+[On December 9th, the GEME Terra II pre-orders sold out in just 10 hours, with hundreds of units snapped up by eager gardeners – the response was incredible](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-debuts)! It's been such a thrill to see how much our customers have been waiting for a solution like this. They're absolutely enthusiastic about transforming their kitchen scraps into nutrient-rich garden compost, even in cooler weather.
 
 
 <div className="video__wrapper">
@@ -58,12 +58,12 @@ GEME, the leader in the global bio-composting market, [launches the revolutionar
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-debuts"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-debuts"
 />
 
 ### GEME Terra 2 Fits 78% US Households
 
-According to [Statista's Household Size Survey](https://www.statista.com/statistics/242189/disitribution-of-households-in-the-us-by-household-size/), in 2024, more than 78% of U.S. households consisted of three people or fewer. That said, the smaller design of [**GEME Terra 2** can help over 78% of US households achieve better food waste management, leaving more space in their homes and thus reducing carbon footprint and cutting greenhouse gas emissions](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-debuts). 
+According to [Statista's Household Size Survey](https://www.statista.com/statistics/242189/disitribution-of-households-in-the-us-by-household-size/), in 2024, more than 78% of U.S. households consisted of three people or fewer. That said, the smaller design of [**GEME Terra 2** can help over 78% of US households achieve better food waste management, leaving more space in their homes and thus reducing carbon footprint and cutting greenhouse gas emissions](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-debuts). 
 
 ![Statista Household Size Survey](./img/statista-household-size-survey.png)
 
@@ -97,7 +97,7 @@ Considering the safety of children, GEME Terra 2 features a Child Lock, ensuring
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-debuts"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-debuts"
 />
 
 ## 4. The Urgency of Reducing Food Waste
@@ -145,7 +145,7 @@ By making the device smaller, smarter, and more accessible, we are democratising
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-debuts"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-terra-2-debuts"
 />
 
 
