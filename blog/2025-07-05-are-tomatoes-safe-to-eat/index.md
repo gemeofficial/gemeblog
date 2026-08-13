@@ -57,7 +57,7 @@ Besides, there's something deeply satisfying about nurturing a seed into a flour
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=are-tomatoes-safe-to-eat-now"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=are-tomatoes-safe-to-eat-now"
 />
 
 ## How to Grow Tomatoes: Step-by-Step Gardening Guide
@@ -100,7 +100,7 @@ Avoid composting meat, dairy, or anything oily. **For the best quality of compos
     "✅ Large Capacity (19 L) For Daily Waste"
   ]}
 buttonText="Get Your GEME Composter For Tomato Plants"
-  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=are-tomatoes-safe-to-eat-now"
+  href="https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=are-tomatoes-safe-to-eat-now"
 />
 
 ### Planting Tomato Seeds or Seedlings
@@ -183,7 +183,7 @@ Absolutely! The best way to deal with bad tomatoes is to compost it. Use the com
     "✅ Large Capacity (19 L) For Daily Waste"
   ]}
 buttonText="Get Your GEME Composter For Tomato Plants"
-  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=are-tomatoes-safe-to-eat-now"
+  href="https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=are-tomatoes-safe-to-eat-now"
 />
 
 It's the most **efficient, odour-free and eco-friendly** method for urban homes. The compost output is also fully matured and nutrient-rich to **improve your garden plants' health** 🌱. 
@@ -215,9 +215,9 @@ So, are tomatoes safe to eat now? Maybe. But if you want absolute certainty, gro
 
 - [**FDA Cucumber Recall**](/blog/cucumber-recall-2025-how-to-protect-vegetable-garden-from-salmonella)
 
-- [**The Best Composter to turn food waste into rich compost for your garden**](/blog/the-best-composter-to-reduce-food-waste)
+- [**The Best Composter to turn food waste into rich compost for your garden**](https://www.gemebio.com/blogs/journal/the-best-composter-to-reduce-food-waste)
 
-- [**How to ues garden soil and compost?**](/blog/garden-soil-vs-compost-pros-and-cons)
+- [**How to ues garden soil and compost?**](https://www.gemebio.com/blogs/journal/garden-soil-vs-compost-pros-and-cons)
 
 ## Sources
 1. FoodSafty Guidence by CDC https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures
