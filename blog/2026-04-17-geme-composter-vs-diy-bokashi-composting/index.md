@@ -78,9 +78,9 @@ Inside the machine lives a colony of Kobold microbes, a proprietary blend of hea
 
 The machine is built for households that generate serious food waste, think large families, daily cooks, or even small restaurants. It’s not a dehydrator. It’s not a glorified trash compactor. It’s a genuine biological processing unit that lives in your kitchen.
 
-[**See how GEME works** →](https://www.geme.bio/how-it-works)
+[**See how GEME works** →](https://www.gemebio.com/pages/how-it-works)
 
-[**See Verification (GK)** →](https://www.geme.bio/gk)
+[**See Verification (GK)** →](https://www.gemebio.com/pages/gk-technology)
 
 <GemeComposterCTA 
  imgSrc="/img/geme-bio-composter.jpg"
@@ -92,7 +92,7 @@ The machine is built for households that generate serious food waste, think larg
     "✅ Large Capacity (19 L) For Daily Waste"
   ]}
 buttonText="Get Your GEME Pro"
-  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-composter-vs-diy-bokashi-composting"
+  href="https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-composter-vs-diy-bokashi-composting"
 />
 
 ### How GEME Composter Stands Out
@@ -116,7 +116,7 @@ And because the machine uses a permanent metal-ion oxidation catalyst for odor c
     "✅ Reduces Composting Time to Days"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-composter-vs-diy-bokashi-composting"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-composter-vs-diy-bokashi-composting"
 />
 
 ## 2. What Is DIY Bokashi? (The Fermentation Bucket)
@@ -216,7 +216,7 @@ But GEME composter requires almost no daily effort. You just add scraps. Bokashi
     "✅ Reduces Composting Time to Days"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-composter-vs-diy-bokashi-composting"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-composter-vs-diy-bokashi-composting"
 />
 
 <GemeComposterCTA 
@@ -229,7 +229,7 @@ buttonText="Get Your GEME Terra II"
     "✅ Large Capacity (19 L) For Daily Waste"
   ]}
 buttonText="Get Your GEME Pro"
-  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-composter-vs-diy-bokashi-composting"
+  href="https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-composter-vs-diy-bokashi-composting"
 />
 
 ## 5. What Can You Put In? Input Comparison
@@ -352,9 +352,9 @@ Both systems are significantly better than traditional compost bins. GEME compos
 
 Neither one will make your kitchen smell like a dumpster. But Bokashi needs more attention to stay that way.
 
-👉 [Learn More About GEME Terra II](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-composter-vs-diy-bokashi-composting)
+👉 [Learn More About GEME Terra II](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-composter-vs-diy-bokashi-composting)
 
-👉 [Explore GEME Pro for Big Households/Plant Shops/Restaurants](https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-composter-vs-diy-bokashi-composting)
+👉 [Explore GEME Pro for Big Households/Plant Shops/Restaurants](https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-composter-vs-diy-bokashi-composting)
 
 ## 9. Who Should Choose Each Method?
 
@@ -395,7 +395,7 @@ Me? I’d rather pay once and be done. No draining liquid. No buying bran. No bu
 
 If that sounds good to you, GEME Composter is the way to go.
 
-[**Learn More About GEME Composter Pro**](https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-composter-vs-diy-bokashi-composting)
+[**Learn More About GEME Composter Pro**](https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-composter-vs-diy-bokashi-composting)
 
 ![GEME Composter Pro](./image/geme-composter-pro.png)
 
@@ -452,7 +452,7 @@ If that sounds good to you, GEME Composter is the way to go.
     "✅ Reduces Composting Time to Days"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-composter-vs-diy-bokashi-composting"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-composter-vs-diy-bokashi-composting"
 />
 
 <GemeComposterCTA 
@@ -465,7 +465,7 @@ buttonText="Get Your GEME Terra II"
     "✅ Large Capacity (19 L) For Daily Waste"
   ]}
 buttonText="Get Your GEME Pro"
-  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-composter-vs-diy-bokashi-composting"
+  href="https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-composter-vs-diy-bokashi-composting"
 />
 
 ## Sources
@@ -476,11 +476,11 @@ buttonText="Get Your GEME Pro"
 
 3. <a href="https://www.originalorganics.co.uk/blog/bokashi-vs-wormery-which-indoor-composting-method-is-better-for-me-" rel="nofollow"><strong>Original Organics</strong> Bokashi vs Wormery: Which Indoor Composting Method is Better for Me?</a>
 
-4. [**GEME Official Blog** Top 5 Electric Composters on Amazon: 2026 Buyer‘s Guide](https://www.geme.bio/blog/top-5-electric-composters-on-amazon-2026-buyers-guide/)
+4. [**GEME Official Blog** Top 5 Electric Composters on Amazon: 2026 Buyer‘s Guide](https://www.gemebio.com/blogs/journal/top-5-electric-composters-on-amazon-2026-buyers-guide/)
 
-5. [**GEME Official Blog** The Best Composter for Avoiding Recurring Fees](https://www.geme.bio/blog/the-best-composter-for-avoiding-recurring-fees/)
+5. [**GEME Official Blog** The Best Composter for Avoiding Recurring Fees](https://www.gemebio.com/blogs/journal/the-best-composter-for-avoiding-recurring-fees/)
 
-6. [**GEME Official Blog** Electric Compost Bin Filters Cost: GEME vs Lomi vs Mill vs Reencle](https://www.geme.bio/blog/electric-compost-bin-filters-cost-geme-vs-lomi-vs-mill-vs-reencle/)
+6. [**GEME Official Blog** Electric Compost Bin Filters Cost: GEME vs Lomi vs Mill vs Reencle](https://www.gemebio.com/blogs/journal/electric-compost-bin-filters-cost-geme-vs-lomi-vs-mill-vs-reencle/)
 
 7. <a href="https://www.bloomingexpert.com/garden/composting-methods-compared/" rel="nofollow"><strong>Blooming Expert</strong> Composting Methods Compared: Hot Bin, Cold Heap, Worm Farm, Bokashi and Electric</a>
 
