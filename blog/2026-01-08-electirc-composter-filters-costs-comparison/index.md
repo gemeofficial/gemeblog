@@ -23,14 +23,14 @@ For example, the popular Lomi composter recommends new filters every 3–4 month
 ![Even with a convenient compost bin, hidden costs like filter replacements can add up over time.](./image/compost-bin-hidden-costs-filter-replacements.png)
 *Image: Modern indoor composting – even with a convenient countertop bin, hidden costs like filter replacements can add up over time.*
 
-By contrast, **both GEME Pro and GEME Terra II electric composters are engineered for zero filter replacements**. GEME uses an industrial metal-ion “permanent” filter inside that never needs a charcoal refill. In short, GEME has no ongoing filter subscription costs. [<span style={{color: 'green', fontStyle: 'italic'}}>Terra II at \$549 has no ongoing refills… Consumables 3-Year: \$0 Permanent Filter & Self-replicating Microbes</span>](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=electric-compost-bin-filters-costs-comparison). In practical terms, this means **GEME owners pay $0 per year for filters, while competitors may pay hundreds of dollars over a few years**.
+By contrast, **both GEME Pro and GEME Terra II electric composters are engineered for zero filter replacements**. GEME uses an industrial metal-ion “permanent” filter inside that never needs a charcoal refill. In short, GEME has no ongoing filter subscription costs. [<span style={{color: 'green', fontStyle: 'italic'}}>Terra II at \$549 has no ongoing refills… Consumables 3-Year: \$0 Permanent Filter & Self-replicating Microbes</span>](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=electric-compost-bin-filters-costs-comparison). In practical terms, this means **GEME owners pay $0 per year for filters, while competitors may pay hundreds of dollars over a few years**.
 
 ![GEME Composter Doesn't Need Filter Replacements](./image/geme-compost-bin-filter-no-need-for-replacements.png)
 <!-- truncate -->
 
 <h2 class="jump-to">Jump To</h2>
 
-1. **[Electric Composter Comparison: Filter Costs Uncovered](https://www.geme.bio/blog/geme-vs-lomi?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=electric-compost-bin-filters-costs-comparison)**
+1. **[Electric Composter Comparison: Filter Costs Uncovered](https://www.gemebio.com/blogs/journal/geme-vs-lomi?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=electric-compost-bin-filters-costs-comparison)**
 
 2. **[Compost Bin Filters Replacement Frequency And Impact](#2-compost-bin-filters-replacement-frequency-and-impact)**
 
@@ -60,7 +60,7 @@ When evaluating an electric composter for your home, it pays to compare not just
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=electric-compost-bin-filters-costs-comparison"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=electric-compost-bin-filters-costs-comparison"
 />
 
 :::note
@@ -69,28 +69,28 @@ buttonText="Get Your GEME Terra II"
 
 | Brand / Model        | Filter Type                          | Replacement Required | Replacement Frequency | Annual Filter Cost (Approx.)     | Ongoing Subscription | Key Notes                                                                                                  |
 | -------------------- | ------------------------------------ | -------------------- | --------------------- | -------------------------------- | -------------------- | ---------------------------------------------------------------------------------------------------------- |
-| **[GEME Terra II & GEME Pro](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=electric-compost-bin-filters-costs-comparison)**    | Permanent metal-ion catalytic filter | No need                | Never                 | **\$0**                           |  None               | No charcoal, no refills, no consumables. Odor control via microbial fermentation and catalytic filtration. |
+| **[GEME Terra II & GEME Pro](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=electric-compost-bin-filters-costs-comparison)**    | Permanent metal-ion catalytic filter | No need                | Never                 | **\$0**                           |  None               | No charcoal, no refills, no consumables. Odor control via microbial fermentation and catalytic filtration. |
 | **Lomi**             | Activated charcoal filters           | Yes                | Every 3–4 months      | **\$150–\$200**                    | Optional auto-ship | Filters saturate quickly with frequent use. Ongoing cost increases with heavy composting.                  |
 | **Mill Kitchen Bin** | High-capacity carbon odor filter     | Yes                | About once per year   | **~\$89**                         | None               | Large charcoal filter; replacement required to maintain odor control.                                      |
 | **Reencle Prime**    | Carbon filter + mesh filter          | Yes                | Every 9–12 months     | **~\$47** (\$35 carbon + \$12 mesh) | None               | Requires annual filter replacement; recurring consumable cost.                                             |
 
 
-These figures highlight a big difference: **GEME imposes no filter fees, while others require ongoing purchases**. Over just three years, for instance, [**GEME’s design is hundreds of dollars cheaper than a filter-dependent competitor**.](https://www.geme.bio/blog/geme-vs-lomi?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=electric-compost-bin-filters-costs-comparison). In plain terms, **your ROI on GEME can be much higher since you eliminate hidden filter expenses**.
+These figures highlight a big difference: **GEME imposes no filter fees, while others require ongoing purchases**. Over just three years, for instance, [**GEME’s design is hundreds of dollars cheaper than a filter-dependent competitor**.](https://www.gemebio.com/blogs/journal/geme-vs-lomi?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=electric-compost-bin-filters-costs-comparison). In plain terms, **your ROI on GEME can be much higher since you eliminate hidden filter expenses**.
 
 
 ### Calculate Your Filter Costs
 
- 1. [Click here to see **GEME Terra II vs Lomi**](https://www.geme.bio/cost-calculator/terra2-vs-lomi?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=electric-compost-bin-filters-costs-comparison)  
+ 1. [Click here to see **GEME Terra II vs Lomi**](https://gemebio.com/pages/page-compare-geme-vs-lomi?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=electric-compost-bin-filters-costs-comparison)  
 
- 2. [Click here to see **GEME Terra II vs Mill Food Recycler**](https://www.geme.bio/cost-calculator/terra2-vs-mill?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=electric-compost-bin-filters-costs-comparison)
+ 2. [Click here to see **GEME Terra II vs Mill Food Recycler**](https://gemebio.com/pages/geme-vs-mill-composter?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=electric-compost-bin-filters-costs-comparison)
 
- 3. [Click here to see **GEME Terra II vs Reencle Composter**](https://www.geme.bio/cost-calculator/terra2-vs-reencle?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=electric-compost-bin-filters-costs-comparison)
+ 3. [Click here to see **GEME Terra II vs Reencle Composter**](https://gemebio.com/pages/geme-vs-reencle?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=electric-compost-bin-filters-costs-comparison)
 
 ## 2. Compost Bin Filters: Replacement Frequency and Impact
 
 Most kitchen compost bins and machines advertise an odorless operation, but few highlight the hidden upkeep. Compost bin filters (usually activated charcoal) trap smells but saturate over time. For example, Lomi’s support notes that the charcoal in its filters breaks down “a little quicker” with heavy use (reference: <a href="https://www.lomi.com/products/lomi-filter-refills-90-cycles" rel="nofollow">Lomi Support</a>), requiring more frequent changes. **Many users blindly subscribe to filter refills, unaware of the long-term costs**.
 
-In contrast, GEME’s technology avoids this trap. By using self-replicating microbes and an ionizing filter, GEME eliminates odors without consumables. This eco-friendly design not only saves money but also reduces waste (no spent filter cartridges to dispose of). As [**GEME Terra II**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=electric-compost-bin-filters-costs-comparison) designs: “No charcoal. No refills. Industrial metal-ion catalysis eliminates odors forever.”
+In contrast, GEME’s technology avoids this trap. By using self-replicating microbes and an ionizing filter, GEME eliminates odors without consumables. This eco-friendly design not only saves money but also reduces waste (no spent filter cartridges to dispose of). As [**GEME Terra II**](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=electric-compost-bin-filters-costs-comparison) designs: “No charcoal. No refills. Industrial metal-ion catalysis eliminates odors forever.”
 
 ![GEME Electric Compost Bin Has Zero Filter Costs](./image/geme-terra-2-digital-display.jpg)
 
@@ -108,7 +108,7 @@ GEME’s odor control is designed to operate without recurring charcoal/filter p
 
 **We understand this incorrect information could confuse shoppers. However, we take our brand and customers’ trust seriously: if misleading marketing messages about GEME's filters continue to circulate, we will enforce our rights to protect our reputation and inform the public**.
 
-GEME is committed to transparency. To that end, we explicitly clarify: [**GEME Terra II does not require recurring filter purchases**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=electric-compost-bin-filters-costs-comparison). Reencle’s \$35/year claim is baseless. We urge any consumer who hears this rumor to refer to GEME’s official sources and product documentation.
+GEME is committed to transparency. To that end, we explicitly clarify: [**GEME Terra II does not require recurring filter purchases**](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=electric-compost-bin-filters-costs-comparison). Reencle’s \$35/year claim is baseless. We urge any consumer who hears this rumor to refer to GEME’s official sources and product documentation.
 
 ## 4. Conclusion: No Hidden Costs with GEME
 
@@ -130,7 +130,7 @@ We hope this information helps you make an informed decision. GEME remains focus
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=electric-compost-bin-filters-costs-comparison"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=electric-compost-bin-filters-costs-comparison"
 />
 
 ## 6. References
