@@ -76,7 +76,7 @@ In the U.S., refrigeration is a must due to washing and sanitization practices. 
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=do-eggs-expire"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=do-eggs-expire"
 />
 
 ## 2. Do Eggs Expire? Myths vs. Facts
@@ -139,7 +139,7 @@ Expired eggs don't necessarily turn toxic overnight. Over time, moisture and gas
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=do-eggs-expire"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=do-eggs-expire"
 />
 
 
@@ -213,7 +213,7 @@ Using the GEME composter ensures your waste turns into something beneficial for 
     "✅ Large Capacity (19 L) For Daily Waste"
   ]}
 buttonText="Get Your GEME Composter For Tomato Plants"
-  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=do-eggs-expire"
+  href="https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=do-eggs-expire"
 />
 
 ## 6. Food Safety Tips for Egg Storage
@@ -272,7 +272,7 @@ buttonText="Get Your GEME Composter For Tomato Plants"
 
 ## 8. Conclusion: Keep Your Eggs Fresh and Waste-Free
 
-Knowing how long eggs last in the fridge helps reduce waste, prevent illness, and protect the environment. Always check freshness using the float test or your senses. And if you do end up with bad eggs, don't just toss them—compost them with smart tools like the [**GEME home electric composter**](https://www.geme.bio/product/geme) for food waste.
+Knowing how long eggs last in the fridge helps reduce waste, prevent illness, and protect the environment. Always check freshness using the float test or your senses. And if you do end up with bad eggs, don't just toss them—compost them with smart tools like the [**GEME home electric composter**](https://www.gemebio.com/products/geme) for food waste.
 
 Sustainable living starts with small choices, like better food storage and composting habits.
 
@@ -280,13 +280,13 @@ Sustainable living starts with small choices, like better food storage and compo
 
 - [**Egg Recall Due To Salmonella**](/blog/egg-recall-salmonella-2025-best-way-to-kill-salmonella-in-eggs-recalled)
 
-- [**Are Tomatoes Safe to Eat Now?**](/blog/are-tomatoes-safe-to-eat-now)
+- [**Are Tomatoes Safe to Eat Now?**](https://www.gemebio.com/blogs/journal/are-tomatoes-safe-to-eat-now)
 
-- [**Can Popcorn Expire?**](/blog/can-popcorn-expire)
+- [**Can Popcorn Expire?**](https://www.gemebio.com/blogs/journal/can-popcorn-expire)
 
 - [**The Best Composter to turn food waste into rich compost for your garden**](/blog/the-best-composter-to-reduce-food-waste)
 
-- [**How Long Do Apples Last in The Fridge?**](/blog/how-long-do-apples-last-in-the-fridge)
+- [**How Long Do Apples Last in The Fridge?**](https://www.gemebio.com/blogs/journal/how-long-do-apples-last-in-the-fridge)
 
 
 
