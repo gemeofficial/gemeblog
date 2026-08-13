@@ -50,7 +50,7 @@ Before we dive deep, here's how the five stack up against each other.
 
 ### Understanding the Categories: Dehydrator vs. Microbial Composter
 
-Before we get into specific models, you need to know the difference between these two types of machines. It's the difference between owning a food dehydrator and owning a living ecosystem. [See the difference between Dehydrator and Composter -->](https://www.geme.bio/compare/real-compost-vs-dehydrated-scraps)
+Before we get into specific models, you need to know the difference between these two types of machines. It's the difference between owning a food dehydrator and owning a living ecosystem. [See the difference between Dehydrator and Composter -->](https://gemebio.com/pages/real-compost-vs-dehydrated-scraps)
 
 #### Dehydrator-Style Composters (Lomi, Mill)
 
@@ -77,7 +77,7 @@ The output is real compost. It's dark, crumbly, smells like earth, and contains 
     "✅ Reduces Composting Time to Days"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=top-5-kitchen-composters-pros-and-cons"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=top-5-kitchen-composters-pros-and-cons"
 />
 
 ## 1. GEME Terra 2: The First AI-Powered Kitchen Composter
@@ -125,7 +125,7 @@ The output is an "active compost base", moist, soil-like, and full of living mic
     "✅ Reduces Composting Time to Days"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=top-5-kitchen-composters-pros-and-cons"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=top-5-kitchen-composters-pros-and-cons"
 />
 
 ### Cons of GEME Terra II
@@ -190,12 +190,12 @@ Large families (4+ people). People who cook every meal at home. Small restaurant
     "✅ Large Capacity (19 L) For Daily Waste"
   ]}
 buttonText="Get Your GEME Pro"
-  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=top-5-kitchen-composters-pros-and-cons"
+  href="https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=top-5-kitchen-composters-pros-and-cons"
 />
 
 ## 3. Lomi: The Popular Composter That Doesn't Actually Compost
 
-Lomi is the name everyone's heard. It's a countertop machine from Pela that grinds and dehydrates food scraps. It looks great. It's easy to use. But is it composting? Not really. [See "**Does Lomi Composter Really Compost**?" -->](/blog/does-lomi-composter-really-compost)
+Lomi is the name everyone's heard. It's a countertop machine from Pela that grinds and dehydrates food scraps. It looks great. It's easy to use. But is it composting? Not really. [See "**Does Lomi Composter Really Compost**?" -->](https://www.gemebio.com/blogs/journal/does-lomi-composter-really-compost)
 
 ### How It Works
 
@@ -243,7 +243,7 @@ According to soil scientists, Lomi Earth is organic matter, not soil. It lacks t
 
 People who live alone or generate very little waste. Anyone who just wants less trash and doesn't care about having real compost. If you have no plants and no garden, Lomi is an expensive trash compactor.
 
-[See GEME Terra II Vs. Lomi Composter -->](/blog/geme-vs-lomi)
+[See GEME Terra II Vs. Lomi Composter -->](https://www.gemebio.com/blogs/journal/geme-vs-lomi)
 
 ![Lomi Kitchen Composter](./image/Lomi-kitchen-composter.webp)
 <a href="https://www.tiltedmap.com/lomi-review-kitchen-composter/" rel="nofollow">*Image: Ketti Wilhelm*</a>
@@ -255,7 +255,7 @@ Mill takes a different approach. It's a floor-standing unit that dries and grind
 ### How It Works
 
 You toss scraps into the bin. The machine dries and grinds them into a fine powder. You can use the grounds in your garden, give them to chickens, or ship them back to Mill to be turned into chicken feed. 
-[See "**Does Mill Really Compost**?" -->](/blog/does-mill-composter-really-compost)
+[See "**Does Mill Really Compost**?" -->](https://www.gemebio.com/blogs/journal/does-mill-composter-really-compost-2026)
 
 ### What You Get
 
@@ -291,7 +291,7 @@ According to Mill's own support documentation: "Food Grounds aren't compost." Th
 
 5. **Loud-ish**: Up to 60 dB, which is noticeable.
 
-[See GEME Terra II Vs. Mill Composter -->](/blog/geme-vs-mill-composter-2026)
+[See GEME Terra II Vs. Mill Composter -->](https://www.gemebio.com/blogs/journal/geme-vs-mill-composter-2026)
 
 ### Who It's For
 
@@ -301,13 +301,13 @@ People who like service-based models. Anyone who wants waste reduction without d
 
 ## 5. Reencle: The Quiet Microbial Composter with Filter Costs
 
-Reencle uses microorganisms to break down waste, similar to GEME. But there are some key differences. [See How Reencle Composter Works -->](https://www.geme.bio/compare/geme-vs-reencle)
+Reencle uses microorganisms to break down waste, similar to GEME. But there are some key differences. [See How Reencle Composter Works -->](https://gemebio.com/pages/geme-vs-reencle)
 
 ### How It Works
 
 You add scraps using a motion sensor lid. The machine uses a three-layer filter system (carbon, mesh, and microbes) to control odors. The output is nutrient-rich fertilizer that can be used on plants.
 
-[See GEME Terra II Vs. Reencle Composter -->](/blog/does-reencle-composter-produce-real-compost)
+[See GEME Terra II Vs. Reencle Composter -->](https://gemebio.com/blogs/journal/geme-vs-reencle-composter-2026)
 
 ### What You Get
 
@@ -348,7 +348,7 @@ People who want a quiet microbial composter and don't mind the filter costs. Sin
 
 ## Comparison Table
 
-| Feature / Model                | [**GEME Composter**](https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=top-5-kitchen-composters-pros-and-cons)  | Lomi Composter    | Reencle Composter | Mill Composter    |
+| Feature / Model                | [**GEME Composter**](https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=top-5-kitchen-composters-pros-and-cons)  | Lomi Composter    | Reencle Composter | Mill Composter    |
 | ------------------------------ | ----------------------- | ----------------- | ----------------- | ----------------- |
 | True Compost Output            | ✅ Yes                   | ❌ No              | ❌ No, pre-compost              | ❌ No              |
 | Odor Control                   | ✅ Permanent, no filters | ✅ Requires filter | ✅ Requires filter | ✅ Requires filter |
@@ -369,7 +369,7 @@ People who want a quiet microbial composter and don't mind the filter costs. Sin
     "✅ Reduces Composting Time to Days"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=top-5-kitchen-composters-pros-and-cons"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=top-5-kitchen-composters-pros-and-cons"
 />
 
 ### Cost Comparison 
@@ -396,7 +396,7 @@ GEME costs a little more upfront than Lomi or Reencle. But after three years, yo
     "✅ Large Capacity (19 L) For Daily Waste"
   ]}
 buttonText="Get Your GEME Pro"
-  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=top-5-kitchen-composters-pros-and-cons"
+  href="https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=top-5-kitchen-composters-pros-and-cons"
 />
 
 ## 7. Conclusion
@@ -415,7 +415,7 @@ That's the difference between owning a dehydrator and owning a composter.
 
 ### Q: Do any of these actually make real compost?
 
-> A: Yes. [**GEME Terra 2**](https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=top-5-kitchen-composters-pros-and-cons) and **GEME Pro** produce real, biologically active compost. The others produce dehydrated scraps or partially processed material that needs further composting.
+> A: Yes. [**GEME Terra 2**](https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=top-5-kitchen-composters-pros-and-cons) and **GEME Pro** produce real, biologically active compost. The others produce dehydrated scraps or partially processed material that needs further composting.
 
 ### Q: What's the difference between GEME and Lomi?
 
@@ -457,7 +457,7 @@ That's the difference between owning a dehydrator and owning a composter.
     "✅ Reduces Composting Time to Days"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=top-5-kitchen-composters-pros-and-cons"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=top-5-kitchen-composters-pros-and-cons"
 />
 
 <GemeComposterCTA 
@@ -470,12 +470,12 @@ buttonText="Get Your GEME Terra II"
     "✅ Large Capacity (19 L) For Daily Waste"
   ]}
 buttonText="Get Your GEME Pro"
-  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=top-5-kitchen-composters-pros-and-cons"
+  href="https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=top-5-kitchen-composters-pros-and-cons"
 />
 
-👉 [Learn More About GEME Terra II](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-composter-review-2026)
+👉 [Learn More About GEME Terra II](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-composter-review-2026)
 
-👉 [Explore GEME Pro for Big Households/Plant Shops/Restaurants](https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-composter-review-2026)
+👉 [Explore GEME Pro for Big Households/Plant Shops/Restaurants](https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-composter-review-2026)
 
 ## Sources
 
