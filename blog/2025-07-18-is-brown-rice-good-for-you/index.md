@@ -97,7 +97,7 @@ The takeaway? Brown rice is nutritionally superior by a long shot.
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-use-compost-correctly"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-use-compost-correctly"
 />
 
 ![Is Brown Rice Good For You?](./img/is-brown-rice-good-for-you.jpg)
@@ -258,7 +258,7 @@ Use almond milk, honey, cinnamon, and raisins for a delicious dessert.
     "✅ Large Capacity (19 L) For Daily Waste"
   ]}
 buttonText="Get Your GEME Composter For Tomato Plants"
-  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=is-brown-rice-healthy"
+  href="https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=is-brown-rice-healthy"
 />
 />
 
@@ -266,7 +266,7 @@ buttonText="Get Your GEME Composter For Tomato Plants"
 
 | Do Compost | Don't Compost |
 |------------|---------------|
-| Plain, uncooked rice, cooked rice with little oil or seasonings | [Cooked rice with too much oil or seasonings](https://www.geme.bio/help-center/docs/faq/supported-foods/what-kinds-of-food-waste-can-i-put-into-what-can-not) |
+| Plain, uncooked rice, cooked rice with little oil or seasonings | [Cooked rice with too much oil or seasonings](https://gemebio.com/pages/geme-support) |
 | In electric composters | In cold or passive compost bins |
 
 ### Storing and Reheating Brown Rice
@@ -315,7 +315,7 @@ Brown rice is not Paleo or Keto-friendly due to its carb content. Those on low-c
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=is-brown-rice-healthy"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=is-brown-rice-healthy"
 />
 
 ## People Also Ask about Brown Rice
