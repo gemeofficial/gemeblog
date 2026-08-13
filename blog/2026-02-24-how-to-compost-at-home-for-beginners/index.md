@@ -56,7 +56,7 @@ As the WWF puts it, ["Without healthy soil we would be unable to grow plants and
 
 ### The Apartment Solution
 
-Even if you have no garden, composting still matters. Many cities now offer curbside composting programs. [**In New York, it's actually mandatory (with fines starting at \$25)**](https://www.geme.bio/blog/best-indoor-composter-for-apartment-geme-vs-lomi). And if you choose the right indoor composter, you can turn scraps into soil for your houseplants.
+Even if you have no garden, composting still matters. Many cities now offer curbside composting programs. [**In New York, it's actually mandatory (with fines starting at \$25)**](https://www.gemebio.com/blogs/journal/best-indoor-composter-for-apartment-geme-vs-lomi). And if you choose the right indoor composter, you can turn scraps into soil for your houseplants.
 
 So whether you're motivated by climate guilt, gardening obsession, or just really hate taking out the trash, composting delivers.
 
@@ -70,7 +70,7 @@ So whether you're motivated by climate guilt, gardening obsession, or just reall
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home-beginners-guide"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home-beginners-guide"
 />
 
 ## 2. The Composting Basics: What Goes In, What Stays Out
@@ -268,7 +268,7 @@ These machines grind and heat your food until it becomes dry dust. [**They're es
 
 As Wired bluntly put it, Lomi is "a grinder-and-dryer". The New Yorker described its output as "dark-brown, crumbly dust"—not compost, exactly.
 
-#### 2. Microbial Composters (e.g., [**GEME Terra 2**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home-beginners-guide))
+#### 2. Microbial Composters (e.g., [**GEME Terra 2**](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home-beginners-guide))
 
 These use live microorganisms to actually digest your waste. The GEME Terra 2 is the world's first AI-powered kitchen composter, and it's in a class of its own.
 
@@ -278,9 +278,9 @@ These use live microorganisms to actually digest your waste. The GEME Terra 2 is
 
  - **Cons**: A little higher upfront cost (\$549)
 
-[**See how GEME Terra II works & why it matters** -->](https://www.geme.bio/how-it-works?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home-beginners-guide)
+[**See how GEME Terra II works & why it matters** -->](https://www.gemebio.com/pages/how-it-works?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home-beginners-guide)
 
-[**Learn more about GEME Kobold and the controlled microbial fermentation** -->](https://www.geme.bio/kobold-introduction?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home-beginners-guide)
+[**Learn more about GEME Kobold and the controlled microbial fermentation** -->](https://www.gemebio.com/pages/geme-kobold-introduction?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home-beginners-guide)
 
 ### Table: Electric Composter Comparison
 
@@ -316,7 +316,7 @@ GEME's living compost, by contrast, is ready to use immediately. Mix it 1:8 with
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home-beginners-guide"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home-beginners-guide"
 />
 
 ## 5. How to Choose the Best Composter for Your Situation
@@ -360,7 +360,7 @@ Choose **vermicomposting** if:
 
  - You want the highest-quality fertilizer
 
-Choose [**GEME Terra 2**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home-beginners-guide) if :
+Choose [**GEME Terra 2**](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home-beginners-guide) if :
 
  - You live in an apartment or have limited space
 
@@ -393,7 +393,7 @@ Choose a **dehydrator** if:
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home-beginners-guide"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home-beginners-guide"
 />
 
 ## 6. Using Your Compost: The Grand Finale
@@ -430,7 +430,7 @@ Give it away! Community gardens, neighbors with gardens, and local urban farms w
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home-beginners-guide"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home-beginners-guide"
 />
 
 ## 7. Frequently Asked Questions
@@ -537,16 +537,16 @@ Choose your method. Get your bin. And join the composting revolution: one banana
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home-beginners-guide"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home-beginners-guide"
 />
 
 ## Sources Cited
 
 1. [Department for Environment and Water (South Australia): A beginner's guide to composting](https://www.environment.sa.gov.au/goodliving/posts/2019/05/guide-to-composting)
 
-2. [GEME Official Blog: Top 5 Kitchen Composters in 2026](https://www.geme.bio/blog/5-best-kitchen-composters-in-2026)
+2. [GEME Official Blog: Top 5 Kitchen Composters in 2026](https://www.gemebio.com/blogs/journal/5-best-kitchen-composters-in-2026)
 
-3. [GEME Official Blog: Best Indoor Composter for Apartments: GEME Terra 2 vs. Lomi](https://www.geme.bio/blog/best-indoor-composter-for-apartment-geme-vs-lomi) 
+3. [GEME Official Blog: Best Indoor Composter for Apartments: GEME Terra 2 vs. Lomi](https://www.gemebio.com/blogs/journal/best-indoor-composter-for-apartment-geme-vs-lomi) 
 
 4. [AP News: Composting helps the planet. This is how to do it, no matter where you live](https://apnews.com/article/compost-climate-emissions-landfills-greenhouse-gas-1ee0bffa41abdc9ed5b70adae92d3e42) 
 
@@ -556,9 +556,9 @@ buttonText="Get Your GEME Terra II"
 
 7. [WWF: Feed the soil, feed the plants](https://www.wwf.org.uk/challenges/feed-soil-feed-plants)
 
-8. [GEME Official Blog: GEME Terra 2 vs Mill Composter: The 2026 Decision Guide](https://www.geme.bio/blog/geme-vs-mill-composter-2026) 
+8. [GEME Official Blog: GEME Terra 2 vs Mill Composter: The 2026 Decision Guide](https://www.gemebio.com/blogs/journal/geme-vs-mill-composter-2026) 
 
-9. [GEME Official Blog: GEME vs Lomi: Electric Composter Comparison for Zero Waste Homes](https://www.geme.bio/blog/geme-vs-lomi) 
+9. [GEME Official Blog: GEME vs Lomi: Electric Composter Comparison for Zero Waste Homes](https://www.gemebio.com/blogs/journal/geme-vs-lomi) 
 
 <RelatedArticles
   slugs={[
