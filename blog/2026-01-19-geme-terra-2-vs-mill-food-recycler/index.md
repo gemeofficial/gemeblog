@@ -20,7 +20,7 @@ import ReactPlayer from 'react-player'
 
 Choosing a kitchen composter isn’t just about convenience — it’s about **capacity, output reality, and long-term cost**.
 
-This guide compares [**GEME Terra 2 vs Mill (Gen 2)**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-kitchen-composter-2026) using only published specifications and official support statements, so you can decide which system actually fits your kitchen and budget.
+This guide compares [**GEME Terra 2 vs Mill (Gen 2)**](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-kitchen-composter-2026) using only published specifications and official support statements, so you can decide which system actually fits your kitchen and budget.
 
 ## The 90-Second Truth: The "Lazy" Owner vs. The Service Subscriber
 
@@ -57,7 +57,7 @@ This guide compares [**GEME Terra 2 vs Mill (Gen 2)**](https://www.geme.bio/prod
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-kitchen-composter-2026"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-kitchen-composter-2026"
 />
 
 ### What This Comparison Is (and Isn’t)
@@ -156,7 +156,7 @@ These costs vary by user, but they are part of Mill’s ecosystem-based model.
 If you prefer **predictable, one-time ownership**, Terra 2 is simpler.  
 If you’re comfortable with **service-based pricing**, Mill may fit your expectations.
 
-Mill involves potential recurring costs for rental (\$35/mo), filters (\$89), or pickups (\$192/yr). GEME has zero mandatory recurring fees. [Click here to **Calculate your cost**](https://www.geme.bio/cost-calculator/terra2-vs-mill?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-kitchen-composter-2026).
+Mill involves potential recurring costs for rental (\$35/mo), filters (\$89), or pickups (\$192/yr). GEME has zero mandatory recurring fees. [Click here to **Calculate your cost**](https://gemebio.com/pages/geme-vs-mill-composter?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-kitchen-composter-2026).
 
 ---
 
@@ -183,7 +183,7 @@ Mill involves potential recurring costs for rental (\$35/mo), filters (\$89), or
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-kitchen-composter-2026"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-kitchen-composter-2026"
 />
 
 ## 6. FAQ
@@ -228,8 +228,8 @@ Terra 2 publishes a daily capacity (up to 2kg/day). Mill describes a bucket capa
 ## Verified Sources
 Last Verified: Jan 18, 2026. Data derived strictly from public support pages.
 
- 1. [GEME — Terra 2 Home Bio-Composter](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-kitchen-composter-2026) (Specs: up to 2kg/day, Permanent Filter)
- 2. [GEME — FAQs](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-kitchen-composter-2026) (95% reduction; harvest every 1–2 months)
+ 1. [GEME — Terra 2 Home Bio-Composter](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-kitchen-composter-2026) (Specs: up to 2kg/day, Permanent Filter)
+ 2. [GEME — FAQs](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-kitchen-composter-2026) (95% reduction; harvest every 1–2 months)
  3. <a href="https://www.mill.com/lp/food-grounds" rel="nofollow">Mill Support — "Food Grounds aren't compost"</a>
  4. <a href="https://support.mill.com/hc/en-us/articles/12517303784219-How-much-does-Mill-cost" rel="nofollow">Mill Support — Pricing (Buy \$999 / Rent \$35/mo)</a>
  5. <a href="https://support.mill.com/hc/en-us/articles/13772092617755-How-to-order-a-new-carbon-filter" rel="nofollow">Mill Support — Carbon filter replacement (\$89)</a>
