@@ -41,7 +41,7 @@ Question	Answer
 | Signs of spoilage?                       | Mold, slime, sour smell, discoloration     |
 | Best reheating method?                   | Oven at 375°F for 8–10 minutes             |
 | Can I freeze pizza?                      | Yes, up to 2 months                        |
-| **What to do with spoiled pizza**?           | [**Compost it with GEME Terra 2**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-does-pizza-last-in-fridge-guide)               |
+| **What to do with spoiled pizza**?           | [**Compost it with GEME Terra 2**](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-does-pizza-last-in-fridge-guide)               |
 
 In this comprehensive guide, we'll answer every variation of "how long is pizza good for in the fridge" you can think of. We'll cover storage hacks, spoilage signs, and the best reheating methods. And for those inevitable times when you forget about that box until day 7? We'll introduce you to the GEME Terra 2, the world's first AI-powered kitchen composter that turns your wasted slices into living compost for your plants.
 
@@ -136,7 +136,7 @@ While crust type doesn't significantly affect safety, it does impact quality:
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-does-pizza-last-in-fridge-guide"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-does-pizza-last-in-fridge-guide"
 />
 
 ## 3. How Long Is Leftover Pizza Good For? The Day-by-Day Breakdown
@@ -264,7 +264,7 @@ This is where the GEME Terra 2 enters the picture.
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-does-pizza-last-in-fridge-guide"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-does-pizza-last-in-fridge-guide"
 />
 
 ## 8. GEME Terra 2: Turning Pizza Waste Into Garden Gold
@@ -273,11 +273,11 @@ Meet the GEME Terra 2, the world's first AI-powered kitchen composter and the pe
 
 ### How It Works
 
-Unlike dehydrators that simply dry and grind food into sterile dust, [**GEME uses a proprietary blend of microorganisms ("Kobold") that actually eat your food waste**](https://www.geme.bio/how-it-works?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-does-pizza-last-in-fridge-guide).
+Unlike dehydrators that simply dry and grind food into sterile dust, [**GEME uses a proprietary blend of microorganisms ("Kobold") that actually eat your food waste**](https://www.gemebio.com/pages/how-it-works?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-does-pizza-last-in-fridge-guide).
 
 | **Feature**                  | **How It Handles Your Spoiled Pizza**                                        |
 |------------------------------|------------------------------------------------------------------------------|
-| [**Microbial digestion**](https://www.geme.bio/kobold-introduction?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-does-pizza-last-in-fridge-guide)          | Live microbes break down cheese, crust, and meat toppings                    |
+| [**Microbial digestion**](https://www.gemebio.com/pages/geme-kobold-introduction?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-does-pizza-last-in-fridge-guide)          | Live microbes break down cheese, crust, and meat toppings                    |
 | **AI-controlled environment**    | Maintains optimal 45–55°C temperature for maximum microbial activity         |
 | **Continuous feed**              | Add moldy slices anytime, no waiting for batch cycles                         |
 | **Permanent metal-ion filter**   | \$0 ongoing costs—no expensive replacements                                   |
@@ -346,7 +346,7 @@ That pizza you forgot? It just helped grow new food. That's a circular economy .
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-does-pizza-last-in-fridge-guide"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-does-pizza-last-in-fridge-guide"
 />
 
 ## 10. Frequently Asked Questions
@@ -373,7 +373,7 @@ buttonText="Get Your GEME Terra II"
 
 ### Q: How can I tell if pizza has gone bad?
 
-> A: Look for mold, slimy toppings, sour smell, or discoloration. [**If in doubt, throw it in your GEME Terra II and compost it**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-does-pizza-last-in-fridge-guide).
+> A: Look for mold, slimy toppings, sour smell, or discoloration. [**If in doubt, throw it in your GEME Terra II and compost it**](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-does-pizza-last-in-fridge-guide).
 
 ### Q: Can I freeze leftover pizza instead?
 
@@ -413,7 +413,7 @@ Even with the best intentions, pizza sometimes outlasts our appetites. When that
 
 You can send it to a landfill, where it generates methane and contributes to climate change.
 
-Or you can feed it to a [**GEME Terra 2** and **turn it into living compost that grows more food**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-does-pizza-last-in-fridge-guide).
+Or you can feed it to a [**GEME Terra 2** and **turn it into living compost that grows more food**](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-does-pizza-last-in-fridge-guide).
 
 A dehydrator-style composter might seem convenient, but it locks you into \$100–200 in annual filter costs and produces sterile dust, not real compost. The GEME Terra 2 costs \$549 upfront, but \$0 after that. Over three years, that's \$550+ saved compared to subscription-based machines.
 
@@ -425,9 +425,9 @@ But most importantly, you know what to do when that pizza inevitably outlasts it
 
 **Don't trash it. Don't feel guilty. Compost it with GEME and grow something beautiful**.
 
-👉 [Learn More About GEME Terra II](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-does-pizza-last-in-fridge-guide)
+👉 [Learn More About GEME Terra II](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-does-pizza-last-in-fridge-guide)
 
-👉 [Explore GEME Pro for Big Households](https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-does-pizza-last-in-fridge-guide)
+👉 [Explore GEME Pro for Big Households](https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-does-pizza-last-in-fridge-guide)
 
 <GemeTerra2CTA 
  imgSrc="/img/geme-terra-2-composter.jpg"
@@ -439,7 +439,7 @@ But most importantly, you know what to do when that pizza inevitably outlasts it
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-does-pizza-last-in-fridge-guide"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-does-pizza-last-in-fridge-guide"
 />
 
 <GemeComposterCTA 
@@ -452,7 +452,7 @@ buttonText="Get Your GEME Terra II"
     "✅ Large Capacity (19 L) For Daily Waste"
   ]}
 buttonText="Get Your GEME Pro For Fastest Compost"
-  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-does-pizza-last-in-fridge-guide"
+  href="https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-does-pizza-last-in-fridge-guide"
 />
 
 **Sources Cited**
@@ -463,7 +463,7 @@ buttonText="Get Your GEME Pro For Fastest Compost"
 
 3. [The Takeout: How Long Is Leftover Pizza Really Good For?](https://www.thetakeout.com/1782052/how-long-leftover-pizza-good-for/)
 
-4. [GEME Official Blog: Best Indoor Composter for Apartments: GEME Terra 2 vs. Lomi, February 2026](https://www.geme.bio/blog/best-indoor-composter-for-apartment-geme-vs-lomi)
+4. [GEME Official Blog: Best Indoor Composter for Apartments: GEME Terra 2 vs. Lomi, February 2026](https://www.gemebio.com/blogs/journal/best-indoor-composter-for-apartment-geme-vs-lomi)
 
 5. [Food Wander: How Long Does Pizza Last in the Fridge?](https://foodwander.com/how-long-does-pizza-last-in-the-fridge/)
 
@@ -475,7 +475,7 @@ buttonText="Get Your GEME Pro For Fastest Compost"
 
 9. [Quorixhub: How Long Does Pizza Last In The Fridge?, September 2025](https://quorixhub.com/pizza-guides/how-long-does-pizza-last-in-the-fridge/)
 
-10. [GEME Official Blog: GEME Terra 2 vs Mill Composter: The 2026 Decision Guide, January 2026](https://www.geme.bio/blog/geme-vs-mill-composter-2026/)
+10. [GEME Official Blog: GEME Terra 2 vs Mill Composter: The 2026 Decision Guide, January 2026](https://www.gemebio.com/blogs/journal/geme-vs-mill-composter-2026/)
 
 <RelatedArticles
   slugs={[
