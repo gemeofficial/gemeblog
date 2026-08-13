@@ -51,7 +51,7 @@ These varying storage conditions for fresh produce are dependent on several thin
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-do-apples-last-in-the-fridge"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-do-apples-last-in-the-fridge"
 />
 
 ## 🍏 Overview Table: Storage Life by Apple Type & Situation
@@ -156,7 +156,7 @@ An 18th-century layering method uses a ventilated basket with sawdust or dry san
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-do-apples-last-in-the-fridge"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-do-apples-last-in-the-fridge"
 />
 
 ## How to Keep Apples Fresh for Months
@@ -193,7 +193,7 @@ Yes! Composting spoiled apples is eco-friendly and safe with the GEME home compo
     "✅ Large Capacity (19 L) For Daily Waste"
   ]}
 buttonText="Get Your GEME Composter For Tomato Plants"
-  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-do-apples-last-in-the-fridge"
+  href="https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-do-apples-last-in-the-fridge"
 />
 
 You might be wondering if the spoiled or mouldy apples would interfere with the Kobold microbes? Bacteria are so tiny that the GEME composter capacity is large enough (19L) for them to coexist. It's like putting two groups of ants in a forest full of food. They don't even have a chance to meet.
@@ -246,7 +246,7 @@ When handled properly, apple slices can even support dental health and hydration
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-do-apples-last-in-the-fridge"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-do-apples-last-in-the-fridge"
 />
 
 #### Benefits of apples for dogs:
@@ -347,11 +347,11 @@ With the right conditions, you can enjoy fresh fruit, minimise waste, and confid
 
 ## Related Articles
 
-- [The Best Composter to turn food waste into rich compost for your garden](/blog/the-best-composter-to-reduce-food-waste)
+- [The Best Composter to turn food waste into rich compost for your garden](https://gemebio.com/blogs/journal/how-to-reduce-food-waste-at-home-2026)
 
 - [FDA Tomato Recall Salmonella](/blog/fda-tomato-recall-salmonella-outbreak-raises-concerns-about-vegetable)
 
-- [Is It Ok To Put Mouldy Apples in GEME Composter](https://www.geme.bio/help-center/docs/faq/supported-foods/can-i-put-mold-food)
+- [Is It Ok To Put Mouldy Apples in GEME Composter](https://gemebio.com/pages/geme-support)
 
 ---
 
