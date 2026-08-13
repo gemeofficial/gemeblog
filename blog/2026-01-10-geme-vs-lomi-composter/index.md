@@ -30,11 +30,11 @@ In this guide, we compare **Geme Terra 2 vs Lomi**, including how they work, wha
 
 ## Reviewers Say
 
-One reviewer, [**Helen Rosner from The New Yorker**](https://www.newyorker.com/culture/annals-of-gastronomy/the-promises-of-the-home-composting-machine) noted, Lomi’s output was **“dark-brown, crumbly dust”, “not compost, exactly”**. Lomi excels at reducing volume, but **[Terra II](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-vs-lomi)’s** biological process produces a nutrient-rich fertilizer you can mix straight into plants. Let’s compare their features head-to-head.
+One reviewer, [**Helen Rosner from The New Yorker**](https://www.newyorker.com/culture/annals-of-gastronomy/the-promises-of-the-home-composting-machine) noted, Lomi’s output was **“dark-brown, crumbly dust”, “not compost, exactly”**. Lomi excels at reducing volume, but **[Terra II](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-vs-lomi)’s** biological process produces a nutrient-rich fertilizer you can mix straight into plants. Let’s compare their features head-to-head.
 
 ## Quick Answer: Geme Terra 2 vs Lomi
 
-If you want a machine that continuously handles food scraps and is designed around microbial composting, [**Geme Terra 2**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-vs-lomi) is the stronger option according to GEME’s own product specifications. Terra 2 uses AI-sensors to manage heat, oxygen, and moisture, supports a 14L chamber, allows continuous feeding, uses a permanent filter, and is designed to turn food waste into a soil-like amendment in hours. 
+If you want a machine that continuously handles food scraps and is designed around microbial composting, [**Geme Terra 2**](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-vs-lomi) is the stronger option according to GEME’s own product specifications. Terra 2 uses AI-sensors to manage heat, oxygen, and moisture, supports a 14L chamber, allows continuous feeding, uses a permanent filter, and is designed to turn food waste into a soil-like amendment in hours. 
 
 <GemeTerra2CTA 
  imgSrc="/img/geme-terra-2-composter.jpg"
@@ -46,7 +46,7 @@ If you want a machine that continuously handles food scraps and is designed arou
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-vs-lomi"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-vs-lomi"
 />
 
 
@@ -88,7 +88,7 @@ Sources: GEME product pages and Lomi official product page.
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-vs-lomi"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-vs-lomi"
 />
 
 ## How Geme Terra 2 Works
@@ -131,7 +131,7 @@ Geme positions Terra 2 around those exact use cases, with a permanent filter and
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-vs-lomi"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-vs-lomi"
 />
 
 ## How Lomi Works
@@ -196,7 +196,7 @@ That means the choice depends on your home:
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-vs-lomi"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-vs-lomi"
 />
 
 ## Noise, Maintenance, and Ongoing Costs
@@ -248,7 +248,7 @@ In summary, GEME Terra II not only handles more waste but also provides real com
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-vs-lomi"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-vs-lomi"
 />
 
 ## What Reviewers and Experts Suggest
@@ -297,7 +297,7 @@ Both machines help reduce kitchen food waste, but they do it in different ways.
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-vs-lomi"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-vs-lomi"
 />
 
 So if you are choosing between **Geme Terra 2** and **Lomi**, the better option depends on your goal:
@@ -324,7 +324,7 @@ That depends on what you mean by zero waste. If you want a microbial system desi
 
 ## 8. References
 
-1. [GEME Terra 2 Official Page](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-vs-lomi)
+1. [GEME Terra 2 Official Page](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-vs-lomi)
 
 2. [The New Yorker: Helen Rosner](https://www.newyorker.com/culture/annals-of-gastronomy/the-promises-of-the-home-composting-machine)
 
