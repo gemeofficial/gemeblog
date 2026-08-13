@@ -123,7 +123,7 @@ Without the second stage, the material remains only partially processed relative
     "✅ Reduces Composting Time to Days"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-does-bokashi-take-to-compost"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-does-bokashi-take-to-compost"
 />
 
 ## How Long Does Bokashi Take in Total?
@@ -146,7 +146,7 @@ This fuller description aligns with public educational materials such as [NC Sta
 
 The common claim that bokashi takes two weeks is not necessarily wrong. It is simply incomplete. It accurately describes the fermentation stage for many systems. What it leaves out is that fermentation alone does not usually equal finished compost.
 
-For that reason, the more accurate answer is that bokashi takes about **two weeks to ferment**, followed by another **two to four weeks to finish decomposing in soil or another biologically active system like [GEME Terra II](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-does-bokashi-take-to-compost)**.
+For that reason, the more accurate answer is that bokashi takes about **two weeks to ferment**, followed by another **two to four weeks to finish decomposing in soil or another biologically active system like [GEME Terra II](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-does-bokashi-take-to-compost)**.
 
 ![Bokashi](./image/Bokashi-bin.jpeg)
 
@@ -196,7 +196,7 @@ General composting resources such as [Cornell’s compost methods guide](https:/
     "✅ Reduces Composting Time to Days"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-does-bokashi-take-to-compost"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-does-bokashi-take-to-compost"
 />
 
 ## Common Misunderstanding: Bokashi Compost Is Not Always Finished Compost
