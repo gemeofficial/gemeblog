@@ -76,7 +76,7 @@ This is where modern home technology provides a perfect, hygienic, and efficient
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-reduce-food-waste-during-spring-festival"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-reduce-food-waste-during-spring-festival"
 />
 
 
@@ -105,13 +105,13 @@ Unlike simple food dehydrators that just dry and shrink waste, GEME uses powerfu
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-reduce-food-waste-during-spring-festival"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-reduce-food-waste-during-spring-festival"
 />
 
 
-[**See how GEME Terra II works & why it matters** -->](https://www.geme.bio/how-it-works?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=does-reencle-composter-produce-real-compost)
+[**See how GEME Terra II works & why it matters** -->](https://www.gemebio.com/pages/how-it-works?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=does-reencle-composter-produce-real-compost)
 
-[**Learn more about GEME Kobold and the controlled microbial fermentation** -->](https://www.geme.bio/kobold-introduction?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=does-reencle-composter-produce-real-compost)
+[**Learn more about GEME Kobold and the controlled microbial fermentation** -->](https://www.gemebio.com/pages/geme-kobold-introduction?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=does-reencle-composter-produce-real-compost)
 
 ## Conclusion: Celebrate Abundance, Not Waste
 
