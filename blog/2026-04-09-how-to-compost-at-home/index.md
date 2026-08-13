@@ -83,7 +83,7 @@ Think of your compost pile as a slow-cooking meal for microbes. Give them the ri
 
 The benefits go way beyond just feeling good about not wasting food.
 
-First, composting keeps food waste out of landfills. When food scraps end up in a landfill, they get buried under piles of other trash with no oxygen. In that environment, they break down anaerobically and produce methane, a greenhouse gas that's about 25 times more potent than carbon dioxide when it comes to trapping heat. [**Learn How to Reduce Food Waste at Home** -->](https://www.geme.bio/blog/how-to-reduce-food-waste-at-home-2026)
+First, composting keeps food waste out of landfills. When food scraps end up in a landfill, they get buried under piles of other trash with no oxygen. In that environment, they break down anaerobically and produce methane, a greenhouse gas that's about 25 times more potent than carbon dioxide when it comes to trapping heat. [**Learn How to Reduce Food Waste at Home** -->](https://www.gemebio.com/blogs/journal/how-to-reduce-food-waste-at-home-2026)
 
 Second, compost is incredible for your garden. It improves soil structure, helps soil hold onto water, and feeds plants with slow-release nutrients. Gardeners who use compost report stronger root systems and higher yields from their vegetables.
 
@@ -91,7 +91,7 @@ Third, it saves you money. Instead of buying bags of fertilizer and soil amendme
 
 And honestly, there's something satisfying about closing the loop. You grow food, you eat it, you compost the scraps, and that compost helps you grow more food. It just feels right.
 
-[**See How GEME Composter Works** -->](https://www.geme.bio/how-it-works)
+[**See How GEME Composter Works** -->](https://www.gemebio.com/pages/how-it-works)
 
 <GemeTerra2CTA 
  imgSrc="/img/geme-terra-2-composter.jpg"
@@ -104,7 +104,7 @@ And honestly, there's something satisfying about closing the loop. You grow food
     "✅ Reduces Composting Time to Days"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home"
 />
 
 ## 2. What Can You Compost
@@ -170,7 +170,7 @@ Important note: **If you're using an advanced electric composter like GEME, many
     "✅ Reduces Composting Time to Days"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home"
 />
 
 ## 3. How to Start Composting
@@ -292,7 +292,7 @@ Mix the compost with soil at a ratio of about 1 part compost to 8 parts soil. Yo
     "✅ Reduces Composting Time to Days"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home"
 />
 
 #### Why GEME Is Different from Other Electric Composters
@@ -320,7 +320,7 @@ Here's what makes GEME the best choice for most modern households.
 | **Daily attention needed**      | Yes (monitoring, turning)                     | No (just add scraps)                      |
 | **Filter costs**                | None                                          | \$0 (permanent metal-ion catalyst)         |
 
-Check the pros & cons of GEME composter: [**GEME Terra II Pros & Cons**](https://www.geme.bio/blog/geme-terra-2-pros-and-cons)
+Check the pros & cons of GEME composter: [**GEME Terra II Pros & Cons**](https://www.gemebio.com/blogs/journal/geme-terra-2-pros-and-cons)
 
 ![How to start composting](./image/how-to-start-composting.png)
 
@@ -336,9 +336,9 @@ When we talk about a 6 to 8 hour GEME breakdown cycle, it needs to be more speci
 
 The machine runs continuously, so you add new waste whenever you have it. When you harvest after a month or two, you'll have a mix of fully broken down compost and a few larger pieces. Those larger pieces can simply be returned to the machine to continue breaking down. This is called the "sift and return" principle, and it's a normal part of how the system works.
 
-👉 [Learn More About GEME Terra II](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home)
+👉 [Learn More About GEME Terra II](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home)
 
-👉 [Explore GEME Pro for Big Households/Plant Shops/Restaurants](https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home)
+👉 [Explore GEME Pro for Big Households/Plant Shops/Restaurants](https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home)
 
 #### Who Is GEME For
 
@@ -367,7 +367,7 @@ GEME is perfect for:
     "✅ Reduces Composting Time to Days"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home"
 />
 
 ##### The Only Downside
@@ -422,17 +422,17 @@ The choice is yours. But either way, start composting today.
 
 ### Trust Stack
 
-- Start with the 3-minute truth → [**Real compost vs dehydrator**](https://www.geme.bio/compare/real-compost-vs-dehydrated-scraps)
+- Start with the 3-minute truth → [**Real compost vs dehydrator**](https://gemebio.com/pages/real-compost-vs-dehydrated-scraps)
 
-- Browse comparisons → [**Choose what to compare**](https://www.geme.bio/compare)
+- Browse comparisons → [**Choose what to compare**](https://gemebio.com/pages/compare)
 
-- Methods & boundaries → [**Open GK Verification**](https://www.geme.bio/gk)
+- Methods & boundaries → [**Open GK Verification**](https://gemebio.com/pages/gk-technology)
 
-- Ready for the kitchen workflow? → [**Shop Terra 2**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home)
+- Ready for the kitchen workflow? → [**Shop Terra 2**](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home)
 
-👉 [Learn More About GEME Terra II](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home)
+👉 [Learn More About GEME Terra II](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home)
 
-👉 [Explore GEME Pro for Big Households/Plant Shops/Restaurants](https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home)
+👉 [Explore GEME Pro for Big Households/Plant Shops/Restaurants](https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home)
 
 <GemeTerra2CTA 
  imgSrc="/img/geme-terra-2-composter.jpg"
@@ -445,7 +445,7 @@ The choice is yours. But either way, start composting today.
     "✅ Reduces Composting Time to Days"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home"
 />
 
 <GemeComposterCTA 
@@ -458,7 +458,7 @@ buttonText="Get Your GEME Terra II"
     "✅ Large Capacity (19 L) For Daily Waste"
   ]}
 buttonText="Get Your GEME Pro"
-  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home"
+  href="https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home"
 />
 
 
@@ -468,15 +468,15 @@ Here is the complete list of sources referenced throughout the blog post. All li
 
 ### GEME Official Sources
 
-1. [GEME: How It Works](https://www.geme.bio/how-it-works)	46+ heat-tolerant Kobold strains; continuous aerobic bio-processor definition; 6-8 hour breakdown window; 30-40 dB noise level; permanent metal-ion filter; moisture output standard; maintenance guidelines; input boundaries (no large bones or shells);
+1. [GEME: How It Works](https://www.gemebio.com/pages/how-it-works)	46+ heat-tolerant Kobold strains; continuous aerobic bio-processor definition; 6-8 hour breakdown window; 30-40 dB noise level; permanent metal-ion filter; moisture output standard; maintenance guidelines; input boundaries (no large bones or shells);
 
-2. [GEME Kobold: Revolutionary Compost Starter](https://www.geme.bio/kobold-introduction)	46 complex, heat-tolerant aerobic bacillus bacteria; activates at 80°C to kill pathogens; 6-8 hours to decompose bio-wastes; produces high-activity organic fertilizer; activates soil microorganisms;
+2. [GEME Kobold: Revolutionary Compost Starter](https://www.gemebio.com/pages/geme-kobold-introduction)	46 complex, heat-tolerant aerobic bacillus bacteria; activates at 80°C to kill pathogens; 6-8 hours to decompose bio-wastes; produces high-activity organic fertilizer; activates soil microorganisms;
 
-3. [Best Kitchen Composters in 2026](https://www.geme.bio/blog/best-kitchen-composter-in-2026-geme-terra-2)	True composting requires active microorganisms; dehydrators produce sterilized food residue; GEME uses microbial process for real compost;
+3. [Best Kitchen Composters in 2026](https://www.gemebio.com/blogs/journal/best-kitchen-composter-in-2026-geme-terra-2)	True composting requires active microorganisms; dehydrators produce sterilized food residue; GEME uses microbial process for real compost;
 
-4. [Best Indoor Composter for Apartments](https://www.geme.bio/blog/best-indoor-composter-for-apartment-geme-vs-lomi)	Lomi vs GEME comparison; Kobold microbes digest waste; temperature range 45-55°C; genuine living compost output;
+4. [Best Indoor Composter for Apartments](https://www.gemebio.com/blogs/journal/best-indoor-composter-for-apartment-geme-vs-lomi)	Lomi vs GEME comparison; Kobold microbes digest waste; temperature range 45-55°C; genuine living compost output;
 
-5. [GEME Help Center](https://gemecomposter.tawk.help)	Kobold is self-replicating; only refill if cycle crashes; no daily dosing required
+5. [GEME Help Center](https://gemebio.com/pages/geme-support)	Kobold is self-replicating; only refill if cycle crashes; no daily dosing required
 
 ### Environmental & Government Sources
 
@@ -492,7 +492,7 @@ Here is the complete list of sources referenced throughout the blog post. All li
 
 1. [Mitre 10: Composting Guide](https://www.mitre10.com.au/diy/composting-what-is-how-to)	Traditional compost heap requires regular turning; may attract pests; takes longer to break down; benefits include reduced household waste, enhanced soil fertility, improved water retention, reduced chemical fertilizer reliance.
 
-**Disclaimer**: *All third-party sources (EPA, Arizona DEQ, Michigan EGLE, ScienceDirect, Mitre 10) are cited for reference only. GEME does not claim any official endorsement from these organizations. For the most current product information, please refer to the official GEME website at https://www.geme.bio.*
+**Disclaimer**: *All third-party sources (EPA, Arizona DEQ, Michigan EGLE, ScienceDirect, Mitre 10) are cited for reference only. GEME does not claim any official endorsement from these organizations. For the most current product information, please refer to the official GEME website at https://www.gemebio.com*
 
 <RelatedArticles
   slugs={[
