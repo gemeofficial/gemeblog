@@ -34,7 +34,7 @@ This distinction matters for soil health, sustainability, cost, and environmenta
 
 ## Comparison Table: Real Compost vs Dehydrated Waste
 
-| Feature                     | [**GEME Terra II**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=5-best-kitchen-composters-in-2026) | [**GEME Pro**](https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=5-best-kitchen-composters-in-2026) | Lomi    | Mill    | Reencle |
+| Feature                     | [**GEME Terra II**](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=5-best-kitchen-composters-in-2026) | [**GEME Pro**](https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=5-best-kitchen-composters-in-2026) | Lomi    | Mill    | Reencle |
 | --------------------------- | ------------- | -------- | ------- | ------- | ------- |
 | True microbial composting   | ✅             | ✅        | ❌       | ❌       | ✅       |
 | Produces real compost       | ✅             | ✅        | ❌       | ❌       | ❌       |
@@ -75,12 +75,12 @@ This distinction matters for soil health, sustainability, cost, and environmenta
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=5-best-kitchen-composters-in-2026"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=5-best-kitchen-composters-in-2026"
 />
 
 ### Overview
 
- Launched in December 2025, the [**GEME Terra II**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=5-best-kitchen-composters-in-2026) is a compact, AI-driven bioreactor that uses high-heat microbes (the proprietary Kobold™ culture) to turn food waste into living compost in 6–8 hours.  Unlike “dehydrator” style units, Terra II maintains a Goldilocks Zone (45–55°C) ideal for thermophilic microbes.  In practice, Terra II digests up to ~2 kg of food scraps per day (for a small family) and achieves a volume reduction of up to 95%.  The output is genuine soil amendment – rich, dark, and microbe-filled – so it can be added directly to plants or gardens.
+ Launched in December 2025, the [**GEME Terra II**](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=5-best-kitchen-composters-in-2026) is a compact, AI-driven bioreactor that uses high-heat microbes (the proprietary Kobold™ culture) to turn food waste into living compost in 6–8 hours.  Unlike “dehydrator” style units, Terra II maintains a Goldilocks Zone (45–55°C) ideal for thermophilic microbes.  In practice, Terra II digests up to ~2 kg of food scraps per day (for a small family) and achieves a volume reduction of up to 95%.  The output is genuine soil amendment – rich, dark, and microbe-filled – so it can be added directly to plants or gardens.
 
 ### Key Benefits
 
@@ -106,7 +106,7 @@ Terra II is offered with incentives, too.  GEME provides a 30-day money-back gua
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=5-best-kitchen-composters-in-2026"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=5-best-kitchen-composters-in-2026"
 />
 
 ### Verified Source Citations
@@ -139,7 +139,7 @@ buttonText="Get Your GEME Terra II"
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Pro Kitchen Composter"
-  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=5-best-kitchen-composters-in-2026"
+  href="https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=5-best-kitchen-composters-in-2026"
 />
 
 ### Overview 
@@ -168,7 +168,7 @@ buttonText="Get Your GEME Pro Kitchen Composter"
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Pro Kitchen Composter"
-  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=5-best-kitchen-composters-in-2026"
+  href="https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=5-best-kitchen-composters-in-2026"
 />
 
 ## 3. Lomi — Popular, But Not a True Composter
@@ -253,7 +253,7 @@ From a convenience perspective, Lomi 3 offers several user-friendly features:
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=5-best-kitchen-composters-in-2026"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=5-best-kitchen-composters-in-2026"
 />
 
 ## 4. Mill Food Recycler — Waste Reduction, Not Compost Creation
@@ -428,7 +428,7 @@ Reencle produces pre-compost that needs further curing but:
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=5-best-kitchen-composters-in-2026"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=5-best-kitchen-composters-in-2026"
 />
 
 ### Verified Source Citations
@@ -491,7 +491,7 @@ Ready to Compost for Real? 🌱 Discover GEME Terra II:
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=5-best-kitchen-composters-in-2026"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=5-best-kitchen-composters-in-2026"
 />
 
 
