@@ -110,7 +110,7 @@ Result: **You spend less time prepping and more time gardening**.
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-eggshells-guide-geme"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-eggshells-guide-geme"
 />
 
 ## 3. Eggshells for Plants: Who Loves Them
@@ -283,12 +283,12 @@ Now let's talk about the game-changer. The GEME Terra II is the world's first AI
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-eggshells-guide-geme"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-eggshells-guide-geme"
 />
 
 #### Table: Eggshell Breakdown: Traditional vs. GEME
 
-| **Aspect**               | **Traditional Composting**                  | **Vermicomposting**             | [**GEME Terra II**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-eggshells-guide-geme)                        |
+| **Aspect**               | **Traditional Composting**                  | **Vermicomposting**             | [**GEME Terra II**](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-eggshells-guide-geme)                        |
 |--------------------------|---------------------------------------------|----------------------------------|-------------------------------------------|
 | **Time to breakdown**    | 6-12 months                                | 3-6 months                       | Days                                      |
 | **Preparation needed**   | Fine grinding essential                     | Moderate grinding                | Minimal crushing                          |
@@ -297,7 +297,7 @@ buttonText="Get Your GEME Terra II"
 | **Odor control**         | Variable                                    | Minimal                          | Permanent filter                          |
 | **Output**               | Compost with visible fragments              | Castings + fragments             | Fully integrated living compost           |
 
-Unlike dehydrators that simply dry and grind eggshells into sterile dust, [GEME's microbial system creates **living, biologically active compost**](https://www.geme.bio/kobold-introduction?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-eggshells-guide-geme) where [eggshell calcium is fully integrated and plant-available](https://www.bhg.com/eggshells-for-plants-8780655).
+Unlike dehydrators that simply dry and grind eggshells into sterile dust, [GEME's microbial system creates **living, biologically active compost**](https://www.gemebio.com/pages/geme-kobold-introduction?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-eggshells-guide-geme) where [eggshell calcium is fully integrated and plant-available](https://www.bhg.com/eggshells-for-plants-8780655).
 
 ## 7. Troubleshooting Eggshells in Compost
 
@@ -355,7 +355,7 @@ False. Dehydrators (like Lomi) simply dry and grind shells into dust—sterile, 
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-eggshells-guide-geme"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-eggshells-guide-geme"
 />
 
 ## 10. Frequently Asked Questions
@@ -370,7 +370,7 @@ buttonText="Get Your GEME Terra II"
 
 ### Q: How long do eggshells take to break down in compost?
 
-> A: Whole shells can take over a year. Finely ground shells break down much faster, typically within several months in an active compost pile. With [**GEME Terra II**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-eggshells-guide-geme), expect days.
+> A: Whole shells can take over a year. Finely ground shells break down much faster, typically within several months in an active compost pile. With [**GEME Terra II**](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-eggshells-guide-geme), expect days.
 
 ### Q: Do I need to wash eggshells before composting?
 
@@ -434,7 +434,7 @@ When you compost eggshells instead of trashing them:
 
  - You close the nutrient loop: **calcium from your kitchen returns to your garden**
 
-A dehydrator-style composter might seem convenient, but it locks you into \$100-200 in annual filter costs and produces sterile dust, not living compost. The [GEME Terra II costs \$549 upfront, but \$0 after that. Over three years, that's \$550+ saved compared to subscription-based machines](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-eggshells-guide-geme). And you get real compost, not dried garbage.
+A dehydrator-style composter might seem convenient, but it locks you into \$100-200 in annual filter costs and produces sterile dust, not living compost. The [GEME Terra II costs \$549 upfront, but \$0 after that. Over three years, that's \$550+ saved compared to subscription-based machines](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-eggshells-guide-geme). And you get real compost, not dried garbage.
 
 Every day, millions of households send eggshells to landfills, where they contribute to methane emissions 25 times more potent than CO₂. When you compost with a microbial system like GEME, you're not just reducing waste, you're actively regenerating soil and fighting climate change.
 
@@ -444,9 +444,9 @@ So tomorrow morning, after you've made that omelet, look at the shells in your h
 
 Start composting your eggshells today, your plants will thank you with every bloom, every fruit, every harvest.
 
-👉 [Learn More About GEME Terra II](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-eggshells-guide-geme)
+👉 [Learn More About GEME Terra II](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-eggshells-guide-geme)
 
-👉 [Explore GEME Pro for Big Households](https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-eggshells-guide-geme)
+👉 [Explore GEME Pro for Big Households](https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-eggshells-guide-geme)
 
 <GemeTerra2CTA 
  imgSrc="/img/geme-terra-2-composter.jpg"
@@ -458,7 +458,7 @@ Start composting your eggshells today, your plants will thank you with every blo
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-eggshells-guide-geme"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-eggshells-guide-geme"
 />
 
 <GemeComposterCTA 
@@ -471,7 +471,7 @@ buttonText="Get Your GEME Terra II"
     "✅ Large Capacity (19 L) For Daily Waste"
   ]}
 buttonText="Get Your GEME Pro For Fastest Compost"
-  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-eggshells-guide-geme"
+  href="https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-eggshells-guide-geme"
 />
 
 **Sources Cited**
@@ -496,9 +496,9 @@ buttonText="Get Your GEME Pro For Fastest Compost"
 
 10. [University of Florida IFAS: Composting FAQs, January 2026](https://soils.ifas.ufl.edu/experiential-learning-laboratory/demonstration-areas/composting/composting-faqs/)
 
-11. [GEME Official Blog: Best Indoor Composter for Apartments: GEME Terra 2 vs. Lomi, February 2026](https://www.geme.bio/blog/best-indoor-composter-for-apartment-geme-vs-lomi)
+11. [GEME Official Blog: Best Indoor Composter for Apartments: GEME Terra 2 vs. Lomi, February 2026](https://www.gemebio.com/blogs/journal/best-indoor-composter-for-apartment-geme-vs-lomi)
 
-12. [GEME Official: How It Work](https://www.geme.bio/how-it-works?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-eggshells-guide-geme)
+12. [GEME Official: How It Work](https://www.gemebio.com/pages/how-it-works?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-eggshells-guide-geme)
 
 <RelatedArticles
   slugs={[
