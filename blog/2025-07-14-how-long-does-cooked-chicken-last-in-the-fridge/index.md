@@ -65,7 +65,7 @@ According to the U.S. Department of Agriculture (USDA), cooked poultry should be
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-can-cooked-chicken-last-in-the-fridge"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-can-cooked-chicken-last-in-the-fridge"
 />
 
 ## 2. The Ideal Temperature for Storing Cooked Chicken
@@ -125,7 +125,7 @@ Avoid refreezing chicken once it’s been thawed and reheated. The constant temp
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-can-cooked-chicken-last-in-the-fridge"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-can-cooked-chicken-last-in-the-fridge"
 />
 
 ## 5. Best Practices for Storing Cooked Chicken
@@ -218,7 +218,7 @@ Take **GEME** for example, you can slice the cooked chicken that has gone bad in
     "✅ Large Capacity (19 L) For Daily Waste"
   ]}
 buttonText="Get Your GEME Composter For Tomato Plants"
-  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-can-cooked-chicken-last-in-the-fridge"
+  href="https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-can-cooked-chicken-last-in-the-fridge"
 />
 
 ## FAQs: Cooked Chicken Storage and Safety
@@ -253,13 +253,13 @@ Stick to the 3–4 day rule, store it right, and when in doubt—throw it out. A
 
 ## Related Articles
 
-- [**How Long Do Eggs Last in the Fridge?**](/blog/do-eggs-expire)
+- [**How Long Do Eggs Last in the Fridge?**](https://www.gemebio.com/blogs/journal/do-eggs-expire)
 
 - [**FDA Egg Recall Due to Salmonella Contamination**](/blog/egg-recall-salmonella-2025-best-way-to-kill-salmonella-in-eggs-recalled)
 
 - [**The Best Kitchen Composter For Reducing Food Waste**](/blog/the-best-composter-to-reduce-food-waste)
 
-- [**How Long Do Apples Last in The Fridge?**](/blog/how-long-do-apples-last-in-the-fridge)
+- [**How Long Do Apples Last in The Fridge?**](https://www.gemebio.com/blogs/journal/how-long-do-apples-last-in-the-fridge)
 
 
 ## Sources
