@@ -63,7 +63,7 @@ Southern Living concurs that “once you bring home your bananas, they'll last f
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-make-bananas-last-longer"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-make-bananas-last-longer"
 />
 
 ## 2. How to Make Bananas Last Longer: Storage Tips
@@ -111,7 +111,7 @@ Instead of tossing spent bananas, an eco-friendly solution is to compost the pee
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-make-bananas-last-longer"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-make-bananas-last-longer"
 />
 
 To compost banana peels, simply cut or tear them into smaller pieces and add them to your home electric biowaste composter. This speeds up decomposition and produces the best quality of compost to use. You can also use **banana peel compost** for tomatoes, peppers, and other veggies – it acts like an organic fertilizer. One study says plants love banana peels' nutrients; for example, peels make excellent side-dressings or amendments in the planting hole.
@@ -128,7 +128,7 @@ Note that banana peels alone aren't a complete fertilizer. Because they take a l
     "✅ Composting Reduces Landfills & Greenhouse Gases"
  ]}
 buttonText="Start Composting Banana Peels From GEME"
-  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-make-bananas-last-longer"
+  href="https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-make-bananas-last-longer"
 />
 
 ## 5. Conclusion
