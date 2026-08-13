@@ -22,7 +22,7 @@ import ReactPlayer from 'react-player'
 
 Looking for the best indoor composter for your apartment? Most machines don’t actually compost, they dry food waste.
 
-In this guide, we compare Lomi and [**GEME Terra 2**]((https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-home-composter-for-apartment-geme-vs-lomi)) to show what really works, what doesn’t, and which one is worth your money.
+In this guide, we compare Lomi and [**GEME Terra 2**]((https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-home-composter-for-apartment-geme-vs-lomi)) to show what really works, what doesn’t, and which one is worth your money.
 
 ### 🧠 Quick Verdict (60-second decision)
 
@@ -45,7 +45,7 @@ In this guide, we compare Lomi and [**GEME Terra 2**]((https://www.geme.bio/prod
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-home-composter-for-apartment-geme-vs-lomi"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-home-composter-for-apartment-geme-vs-lomi"
 />
 
 <!-- truncate -->
@@ -82,9 +82,9 @@ The GEME Terra 2 is different. It doesn't just cook your food; it digests it. It
 
 Think of Lomi as a high-tech garbage disposal with a blow-dryer attachment. It makes your trash smaller and drier. Think of GEME as having a tiny, invisible, AI-managed farm of pets that get hungry and poop out soil. One manages waste; the other creates life.
 
-[**See how GEME Terra II works & why it matters** -->](https://www.geme.bio/how-it-works?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-home-composter-for-apartment-geme-vs-lomi)
+[**See how GEME Terra II works & why it matters** -->](https://www.gemebio.com/pages/how-it-works?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-home-composter-for-apartment-geme-vs-lomi)
 
-[**Learn more about GEME Kobold and the controlled microbial fermentation** -->](https://www.geme.bio/kobold-introduction?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-home-composter-for-apartment-geme-vs-lomi)
+[**Learn more about GEME Kobold and the controlled microbial fermentation** -->](https://www.gemebio.com/pages/geme-kobold-introduction?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-home-composter-for-apartment-geme-vs-lomi)
 
 <GemeTerra2CTA 
  imgSrc="/img/geme-terra-2-composter.jpg"
@@ -96,7 +96,7 @@ Think of Lomi as a high-tech garbage disposal with a blow-dryer attachment. It m
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-home-composter-for-apartment-geme-vs-lomi"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-home-composter-for-apartment-geme-vs-lomi"
 />
 
 ## Side-by-Side Comparison Table
@@ -149,7 +149,7 @@ Lomi requires two specific consumables to function effectively:
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-home-composter-for-apartment-geme-vs-lomi"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-home-composter-for-apartment-geme-vs-lomi"
 />
 
 ## Real Compost vs Dry Waste
@@ -222,7 +222,7 @@ We aren't just making this up. Let’s look at the receipts.
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-home-composter-for-apartment-geme-vs-lomi"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-home-composter-for-apartment-geme-vs-lomi"
 />
 
 ## Conclusion: Which One Should You Choose?
@@ -239,7 +239,7 @@ We don’t need to make "less trash." We need to make more soil. The world’s t
 
 The best composter isn’t the one with the prettiest marketing or the celebrity endorsements. It’s the one that actually turns an eggshell back into earth.
 
-[**Get your GEME Terra 2 today and start growing, not just grinding**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-home-composter-for-apartment-geme-vs-lomi).
+[**Get your GEME Terra 2 today and start growing, not just grinding**](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-home-composter-for-apartment-geme-vs-lomi).
 
 ![best composter for apartments: geme terra 2 vs. lomi 3](./image/lomi3_vs_geme_terra2_1to1.png)
 
