@@ -254,7 +254,7 @@ Whether you're savouring them straight from the rind or sipping a lychee cocktai
 
 ## Related Articles
 
-- [**How Long Do Apples Last In The Fridge?**](/blog/how-long-do-apples-last-in-the-fridge)
+- [**How Long Do Apples Last In The Fridge?**](https://www.gemebio.com/blogs/journal/how-long-do-apples-last-in-the-fridge)
 
 - [**The Best Composter to turn food waste into rich compost for your garden**](https://www.gemebio.com/blogs/journal/the-best-composter-to-reduce-food-waste)
 
