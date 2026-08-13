@@ -86,7 +86,7 @@ Composting moldy fruit recycles nutrients back into the soil and is generally sa
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=can-i-compost-moldy-grapes"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=can-i-compost-moldy-grapes"
 />
 
 The key idea: **adding moldy fruits can actually help your compost**. Mold and fungi are important decomposers; they break down tough plant material and feed other microbes. 
@@ -107,7 +107,7 @@ If you throw grapes in the composter, follow the composting rules (see below) an
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Use GEME Kitchen Composter to Reduce Food Waste"
-  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=can-i-compost-moldy-grapes"
+  href="https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=can-i-compost-moldy-grapes"
 />
 
 ## 3. Composting Grapes: Best Practices
@@ -236,6 +236,8 @@ Following these tips will help you enjoy more of your grapes without waste – a
 4. https://www.fns.usda.gov/
 
 5. https://19january2021snapshot.epa.gov/index.html
+
+6. https://gemebio.com/blogs/journal/how-to-compost-at-home-guide
 
 <RelatedArticles
   slugs={[
