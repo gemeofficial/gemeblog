@@ -125,7 +125,7 @@ This is where modern electric composting comes in — and where GEME changes the
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home"
 />
 
 ### Why GEME Is the Only Real Apartment Composting Solution
@@ -194,7 +194,7 @@ If it doesn’t? You return it. This removes the biggest psychological barrier t
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home"
 />
 
 ## Why “Dehydrators” Don’t Solve the Apartment Composting Problem
@@ -207,15 +207,15 @@ Some countertop devices dry and grind food waste. They reduce volume — but the
 
  - Still requires disposal or external composting
 
-Let's compare: [**Real Compost vs Dehydrated Scraps** -->](https://www.geme.bio/compare/real-compost-vs-dehydrated-scraps?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home)
+Let's compare: [**Real Compost vs Dehydrated Scraps** -->](https://gemebio.com/pages/real-compost-vs-dehydrated-scraps?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home)
 
 GEME is different because it completes the biological loop indoors, producing real compost — not just dried trash. For apartment dwellers who actually want to compost at home, this distinction matters.
 
 ### Comparison Table: GEME Terra 2 vs Mill vs Lomi
 
-| Feature              | **GEME Terra 2**            | [**Mill Food Recycler**](https://www.geme.bio/compare/geme-vs-mill?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home)        | [**Lomi Composter**](https://www.geme.bio/compare/geme-vs-lomi?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home)             |
+| Feature              | **GEME Terra 2**            | [**Mill Food Recycler**](https://gemebio.com/pages/geme-vs-mill-composter?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home)        | [**Lomi Composter**](https://gemebio.com/pages/page-compare-geme-vs-lomi?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home)             |
 | -------------------- | --------------------------- | ----------------------------- | ------------------------------ |
-| Composting Method    | [**AI-Assisted Microbial**](https://www.geme.bio/kobold-introduction?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home)      | Heat + Grinding (no microbes) | Dehydration + Grinding         |
+| Composting Method    | [**AI-Assisted Microbial**](https://www.gemebio.com/pages/geme-kobold-introduction?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home)      | Heat + Grinding (no microbes) | Dehydration + Grinding         |
 | Output               | Real Compost, Soil-Ready    | Food Grounds (dehydrated)     | Pre-Compost (dry matter)       |
 | Handles Meat & Small Bones | Yes (biologically digested) | Limited              | Limited                        |
 | Ongoing Consumables  | None                        | Subscription / Filters        | Filters / Consumables          |
@@ -244,7 +244,7 @@ And with a 30-day risk-free return, there’s finally no reason not to try compo
 
 ### 1. Does GEME produce real compost or just dried waste?
 
-GEME produces biologically active compost using microbial fermentation. This is fundamentally different from heat-drying or grinding methods. See [**Real Compost vs Dehydrated Scraps** -->](https://www.geme.bio/compare/real-compost-vs-dehydrated-scraps?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home)
+GEME produces biologically active compost using microbial fermentation. This is fundamentally different from heat-drying or grinding methods. See [**Real Compost vs Dehydrated Scraps** -->](https://gemebio.com/pages/real-compost-vs-dehydrated-scraps?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home)
 
 ### 2. Will my apartment smell?
 
@@ -282,7 +282,7 @@ Turn food scraps into real compost—without smells, bugs, or hassle.
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-compost-at-home"
 />
 
 
