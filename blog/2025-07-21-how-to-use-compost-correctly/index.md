@@ -37,7 +37,7 @@ Through natural decomposition processes involving microbes, heat, and moisture, 
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-use-compost-correctly"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-use-compost-correctly"
 />
 
 ### Benefits of Using Compost
@@ -91,7 +91,7 @@ To keep compost usable:
 
 - Store it in a dry, shaded place.
 
-- Use a breathable container like a [home electric composter](https://www.geme.bio/product/geme).
+- Use a breathable container like a [home electric composter](https://www.gemebio.com/products/geme).
 
 - Avoid soaking it; too much water can kill beneficial microbes.
 
@@ -107,7 +107,7 @@ To keep compost usable:
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-use-compost-correctly"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-use-compost-correctly"
 />
 
 ## 2. How to Use Compost in Your Garden
@@ -118,7 +118,7 @@ Before applying compost, make sure compost is completely finished and mature, th
 
 How do you know if your compost is ready to use? Please jump to **[What does finished compost look and smell like?](#6-what-does-finished-compost-look-and-smell-like)**. 
 
-### [How to Use Compost in Garden Beds](https://www.geme.bio/blog/how-to-use-compost)
+### [How to Use Compost in Garden Beds](https://gemebio.com/blogs/journal/how-to-use-compost-correctly)
 
 ![How to Use Compost](./img/how-to-use-compost.jpg)
 
@@ -146,7 +146,7 @@ Compost can be used in two main ways:
     "✅ Large Capacity (19 L) For Daily Waste"
   ]}
 buttonText="Get Your GEME Composter For Tomato Plants"
-  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-use-compost-correctly"
+  href="https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-use-compost-correctly"
 />
 
 ## 3. How to Add Compost to Soil the Right Way
@@ -196,7 +196,7 @@ Compost works well when combined with:
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-use-compost-correctly"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-use-compost-correctly"
 />
 
 ## 5. Compost for Potting Soil and Plants
@@ -279,7 +279,7 @@ Unfinished compost can rob your soil of nitrogen. If it smells sour or has large
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-use-compost-correctly"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-use-compost-correctly"
 />
 
 ## 9. Compost and Soil Health: The Science Behind It
@@ -352,7 +352,7 @@ Both methods work. Top dressing is easy; mixing is better for fast results.
 
 It can reduce the need for chemical fertilizers, but some plants still benefit from added nutrients.
 
-### 6. **[What does finished compost look and smell like?](https://www.geme.bio/blog/when-compost-is-ready-to-use)** 
+### 6. **[What does finished compost look and smell like?](https://www.gemebio.com/blogs/journal/when-is-compost-ready-to-use)** 
 
 Dark brown or black, crumbly, and smelling like fresh earth—not sour or rotten.
 
@@ -362,11 +362,11 @@ Using compost correctly can turn ordinary soil into a nutrient powerhouse that p
 
 ## Related Articles
 
-- [**How Do I Know When Compost Is Finished?**](/blog/when-compost-is-ready-to-use)
+- [**How Do I Know When Compost Is Finished?**](https://www.gemebio.com/blogs/journal/when-is-compost-ready-to-use)
 
 - [**The Best electric Composter for High Quality Compost to Use**](/blog/the-best-composter-to-reduce-food-waste)
 
-- [**The Difference Between Garden Soil And Compost**](/blog/garden-soil-vs-compost-pros-and-cons)
+- [**The Difference Between Garden Soil And Compost**](https://www.gemebio.com/blogs/journal/garden-soil-vs-compost)
 
 
 ## Sources
