@@ -121,9 +121,9 @@ The GEME Terra 2 flips this model. Its slightly higher initial investment buys y
 
 [**Calculate the hidden costs: Terra 2 Vs. Lomi** -->](https://gemebio.com/pages/page-compare-geme-vs-lomi?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=the-best-composter-for-kitchen)
 
-[**Calculate the hidden costs: Terra 2 Vs. Mill** -->](https://gemebio.com/pages/page-compare-geme-vs-mill-composter?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=the-best-composter-for-kitchen)
+[**Calculate the hidden costs: Terra 2 Vs. Mill** -->](https://gemebio.com/pages/geme-vs-mill-composter?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=the-best-composter-for-kitchen)
 
-[**Calculate the hidden costs: Terra 2 Vs. Reencle** -->](https://gemebio.com/pages/page-compare-geme-vs-reencle?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=the-best-composter-for-kitchen)
+[**Calculate the hidden costs: Terra 2 Vs. Reencle** -->](https://gemebio.com/pages/geme-vs-reencle?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=the-best-composter-for-kitchen)
 
 ![best composter for kitchen](./image/the-best-composter-for-kitchen.jpg)
 

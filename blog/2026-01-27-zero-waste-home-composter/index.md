@@ -31,7 +31,7 @@ In this guide, we’ll explore how to reduce food waste effectively, compare lea
 
 ## Comparison Table: Real Compost vs Dehydrated Waste
 
-| Feature                     | [**GEME Terra II**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=zero-waste-home-kitchen-composter) | [**GEME Pro**](https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=zero-waste-home-kitchen-composter) | Lomi    | Mill    | Reencle |
+| Feature                     | [**GEME Terra II**](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=zero-waste-home-kitchen-composter) | [**GEME Pro**](https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=zero-waste-home-kitchen-composter) | Lomi    | Mill    | Reencle |
 | --------------------------- | ------------- | -------- | ------- | ------- | ------- |
 | True microbial composting   | ✅             | ✅        | ❌       | ❌       | ✅       |
 | Produces real compost       | ✅             | ✅        | ❌       | ❌       | ❌       |
@@ -57,7 +57,7 @@ In daily life, this challenge is palpable in the kitchen: coffee grounds, fruit 
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=zero-waste-home-kitchen-composter"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=zero-waste-home-kitchen-composter"
 />
 
 ### Traditional Composting: Pros & Cons in Urban Living
@@ -118,9 +118,9 @@ Launched in December 2025, GEME Terra 2 is widely recognized as the world’s fi
 
 1. True Microbial Composting
 
-Unlike simple dehydrators, GEME Terra 2 relies on [**microbial fermentation**](https://www.geme.bio/kobold-introduction?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=zero-waste-home-kitchen-composter) — mimicking natural composting inside a sealed device. This accelerates breakdown and yields actual soil that can be used with houseplants, patios, or gardens.
+Unlike simple dehydrators, GEME Terra 2 relies on [**microbial fermentation**](https://www.gemebio.com/pages/geme-kobold-introduction?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=zero-waste-home-kitchen-composter) — mimicking natural composting inside a sealed device. This accelerates breakdown and yields actual soil that can be used with houseplants, patios, or gardens.
 
-[**Learn More About GEME Kobold -->**](https://www.geme.bio/kobold-introduction?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=zero-waste-home-kitchen-composter)
+[**Learn More About GEME Kobold -->**](https://www.gemebio.com/products/kobold?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=zero-waste-home-kitchen-composter)
 
 2. Broad Waste Acceptance
 
@@ -130,7 +130,7 @@ GEME Terra 2 digests 400+ kinds of biowaste, including vegetables, dairy, meats,
 
 Terra 2 uses a permanent metal-ion purification system — no charcoal filter replacements or consumables required. This means zero ongoing odor control costs, making it a smart investment for a zero-waste kitchen.
 
-[**Calculate Your Filter Costs -->**](https://www.geme.bio/cost-calculator/terra2-vs-lomi?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=zero-waste-home-kitchen-composter)
+[**Calculate Your Filter Costs -->**](https://gemebio.com/pages/page-compare-geme-vs-lomi?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=zero-waste-home-kitchen-composter)
 
 4. Rapid Turnaround
 
@@ -152,7 +152,7 @@ These features make GEME Terra 2 not just a gadget — but the best kitchen comp
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=zero-waste-home-kitchen-composter"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=zero-waste-home-kitchen-composter"
 />
 
 ## The Electric Composter Landscape: How Other Models Compare
@@ -175,7 +175,7 @@ The Mill Food Recycler is another high-tech kitchen device aimed at food waste m
 
 Mill is a great solution for volume reduction and odor control, but its dried grounds are not a finished soil amendment until they undergo further composting.
 
-[**See GEME vs Mill Food Recycler** -->](https://www.geme.bio/compare/geme-vs-mill?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=zero-waste-home-kitchen-composter)
+[**See GEME vs Mill Food Recycler** -->](https://gemebio.com/pages/geme-vs-mill-composter?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=zero-waste-home-kitchen-composter)
 
 ### Lomi Composter: Dehydration & Grinding vs True Compost
 
@@ -193,7 +193,7 @@ However, verified expert reviews clarify that Lomi does not complete biological 
 
  - Best suited to those who want odor control and waste reduction but do not necessarily need finished compost.
 
-[**See GEME vs Lomi Composter** -->](https://www.geme.bio/compare/geme-vs-lomi?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=zero-waste-home-kitchen-composter)
+[**See GEME vs Lomi Composter** -->](https://gemebio.com/pages/page-compare-geme-vs-lomi?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=zero-waste-home-kitchen-composter)
 
 ## 4. How GEME Terra 2 Supports a Zero Waste Lifestyle
 
@@ -247,7 +247,7 @@ Ready to turn scraps into soil? Discover GEME Terra 2 and make every meal a part
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=zero-waste-home-kitchen-composter"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=zero-waste-home-kitchen-composter"
 />
 
 
@@ -259,7 +259,7 @@ Sources verified by Jan 27, 2026.
 
 2. [Bon Appétit: Does the \$499 Lomi Composter Actually Work?](https://www.bonappetit.com/story/lomi-food-composter) 
 
-3. [Bio-Composting Breakthroughs: GEME Terra 2 Debuts, An Easier & Smarter Way To Compost At Home](https://www.geme.bio/blog/geme-terra-2-debuts)
+3. [Bio-Composting Breakthroughs: GEME Terra 2 Debuts, An Easier & Smarter Way To Compost At Home](https://www.gemebio.com/blogs/journal/geme-terra-2-debuts)
 
 4. [Garden Myths: Does Lomi Make Plant-friendly Dirt?](https://www.gardenmyths.com/lomi-electronic-composter/)
 
