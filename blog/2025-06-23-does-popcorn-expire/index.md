@@ -58,7 +58,7 @@ That tiny bit of moisture (about 14%) is essential — it's what makes the kerne
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=can-popcorn-expire"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=can-popcorn-expire"
 />
 
 ### Factors affecting popcorn’s shelf stability
@@ -122,7 +122,7 @@ Several elements impact how long your popcorn lasts:
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=can-popcorn-expire"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=can-popcorn-expire"
 />
 
 ## How to Properly Store Popcorn
@@ -162,7 +162,7 @@ Absolutely! The best way to deal with expired popcorn is to compost it rather to
     "✅ Large Capacity (19 L) For Daily Waste"
   ]}
 buttonText="Get Your GEME Composter For Tomato Plants"
-  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=can-popcorn-expire"
+  href="https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=can-popcorn-expire"
 />
 
 It's the most **efficient, odour-free and eco-friendly** method for urban homes. The compost output is also fully matured and nutrient-rich to **improve your garden plants' health** 🌱. 
@@ -229,7 +229,7 @@ Refrigerating unpopped kernels can cause moisture imbalance, leading to poor pop
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=can-popcorn-expire"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=can-popcorn-expire"
 />
 
 ## Fun Fact: The $64,000 Question of Popcorn
@@ -244,13 +244,13 @@ Smart storage is key—keep it dry, cool, and sealed. When in doubt, trust your 
 Stay popped, not stale. 🍿 
 
 ## Related Articles
-- [**How to Eat Lychee For the Best Taste? The First-Timer's Guide**](/blog/how-to-eat-lychee-for-best-lychee-taste)
+- [**How to Eat Lychee For the Best Taste? The First-Timer's Guide**](https://www.gemebio.com/blogs/journal/how-to-eat-lychee-for-best-lychee-taste)
 
-- [**How Long Do Apples Last In The Fridge?**](/blog/how-long-do-apples-last-in-the-fridge)
+- [**How Long Do Apples Last In The Fridge?**](https://www.gemebio.com/blogs/journal/how-long-do-apples-last-in-the-fridge)
 
-- [**The Best Composter to turn food waste into rich compost for your garden**](/blog/the-best-composter-to-reduce-food-waste)
+- [**The Best Composter to turn food waste into rich compost for your garden**](https://gemebio.com/blogs/journal/how-to-reduce-food-waste-at-home-2026)
 
-- [**Is It Ok To Put Mouldy Apples in GEME Composter**](https://www.geme.bio/help-center/docs/faq/supported-foods/can-i-put-mold-food)
+- [**Is It Ok To Put Mouldy Apples in GEME Composter**](https://gemebio.com/pages/geme-support)
 
 ## Sources
 1. [Can I eat expired microwave popcorn?](https://www.quora.com/Can-I-eat-expired-popcorn "nofollow")
