@@ -82,7 +82,7 @@ The Backyard Farmer review of the GEME electric composter highlighted a few thin
     "✅ Large Capacity (19 L) For Daily Waste"
   ]}
 buttonText="Get Your GEME Pro"
-  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-composter-review-2026-geme-pro"
+  href="https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-composter-review-2026-geme-pro"
 />
 
 ## 2. What Is the GEME Electric Composter?
@@ -161,7 +161,7 @@ You can add food scraps at any time. No locking lid, no waiting for a cycle to f
     "✅ Large Capacity (19 L) For Daily Waste"
   ]}
 buttonText="Get Your GEME Pro"
-  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-composter-review-2026-geme-pro"
+  href="https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-composter-review-2026-geme-pro"
 />
 
 ## 5. Real-World User Experience of the GEME Composter
@@ -225,7 +225,7 @@ There's no need to push any buttons to start the cycle. Simply open the lid and 
     "✅ Large Capacity (19 L) For Daily Waste"
   ]}
 buttonText="Get Your GEME Pro"
-  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-composter-review-2026-geme-pro"
+  href="https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-composter-review-2026-geme-pro"
 />
 
 ## 7. Traditional Compost Pile vs GEME Composter
@@ -332,7 +332,7 @@ It's not perfect. It's floor-standing, so you need space. It costs more upfront 
     "✅ Large Capacity (19 L) For Daily Waste"
   ]}
 buttonText="Get Your GEME Pro"
-  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-composter-review-2026-geme-pro"
+  href="https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-composter-review-2026-geme-pro"
 />
 
 | **Rating**     | **Pros**                                                         | **Cons**                                    | **Best For**                                              |
@@ -345,7 +345,7 @@ No more guilt about throwing away food. No more smelly bins or fruit flies. Just
 
 If that sounds good to you, the GEME is worth every penny.
 
-👉 [Learn More About GEME Terra II](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-composter-review-2026-geme-pro)
+👉 [Learn More About GEME Terra II](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-composter-review-2026-geme-pro)
 
 <GemeTerra2CTA 
  imgSrc="/img/geme-terra-2-composter.jpg"
@@ -358,10 +358,10 @@ If that sounds good to you, the GEME is worth every penny.
     "✅ Reduces Composting Time to Days"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-composter-review-2026-geme-pro"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-composter-review-2026-geme-pro"
 />
 
-👉 [Explore GEME Pro for Big Households/Plant Shops/Restaurants](https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-composter-review-2026-geme-pro)
+👉 [Explore GEME Pro for Big Households/Plant Shops/Restaurants](https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-composter-review-2026-geme-pro)
 
 <GemeComposterCTA 
  imgSrc="/img/geme-bio-composter.jpg"
@@ -373,7 +373,7 @@ buttonText="Get Your GEME Terra II"
     "✅ Large Capacity (19 L) For Daily Waste"
   ]}
 buttonText="Get Your GEME Pro"
-  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-composter-review-2026-geme-pro"
+  href="https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=geme-composter-review-2026-geme-pro"
 />
 
 ## Sources
@@ -388,9 +388,9 @@ buttonText="Get Your GEME Pro"
 
 5. <a href="https://ecocomposters.com/geme-bio-smart-19l-electric-composter-review/" rel="nofollow"><strong>EcoComposters</strong> – GEME Bio Smart 19L Electric Composter Review: The Future of Kitchen Composting (Published: 7 December 2024)</a>
 
-6. [**GEME Official Blog** – Top 5 Electric Composters on Amazon: 2026 Buyer's Guide (Published: 1 April 2026)](https://www.geme.bio/blog/top-5-electric-composters-on-amazon-2026-buyers-guide/)
+6. [**GEME Official Blog** – Top 5 Electric Composters: 2026 Buyer's Guide (Published: 1 April 2026)](https://gemebio.com/blogs/journal/5-best-kitchen-composters-in-2026)
 
-7. [**GEME Official Blog** – GEME Composter Review: Best Indoor Composter 2026 (Published: 20 March 2026)](https://www.geme.bio/blog/geme-composter-review-best-indoor-composter-2026/)
+7. [**GEME Official Blog** – GEME Composter Review: Best Indoor Composter 2026 (Published: 20 March 2026)](https://gemebio.com/blogs/journal/geme-composter-review-2026-geme-pro)
 
 8. <a href="https://www.amazon.ca/GEME-Electric-Composter-Kitchen-Dehydration/dp/B0D8YBM3ZT" rel="nofollow"><strong>Amazon Product Listing</strong> – GEME Smart 19L Electric Composter (Amazon Canada)</a>
 
