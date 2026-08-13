@@ -22,7 +22,7 @@ import ReactPlayer from 'react-player'
 
 ## Introduction: The \$500 Machine That Keeps Asking for Money
 
-Here's the quick answer: **[The GEME Terra 2](ttps://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-avoid-recurring-fees-geme-terra-2) is the only kitchen composter on the market with zero recurring fees**. Lomi costs you about \$150–\$200 per year in filters, Mill runs around \$89 annually plus optional pickup fees, and Reencle adds about \$47 per year for replacements. Over three years, that's hundreds of dollars you didn't plan on spending.
+Here's the quick answer: **[The GEME Terra 2](ttps://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-avoid-recurring-fees-geme-terra-2) is the only kitchen composter on the market with zero recurring fees**. Lomi costs you about \$150–\$200 per year in filters, Mill runs around \$89 annually plus optional pickup fees, and Reencle adds about \$47 per year for replacements. Over three years, that's hundreds of dollars you didn't plan on spending.
 
 Most people buy a kitchen composter based on the upfront price tag. They see \$499 for a Lomi or \$549 for a GEME and make a decision right there. What they don't realize is that some of these machines come with a hidden subscription baked into the design.
 
@@ -36,7 +36,7 @@ This guide breaks down exactly what each major brand charges you after you bring
 
 ## 1. GEME Terra 2: The One You Buy Once and Forget
 
-Now let's talk about [**GEME Terra 2**](ttps://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-avoid-recurring-fees-geme-terra-2). This is the machine that made me write this article.
+Now let's talk about [**GEME Terra 2**](ttps://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-avoid-recurring-fees-geme-terra-2). This is the machine that made me write this article.
 
 GEME is a Continuous Aerobic Bio-processor, which uses live microorganisms (Kobold) to digest waste 24/7 . It's not a dehydrator. It doesn't just dry things out. It actually breaks them down biologically.
 
@@ -64,7 +64,7 @@ GEME also publishes a daily capacity of up to 2kg per day, which is higher than 
     "✅ Reduces Composting Time to Days"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-avoid-recurring-fees-geme-terra-2"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-avoid-recurring-fees-geme-terra-2"
 />
 
 ## 2. Lomi Composter: The Popular Choice With a Filter Habit
@@ -126,7 +126,7 @@ Let's put all these numbers next to each other so you can see the difference cle
 | Lomi            | \$499       | \$150–\$200          | \$450–\$600               | \$949–\$1,099                  |
 | Mill            | \$999+      | \$89                | \$267                    | \$1,266+                      |
 | Reencle         | \$499       | ~\$47               | ~\$141                   | ~\$640                        |
-| [GEME Terra 2](ttps://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-avoid-recurring-fees-geme-terra-2)    | \$549       | \$0                 | \$0                      | \$549                         |
+| [GEME Terra 2](ttps://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-avoid-recurring-fees-geme-terra-2)    | \$549       | \$0                 | \$0                      | \$549                         |
 
 That's the whole story right there. GEME costs a little more upfront than Lomi or Reencle, but after three years, you're hundreds of dollars ahead.
 
@@ -138,11 +138,11 @@ You might be wondering how GEME gets away with no filter replacements when every
 
 Most composters use activated charcoal filters. Charcoal is great at trapping odors, but it has a limited capacity. Those microscopic pores fill up, and once they're full, the filter stops working. You throw it away and buy a new one.
 
-GEME uses a different approach entirely. The [**metal-ion oxidation catalyst**](https://www.geme.bio/how-it-works?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-avoid-recurring-fees-geme-terra-2) doesn't trap odors. It destroys them at a molecular level. It's the same kind of technology used in industrial air purification systems, scaled down for your kitchen.
+GEME uses a different approach entirely. The [**metal-ion oxidation catalyst**](https://www.gemebio.com/pages/how-it-works?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-avoid-recurring-fees-geme-terra-2) doesn't trap odors. It destroys them at a molecular level. It's the same kind of technology used in industrial air purification systems, scaled down for your kitchen.
 
 Because nothing gets "filled up," there's nothing to replace. It just keeps working year after year.
 
-[The microbes in GEME (**Kobold**) are also **self-replicating**](https://www.geme.bio/kobold-introduction?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-avoid-recurring-fees-geme-terra-2). You buy the starter pack once, and as long as you leave a little compost in the machine when you harvest, the microbes keep living and multiplying. You only need to replace the entire microbe pack **if and when you observe that waste is breaking down much more slowly than usual**.
+[The microbes in GEME (**Kobold**) are also **self-replicating**](https://www.gemebio.com/pages/geme-kobold-introduction?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-avoid-recurring-fees-geme-terra-2). You buy the starter pack once, and as long as you leave a little compost in the machine when you harvest, the microbes keep living and multiplying. You only need to replace the entire microbe pack **if and when you observe that waste is breaking down much more slowly than usual**.
 
 <GemeTerra2CTA 
  imgSrc="/img/geme-terra-2-composter.jpg"
@@ -155,7 +155,7 @@ Because nothing gets "filled up," there's nothing to replace. It just keeps work
     "✅ Reduces Composting Time to Days"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-avoid-recurring-fees-geme-terra-2"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-avoid-recurring-fees-geme-terra-2"
 />
 
 ## 7. The Output Question: What Are You Actually Getting?
@@ -210,7 +210,7 @@ I can't tell you what to do with your money. But I can lay out the trade-offs.
     "✅ Reduces Composting Time to Days"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-avoid-recurring-fees-geme-terra-2"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-avoid-recurring-fees-geme-terra-2"
 />
 
 ## 9. FAQ (Answered)
@@ -270,7 +270,7 @@ If you feel the same way, GEME Terra 2 is the best composter for avoiding recurr
     "✅ Reduces Composting Time to Days"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-avoid-recurring-fees-geme-terra-2"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-avoid-recurring-fees-geme-terra-2"
 />
 
 <GemeComposterCTA 
@@ -283,12 +283,12 @@ buttonText="Get Your GEME Terra II"
     "✅ Large Capacity (19 L) For Daily Waste"
   ]}
 buttonText="Get Your GEME Pro"
-  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-avoid-recurring-fees-geme-terra-2"
+  href="https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-avoid-recurring-fees-geme-terra-2"
 />
 
-👉 [Learn More About GEME Terra II](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-avoid-recurring-fees-geme-terra-2)
+👉 [Learn More About GEME Terra II](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-avoid-recurring-fees-geme-terra-2)
 
-👉 [Explore GEME Pro for Flower Shops](https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-avoid-recurring-fees-geme-terra-2)
+👉 [Explore GEME Pro for Flower Shops](https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-composter-avoid-recurring-fees-geme-terra-2)
 
 <RelatedArticles
   slugs={[
