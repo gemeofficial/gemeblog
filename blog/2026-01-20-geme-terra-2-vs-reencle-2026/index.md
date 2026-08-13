@@ -62,7 +62,7 @@ If you want the short answer: **most households should buy Terra II because it�
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-kitchen-composter-2026"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-kitchen-composter-2026"
 />
 
 ## What “Real Compost” Means (and why buyers get confused)
@@ -152,7 +152,7 @@ GEME Terra 2 is designed for a 6-8 hour visible breakdown cycle; Reencle operate
 
   - **Benefit**: Robust digestion of tough scraps.
 
-Reencle uses synthetic biology; GEME uses industrial-grade natural microbes. If you want verified industrial power at home, GEME is the choice. [**Learn about Kobold →**](https://www.geme.bio/geme-kobold?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-kitchen-composter-2026)
+Reencle uses synthetic biology; GEME uses industrial-grade natural microbes. If you want verified industrial power at home, GEME is the choice. [**Learn about Kobold →**](https://www.gemebio.com/products/kobold?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-kitchen-composter-2026)
 
 ## Same 14L, different build? (Density & Weight)
 
@@ -233,7 +233,7 @@ Reencle user manuals recommend annual carbon filter replacement. GEME uses a per
 
  - Long-term costs depend on usage and filter replacement frequency
 
-[Click here to **Calculate Your Cost**](https://www.geme.bio/cost-calculator/terra2-vs-reencle?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-kitchen-composter-2026)
+[Click here to **Calculate Your Cost**](https://gemebio.com/pages/geme-vs-reencle?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-kitchen-composter-2026)
 
 ## Which One Should You Choose?
 
@@ -263,7 +263,7 @@ Reencle user manuals recommend annual carbon filter replacement. GEME uses a per
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-kitchen-composter-2026"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-kitchen-composter-2026"
 />
 
 ## Common Buyer Misunderstandings
@@ -322,7 +322,7 @@ If your goal is **clean, fast waste reduction with automation**,
 
 [4] **Activation Process**. <a href="https://help.reencle.co/en-US/how-to-start-reencle-137605" rel="nofollow">Reencle Setup Guide (Water Mix Required)</a> vs GEME Quick Start (Dry Pour). Accessed Jan 2026.
 
-[5] **Breakdown Speed**. [GEME Technical Data Sheet (6-8 hours for visible reduction)](https://www.geme.bio/manual) vs Reencle Standard Cycle (~24 hours). Accessed Jan 2026.
+[5] **Breakdown Speed**. [GEME Technical Data Sheet (6-8 hours for visible reduction)](https://gemebio.com/pages/geme-manual) vs Reencle Standard Cycle (~24 hours). Accessed Jan 2026.
 
 <RelatedArticles
   slugs={[
