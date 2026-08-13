@@ -81,7 +81,7 @@ When you're learning how to plant a garden, location is everything. Most garden 
 
 ### 2. Prep the Soil – The Key to Successful Gardening
 
-Healthy soil means healthy plants. Clear your patch of weeds, rocks, or debris. Loosen the earth with a shovel or tiller, then enrich it with **[organic compost](/blog/garden-soil-vs-compost-pros-and-cons#how-to-use-garden-soil-and-compost-effectively)**. This boosts nutrients and improves drainage—essential gardening tips for beginners.
+Healthy soil means healthy plants. Clear your patch of weeds, rocks, or debris. Loosen the earth with a shovel or tiller, then enrich it with **[organic compost](https://www.gemebio.com/blogs/journal/garden-soil-vs-compost)**. This boosts nutrients and improves drainage—essential gardening tips for beginners.
 
 - **Clear and loosen soil** – Remove all grass, roots, and rocks; dig down 8–12″ with a shovel or tiller.
 - **Double-dig or stump-loosen** – In heavy soil, dig two layers: loosen the bottom with a fork and incorporate compost at each stage.
@@ -100,7 +100,7 @@ Healthy soil means healthy plants. Clear your patch of weeds, rocks, or debris. 
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-plant-a-garden-best-gardening-guide-for-beginners"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-plant-a-garden-best-gardening-guide-for-beginners"
 />
 
 ### 3. Pick the Best Garden Plants for Your Space
@@ -173,7 +173,7 @@ Use a balanced, slow-release fertiliser or organic compost to give your garden p
     "✅ Large Capacity (19 L) For Daily Waste"
   ]}
 buttonText="Get Your GEME Composter For Tomato Plants"
-  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-plant-a-garden-best-gardening-guide-for-beginners"
+  href="https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-plant-a-garden-best-gardening-guide-for-beginners"
 />
 
 ![How to plant a garden gardening tips 7](./img/how-to-plant-a-garden-gardening-tips-07.jpg)
@@ -202,7 +202,7 @@ Check leaves regularly for pests or fungal spots. Use organic options like neem 
 
 Turn kitchen food waste and yard waste into nutrient-rich compost that boosts soil fertility. Composting is a powerful, eco-friendly gardening technique. 
 
-[**GEME electric composter**](https://www.geme.bio) is the best choice for producing rich compost for your garden in 6-8 hours.
+[**GEME electric composter**](https://www.gemebio.com) is the best choice for producing rich compost for your garden in 6-8 hours.
 
 ![gardening tips composting](./img/gardening-tips-composting.jpg)
 
@@ -239,7 +239,7 @@ Harvest vegetables when they're ripe and herbs regularly to encourage fresh grow
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-plant-a-garden-best-gardening-guide-for-beginners"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-plant-a-garden-best-gardening-guide-for-beginners"
 />
 
 ## Final Thoughts on How to Plant a Garden
@@ -254,9 +254,9 @@ Start small, stay consistent, and enjoy watching your green space flourish. Happ
 
 - [The Best Composter to turn food waste into rich compost for your garden](/blog/the-best-composter-to-reduce-food-waste)
 
-- [Garden Soil VS Compost Pros & Cons](/blog/garden-soil-vs-compost-pros-and-cons)
+- [Garden Soil VS Compost Pros & Cons](https://www.gemebio.com/blogs/journal/garden-soil-vs-compost)
 
-- [When is your compost ready to use?](/blog/when-compost-is-ready-to-use)
+- [When is your compost ready to use?](https://www.gemebio.com/blogs/journal/when-is-compost-ready-to-use)
 
 ---
 
