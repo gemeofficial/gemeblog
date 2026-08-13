@@ -98,7 +98,7 @@ Your fridge should be set to 40°F (4°C) or below. The USDA recommends 40°F as
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-can-chicken-stay-in-the-fridge"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-can-chicken-stay-in-the-fridge"
 />
 
 ## 2. How Long Can Cooked Chicken Stay in the Fridge?
@@ -263,7 +263,7 @@ At these temperatures, "most disease-causing organisms" are killed while "good b
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-can-chicken-stay-in-the-fridge"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-can-chicken-stay-in-the-fridge"
 />
 
 ### Method 1: Backyard Hot Composting
@@ -379,7 +379,7 @@ The microbes handle what they're designed to handle. As extension services note,
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-can-chicken-stay-in-the-fridge"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-can-chicken-stay-in-the-fridge"
 />
 
 ## 5. Proper Storage to Maximize Shelf Life
@@ -463,7 +463,7 @@ Never thaw chicken on the counter at room temperature. This allows bacteria to m
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-can-chicken-stay-in-the-fridge"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-can-chicken-stay-in-the-fridge"
 />
 
 ## 6. Frequently Asked Questions
