@@ -74,7 +74,7 @@ If any of these are present, it’s best to throw the meat out. Do not try to sa
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-can-ground-beef-stay-in-the-fridge"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-can-ground-beef-stay-in-the-fridge"
 />
 
 ## Maximizing Freshness: Proper Handling Tips
@@ -132,7 +132,7 @@ This means Terra 2 is uniquely capable of composting things even traditional com
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-can-ground-beef-stay-in-the-fridge"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-can-ground-beef-stay-in-the-fridge"
 />
 
 This table highlights why GEME Terra 2 stands out. A standard “electric composter” (actually a dehydrator) never produces living compost; it just bakes the waste. In contrast, the GEME Terra 2 is essentially a compact bio-reactor. It keeps its internal chamber at an optimal temperature (about 45–55°C, the “Goldilocks Zone” for thermophilic microbes) so that proprietary Kobold™ microbes thrive. These microbes self-replicate and actively digest scraps, up to 30 times faster than natural composting, turning garbage into usable soil in hours. 
@@ -141,7 +141,7 @@ This table highlights why GEME Terra 2 stands out. A standard “electric compos
 
 In practice, this means no more throwing meat or bones in the trash. Terra 2 even handles pet food waste and cooking fats that dehydrators cannot digest. The permanent filter system in Terra 2 also ensures no odor or replacement costs, unlike dehydrators which need frequent charcoal filter changes. As one GEME comparison notes, over three years a typical dehydrator plus filter subscriptions can cost ~\$1099, whereas Terra II is a one-time \$549 purchase with zero recurring consumable costs. In short, GEME Terra 2 is built for real composting, convenience, and long-term savings.
 
-[**Calculate the hidden costs: Terra 2 Vs. Lomi** -->](https://www.geme.bio/cost-calculator/terra2-vs-lomi?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=ow-long-can-ground-beef-stay-in-the-fridge)
+[**Calculate the hidden costs: Terra 2 Vs. Lomi** -->](https://gemebio.com/pages/page-compare-geme-vs-lomi?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=ow-long-can-ground-beef-stay-in-the-fridge)
 
 ## How GEME Terra 2 Composts Ground Beef: Real Compost in Your Kitchen
 
@@ -159,9 +159,9 @@ GEME Terra 2 is marked as “the first AI-powered kitchen composter”. In pract
 
 Thus, Terra 2 literally turns your ground beef scraps into usable plant food. As GEME explains, it “creates life”, yielding living soil rather than just reducing trash volume.
 
-[**See how GEME Terra II works & why it matters** -->](https://www.geme.bio/how-it-works?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-can-ground-beef-stay-in-the-fridge)
+[**See how GEME Terra II works & why it matters** -->](https://www.gemebio.com/pages/how-it-works?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-can-ground-beef-stay-in-the-fridge)
 
-[**Learn more about GEME Kobold and the controlled microbial fermentation** -->](https://www.geme.bio/kobold-introduction?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-can-ground-beef-stay-in-the-fridge)
+[**Learn more about GEME Kobold and the controlled microbial fermentation** -->](https://www.gemebio.com/pages/geme-kobold-introduction?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-can-ground-beef-stay-in-the-fridge)
 
 ### GEME Terra 2 Key Highlights
 
@@ -192,7 +192,7 @@ These features mean Terra 2 changes how we answer “can you compost meat like g
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-can-ground-beef-stay-in-the-fridge"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-can-ground-beef-stay-in-the-fridge"
 />
 
 ## Conclusion
@@ -201,7 +201,7 @@ In conclusion, food safety and sustainability go hand in hand. Knowing how long 
 
 For readers in the U.S. and abroad seeking to improve food waste habits, Terra 2 represents a practical next step. It addresses the critical question “can you compost meat?” with advanced science, making composting inclusive of most organic waste. By adopting proper storage methods and leveraging new composting technologies, you can keep your meals safe and your kitchen green.
 
-Ready to break new ground in kitchen sustainability? [**Consider the GEME Terra 2 for your home: composting that truly delivers living soil, year-round**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-can-ground-beef-stay-in-the-fridge).
+Ready to break new ground in kitchen sustainability? [**Consider the GEME Terra 2 for your home: composting that truly delivers living soil, year-round**](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-can-ground-beef-stay-in-the-fridge).
 
 ![How Long Does Ground Beef Last In the Fridge](./image/how-long-does-ground-beef-last-in-the-fridge.jpg)
 
@@ -241,7 +241,7 @@ The end product is a dark, soil-like compost rich in organic nutrients. You can 
 
 ### Q9: Where can I find more information or purchase a GEME Terra 2?
 
-[**GEME’s official website**]((https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-can-ground-beef-stay-in-the-fridge)) has details on the Terra 2, tech specs, and pre-order information. Availability may vary by region (they currently ship to the US and EU), so check the site for updates and local retailers.
+[**GEME’s official website**]((https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-can-ground-beef-stay-in-the-fridge)) has details on the Terra 2, tech specs, and pre-order information. Availability may vary by region (they currently ship to the US and EU), so check the site for updates and local retailers.
 
 ### Q10: How long does the GEME Terra 2 composter last?
 
@@ -259,7 +259,7 @@ By following safe storage guidelines and making smart decisions about food waste
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-can-ground-beef-stay-in-the-fridge"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-long-can-ground-beef-stay-in-the-fridge"
 />
 
 
