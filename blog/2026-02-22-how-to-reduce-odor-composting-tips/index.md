@@ -97,7 +97,7 @@ When you freeze scraps, decomposition stops completely. No bacteria, no smells, 
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-reduce-odor-indoor-composting-tips"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-reduce-odor-indoor-composting-tips"
 />
 
 ## Tip 2: Master the Green-Brown Balance
@@ -221,7 +221,7 @@ Heat accelerates decomposition. Keep your indoor compost bin:
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-reduce-odor-indoor-composting-tips"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-reduce-odor-indoor-composting-tips"
 />
 
 ## Tip 5: Clean Your Bin Properly
@@ -289,7 +289,7 @@ This is where technology enters the picture.
 
 ### Understanding Your Options: Dehydrators vs. Microbial Composters
 
-The market for electric kitchen composter machines has exploded, but not all are created equal. Most popular machines like Lomi, are actually high-speed dehydrators. They grind your food and bake it into sterile dust. This dust looks like dirt, but it's not compost. [As one reviewer noted, **Lomi's output is "dark-brown, crumbly dust", helpful for volume reduction but essentially sterile**](https://www.geme.bio/blog/geme-vs-lomi).
+The market for electric kitchen composter machines has exploded, but not all are created equal. Most popular machines like Lomi, are actually high-speed dehydrators. They grind your food and bake it into sterile dust. This dust looks like dirt, but it's not compost. [As one reviewer noted, **Lomi's output is "dark-brown, crumbly dust", helpful for volume reduction but essentially sterile**](https://www.gemebio.com/blogs/journal/geme-vs-lomi).
 
 ### Table: Traditional Bin vs. Electric Options Compared
 
@@ -317,9 +317,9 @@ The GEME Terra 2 represents a fundamentally different approach. Instead of dryin
 
 For apartment dwellers who want the environmental benefits without the daily maintenance, this represents a compelling option.
 
-[**See how GEME Terra II works & why it matters** -->](https://www.geme.bio/how-it-works?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-reduce-odor-indoor-composting-tips)
+[**See how GEME Terra II works & why it matters** -->](https://www.gemebio.com/pages/how-it-works?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-reduce-odor-indoor-composting-tips)
 
-[**Learn more about GEME Kobold and the controlled microbial fermentation** -->](https://www.geme.bio/kobold-introduction?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-reduce-odor-indoor-composting-tips)
+[**Learn more about GEME Kobold and the controlled microbial fermentation** -->](https://www.gemebio.com/pages/geme-kobold-introduction?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-reduce-odor-indoor-composting-tips)
 
 ![The best kitchen composter to reduce odor](./image/the-best-electric-composter-for-kitchen-2026-geme-terra-2.jpg)
 
@@ -347,7 +347,7 @@ For apartment dwellers who want the environmental benefits without the daily mai
 
  6. **Q: Are electric composters worth the money?**
 
- A: Depends on your priorities. Basic bins cost little but require daily attention. High-end microbial composters like [****GEME Terra 2 eliminate most maintenance and produce genuine compost**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-reduce-odor-indoor-composting-tips), but cost a bit more upfront. [**Dehydrators fall in between but don't create real soil**](https://www.geme.bio/blog/does-reencle-composter-produce-real-compost).
+ A: Depends on your priorities. Basic bins cost little but require daily attention. High-end microbial composters like [****GEME Terra 2 eliminate most maintenance and produce genuine compost**](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-reduce-odor-indoor-composting-tips), but cost a bit more upfront. [**Dehydrators fall in between but don't create real soil**](https://www.geme.bio/blog/does-reencle-composter-produce-real-compost).
 
  7. **Q: What causes fruit flies in my compost?**
 
@@ -363,7 +363,7 @@ For apartment dwellers who want the environmental benefits without the daily mai
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-reduce-odor-indoor-composting-tips"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-reduce-odor-indoor-composting-tips"
 />
 
 ## Conclusion: You Can Compost Without the Stink
@@ -401,7 +401,7 @@ Whether you choose the manual route with careful browns management, the freezer 
 
  - Real compost output 
 
-A basic bin costs nothing but asks for your time every day. A dehydrator seems convenient but locks you into filter subscriptions costing \$100–\$200 annually . [**GEME Terra 2 costs a little more upfront but delivers zero consumable costs and genuine compost you can actually use**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-reduce-odor-indoor-composting-tips).
+A basic bin costs nothing but asks for your time every day. A dehydrator seems convenient but locks you into filter subscriptions costing \$100–\$200 annually . [**GEME Terra 2 costs a little more upfront but delivers zero consumable costs and genuine compost you can actually use**](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-reduce-odor-indoor-composting-tips).
 
 [The EPA estimates that 95% of food waste ends up in landfills, generating methane that accelerates climate change](https://www.housedigest.com/1742696/compost-without-space-yard-program-indoor/). Every pound you compost is a pound not producing greenhouse gases. When you use a system that creates living soil rather than sterile dust, you're not just reducing waste—you're regenerating resources.
 
@@ -422,7 +422,7 @@ You don't need to tolerate a stinky kitchen to be eco-friendly. You don't need a
 
  5. [Serene Facility Group: Composting and Cleaning: How to Keep Your Compost Bin Odor-Free, November 2025](https://serenefacilitygroup.com.au/composting-and-cleaning-how-to-keep-your-compost-bin-odor-free/) 
 
- 6. [GEME Official Blog: GEME vs Lomi: Electric Composter Comparison for Zero Waste Homes, January 2026](https://www.geme.bio/blog/geme-vs-lomi) 
+ 6. [GEME Official Blog: GEME vs Lomi: Electric Composter Comparison for Zero Waste Homes, January 2026](https://www.gemebio.com/blogs/journal/geme-vs-lomi) 
 
  7. [House Digest: How To Compost When You Don't Have Outdoor Space, December 2024](https://www.housedigest.com/1742696/compost-without-space-yard-program-indoor/) 
 
