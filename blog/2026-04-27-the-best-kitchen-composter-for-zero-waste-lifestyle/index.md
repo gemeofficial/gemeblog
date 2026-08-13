@@ -22,7 +22,7 @@ import ReactPlayer from 'react-player'
 
 Here’s the short version: the GEME Terra 2 is the only kitchen composter that gives you real, living compost without ongoing filter costs. Lomi, Mill, and Reencle all require you to keep spending money after purchase, averaging anywhere from \$47 to \$200 per year on filters and other extras. 
 
-The [**GEME Terra 2 costs around \$599**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=the-best-kitchen-composter-for-zero-waste-lifestyle), with no hidden subscription baked into its design, and the output is biologically active compost ready for your garden, not sterile dust. If you’re serious about zero waste, the decision comes down to this: **do you want to reduce waste, or do you want to close the loop**?
+The [**GEME Terra 2 costs around \$599**](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=the-best-kitchen-composter-for-zero-waste-lifestyle), with no hidden subscription baked into its design, and the output is biologically active compost ready for your garden, not sterile dust. If you’re serious about zero waste, the decision comes down to this: **do you want to reduce waste, or do you want to close the loop**?
 
 ![GEME Terra II: The Best Kitchen Composter](./image/geme-terra-2-the-best-kitchen-composter.png)
 
@@ -77,7 +77,7 @@ The machine uses AI-controlled sensors to monitor temperature, humidity, and o
     "✅ Reduces Composting Time to Days"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=the-best-kitchen-composter-for-zero-waste-lifestyle"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=the-best-kitchen-composter-for-zero-waste-lifestyle"
 />
 
 ## 3. Why GEME Terra 2 Outperforms Other Electric Composters
@@ -116,9 +116,9 @@ The GEME Terra 2 does exactly that. It takes your daily waste, coffee grounds, e
 
 If you truly want to close the loop in your kitchen, stop settling for machines that just dry your garbage. Choose the one that brings your food scraps back to life.
 
-👉 [Learn More About GEME Terra II](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=the-best-kitchen-composter-for-zero-waste-lifestyle)
+👉 [Learn More About GEME Terra II](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=the-best-kitchen-composter-for-zero-waste-lifestyle)
 
-👉 [Explore GEME Pro for Big Households/Plant Shops/Restaurants](https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content==the-best-kitchen-composter-for-zero-waste-lifestyle)
+👉 [Explore GEME Pro for Big Households/Plant Shops/Restaurants](https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content==the-best-kitchen-composter-for-zero-waste-lifestyle)
 
 <GemeTerra2CTA 
  imgSrc="/img/geme-terra-2-composter.jpg"
@@ -131,7 +131,7 @@ If you truly want to close the loop in your kitchen, stop settling for machines 
     "✅ Reduces Composting Time to Days"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=the-best-kitchen-composter-for-zero-waste-lifestyle"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=the-best-kitchen-composter-for-zero-waste-lifestyle"
 />
 
 <GemeComposterCTA 
@@ -144,7 +144,7 @@ buttonText="Get Your GEME Terra II"
     "✅ Large Capacity (19 L) For Daily Waste"
   ]}
 buttonText="Get Your GEME Pro"
-  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=the-best-kitchen-composter-for-zero-waste-lifestyle"
+  href="https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=the-best-kitchen-composter-for-zero-waste-lifestyle"
 />
 
 ## 6. Frequently Asked Questions (Answered)
@@ -201,7 +201,7 @@ buttonText="Get Your GEME Pro"
     "✅ Reduces Composting Time to Days"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=the-best-kitchen-composter-for-zero-waste-lifestyle"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=the-best-kitchen-composter-for-zero-waste-lifestyle"
 />
 
 <GemeComposterCTA 
@@ -214,7 +214,7 @@ buttonText="Get Your GEME Terra II"
     "✅ Large Capacity (19 L) For Daily Waste"
   ]}
 buttonText="Get Your GEME Pro"
-  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=the-best-kitchen-composter-for-zero-waste-lifestyle"
+  href="https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=the-best-kitchen-composter-for-zero-waste-lifestyle"
 />
 
 ## Cited Sources
