@@ -30,7 +30,7 @@ In 2026, consumers are no longer just asking “What’s the best kitchen compos
 
 > **Does this machine produce real compost—or just dried food waste?**
 
-This distinction matters for soil health, sustainability, cost, and environmental impact. In this guide, we'll dive into [**the best kitchen composters of 2026**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-kitchen-composter-in-2026-geme-terra-2) and explain—clearly and scientifically why [**GEME Terra II**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-kitchen-composter-in-2026-geme-terra-2) stands apart.
+This distinction matters for soil health, sustainability, cost, and environmental impact. In this guide, we'll dive into [**the best kitchen composters of 2026**](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-kitchen-composter-in-2026-geme-terra-2) and explain—clearly and scientifically why [**GEME Terra II**](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-kitchen-composter-in-2026-geme-terra-2) stands apart.
 
 ![GEME Terra II: The Best Kitchen Composter 2026](./image/the-best-composter-2026.jpg)
 
@@ -63,7 +63,7 @@ If microorganisms are not breaking down organic material, composting is not happ
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-kitchen-composter-in-2026-geme-terra-2"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-kitchen-composter-in-2026-geme-terra-2"
 />
 
 ## The Industry Problem: Dehydration Marketed as Composting
@@ -117,7 +117,7 @@ This makes GEME Terra II fundamentally different from every dehydrator-based pro
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-kitchen-composter-in-2026-geme-terra-2"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-kitchen-composter-in-2026-geme-terra-2"
 />
 
 ## GEME Terra II Opening Mechanism
@@ -146,7 +146,7 @@ GEME Terra 2 is designed for a 6-8 hour visible breakdown cycle; Reencle operate
   - Adapted from large-scale biological treatment.
   - **Benefit**: Robust digestion of tough scraps.
 
-If you want verified industrial power at home, GEME is the choice. [**Learn about Kobold →**](https://www.geme.bio/geme-kobold?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-kitchen-composter-in-2026-geme-terra-2)
+If you want verified industrial power at home, GEME is the choice. [**Learn about Kobold →**](https://www.gemebio.com/products/kobold?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-kitchen-composter-in-2026-geme-terra-2)
 
 ## Compost Output — What Do You Actually Get?
 
@@ -170,7 +170,7 @@ GEME uses a permanent metal-ion filter designed for the machine's lifetime.
 - No mandatory subscriptions
 - Minimal ongoing costs
 
-[Click here to **Calculate Your Cost**](https://www.geme.bio/cost-calculator/terra2-vs-reencle?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-kitchen-composter-in-2026-geme-terra-2)
+[Click here to **Calculate Your Cost**](https://gemebio.com/pages/geme-vs-reencle?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-kitchen-composter-in-2026-geme-terra-2)
 
 
 ### Choose GEME Terra 2 if:
@@ -189,7 +189,7 @@ GEME uses a permanent metal-ion filter designed for the machine's lifetime.
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-kitchen-composter-in-2026-geme-terra-2"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=best-kitchen-composter-in-2026-geme-terra-2"
 />
 
 
@@ -218,7 +218,7 @@ No. The filter is permanent.
 
 ## Verified Sources 
 
-[1] **Breakdown Speed**. [GEME Technical Data Sheet (6-8 hours for visible reduction)](https://www.geme.bio/manual). Accessed Jan 2026.
+[1] **Breakdown Speed**. [GEME Technical Data Sheet (6-8 hours for visible reduction)](https://gemebio.com/pages/geme-manual). Accessed Jan 2026.
 
 <RelatedArticles
   slugs={[
