@@ -77,7 +77,8 @@ The fix is simple: give your food waste access to oxygen (**aerobic decompositio
     "✅ Zero Filter Costs, No Refills",
     "✅ Reduces Composting Time to Days"
  ]}
-buttonText="Get Your GEME Terra II"s/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=odor-free-composting-options-for-apartments-2026"
+buttonText="Get Your GEME Terra II"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=odor-free-composting-options-for-apartments-2026"
 />
 
 ## 3. Electric Composters: Microbial-Powered, Truly Odor-Free
