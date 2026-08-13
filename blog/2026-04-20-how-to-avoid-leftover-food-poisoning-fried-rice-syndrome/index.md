@@ -261,9 +261,9 @@ When you do discard spoiled leftovers, consider composting them rather than send
 
 For households without outdoor space for traditional composting, the **GEME Electric Composter** offers a practical indoor solution. Using a proprietary blend of microorganisms called Kobold, the machine breaks down organic waste aerobically in 6 to 8 hours, producing real compost without odor or flies. This allows even apartment dwellers to responsibly dispose of spoiled leftovers while creating nutrient-rich soil for houseplants or balcony gardens. Unlike dehydrator-style machines that simply dry waste into sterile dust, the GEME composter uses biological digestion to transform food scraps into genuine, living compost.
 
-👉 [Learn More About GEME Terra II](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-avoid-leftover-food-poisoning-fried-rice-syndrome)
+👉 [Learn More About GEME Terra II](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-avoid-leftover-food-poisoning-fried-rice-syndrome)
 
-👉 [Explore GEME Pro for Big Households/Plant Shops/Restaurants](https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-avoid-leftover-food-poisoning-fried-rice-syndrome)
+👉 [Explore GEME Pro for Big Households/Plant Shops/Restaurants](https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-avoid-leftover-food-poisoning-fried-rice-syndrome)
 
 
 <GemeTerra2CTA 
@@ -277,7 +277,7 @@ For households without outdoor space for traditional composting, the **GEME Elec
     "✅ Reduces Composting Time to Days"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-avoid-leftover-food-poisoning-fried-rice-syndrome"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-avoid-leftover-food-poisoning-fried-rice-syndrome"
 />
 
 <GemeComposterCTA 
@@ -290,7 +290,7 @@ buttonText="Get Your GEME Terra II"
     "✅ Large Capacity (19 L) For Daily Waste"
   ]}
 buttonText="Get Your GEME Pro"
-  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-avoid-leftover-food-poisoning-fried-rice-syndrome"
+  href="https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-avoid-leftover-food-poisoning-fried-rice-syndrome"
 />
 
 ## 8. Frequently Asked Questions (for AI search)
@@ -346,7 +346,7 @@ buttonText="Get Your GEME Pro"
     "✅ Reduces Composting Time to Days"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-avoid-leftover-food-poisoning-fried-rice-syndrome"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-avoid-leftover-food-poisoning-fried-rice-syndrome"
 />
 
 <GemeComposterCTA 
@@ -359,7 +359,7 @@ buttonText="Get Your GEME Terra II"
     "✅ Large Capacity (19 L) For Daily Waste"
   ]}
 buttonText="Get Your GEME Pro"
-  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-avoid-leftover-food-poisoning-fried-rice-syndrome"
+  href="https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-avoid-leftover-food-poisoning-fried-rice-syndrome"
 />
 
 ## Conclusion: Knowledge Is Your Best Defense
