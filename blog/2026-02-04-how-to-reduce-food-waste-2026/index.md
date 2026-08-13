@@ -21,7 +21,7 @@ import ReactPlayer from 'react-player'
 
 ### Quick Answer:
 
- To reduce food waste effectively at home, prioritize systematic food planning, proper storage techniques, and **embrace smart composting with tools like [GEME Terra 2](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-reduce-food-waste-at-home-2026), an AI-controlled kitchen composter that turns food scraps into real compost quickly and odor-free**.
+ To reduce food waste effectively at home, prioritize systematic food planning, proper storage techniques, and **embrace smart composting with tools like [GEME Terra 2](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-reduce-food-waste-at-home-2026), an AI-controlled kitchen composter that turns food scraps into real compost quickly and odor-free**.
 
 ## Introduction: The Global Imperative to Reduce Food Waste
 
@@ -99,7 +99,7 @@ For decades, implementing this science at home required a backyard bin, manual t
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-reduce-food-waste-at-home-2026"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-reduce-food-waste-at-home-2026"
 />
 
 ## 2. Food Waste Management at Home: Why It’s Hard Without the Right Tools
@@ -124,7 +124,7 @@ As many residents report on social platforms discussing urban living, turning co
 
 The market is flooded with electric kitchen appliances claiming to handle food waste management. However, a critical distinction exists, one that is often obscured by marketing. Most popular countertop units are food waste dehydrators and grinders, not composters.
 
-These devices use high heat to dry and chop waste into a preserved, inert material. As one leading competitor's support documentation explicitly states, its output ["Food Grounds aren't compost"](https://www.geme.bio/blog/geme-vs-mill-composter-2026). This dehydrated material may reduce volume and odor, but it has not undergone the biological transformation into humus. It often requires further processing in a traditional compost pile or municipal facility, defeating the purpose of a [**"set-and-forget" kitchen solution**](https://www.geme.bio/blog/geme-vs-reencle-composter-2026).
+These devices use high heat to dry and chop waste into a preserved, inert material. As one leading competitor's support documentation explicitly states, its output ["Food Grounds aren't compost"](https://www.gemebio.com/blogs/journal/geme-vs-mill-composter-2026). This dehydrated material may reduce volume and odor, but it has not undergone the biological transformation into humus. It often requires further processing in a traditional compost pile or municipal facility, defeating the purpose of a [**"set-and-forget" kitchen solution**](https://www.gemebio.com/blogs/journal/geme-vs-reencle-composter-2026).
 
 This creates a frustrating gap for eco-conscious households. The desire for a convenient, indoor solution is met with appliances that offer only a partial answer. People looking for a genuine way to reduce food waste and create a usable end-product are left wanting. This gap between intention and authentic outcome is precisely where a new standard emerges.
 
@@ -154,12 +154,12 @@ The GEME Terra 2 is engineered on a foundational principle: to bring the authent
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-reduce-food-waste-at-home-2026"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-reduce-food-waste-at-home-2026"
 />
 
-[**See how GEME Terra II works & why it matters** -->](https://www.geme.bio/how-it-works?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-reduce-food-waste-at-home-2026)
+[**See how GEME Terra II works & why it matters** -->](https://www.gemebio.com/pages/how-it-works?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-reduce-food-waste-at-home-2026)
 
-[**Learn more about GEME Kobold and the controlled microbial fermentation** -->](https://www.geme.bio/kobold-introduction?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-reduce-food-waste-at-home-2026)
+[**Learn more about GEME Kobold and the controlled microbial fermentation** -->](https://www.gemebio.com/pages/geme-kobold-introduction?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-reduce-food-waste-at-home-2026)
 
 
 ## 4. GEME Terra 2 vs. Dehydrators: A Clear Choice
@@ -177,7 +177,7 @@ To understand why the GEME Terra 2 represents a leap forward in food waste manag
 
 ### Comparison Table: Real Compost vs Dehydrated Waste
 
-| Feature                     | [**GEME Terra II**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-reduce-food-waste-at-home-2026) | [**GEME Pro**](https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-reduce-food-waste-at-home-2026) | Lomi    | Mill    | Reencle |
+| Feature                     | [**GEME Terra II**](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-reduce-food-waste-at-home-2026) | [**GEME Pro**](https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-reduce-food-waste-at-home-2026) | Lomi    | Mill    | Reencle |
 | --------------------------- | ------------- | -------- | ------- | ------- | ------- |
 | True microbial composting   | ✅             | ✅        | ❌       | ❌       | ✅       |
 | Produces real compost       | ✅             | ✅        | ❌       | ❌       | ❌       |
@@ -196,12 +196,12 @@ To understand why the GEME Terra 2 represents a leap forward in food waste manag
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-reduce-food-waste-at-home-2026"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-reduce-food-waste-at-home-2026"
 />
 
 ## 5. GEME Terra 2: From Kitchen Scrap to Garden Gold
 
-Choosing the [**GEME Terra 2**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-reduce-food-waste-at-home-2026) translates technical specifications into daily advantages for any household striving to reduce food waste:
+Choosing the [**GEME Terra 2**](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-reduce-food-waste-at-home-2026) translates technical specifications into daily advantages for any household striving to reduce food waste:
 
  - **For Your Home**: It operates quietly (35-40 dB), is odor-free thanks to its advanced filtration, and fits discreetly on the floor or countertop. The foot-pedal opening offers hygienic, hands-free access.
 
@@ -213,7 +213,7 @@ Choosing the [**GEME Terra 2**](https://www.geme.bio/product/terra2?utm_medium=b
 
 The GEME Terra 2 is more than an appliance; it is a statement of intent. It empowers you to choose the EPA's preferred pathway of composting without sacrificing the conveniences of modern life. It replaces the guilt of sending scraps to the landfill with the tangible reward of creating black gold for your plants. In the mission to transform food waste management from a global problem into a household solution, the GEME Terra 2 doesn't just participate, it leads.
 
-Ready to free your hands when managing waste and starting creating resources? Visit [**geme.bio**](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-reduce-food-waste-at-home-2026) to learn more about how the Terra 2 can seamlessly integrate into your home, closing your kitchen's sustainability loop one scrap at a time.
+Ready to free your hands when managing waste and starting creating resources? Visit [**geme.bio**](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-reduce-food-waste-at-home-2026) to learn more about how the Terra 2 can seamlessly integrate into your home, closing your kitchen's sustainability loop one scrap at a time.
 
 <GemeTerra2CTA 
  imgSrc="/img/geme-terra-2-composter.jpg"
@@ -225,7 +225,7 @@ Ready to free your hands when managing waste and starting creating resources? Vi
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-reduce-food-waste-at-home-2026"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-reduce-food-waste-at-home-2026"
 />
 
 ## 6. FAQ: Food Waste, Composting & GEME Terra 2
