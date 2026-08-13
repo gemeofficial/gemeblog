@@ -66,7 +66,7 @@ How to eat lychee begins with choosing the best fruit. Look for:
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-eat-lychee-for-best-lychee-taste"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-eat-lychee-for-best-lychee-taste"
 />
 
 ![how to select perfect lychees](./img/how-to-store-lychees.jpg)
@@ -219,7 +219,7 @@ What does lychee taste like when it's poorly handled? Medicinal or *bitter*. Thi
     "✅ Reduce Landfill Waste & Greenhouse Gases"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-eat-lychee-for-best-lychee-taste"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=how-to-eat-lychee-for-best-lychee-taste"
 />
 
 ---
@@ -256,9 +256,9 @@ Whether you're savouring them straight from the rind or sipping a lychee cocktai
 
 - [**How Long Do Apples Last In The Fridge?**](/blog/how-long-do-apples-last-in-the-fridge)
 
-- [**The Best Composter to turn food waste into rich compost for your garden**](/blog/the-best-composter-to-reduce-food-waste)
+- [**The Best Composter to turn food waste into rich compost for your garden**](https://www.gemebio.com/blogs/journal/the-best-composter-to-reduce-food-waste)
 
-- [**Is It Ok To Put Mouldy Apples in GEME Composter**](https://www.geme.bio/help-center/docs/faq/supported-foods/can-i-put-mold-food)
+- [**Is It Ok To Put Mouldy Apples in GEME Composter**](https://gemebio.com/pages/geme-support)
 
 
 _Ready to transform your gardening game? Subscribe to our [newsletter](http://geme.bio/signup) for expert composting tips and sustainable gardening advice._
