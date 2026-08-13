@@ -77,8 +77,7 @@ The fix is simple: give your food waste access to oxygen (**aerobic decompositio
     "✅ Zero Filter Costs, No Refills",
     "✅ Reduces Composting Time to Days"
  ]}
-buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=odor-free-composting-options-for-apartments-2026"
+buttonText="Get Your GEME Terra II"s/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=odor-free-composting-options-for-apartments-2026"
 />
 
 ## 3. Electric Composters: Microbial-Powered, Truly Odor-Free
@@ -95,7 +94,7 @@ Reencle uses a similar continuous microbial process with its own Bacillus-based 
 
 Both the **GEME Terra II** and **Reencle** represent genuine composting, biological decomposition that builds humus and returns nutrients safely to plants. 
 
-[**Compare Reencle with GEME Terra II** -->](https://www.geme.bio/compare/geme-vs-reencle)
+[**Compare Reencle with GEME Terra II** -->](https://gemebio.com/pages/geme-vs-reenclee)
 
 ### Reencle V.S GEME Terra II: Comparison Table
 
@@ -118,7 +117,7 @@ Bokashi is a Japanese fermentation technique that "pickles" your food waste rath
 
 Startup costs are low: a Bokashi kit around \$65, plus roughly \$15/year for bran. Bokashi accepts meat, fish, and dairy without issue, a huge plus for many kitchens. After about two weeks, you get a nutrient-rich liquid ("Bokashi tea") that makes excellent houseplant fertilizer, plus fermented pre-compost that must be buried in a soil factory or outdoor bed to finish decomposing. The output is acidic (pH 3–4) and not yet plant-ready; it requires a secondary soil-finishing step. Still, it's a compact, odor-free, and highly effective way to handle all kitchen waste in an apartment.
 
-[**Compare Bokashi with GEME Terra II** -->](https://www.geme.bio/blog/geme-composter-vs-diy-bokashi-composting)
+[**Compare Bokashi with GEME Terra II** -->](https://www.gemebio.com/blogs/journal/geme-composter-vs-diy-bokashi-composting)
 
 <GemeTerra2CTA 
  imgSrc="/img/geme-terra-2-composter.jpg"
@@ -131,7 +130,7 @@ Startup costs are low: a Bokashi kit around \$65, plus roughly \$15/year for bra
     "✅ Reduces Composting Time to Days"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=odor-free-composting-options-for-apartments-2026"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=odor-free-composting-options-for-apartments-2026"
 />
 
 ## 5. Worm Composting (Vermicomposting): The Silent Workers
@@ -148,9 +147,9 @@ Worm bins fit under sinks or in closets, require no turning (the worms do the wo
 
 3. **For the plant parent who wants premium fertilizer**: Worm composting produces exceptional castings, arguably the finest output for houseplants. But **it requires consistent attention: maintaining moisture levels, managing the brown-to-green ratio, and avoiding overfeeding**. If you enjoy tending a living system, it’s deeply rewarding. If you’d rather have similarly rich, plant-ready compost without the weekly maintenance, the **GEME Terra II produces real compost on autopilot, and accepts meat and dairy, which worm bins cannot**.
 
-👉 [Learn More About GEME Terra II](https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=odor-free-composting-options-for-apartments-2026)
+👉 [Learn More About GEME Terra II](https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=odor-free-composting-options-for-apartments-2026)
 
-👉 [Explore GEME Pro for Big Households/Plant Shops/Restaurants](https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=odor-free-composting-options-for-apartments-2026)
+👉 [Explore GEME Pro for Big Households/Plant Shops/Restaurants](https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=odor-free-composting-options-for-apartments-2026)
 
 <GemeTerra2CTA 
  imgSrc="/img/geme-terra-2-composter.jpg"
@@ -163,7 +162,7 @@ Worm bins fit under sinks or in closets, require no turning (the worms do the wo
     "✅ Reduces Composting Time to Days"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=odor-free-composting-options-for-apartments-2026"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=odor-free-composting-options-for-apartments-2026"
 />
 
 ## 7. The Bottom Line
@@ -198,7 +197,7 @@ Odor-free apartment composting is not only possible, but it's easier than ever i
 
 ### Q: Which is the best kitchen composter for a small apartment?
 
-> A: For apartments with no outdoor space, a real electric composter like the GEME Terra II is ideal because it produces finished compost you can use on indoor plants immediately, with no extra subscriptions or outdoor piles required. Check this post: [**The Best Composter For Small Kitchen**](https://www.geme.bio/blog/the-best-composter-for-kitchen)
+> A: For apartments with no outdoor space, a real electric composter like the GEME Terra II is ideal because it produces finished compost you can use on indoor plants immediately, with no extra subscriptions or outdoor piles required. Check this post: [**The Best Composter For Small Kitchen**](https://www.gemebio.com/blogs/journal/the-best-composter-for-kitchen)
 
 ### Q: Why aren't dehydrator machines like Lomi considered composters?
 
@@ -206,8 +205,8 @@ Odor-free apartment composting is not only possible, but it's easier than ever i
 
 > **Check the following posts**: 
 
-> 1. [**Does the Lomi Composter Really Compost? Lomi vs GEME Terra 2**](https://www.geme.bio/blog/does-lomi-composter-really-compost)
-> 2. [**Does Mill Composter Produce Real Compost?**](https://www.geme.bio/blog/does-mill-composter-pruduce-compost)
+> 1. [**Does the Lomi Composter Really Compost? Lomi vs GEME Terra 2**](https://www.gemebio.com/blogs/journal/does-lomi-composter-really-compost)
+> 2. [**Does Mill Composter Produce Real Compost?**](https://www.gemebio.com/blogs/journal/does-mill-composter-really-compost-2026)
 
 <GemeTerra2CTA 
  imgSrc="/img/geme-terra-2-composter.jpg"
@@ -220,7 +219,7 @@ Odor-free apartment composting is not only possible, but it's easier than ever i
     "✅ Reduces Composting Time to Days"
  ]}
 buttonText="Get Your GEME Terra II"
-  href="https://www.geme.bio/product/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=odor-free-composting-options-for-apartments-2026"
+  href="https://www.gemebio.com/products/terra2?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=odor-free-composting-options-for-apartments-2026"
 />
 
 <GemeComposterCTA 
@@ -233,16 +232,16 @@ buttonText="Get Your GEME Terra II"
     "✅ Large Capacity (19 L) For Daily Waste"
   ]}
 buttonText="Get Your GEME Pro"
-  href="https://www.geme.bio/product/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=odor-free-composting-options-for-apartments-2026"
+  href="https://www.gemebio.com/products/geme?utm_medium=blog&utm_source=geme_website&utm_campaign=general_seo_content&utm_content=odor-free-composting-options-for-apartments-2026"
 />
 
 ## Cited Sources
 
-1. GEME, "[How to Reduce Odor: Practical Tips for Indoor Composting That Actually Work](https://www.geme.bio/blog/how-to-reduce-odor-indoor-composting-tips)," geme.bio, Feb. 2026. 
+1. GEME, "[How to Reduce Odor: Practical Tips for Indoor Composting That Actually Work](https://www.gemebio.com/blogs/journal/how-to-reduce-odor-indoor-composting-tips)," geme.bio, Feb. 2026. 
 
-2. GEME, "[The Best Electric Kitchen Composter of 2026](https://www.geme.bio/blog/best-kitchen-composter-2026)," geme.bio, Jan. 2026. 
+2. GEME, "[The Best Electric Kitchen Composter of 2026](https://www.gemebio.com/blogs/journal/best-kitchen-composter-2026)," geme.bio, Jan. 2026. 
 
-3. GEME, "[What is the difference between GEME Terra 2 and GEME Pro?](https://www.geme.bio)" geme.bio. 
+3. GEME, "[What is the difference between GEME Terra 2 and GEME Pro?](https://gemebio.com/pages/comparehub)" gemebio.com. 
 
 4. Reencle, <a href="https://reencle.co/blogs/news/best-electric-composter-apartments" rel="nofollow">Best Electric Composter for Apartments (2026 Guide)</a>, reencle.co, Apr. 2026.
 
