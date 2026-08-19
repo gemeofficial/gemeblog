@@ -1,183 +1,190 @@
+import { NextResponse } from 'next/server';
+
 export const config = {
-    matcher: ['/blog', '/blog/:path*'],
-  };
-  
-  const SITE = 'https://gemebio.com';
-  
+  matcher: ['/blog', '/blog/:path*'],
+};
+
+const SITE = 'https://gemebio.com';
+
+/**
+ * ============================================================
+ * 1. 精确映射
+ * ============================================================
+ *
+ * 用于：
+ * - 新旧 slug 不一致
+ * - 多篇旧文章合并到一篇新文章
+ * - 新文章不在 /blogs/journal/
+ * - 标签页 / 特殊页需要单独处理
+ *
+ * 这里的 URL 必须经过人工确认。
+ */
+const exactRedirects = {
   /**
-   * 只把“slug 已改变”或“目标不在 Journal”的特殊页面放这里。
-   *
-   * 普通旧文章不需要写进来：
-   * /blog/example
-   * 会自动跳到
-   * /blogs/journal/example
+   * Blog 首页
    */
-  const redirects = {
-    // 示例：
-    // '/blog/old-slug':
-    //   'https://gemebio.com/blogs/journal/new-slug',
-  
-    // 如果某篇文章实际在 Engineering：
-    // '/blog/example':
-    //   'https://gemebio.com/blogs/engineering/example',
-  };
-  
-  function permanentRedirect(destination, sourceUrl) {
-    const target = new URL(destination);
-  
-    /**
-     * 保留 UTM、affiliate、Google Ads 等原始参数
-     */
-    sourceUrl.searchParams.forEach((value, key) => {
-      target.searchParams.append(key, value);
-    });
-  
-    return new Response(null, {
-      status: 301,
-      headers: {
-        Location: target.toString(),
-      },
-    });
+  '/blog':
+    'https://gemebio.com/blogs/journal/',
+
+  /**
+   * slug 已发生变化
+   *
+   * OLD:
+   * /blog/geme-vs-reencle-composter-2026
+   *
+   * NEW:
+   * /blogs/journal/reencle-vs-geme-terra-2-composter-2026
+   */
+  '/blog/geme-vs-reencle-composter-2026':
+    'https://gemebio.com/blogs/journal/reencle-vs-geme-terra-2-composter-2026',
+
+  /**
+   * 后续发现其他 slug 修改，在这里继续增加
+   */
+
+  // '/blog/old-slug':
+  //   'https://gemebio.com/blogs/journal/new-slug',
+
+  /**
+   * 如果目标实际属于旧 Blog collection
+   */
+
+  // '/blog/example':
+  //   'https://gemebio.com/blogs/blog/example',
+
+  /**
+   * 如果目标属于 Engineering
+   */
+
+  // '/blog/example':
+  //   'https://gemebio.com/blogs/engineering/example',
+};
+
+
+/**
+ * ============================================================
+ * 2. 已验证“新旧 slug 相同”的文章白名单
+ * ============================================================
+ *
+ * 只有真正确认新站页面存在后，才加入这里。
+ *
+ * 加入这里以后：
+ *
+ * /blog/xxx
+ *
+ * 自动变成：
+ *
+ * https://gemebio.com/blogs/journal/xxx
+ *
+ * 没有出现在这个 Set 里的文章绝对不会自动跳转。
+ */
+const journalSameSlug = new Set([
+  '/blog/geme-vs-lomi',
+
+  '/blog/advanced-geme-compost-application-guide',
+
+  '/blog/electric-compost-bin-filters-costs-comparison',
+
+  /**
+   * 后续将已经验证的新站文章继续加入这里
+   */
+
+  // '/blog/how-long-can-ground-beef-stay-in-the-fridge',
+  // '/blog/how-to-make-bananas-last-longer',
+  // '/blog/can-popcorn-expire',
+]);
+
+
+/**
+ * ============================================================
+ * 3. 301 Redirect Helper
+ * ============================================================
+ *
+ * 保留旧 URL 上的：
+ * - UTM
+ * - affiliate 参数
+ * - Google Ads 参数
+ * - 其他 query parameters
+ */
+function permanentRedirect(destination, sourceUrl) {
+  const target = new URL(destination);
+
+  sourceUrl.searchParams.forEach((value, key) => {
+    target.searchParams.append(key, value);
+  });
+
+  return NextResponse.redirect(target, 301);
+}
+
+
+/**
+ * ============================================================
+ * Middleware
+ * ============================================================
+ */
+export default function middleware(request) {
+  const url = new URL(request.url);
+
+  let pathname = url.pathname;
+
+  /**
+   * 为匹配规则统一去掉结尾 /
+   *
+   * /blog/example/
+   * 与
+   * /blog/example
+   *
+   * 按同一个 URL 处理。
+   */
+  if (pathname.length > 1 && pathname.endsWith('/')) {
+    pathname = pathname.slice(0, -1);
   }
-  
-  export default function middleware(request) {
-    const url = new URL(request.url);
-  
-    let pathname = url.pathname;
-  
-    /**
-     * 统一去掉末尾 /
-     */
-    if (pathname.length > 1 && pathname.endsWith('/')) {
-      pathname = pathname.slice(0, -1);
-    }
-  
-    /**
-     * ------------------------------------------------
-     * 1. 精确特殊映射优先
-     * ------------------------------------------------
-     */
-    const mappedDestination = redirects[pathname];
-  
-    if (mappedDestination) {
-      return permanentRedirect(mappedDestination, url);
-    }
-  
-    /**
-     * ------------------------------------------------
-     * 2. 旧 Blog 首页
-     *
-     * /blog
-     * →
-     * /blogs/journal/
-     * ------------------------------------------------
-     */
-    if (pathname === '/blog') {
-      return permanentRedirect(
-        `${SITE}/blogs/journal/`,
-        url
-      );
-    }
-  
-    /**
-     * ------------------------------------------------
-     * 3. 旧分页
-     *
-     * /blog/page/2
-     * /blog/page/3
-     * /blog/page/5
-     *
-     * 统一进入 Journal 首页
-     *
-     * 不建议机械变成 Shopify 分页，因为旧分页内容
-     * 与新 Shopify 当前分页内容并不一定对应。
-     * ------------------------------------------------
-     */
-    if (/^\/blog\/page\/\d+$/.test(pathname)) {
-      return permanentRedirect(
-        `${SITE}/blogs/journal/`,
-        url
-      );
-    }
-  
-    /**
-     * ------------------------------------------------
-     * 4. 旧标签页
-     *
-     * /blog/tags/composting
-     * →
-     * /blogs/journal/tagged/composting
-     *
-     * /blog/tags/composting/page/2
-     * →
-     * /blogs/journal/tagged/composting?page=2
-     * ------------------------------------------------
-     */
-    const tagMatch = pathname.match(
-      /^\/blog\/tags\/([^/]+)(?:\/page\/(\d+))?$/
-    );
-  
-    if (tagMatch) {
-      const tag = tagMatch[1];
-      const page = tagMatch[2];
-  
-      const target = new URL(
-        `${SITE}/blogs/journal/tagged/${tag}`
-      );
-  
-      /**
-       * 保留原 query parameters
-       */
-      url.searchParams.forEach((value, key) => {
-        target.searchParams.append(key, value);
-      });
-  
-      /**
-       * 将旧 /page/2 转换成 Shopify ?page=2
-       */
-      if (page && page !== '1') {
-        target.searchParams.set('page', page);
-      }
-  
-      return new Response(null, {
-        status: 301,
-        headers: {
-          Location: target.toString(),
-        },
-      });
-    }
-  
-    /**
-     * ------------------------------------------------
-     * 5. 所有普通旧文章
-     *
-     * /blog/{slug}
-     * →
-     * /blogs/journal/{slug}
-     * ------------------------------------------------
-     */
-    const articleMatch = pathname.match(
-      /^\/blog\/([^/]+)$/
-    );
-  
-    if (articleMatch) {
-      const slug = articleMatch[1];
-  
-      return permanentRedirect(
-        `${SITE}/blogs/journal/${slug}`,
-        url
-      );
-    }
-  
-    /**
-     * ------------------------------------------------
-     * 6. 其他异常 /blog/* URL
-     *
-     * 不制造猜测路径，统一返回 Journal 首页。
-     * ------------------------------------------------
-     */
+
+
+  /**
+   * ----------------------------------------------------------
+   * RULE 1
+   * 精确映射优先
+   * ----------------------------------------------------------
+   */
+  const exactDestination = exactRedirects[pathname];
+
+  if (exactDestination) {
     return permanentRedirect(
-      `${SITE}/blogs/journal/`,
+      exactDestination,
       url
     );
   }
+
+
+  /**
+   * ----------------------------------------------------------
+   * RULE 2
+   * 只有经过验证的“同 slug Journal 文章”才自动跳
+   * ----------------------------------------------------------
+   */
+  if (journalSameSlug.has(pathname)) {
+    const slug = pathname.slice('/blog/'.length);
+
+    return permanentRedirect(
+      `${SITE}/blogs/journal/${slug}`,
+      url
+    );
+  }
+
+
+  /**
+   * ----------------------------------------------------------
+   * RULE 3
+   * 没有找到明确对应关系
+   *
+   * 不跳转
+   * 不猜 URL
+   * 不跳 Journal 首页
+   * 不制造 301 → 404
+   *
+   * 继续显示 geme.bio 原始页面
+   * ----------------------------------------------------------
+   */
+  return NextResponse.next();
+}
