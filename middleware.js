@@ -1,8 +1,8 @@
 import { NextResponse } from 'next/server';
 
 export const config = {
-  matcher: ['/blog', '/blog/:path*'],
-};
+    matcher: ['/blog', '/blog/:path*', '/__geme-mw-test'],
+  };
 
 const SITE = 'https://gemebio.com';
 
@@ -126,6 +126,15 @@ export default function middleware(request) {
   const url = new URL(request.url);
 
   let pathname = url.pathname;
+  if (pathname === '/__geme-mw-test') {
+    return new Response('GEME middleware active - 20260819', {
+      status: 200,
+      headers: {
+        'Content-Type': 'text/plain',
+        'X-GEME-Middleware': '20260819-test',
+      },
+    });
+  }
 
   /**
    * 为匹配规则统一去掉结尾 /
