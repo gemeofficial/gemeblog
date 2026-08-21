@@ -1,5 +1,747 @@
 {
   "framework": "docusaurus",
+  "redirects": [
+    {
+      "source": "/blog",
+      "destination": "https://gemebio.com/blogs/journal",
+      "permanent": true
+    },
+    {
+      "source": "/blog/",
+      "destination": "https://gemebio.com/blogs/journal",
+      "permanent": true
+    },
+    {
+      "source": "/blog/5-best-kitchen-composters-in-2026",
+      "destination": "https://gemebio.com/blogs/journal/5-best-kitchen-composters-in-2026",
+      "permanent": true
+    },
+    {
+      "source": "/blog/5-best-kitchen-composters-in-2026/",
+      "destination": "https://gemebio.com/blogs/journal/5-best-kitchen-composters-in-2026",
+      "permanent": true
+    },
+    {
+      "source": "/blog/advanced-geme-compost-application-guide",
+      "destination": "https://gemebio.com/blogs/journal/advanced-geme-compost-application-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/advanced-geme-compost-application-guide/",
+      "destination": "https://gemebio.com/blogs/journal/advanced-geme-compost-application-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/are-tomatoes-safe-to-eat-now",
+      "destination": "https://gemebio.com/blogs/journal/are-tomatoes-safe-to-eat-now",
+      "permanent": true
+    },
+    {
+      "source": "/blog/are-tomatoes-safe-to-eat-now/",
+      "destination": "https://gemebio.com/blogs/journal/are-tomatoes-safe-to-eat-now",
+      "permanent": true
+    },
+    {
+      "source": "/blog/best-composter-avoid-recurring-fees-geme-terra-2",
+      "destination": "https://gemebio.com/blogs/journal/best-composter-avoid-recurring-fees-geme-terra-2",
+      "permanent": true
+    },
+    {
+      "source": "/blog/best-composter-avoid-recurring-fees-geme-terra-2/",
+      "destination": "https://gemebio.com/blogs/journal/best-composter-avoid-recurring-fees-geme-terra-2",
+      "permanent": true
+    },
+    {
+      "source": "/blog/best-composter-daily-operation-comparison-lomi-mill-reencle-geme",
+      "destination": "https://gemebio.com/blogs/journal/best-composter-daily-operation-comparison-lomi-mill-reencle-geme",
+      "permanent": true
+    },
+    {
+      "source": "/blog/best-composter-daily-operation-comparison-lomi-mill-reencle-geme/",
+      "destination": "https://gemebio.com/blogs/journal/best-composter-daily-operation-comparison-lomi-mill-reencle-geme",
+      "permanent": true
+    },
+    {
+      "source": "/blog/best-composter-fastest-real-compost-geme-terra-2",
+      "destination": "https://gemebio.com/blogs/journal/best-composter-fastest-real-compost-geme-terra-2",
+      "permanent": true
+    },
+    {
+      "source": "/blog/best-composter-fastest-real-compost-geme-terra-2/",
+      "destination": "https://gemebio.com/blogs/journal/best-composter-fastest-real-compost-geme-terra-2",
+      "permanent": true
+    },
+    {
+      "source": "/blog/best-electric-kitchen-composter-2026",
+      "destination": "https://gemebio.com/blogs/journal/best-electric-kitchen-composter-2026",
+      "permanent": true
+    },
+    {
+      "source": "/blog/best-electric-kitchen-composter-2026/",
+      "destination": "https://gemebio.com/blogs/journal/best-electric-kitchen-composter-2026",
+      "permanent": true
+    },
+    {
+      "source": "/blog/best-kitchen-composter-2026",
+      "destination": "https://gemebio.com/blogs/journal/best-kitchen-composter-2026",
+      "permanent": true
+    },
+    {
+      "source": "/blog/best-kitchen-composter-2026/",
+      "destination": "https://gemebio.com/blogs/journal/best-kitchen-composter-2026",
+      "permanent": true
+    },
+    {
+      "source": "/blog/best-kitchen-composter-in-2026-geme-terra-2",
+      "destination": "https://gemebio.com/blogs/journal/best-kitchen-composter-in-2026-geme-terra-2",
+      "permanent": true
+    },
+    {
+      "source": "/blog/best-kitchen-composter-in-2026-geme-terra-2/",
+      "destination": "https://gemebio.com/blogs/journal/best-kitchen-composter-in-2026-geme-terra-2",
+      "permanent": true
+    },
+    {
+      "source": "/blog/best-kitchen-composter-verdict-2026",
+      "destination": "https://gemebio.com/blogs/journal/best-kitchen-composter-verdict-2026",
+      "permanent": true
+    },
+    {
+      "source": "/blog/best-kitchen-composter-verdict-2026/",
+      "destination": "https://gemebio.com/blogs/journal/best-kitchen-composter-verdict-2026",
+      "permanent": true
+    },
+    {
+      "source": "/blog/best-kitchen-composters-2026-geme-terra-2-vs-lomi-mill-reencle",
+      "destination": "https://gemebio.com/blogs/journal/best-kitchen-composters-2026-geme-terra-2-vs-lomi-mill-reencle",
+      "permanent": true
+    },
+    {
+      "source": "/blog/best-kitchen-composters-2026-geme-terra-2-vs-lomi-mill-reencle/",
+      "destination": "https://gemebio.com/blogs/journal/best-kitchen-composters-2026-geme-terra-2-vs-lomi-mill-reencle",
+      "permanent": true
+    },
+    {
+      "source": "/blog/best-way-to-store-strawberries",
+      "destination": "https://gemebio.com/blogs/journal/best-way-to-store-strawberries",
+      "permanent": true
+    },
+    {
+      "source": "/blog/best-way-to-store-strawberries/",
+      "destination": "https://gemebio.com/blogs/journal/best-way-to-store-strawberries",
+      "permanent": true
+    },
+    {
+      "source": "/blog/can-i-compost-moldy-grapes",
+      "destination": "https://gemebio.com/blogs/journal/can-i-compost-moldy-grapes",
+      "permanent": true
+    },
+    {
+      "source": "/blog/can-i-compost-moldy-grapes/",
+      "destination": "https://gemebio.com/blogs/journal/can-i-compost-moldy-grapes",
+      "permanent": true
+    },
+    {
+      "source": "/blog/can-i-put-plastic-in-geme-composter",
+      "destination": "https://gemebio.com/blogs/journal/can-i-put-plastic-in-geme-composter",
+      "permanent": true
+    },
+    {
+      "source": "/blog/can-i-put-plastic-in-geme-composter/",
+      "destination": "https://gemebio.com/blogs/journal/can-i-put-plastic-in-geme-composter",
+      "permanent": true
+    },
+    {
+      "source": "/blog/can-popcorn-expire",
+      "destination": "https://gemebio.com/blogs/journal/can-popcorn-expire",
+      "permanent": true
+    },
+    {
+      "source": "/blog/can-popcorn-expire/",
+      "destination": "https://gemebio.com/blogs/journal/can-popcorn-expire",
+      "permanent": true
+    },
+    {
+      "source": "/blog/can-you-compost-moldy-bread",
+      "destination": "https://gemebio.com/blogs/journal/can-you-compost-moldy-bread",
+      "permanent": true
+    },
+    {
+      "source": "/blog/can-you-compost-moldy-bread/",
+      "destination": "https://gemebio.com/blogs/journal/can-you-compost-moldy-bread",
+      "permanent": true
+    },
+    {
+      "source": "/blog/compost-pile-vs-electric-composter",
+      "destination": "https://gemebio.com/blogs/journal/compost-pile-vs-electric-composter",
+      "permanent": true
+    },
+    {
+      "source": "/blog/compost-pile-vs-electric-composter/",
+      "destination": "https://gemebio.com/blogs/journal/compost-pile-vs-electric-composter",
+      "permanent": true
+    },
+    {
+      "source": "/blog/do-eggs-expire",
+      "destination": "https://gemebio.com/blogs/journal/do-eggs-expire",
+      "permanent": true
+    },
+    {
+      "source": "/blog/do-eggs-expire/",
+      "destination": "https://gemebio.com/blogs/journal/do-eggs-expire",
+      "permanent": true
+    },
+    {
+      "source": "/blog/does-lomi-composter-really-compost",
+      "destination": "https://gemebio.com/blogs/journal/does-lomi-composter-really-compost",
+      "permanent": true
+    },
+    {
+      "source": "/blog/does-lomi-composter-really-compost/",
+      "destination": "https://gemebio.com/blogs/journal/does-lomi-composter-really-compost",
+      "permanent": true
+    },
+    {
+      "source": "/blog/electric-compost-bin-filters-costs-comparison",
+      "destination": "https://gemebio.com/blogs/journal/electric-compost-bin-filters-costs-comparison",
+      "permanent": true
+    },
+    {
+      "source": "/blog/electric-compost-bin-filters-costs-comparison/",
+      "destination": "https://gemebio.com/blogs/journal/electric-compost-bin-filters-costs-comparison",
+      "permanent": true
+    },
+    {
+      "source": "/blog/electric-composter-salt-oil-boundaries",
+      "destination": "https://gemebio.com/blogs/journal/electric-composter-salt-oil-boundaries",
+      "permanent": true
+    },
+    {
+      "source": "/blog/electric-composter-salt-oil-boundaries/",
+      "destination": "https://gemebio.com/blogs/journal/electric-composter-salt-oil-boundaries",
+      "permanent": true
+    },
+    {
+      "source": "/blog/geme-composter-review-2026-geme-pro",
+      "destination": "https://gemebio.com/blogs/journal/geme-composter-review-2026-geme-pro",
+      "permanent": true
+    },
+    {
+      "source": "/blog/geme-composter-review-2026-geme-pro/",
+      "destination": "https://gemebio.com/blogs/journal/geme-composter-review-2026-geme-pro",
+      "permanent": true
+    },
+    {
+      "source": "/blog/geme-composter-vs-diy-bokashi-composting",
+      "destination": "https://gemebio.com/blogs/journal/geme-composter-vs-diy-bokashi-composting",
+      "permanent": true
+    },
+    {
+      "source": "/blog/geme-composter-vs-diy-bokashi-composting/",
+      "destination": "https://gemebio.com/blogs/journal/geme-composter-vs-diy-bokashi-composting",
+      "permanent": true
+    },
+    {
+      "source": "/blog/geme-terra-2-best-kitchen-electric-composter",
+      "destination": "https://gemebio.com/blogs/journal/geme-terra-2-best-kitchen-electric-composter",
+      "permanent": true
+    },
+    {
+      "source": "/blog/geme-terra-2-best-kitchen-electric-composter/",
+      "destination": "https://gemebio.com/blogs/journal/geme-terra-2-best-kitchen-electric-composter",
+      "permanent": true
+    },
+    {
+      "source": "/blog/geme-terra-2-debuts",
+      "destination": "https://gemebio.com/blogs/journal/geme-terra-2-debuts",
+      "permanent": true
+    },
+    {
+      "source": "/blog/geme-terra-2-debuts/",
+      "destination": "https://gemebio.com/blogs/journal/geme-terra-2-debuts",
+      "permanent": true
+    },
+    {
+      "source": "/blog/geme-terra-2-pros-and-cons",
+      "destination": "https://gemebio.com/blogs/journal/geme-terra-2-pros-and-cons",
+      "permanent": true
+    },
+    {
+      "source": "/blog/geme-terra-2-pros-and-cons/",
+      "destination": "https://gemebio.com/blogs/journal/geme-terra-2-pros-and-cons",
+      "permanent": true
+    },
+    {
+      "source": "/blog/geme-terra-2-the-silent-gearbox",
+      "destination": "https://gemebio.com/blogs/journal/geme-terra-2-the-silent-gearbox",
+      "permanent": true
+    },
+    {
+      "source": "/blog/geme-terra-2-the-silent-gearbox/",
+      "destination": "https://gemebio.com/blogs/journal/geme-terra-2-the-silent-gearbox",
+      "permanent": true
+    },
+    {
+      "source": "/blog/geme-terra-2-vs-vitamix-foodcycler",
+      "destination": "https://gemebio.com/blogs/journal/geme-terra-2-vs-vitamix-foodcycler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/geme-terra-2-vs-vitamix-foodcycler/",
+      "destination": "https://gemebio.com/blogs/journal/geme-terra-2-vs-vitamix-foodcycler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/geme-vs-lomi",
+      "destination": "https://gemebio.com/blogs/journal/geme-vs-lomi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/geme-vs-lomi/",
+      "destination": "https://gemebio.com/blogs/journal/geme-vs-lomi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/geme-vs-mill-composter-2026",
+      "destination": "https://gemebio.com/blogs/journal/geme-vs-mill-composter-2026",
+      "permanent": true
+    },
+    {
+      "source": "/blog/geme-vs-mill-composter-2026/",
+      "destination": "https://gemebio.com/blogs/journal/geme-vs-mill-composter-2026",
+      "permanent": true
+    },
+    {
+      "source": "/blog/geme-vs-reencle-composter-2026",
+      "destination": "https://gemebio.com/blogs/journal/geme-vs-reencle-composter-2026",
+      "permanent": true
+    },
+    {
+      "source": "/blog/geme-vs-reencle-composter-2026/",
+      "destination": "https://gemebio.com/blogs/journal/geme-vs-reencle-composter-2026",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-does-a-real-electric-composter-work",
+      "destination": "https://gemebio.com/blogs/journal/how-does-a-real-electric-composter-work",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-does-a-real-electric-composter-work/",
+      "destination": "https://gemebio.com/blogs/journal/how-does-a-real-electric-composter-work",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-long-can-chicken-stay-in-the-fridge",
+      "destination": "https://gemebio.com/blogs/journal/how-long-can-chicken-stay-in-the-fridge",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-long-can-chicken-stay-in-the-fridge/",
+      "destination": "https://gemebio.com/blogs/journal/how-long-can-chicken-stay-in-the-fridge",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-long-can-ground-beef-stay-in-the-fridge",
+      "destination": "https://gemebio.com/blogs/journal/how-long-can-ground-beef-stay-in-the-fridge",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-long-can-ground-beef-stay-in-the-fridge/",
+      "destination": "https://gemebio.com/blogs/journal/how-long-can-ground-beef-stay-in-the-fridge",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-long-do-apples-last-in-the-fridge",
+      "destination": "https://gemebio.com/blogs/journal/how-long-do-apples-last-in-the-fridge",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-long-do-apples-last-in-the-fridge/",
+      "destination": "https://gemebio.com/blogs/journal/how-long-do-apples-last-in-the-fridge",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-long-does-bokashi-take-to-compost",
+      "destination": "https://gemebio.com/blogs/journal/how-long-does-bokashi-take-to-compost",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-long-does-bokashi-take-to-compost/",
+      "destination": "https://gemebio.com/blogs/journal/how-long-does-bokashi-take-to-compost",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-long-does-pizza-last-in-fridge-guide",
+      "destination": "https://gemebio.com/blogs/journal/how-long-does-pizza-last-in-fridge-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-long-does-pizza-last-in-fridge-guide/",
+      "destination": "https://gemebio.com/blogs/journal/how-long-does-pizza-last-in-fridge-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-avoid-leftover-food-poisoning-fried-rice-syndrome",
+      "destination": "https://gemebio.com/blogs/journal/how-to-avoid-leftover-food-poisoning-fried-rice-syndrome",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-avoid-leftover-food-poisoning-fried-rice-syndrome/",
+      "destination": "https://gemebio.com/blogs/journal/how-to-avoid-leftover-food-poisoning-fried-rice-syndrome",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-care-for-hydrangeas-and-change-colors",
+      "destination": "https://gemebio.com/blogs/journal/how-to-care-for-hydrangeas-and-change-colors",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-care-for-hydrangeas-and-change-colors/",
+      "destination": "https://gemebio.com/blogs/journal/how-to-care-for-hydrangeas-and-change-colors",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-compost-at-home-beginners-guide",
+      "destination": "https://gemebio.com/blogs/journal/how-to-compost-at-home-beginners-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-compost-at-home-beginners-guide/",
+      "destination": "https://gemebio.com/blogs/journal/how-to-compost-at-home-beginners-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-compost-coffee-grounds-guide",
+      "destination": "https://gemebio.com/blogs/journal/how-to-compost-coffee-grounds-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-compost-coffee-grounds-guide/",
+      "destination": "https://gemebio.com/blogs/journal/how-to-compost-coffee-grounds-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-compost-cut-flowers-guide",
+      "destination": "https://gemebio.com/blogs/journal/how-to-compost-cut-flowers-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-compost-cut-flowers-guide/",
+      "destination": "https://gemebio.com/blogs/journal/how-to-compost-cut-flowers-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-compost-eggshells-guide-geme",
+      "destination": "https://gemebio.com/blogs/journal/how-to-compost-eggshells-guide-geme",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-compost-eggshells-guide-geme/",
+      "destination": "https://gemebio.com/blogs/journal/how-to-compost-eggshells-guide-geme",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-eat-lychee-for-best-lychee-taste",
+      "destination": "https://gemebio.com/blogs/journal/how-to-eat-lychee-for-best-lychee-taste",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-eat-lychee-for-best-lychee-taste/",
+      "destination": "https://gemebio.com/blogs/journal/how-to-eat-lychee-for-best-lychee-taste",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-fertilize-your-plants-in-spring",
+      "destination": "https://gemebio.com/blogs/journal/how-to-fertilize-your-plants-in-spring",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-fertilize-your-plants-in-spring/",
+      "destination": "https://gemebio.com/blogs/journal/how-to-fertilize-your-plants-in-spring",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-grow-blueberries",
+      "destination": "https://gemebio.com/blogs/journal/how-to-grow-blueberries",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-grow-blueberries/",
+      "destination": "https://gemebio.com/blogs/journal/how-to-grow-blueberries",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-grow-tomatoes-safely",
+      "destination": "https://gemebio.com/blogs/journal/how-to-grow-tomatoes-safely",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-grow-tomatoes-safely/",
+      "destination": "https://gemebio.com/blogs/journal/how-to-grow-tomatoes-safely",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-make-bananas-last-longer",
+      "destination": "https://gemebio.com/blogs/journal/how-to-make-bananas-last-longer",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-make-bananas-last-longer/",
+      "destination": "https://gemebio.com/blogs/journal/how-to-make-bananas-last-longer",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-plant-tulip-bulbs-in-spring-guide",
+      "destination": "https://gemebio.com/blogs/journal/how-to-plant-tulip-bulbs-in-spring-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-plant-tulip-bulbs-in-spring-guide/",
+      "destination": "https://gemebio.com/blogs/journal/how-to-plant-tulip-bulbs-in-spring-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-reduce-food-waste-at-home-2026",
+      "destination": "https://gemebio.com/blogs/journal/how-to-reduce-food-waste-at-home-2026",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-reduce-food-waste-at-home-2026/",
+      "destination": "https://gemebio.com/blogs/journal/how-to-reduce-food-waste-at-home-2026",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-reduce-food-waste-during-spring-festival",
+      "destination": "https://gemebio.com/blogs/journal/how-to-reduce-food-waste-during-spring-festival",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-reduce-food-waste-during-spring-festival/",
+      "destination": "https://gemebio.com/blogs/journal/how-to-reduce-food-waste-during-spring-festival",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-reduce-odor-indoor-composting-tips",
+      "destination": "https://gemebio.com/blogs/journal/how-to-reduce-odor-indoor-composting-tips",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-reduce-odor-indoor-composting-tips/",
+      "destination": "https://gemebio.com/blogs/journal/how-to-reduce-odor-indoor-composting-tips",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-use-compost-correctly",
+      "destination": "https://gemebio.com/blogs/journal/how-to-use-compost-correctly",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-use-compost-correctly/",
+      "destination": "https://gemebio.com/blogs/journal/how-to-use-compost-correctly",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-we-write-an-engineering-claim-without-turning-it-into-ad-copy",
+      "destination": "https://gemebio.com/blogs/engineering/how-we-write-an-engineering-claim-without-turning-it-into-ad-copy",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-we-write-an-engineering-claim-without-turning-it-into-ad-copy/",
+      "destination": "https://gemebio.com/blogs/engineering/how-we-write-an-engineering-claim-without-turning-it-into-ad-copy",
+      "permanent": true
+    },
+    {
+      "source": "/blog/is-brown-rice-healthy",
+      "destination": "https://gemebio.com/blogs/journal/is-brown-rice-healthy",
+      "permanent": true
+    },
+    {
+      "source": "/blog/is-brown-rice-healthy/",
+      "destination": "https://gemebio.com/blogs/journal/is-brown-rice-healthy",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kitchen-composting-solution-geme-terra-2-best-electric-composter",
+      "destination": "https://gemebio.com/blogs/journal/kitchen-composting-solution-geme-terra-2-best-electric-composter",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kitchen-composting-solution-geme-terra-2-best-electric-composter/",
+      "destination": "https://gemebio.com/blogs/journal/kitchen-composting-solution-geme-terra-2-best-electric-composter",
+      "permanent": true
+    },
+    {
+      "source": "/blog/npk-test-compost-output-n50",
+      "destination": "https://gemebio.com/blogs/journal/npk-test-compost-output-n50",
+      "permanent": true
+    },
+    {
+      "source": "/blog/npk-test-compost-output-n50/",
+      "destination": "https://gemebio.com/blogs/journal/npk-test-compost-output-n50",
+      "permanent": true
+    },
+    {
+      "source": "/blog/odor-free-composting-options-for-apartments-2026",
+      "destination": "https://gemebio.com/blogs/journal/odor-free-composting-options-for-apartments-2026",
+      "permanent": true
+    },
+    {
+      "source": "/blog/odor-free-composting-options-for-apartments-2026/",
+      "destination": "https://gemebio.com/blogs/journal/odor-free-composting-options-for-apartments-2026",
+      "permanent": true
+    },
+    {
+      "source": "/blog/permanent-odor-control-catalyst-path-vs-disposable-carbon",
+      "destination": "https://gemebio.com/blogs/engineering/permanent-odor-control-catalyst-path-vs-disposable-carbon",
+      "permanent": true
+    },
+    {
+      "source": "/blog/permanent-odor-control-catalyst-path-vs-disposable-carbon/",
+      "destination": "https://gemebio.com/blogs/engineering/permanent-odor-control-catalyst-path-vs-disposable-carbon",
+      "permanent": true
+    },
+    {
+      "source": "/blog/protect-garden-and-compost-from-winter-storm",
+      "destination": "https://gemebio.com/blogs/journal/protect-garden-and-compost-from-winter-storm",
+      "permanent": true
+    },
+    {
+      "source": "/blog/protect-garden-and-compost-from-winter-storm/",
+      "destination": "https://gemebio.com/blogs/journal/protect-garden-and-compost-from-winter-storm",
+      "permanent": true
+    },
+    {
+      "source": "/blog/real-kitchen-composter-geme-terra-2-vs-foodcycler",
+      "destination": "https://gemebio.com/blogs/journal/real-kitchen-composter-geme-terra-2-vs-foodcycler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/real-kitchen-composter-geme-terra-2-vs-foodcycler/",
+      "destination": "https://gemebio.com/blogs/journal/real-kitchen-composter-geme-terra-2-vs-foodcycler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/reencle-prime-vs-geme-terra-2-best-kitchen-composter",
+      "destination": "https://gemebio.com/blogs/journal/reencle-prime-vs-geme-terra-2-best-kitchen-composter",
+      "permanent": true
+    },
+    {
+      "source": "/blog/reencle-prime-vs-geme-terra-2-best-kitchen-composter/",
+      "destination": "https://gemebio.com/blogs/journal/reencle-prime-vs-geme-terra-2-best-kitchen-composter",
+      "permanent": true
+    },
+    {
+      "source": "/blog/the-best-composter-for-kitchen",
+      "destination": "https://gemebio.com/blogs/journal/the-best-composter-for-kitchen",
+      "permanent": true
+    },
+    {
+      "source": "/blog/the-best-composter-for-kitchen/",
+      "destination": "https://gemebio.com/blogs/journal/the-best-composter-for-kitchen",
+      "permanent": true
+    },
+    {
+      "source": "/blog/the-wet-standard-what-living-compost-base-should-actually-feel-like",
+      "destination": "https://gemebio.com/blogs/engineering/the-wet-standard-what-living-compost-base-should-actually-feel-like",
+      "permanent": true
+    },
+    {
+      "source": "/blog/the-wet-standard-what-living-compost-base-should-actually-feel-like/",
+      "destination": "https://gemebio.com/blogs/engineering/the-wet-standard-what-living-compost-base-should-actually-feel-like",
+      "permanent": true
+    },
+    {
+      "source": "/blog/top-5-electric-composters-on-amazon-2026",
+      "destination": "https://gemebio.com/blogs/journal/top-5-electric-composters-on-amazon-2026",
+      "permanent": true
+    },
+    {
+      "source": "/blog/top-5-electric-composters-on-amazon-2026/",
+      "destination": "https://gemebio.com/blogs/journal/top-5-electric-composters-on-amazon-2026",
+      "permanent": true
+    },
+    {
+      "source": "/blog/top-5-kitchen-composters-pros-and-cons",
+      "destination": "https://gemebio.com/blogs/journal/top-5-kitchen-composters-pros-and-cons",
+      "permanent": true
+    },
+    {
+      "source": "/blog/top-5-kitchen-composters-pros-and-cons/",
+      "destination": "https://gemebio.com/blogs/journal/top-5-kitchen-composters-pros-and-cons",
+      "permanent": true
+    },
+    {
+      "source": "/blog/transforming-food-waste-5-reasons-why-geme-composter-is-your-solution",
+      "destination": "https://gemebio.com/blogs/journal/transforming-food-waste-5-reasons-why-geme-composter-is-your-solution",
+      "permanent": true
+    },
+    {
+      "source": "/blog/transforming-food-waste-5-reasons-why-geme-composter-is-your-solution/",
+      "destination": "https://gemebio.com/blogs/journal/transforming-food-waste-5-reasons-why-geme-composter-is-your-solution",
+      "permanent": true
+    },
+    {
+      "source": "/blog/what-can-you-put-in-electric-composter-meat-dairy-bones",
+      "destination": "https://gemebio.com/blogs/journal/what-can-you-put-in-electric-composter-meat-dairy-bones",
+      "permanent": true
+    },
+    {
+      "source": "/blog/what-can-you-put-in-electric-composter-meat-dairy-bones/",
+      "destination": "https://gemebio.com/blogs/journal/what-can-you-put-in-electric-composter-meat-dairy-bones",
+      "permanent": true
+    },
+    {
+      "source": "/blog/why-low-average-power-matters-more-than-dramatic-peak-wattage",
+      "destination": "https://gemebio.com/blogs/engineering/why-low-average-power-matters-more-than-dramatic-peak-wattage",
+      "permanent": true
+    },
+    {
+      "source": "/blog/why-low-average-power-matters-more-than-dramatic-peak-wattage/",
+      "destination": "https://gemebio.com/blogs/engineering/why-low-average-power-matters-more-than-dramatic-peak-wattage",
+      "permanent": true
+    },
+    {
+      "source": "/blog/why-the-geme-chassis-is-intentionally-heavier-than-a-typical-countertop-appliance",
+      "destination": "https://gemebio.com/blogs/engineering/why-the-geme-chassis-is-intentionally-heavier-than-a-typical-countertop-appliance",
+      "permanent": true
+    },
+    {
+      "source": "/blog/why-the-geme-chassis-is-intentionally-heavier-than-a-typical-countertop-appliance/",
+      "destination": "https://gemebio.com/blogs/engineering/why-the-geme-chassis-is-intentionally-heavier-than-a-typical-countertop-appliance",
+      "permanent": true
+    },
+    {
+      "source": "/blog/why-you-should-not-fully-empty-the-chamber-every-time",
+      "destination": "https://gemebio.com/blogs/engineering/why-you-should-not-fully-empty-the-chamber-every-time",
+      "permanent": true
+    },
+    {
+      "source": "/blog/why-you-should-not-fully-empty-the-chamber-every-time/",
+      "destination": "https://gemebio.com/blogs/engineering/why-you-should-not-fully-empty-the-chamber-every-time",
+      "permanent": true
+    },
+    {
+      "source": "/blog/winter-garden-cleanup-guide",
+      "destination": "https://gemebio.com/blogs/journal/winter-garden-cleanup-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/winter-garden-cleanup-guide/",
+      "destination": "https://gemebio.com/blogs/journal/winter-garden-cleanup-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/zero-waste-home-kitchen-composter",
+      "destination": "https://gemebio.com/blogs/journal/zero-waste-home-kitchen-composter",
+      "permanent": true
+    },
+    {
+      "source": "/blog/zero-waste-home-kitchen-composter/",
+      "destination": "https://gemebio.com/blogs/journal/zero-waste-home-kitchen-composter",
+      "permanent": true
+    }
+  ],
   "rewrites": [
     {
       "source": "/blog/cucumber-recall-how-to-protect-vegetable-garden-from-salmonella",
