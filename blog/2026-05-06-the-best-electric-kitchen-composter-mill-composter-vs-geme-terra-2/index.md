@@ -8,7 +8,7 @@ keywords:
   - best composter
   - food composter
   - geme terra 2
-slug: the-best-electric-kitchen-composter-mill-composter-vs-geme-terra-2
+slug: geme-terra-2-vs-mill-composter-2026
 authors: [Moore]
 tags: [composter, composting, geme]
 image: https://www.geme.bio/assets/images/mill-composter-vs-geme-terra-2-7165c5093844ae89256c2f7a3d282dbd.png

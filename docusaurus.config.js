@@ -718,6 +718,10 @@ const config = {
             from: ["/blog/electric-composter-guide-geme"],
             to: "/blog/how-does-a-real-electric-composter-work",
           },
+          {
+            from: ["/blog/the-best-electric-kitchen-composter-mill-composter-vs-geme-terra-2"],
+            to: "/blog/geme-terra-2-vs-mill-composter-2026",
+          },
         ],
       },
     ],
