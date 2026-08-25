@@ -22,6 +22,16 @@
       "permanent": true
     },
     {
+      "source": "/blog/how-long-do-blueberries-last-in-the-fridge",
+      "destination": "https://gemebio.com/blogs/journal/how-long-do-blueberries-last-in-the-fridge",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-long-do-blueberries-last-in-the-fridge/",
+      "destination": "https://gemebio.com/blogs/journal/how-long-do-blueberries-last-in-the-fridge",
+      "permanent": true
+    },
+    {
       "source": "/blog/advanced-geme-compost-application-guide",
       "destination": "https://gemebio.com/blogs/journal/advanced-geme-compost-application-guide",
       "permanent": true
