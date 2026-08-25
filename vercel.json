@@ -33,12 +33,22 @@
     },
     {
       "source": "/blog/top-5-kitchen-composters-2026-geme-lomi-mill-reencle-vitamix",
-      "destination": "https://gemebio.com/blogs/journal//blog/top-5-kitchen-composters-2026-geme-lomi-mill-reencle-vitamix",
+      "destination": "https://gemebio.com/blogs/journal/top-5-kitchen-composters-2026-geme-lomi-mill-reencle-vitamix",
       "permanent": true
     },
     {
-      "source": "/blog//blog/top-5-kitchen-composters-2026-geme-lomi-mill-reencle-vitamix/",
-      "destination": "https://gemebio.com/blogs/journal//blog/top-5-kitchen-composters-2026-geme-lomi-mill-reencle-vitamix",
+      "source": "/blog/top-5-kitchen-composters-2026-geme-lomi-mill-reencle-vitamix/",
+      "destination": "https://gemebio.com/blogs/journal/top-5-kitchen-composters-2026-geme-lomi-mill-reencle-vitamix",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-long-can-cooked-chicken-stay-in-the-fridge",
+      "destination": "https://gemebio.com/blogs/journal/how-long-can-cooked-chicken-stay-in-the-fridge",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-long-can-cooked-chicken-stay-in-the-fridge/",
+      "destination": "https://gemebio.com/blogs/journal/how-long-can-cooked-chicken-stay-in-the-fridge",
       "permanent": true
     },
     {

@@ -698,6 +698,10 @@ const config = {
             from: ["/blog/top-5-composters-verdict-geme-lomi-mill-reencle-vitamix"],
             to: "/blog/top-5-kitchen-composters-2026-geme-lomi-mill-reencle-vitamix",
           },
+          {
+            from: ["/blog/how-long-can-cooked-chicken-last-in-the-fridge"],
+            to: "/blog/how-long-can-cooked-chicken-stay-in-the-fridge",
+          },
         ],
       },
     ],

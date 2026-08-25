@@ -7,7 +7,7 @@ keywords:
   - how long does cooked chicken last in the fridge
   - how long is rotisserie chicken good for in the fridge
   - can I compost cooked chicken
-slug: how-long-can-cooked-chicken-last-in-the-fridge
+slug: how-long-can-cooked-chicken-stay-in-the-fridge
 authors: [Moore]
 tags: [food waste, composting, sustainability]
 image: https://www.geme.bio/assets/images/how-long-is-cooked-chicken-good-for-in-the-fridge-bf65a6e03150d3686b7138c1018323e0.jpg
