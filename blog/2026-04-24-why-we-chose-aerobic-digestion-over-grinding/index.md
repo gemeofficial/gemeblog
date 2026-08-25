@@ -1,5 +1,5 @@
 ---
-title: "Why GEME Composter chose aerobic digestion over grinding."
+title: "Why GEME Composter chose aerobic digestion over grinding"
 description: "Grinding makes scraps smaller. GEME's aerobic digestion makes them biologically stable. That difference is the line between “processed waste” and “usable compost.”"
 keywords:
   - geme terra 2
