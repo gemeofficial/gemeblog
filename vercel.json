@@ -32,6 +32,16 @@
       "permanent": true
     },
     {
+      "source": "/blog/top-5-kitchen-composters-2026-geme-lomi-mill-reencle-vitamix",
+      "destination": "https://gemebio.com/blogs/journal//blog/top-5-kitchen-composters-2026-geme-lomi-mill-reencle-vitamix",
+      "permanent": true
+    },
+    {
+      "source": "/blog//blog/top-5-kitchen-composters-2026-geme-lomi-mill-reencle-vitamix/",
+      "destination": "https://gemebio.com/blogs/journal//blog/top-5-kitchen-composters-2026-geme-lomi-mill-reencle-vitamix",
+      "permanent": true
+    },
+    {
       "source": "/blog/advanced-geme-compost-application-guide",
       "destination": "https://gemebio.com/blogs/journal/advanced-geme-compost-application-guide",
       "permanent": true

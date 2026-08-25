@@ -694,6 +694,10 @@ const config = {
             from: ["/blog/how-long-do-blueberries-last-in-fridge"],
             to: "/blog/how-long-do-blueberries-last-in-the-fridge",
           },
+          {
+            from: ["/blog/top-5-composters-verdict-geme-lomi-mill-reencle-vitamix"],
+            to: "/blog/top-5-kitchen-composters-2026-geme-lomi-mill-reencle-vitamix",
+          },
         ],
       },
     ],
