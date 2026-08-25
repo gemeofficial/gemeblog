@@ -8,7 +8,7 @@ keywords:
   - how to store blueberries
   - how long do blueberries last in the refrigerator
   - how long does blueberry last in the fridge
-slug: how-long-do-blueberries-last-in-fridge
+slug: how-long-do-blueberries-last-in-the-fridge
 authors: [Moore]
 tags: [foodwaste, sustainability, recycling, compost]
 image: https://www.geme.bio/assets/images/how-long-can-blueberries-stay-in-the-fridge-60d37dc859beff7457fa156f0d849d30.jpg
