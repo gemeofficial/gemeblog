@@ -706,6 +706,10 @@ const config = {
             from: ["/blog/garden-soil-vs-compost-pros-and-cons"],
             to: "/blog/garden-soil-vs-compost",
           },
+          {
+            from: ["/blog/does-reencle-composter-produce-real-compost"],
+            to: "/blog/reencle-vs-geme-terra-2-composter-2026",
+          },
         ],
       },
     ],

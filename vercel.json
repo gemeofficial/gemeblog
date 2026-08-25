@@ -72,6 +72,16 @@
       "permanent": true
     },
     {
+      "source": "/blog/reencle-vs-geme-terra-2-composter-2026",
+      "destination": "https://gemebio.com/blogs/journal/reencle-vs-geme-terra-2-composter-2026",
+      "permanent": true
+    },
+    {
+      "source": "/blog/reencle-vs-geme-terra-2-composter-2026/",
+      "destination": "https://gemebio.com/blogs/journal/reencle-vs-geme-terra-2-composter-2026",
+      "permanent": true
+    },
+    {
       "source": "/blog/advanced-geme-compost-application-guide",
       "destination": "https://gemebio.com/blogs/journal/advanced-geme-compost-application-guide",
       "permanent": true
