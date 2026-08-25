@@ -689,7 +689,12 @@ const config = {
     [
       "@docusaurus/plugin-client-redirects",
       {
-        redirects: [],
+        redirects: [
+          {
+            from: ["/blog/how-long-do-blueberries-last-in-fridge"],
+            to: "/blog/how-long-do-blueberries-last-in-the-fridge",
+          },
+        ],
       },
     ],
     [
