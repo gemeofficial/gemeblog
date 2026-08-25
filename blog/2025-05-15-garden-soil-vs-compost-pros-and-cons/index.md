@@ -7,7 +7,7 @@ keywords:
   - Garden soil or compost
   - Soil for garden
   - Garden soil and compost
-slug: garden-soil-vs-compost-pros-and-cons
+slug: garden-soil-vs-compost
 authors: [Moore]
 tags: [gardening, compost, plant, sustainability]
 image: "https://www.geme.bio/assets/images/garden-soil-vs-compost-d2c04b2a31f8914e3ff4da347dff4666.webp"

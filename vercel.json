@@ -62,6 +62,16 @@
       "permanent": true
     },
     {
+      "source": "/blog/garden-soil-vs-compost",
+      "destination": "https://gemebio.com/blogs/journal/garden-soil-vs-compost",
+      "permanent": true
+    },
+    {
+      "source": "/blog/garden-soil-vs-compost/",
+      "destination": "https://gemebio.com/blogs/journal/garden-soil-vs-compost",
+      "permanent": true
+    },
+    {
       "source": "/blog/advanced-geme-compost-application-guide",
       "destination": "https://gemebio.com/blogs/journal/advanced-geme-compost-application-guide",
       "permanent": true

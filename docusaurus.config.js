@@ -702,6 +702,10 @@ const config = {
             from: ["/blog/how-long-can-cooked-chicken-last-in-the-fridge"],
             to: "/blog/how-long-can-cooked-chicken-stay-in-the-fridge",
           },
+          {
+            from: ["/blog/garden-soil-vs-compost-pros-and-cons"],
+            to: "/blog/garden-soil-vs-compost",
+          },
         ],
       },
     ],
