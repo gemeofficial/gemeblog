@@ -52,6 +52,16 @@
       "permanent": true
     },
     {
+      "source": "/blog/the-best-kitchen-composter-for-zero-waste-lifestyle",
+      "destination": "https://gemebio.com/blogs/journal/the-best-kitchen-composter-for-zero-waste-lifestyle",
+      "permanent": true
+    },
+    {
+      "source": "/blog/the-best-kitchen-composter-for-zero-waste-lifestyle/",
+      "destination": "https://gemebio.com/blogs/journal/the-best-kitchen-composter-for-zero-waste-lifestyle",
+      "permanent": true
+    },
+    {
       "source": "/blog/advanced-geme-compost-application-guide",
       "destination": "https://gemebio.com/blogs/journal/advanced-geme-compost-application-guide",
       "permanent": true
