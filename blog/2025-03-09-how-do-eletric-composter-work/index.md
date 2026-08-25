@@ -7,7 +7,7 @@ keywords:
   - GEME composting
   - food waste recycling
   - sustainable fertilizer
-slug: electric-composter-guide-geme
+slug: how-does-a-real-electric-composter-work
 authors: [michael]
 tags: [geme, composting, sustainability, foodwaste, recycling]
 image: https://www.geme.bio/assets/images/4-months-8f716f44542752a0018da292356bf740.png

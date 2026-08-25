@@ -714,6 +714,10 @@ const config = {
             from: ["/blog/does-mill-composter-really-compost"],
             to: "/blog/does-mill-composter-really-compost-2026",
           },
+          {
+            from: ["/blog/electric-composter-guide-geme"],
+            to: "/blog/how-does-a-real-electric-composter-work",
+          },
         ],
       },
     ],

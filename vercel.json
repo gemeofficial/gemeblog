@@ -92,6 +92,36 @@
       "permanent": true
     },
     {
+      "source": "/blog/geme-terra-2-the-best-kitchen-composting-solution",
+      "destination": "https://gemebio.com/blogs/journal/geme-terra-2-the-best-kitchen-composting-solution",
+      "permanent": true
+    },
+    {
+      "source": "/blog/geme-terra-2-the-best-kitchen-composting-solution/",
+      "destination": "https://gemebio.com/blogs/journal/geme-terra-2-the-best-kitchen-composting-solution",
+      "permanent": true
+    },
+    {
+      "source": "/blog/geme-composter-pro-vs-reencle-gravity-pro-best-kitchen-composter",
+      "destination": "https://gemebio.com/blogs/journal/geme-composter-pro-vs-reencle-gravity-pro-best-kitchen-composter",
+      "permanent": true
+    },
+    {
+      "source": "/blog/geme-composter-pro-vs-reencle-gravity-pro-best-kitchen-composter/",
+      "destination": "https://gemebio.com/blogs/journal/geme-composter-pro-vs-reencle-gravity-pro-best-kitchen-composter",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-does-a-real-electric-composter-work",
+      "destination": "https://gemebio.com/blogs/journal/how-does-a-real-electric-composter-work",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-does-a-real-electric-composter-work/",
+      "destination": "https://gemebio.com/blogs/journal/how-does-a-real-electric-composter-work",
+      "permanent": true
+    },
+    {
       "source": "/blog/advanced-geme-compost-application-guide",
       "destination": "https://gemebio.com/blogs/journal/advanced-geme-compost-application-guide",
       "permanent": true
