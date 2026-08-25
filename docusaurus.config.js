@@ -738,6 +738,10 @@ const config = {
             from: ["/blog/how-to-compost-in-apartment"],
             to: "/blog/how-to-compost-in-an-apartment",
           },
+          {
+            from: ["www.geme.bio"],
+            to: "https://gemebio.com",
+          },
         ],
       },
     ],
