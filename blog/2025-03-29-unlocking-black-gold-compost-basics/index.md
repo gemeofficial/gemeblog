@@ -1,5 +1,5 @@
 ---
-slug: unlocking-black-gold-compost-basics
+slug: unlocking-black-gold-the-power-of-high-quality-compost
 title: "Unlocking Black Gold: The Power of High-Quality Compost"
 description: "Discover the secrets of high-quality compost and how it transforms your garden. Learn about beneficial microbes, soil improvement, and sustainable gardening with GEME's innovative composting solutions."
 authors: emma

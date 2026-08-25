@@ -730,6 +730,14 @@ const config = {
             from: ["/blog/what-an-e5-fault-actually-means-and-what-it-does-not"],
             to: "/blog/what-an-e5-fault-means-in-geme-terra-2-and-what-it-does-not",
           },
+          {
+            from: ["/blog/unlocking-black-gold-compost-basics"],
+            to: "/blog/unlocking-black-gold-the-power-of-high-quality-compost",
+          },
+          {
+            from: ["/blog/how-to-compost-in-apartment"],
+            to: "/blog/how-to-compost-in-an-apartment",
+          },
         ],
       },
     ],
