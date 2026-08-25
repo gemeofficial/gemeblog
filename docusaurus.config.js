@@ -710,6 +710,10 @@ const config = {
             from: ["/blog/does-reencle-composter-produce-real-compost"],
             to: "/blog/reencle-vs-geme-terra-2-composter-2026",
           },
+          {
+            from: ["/blog/does-mill-composter-really-compost"],
+            to: "/blog/does-mill-composter-really-compost-2026",
+          },
         ],
       },
     ],

@@ -6,7 +6,7 @@ keywords:
   - geme terra 2 
   - best composter
   - kitchen composter
-slug: does-mill-composter-really-compost
+slug: does-mill-composter-really-compost-2026
 authors: [Moore]
 tags: [composter, compost, sustainability, geme]
 image: https://www.geme.bio/assets/images/does-mill-composter-really-compost-48f7082503dcb33c3a6a09f396ea841f.png
