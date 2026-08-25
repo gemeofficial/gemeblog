@@ -12,6 +12,16 @@
       "permanent": true
     },
     {
+      "source": "https://www.geme.bio",
+      "destination": "https://gemebio.com",
+      "permanent": true
+    },
+    {
+      "source": "/https://www.geme.bio/",
+      "destination": "https://gemebio.com",
+      "permanent": true
+    },
+    {
       "source": "/blog/5-best-kitchen-composters-in-2026",
       "destination": "https://gemebio.com/blogs/journal/5-best-kitchen-composters-in-2026",
       "permanent": true
