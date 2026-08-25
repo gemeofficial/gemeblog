@@ -722,6 +722,10 @@ const config = {
             from: ["/blog/the-best-electric-kitchen-composter-mill-composter-vs-geme-terra-2"],
             to: "/blog/geme-terra-2-vs-mill-composter-2026",
           },
+          {
+            from: ["/blog/when-compost-is-ready-to-use"],
+            to: "/blog/when-is-compost-ready-to-use",
+          },
         ],
       },
     ],

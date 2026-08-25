@@ -7,7 +7,7 @@ keywords:
   - Ready compost
   - When is compost ready to use
   - When is your compost ready to use
-slug: when-compost-is-ready-to-use
+slug: when-is-compost-ready-to-use
 authors: [Moore]
 tags: [gardening, composting, sustainability]
 ---
