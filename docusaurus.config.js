@@ -726,6 +726,10 @@ const config = {
             from: ["/blog/when-compost-is-ready-to-use"],
             to: "/blog/when-is-compost-ready-to-use",
           },
+          {
+            from: ["/blog/what-an-e5-fault-actually-means-and-what-it-does-not"],
+            to: "/blog/what-an-e5-fault-means-in-geme-terra-2-and-what-it-does-not",
+          },
         ],
       },
     ],
