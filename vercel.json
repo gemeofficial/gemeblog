@@ -1035,6 +1035,16 @@
       "source": "/blog/organic-compost-the-complete-composting-guide/",
       "destination": "https://gemebio.com/blogs/journal/how-to-compost-at-home-guide",
       "permanent": true
+    },
+    {
+      "source": "/blog/geme-terra-2-vs-vermicomposting-pros-cons-comparison",
+      "destination": "https://gemebio.com/blogs/journal/electric-composter-vs-worm-composting-geme-terra-2-vs-vermicomposting",
+      "permanent": true
+    },
+    {
+      "source": "/blog/geme-terra-2-vs-vermicomposting-pros-cons-comparison/",
+      "destination": "https://gemebio.com/blogs/journal/electric-composter-vs-worm-composting-geme-terra-2-vs-vermicomposting",
+      "permanent": true
     }
   ],
   "rewrites": [
