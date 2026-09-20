@@ -117,11 +117,6 @@
       "permanent": true
     },
     {
-      "source": "/blog/how-does-a-real-electric-composter-work/",
-      "destination": "https://gemebio.com/blogs/journal/how-does-a-real-electric-composter-work",
-      "permanent": true
-    },
-    {
       "source": "/blog/best-home-composter-for-apartment-geme-vs-lomi",
       "destination": "https://gemebio.com/blogs/journal/best-home-composter-for-apartment-geme-vs-lomi",
       "permanent": true
@@ -909,6 +904,136 @@
     {
       "source": "/blog/zero-waste-home-kitchen-composter/",
       "destination": "https://gemebio.com/blogs/journal/zero-waste-home-kitchen-composter",
+      "permanent": true
+    },
+    {
+      "source": "/blog/composting-food-waste-in-less-than-24-hours-is-no-longer-a-dream",
+      "destination": "https://gemebio.com/blogs/journal/how-long-does-compost-take",
+      "permanent": true
+    },
+    {
+      "source": "/blog/composting-food-waste-in-less-than-24-hours-is-no-longer-a-dream/",
+      "destination": "https://gemebio.com/blogs/journal/how-long-does-compost-take",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-build-compost-pile",
+      "destination": "https://gemebio.com/blogs/journal/how-to-compost-at-home-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-build-compost-pile/",
+      "destination": "https://gemebio.com/blogs/journal/how-to-compost-at-home-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/is-it-necessary-to-use-additives-for-composting",
+      "destination": "https://gemebio.com/blogs/journal/how-to-compost-at-home-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/is-it-necessary-to-use-additives-for-composting/",
+      "destination": "https://gemebio.com/blogs/journal/how-to-compost-at-home-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/mixing-multiple-materials-for-composting",
+      "destination": "https://gemebio.com/blogs/journal/how-to-compost-at-home-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/mixing-multiple-materials-for-composting/",
+      "destination": "https://gemebio.com/blogs/journal/how-to-compost-at-home-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/material-crushing-is-crucial-for-fast-composting",
+      "destination": "https://gemebio.com/blogs/journal/what-can-you-compost-at-home",
+      "permanent": true
+    },
+    {
+      "source": "/blog/material-crushing-is-crucial-for-fast-composting/",
+      "destination": "https://gemebio.com/blogs/journal/what-can-you-compost-at-home",
+      "permanent": true
+    },
+    {
+      "source": "/blog/prerequisites-for-successful-composting",
+      "destination": "https://gemebio.com/blogs/journal/how-to-compost-at-home-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/prerequisites-for-successful-composting/",
+      "destination": "https://gemebio.com/blogs/journal/how-to-compost-at-home-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/composting-tips-all-explained",
+      "destination": "https://gemebio.com/blogs/journal/how-to-compost-at-home-beginners-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/composting-tips-all-explained/",
+      "destination": "https://gemebio.com/blogs/journal/how-to-compost-at-home-beginners-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-compost-garden-waste",
+      "destination": "https://gemebio.com/blogs/journal/what-can-you-compost-at-home",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-compost-garden-waste/",
+      "destination": "https://gemebio.com/blogs/journal/what-can-you-compost-at-home",
+      "permanent": true
+    },
+    {
+      "source": "/blog/a-complete-list-of-different-biowaste-composting-methods",
+      "destination": "https://gemebio.com/blogs/journal/how-to-compost-at-home-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/a-complete-list-of-different-biowaste-composting-methods/",
+      "destination": "https://gemebio.com/blogs/journal/how-to-compost-at-home-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/complete-composting-material-list",
+      "destination": "https://gemebio.com/blogs/journal/what-can-you-compost-at-home",
+      "permanent": true
+    },
+    {
+      "source": "/blog/complete-composting-material-list/",
+      "destination": "https://gemebio.com/blogs/journal/what-can-you-compost-at-home",
+      "permanent": true
+    },
+    {
+      "source": "/blog/10-things-new-composters-must-know-how-to-get-quality-compost",
+      "destination": "https://gemebio.com/blogs/journal/how-to-compost-at-home-beginners-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/10-things-new-composters-must-know-how-to-get-quality-compost/",
+      "destination": "https://gemebio.com/blogs/journal/how-to-compost-at-home-beginners-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/3-principles-for-successful-composting",
+      "destination": "https://gemebio.com/blogs/journal/how-to-compost-at-home-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/3-principles-for-successful-composting/",
+      "destination": "https://gemebio.com/blogs/journal/how-to-compost-at-home-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/organic-compost-the-complete-composting-guide",
+      "destination": "https://gemebio.com/blogs/journal/how-to-compost-at-home-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/organic-compost-the-complete-composting-guide/",
+      "destination": "https://gemebio.com/blogs/journal/how-to-compost-at-home-guide",
       "permanent": true
     }
   ],
