@@ -281,22 +281,22 @@ const config = {
             items: [
               {
                 label: "GEME Home Composter",
-                to: "https://www.gemebio.com/products/geme",
+                to: "https://gemebio.com/products/geme",
                 target: "_self",
               },
               {
                 label: "GEME Terra 2",
-                to: "https://www.gemebio.com/products/geme-terra-2",
+                to: "https://gemebio.com/products/terra2",
                 target: "_self",
               },
               {
                 label: "GEME Kobold",
-                to: "https://www.gemebio.com/products/kobold",
+                to: "https://gemebio.com/products/kobold",
                 target: "_self",
               },
               {
                 label: "GEME Commercial Composters",
-                to: "https://www.gemebio.com/pages/geme-titans",
+                to: "https://gemebio.com/pages/geme-titans",
                 target: "_self",
               },
               {
@@ -312,7 +312,7 @@ const config = {
             items: [
               {
                 label: "GK Resource Recycling",
-                to: "https://www.gemebio.com/pages/gk-technology",
+                to: "https://gemebio.com/pages/gk-technology",
                 target: "_self",
               },
               {
@@ -330,32 +330,32 @@ const config = {
             items: [
               {
                 label: "Tutorial",
-                to: "https://www.gemebio.com/pages/geme-support",
+                to: "https://gemebio.com/pages/geme-support",
                 target: "_self",
               },
               {
                 label: "FAQ",
-                to: "https://www.gemebio.com/pages/geme-faq",
+                to: "https://gemebio.com/pages/geme-faq",
                 target: "_self",
               },
               {
                 label: "Shipping & Order",
-                to: "https://www.gemebio.com/pages/geme-track",
+                to: "https://gemebio.com/pages/geme-track",
                 target: "_self",
               },
               {
                 label: "Warranty & Return",
-                to: "https://www.gemebio.com/pages/warranty",
+                to: "https://gemebio.com/pages/warranty",
                 target: "_self",
               },
               {
                 label: "Repair & Replace",
-                to: "https://www.gemebio.com/pages/geme-servicehub",
+                to: "https://gemebio.com/pages/geme-servicehub",
                 target: "_self",
               },
               {
                 label: "Customer Support",
-                to: "https://www.gemebio.com/pages/geme-contact",
+                to: "https://gemebio.com/pages/geme-contact",
                 target: "_self",
               },
             ],
@@ -366,17 +366,17 @@ const config = {
             items: [
               {
                 label: "Contact",
-                to: "https://www.gemebio.com/pages/geme-contact-sales",
+                to: "https://gemebio.com/pages/geme-contact-sales",
                 target: "_self",
               },
               {
                 label: "About",
-                to: "https://www.gemebio.com/pages/geme-about",
+                to: "https://gemebio.com/pages/geme-about",
                 target: "_self",
               },
               {
                 label: "Media Kit",
-                to: "https://www.gemebio.com/pages/geme-press-room",
+                to: "https://gemebio.com/pages/geme-press-room",
               },
               {
                 label: "News",
@@ -388,17 +388,17 @@ const config = {
               },
               {
                 label: "Creative Hub",
-                to: "https://www.gemebio.com/pages/community",
+                to: "https://gemebio.com/pages/community",
                 target: "_self",
               },
               {
                 label: "GEME Referral",
-                to: "https://www.geme.bio/geme-referral",
+                to: "https://geme.bio/geme-referral",
                 target: "_self",
               },
               {
                 label: "Community",
-                to: "https://www.gemebio.com/pages/community",
+                to: "https://gemebio.com/pages/community",
                 target: "_self",
               },
               {
@@ -407,7 +407,7 @@ const config = {
               },
               {
                 label: "Feedback",
-                to: "https://www.gemebio.com/policies/contact-information",
+                to: "https://gemebio.com/policies/contact-information",
                 target: "_self",
               },
             ],
@@ -418,13 +418,13 @@ const config = {
             position: "right",
           },
           {
-            to: "https://www.gemebio.com/products/geme",
+            to: "https://gemebio.com/products/geme",
             label: "Buy GEME",
             position: "right",
             target: "_self",
           },
           {
-            to: "https://www.gemebio.com/pages/how-it-works",
+            to: "https://gemebio.com/pages/how-it-works",
             label: "How it works",
             position: "right",
             target: "_self",
@@ -447,7 +447,7 @@ const config = {
         logo: {
           alt: "GEME Logo",
           src: "img/logo.png",
-          href: "https://www.gemebio.com",
+          href: "https://gemebio.com",
           target: "_self",
           width: 32,
           height: 32,
@@ -459,19 +459,19 @@ const config = {
             items: [
               {
                 label: "GEME Composter",
-                to: "https://www.gemebio.com/products/geme",
+                to: "https://gemebio.com/products/geme",
               },
               {
                 label: "GEME Terra 2",
-                to: "https://www.gemebio.com/products/terra2",
+                to: "https://gemebio.com/products/terra2",
               },
               {
                 label: "GEME Kobold",
-                to: "https://www.gemebio.com/products/kobold",
+                to: "https://gemebio.com/products/kobold",
               },
               {
                 label: "GEME Commercial Composters",
-                to: "https://www.gemebio.com/pages/geme-titans",
+                to: "https://gemebio.com/pages/geme-titans",
               },
               {
                 label: "GEME Dots",
@@ -484,11 +484,11 @@ const config = {
             items: [
               {
                 label: "Get Started",
-                to: "https://www.gemebio.com/pages/geme-support",
+                to: "https://gemebio.com/pages/geme-support",
               },
               {
                 label: "FAQ",
-                to: "https://www.gemebio.com/pages/geme-faq",
+                to: "https://gemebio.com/pages/geme-faq",
               },
               {
                 label: "Manual",
@@ -496,7 +496,7 @@ const config = {
               },
               {
                 label: "Customer Support",
-                to: "https://www.gemebio.com/pages/geme-contact",
+                to: "https://gemebio.com/pages/geme-contact",
               },
             ],
           },
@@ -505,7 +505,7 @@ const config = {
             items: [
               {
                 label: "Contact Us",
-                to: "https://www.gemebio.com/pages/geme-contact",
+                to: "https://gemebio.com/pages/geme-contact",
               },
               {
                 label: "Refer a friend",
